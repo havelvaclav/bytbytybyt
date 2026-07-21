@@ -24,6 +24,8 @@ jobs:
           pip install requests beautifulsoup4 geopy folium
 
       - name: Spustenie skriptu
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.JOZO }}
         run: python app.py
 
       - name: Uloženie novej mapy a databázy do repozitára
