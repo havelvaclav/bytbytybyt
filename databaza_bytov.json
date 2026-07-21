@@ -622,5 +622,31 @@
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
+  },
+  "193753019": {
+    "titulok": "Prenajom nadstandartny 1-izbovy byt v Dubravke",
+    "odkaz": "https://reality.bazos.sk/inzerat/193753019/prenajom-nadstandartny-1-izbovy-byt-v-dubravke.php",
+    "cena_bazos": "700 €",
+    "spolu_cena": null,
+    "efektivna_cena": 700,
+    "datum_str": "21.07.2026",
+    "datum_iso": "2026-07-21",
+    "lokalita": "Agátová (Dúbravka)",
+    "lat": 42.535265076,
+    "lng": 18.418318201,
+    "farba": "green"
+  },
+  "193860200": {
+    "titulok": "Ponúkame na prenájom pekný 1 izbový byt, Bratislava II Ružin",
+    "odkaz": "https://reality.bazos.sk/inzerat/193860200/ponukame-na-prenajom-pekny-1-izbovy-byt-bratislava-ii-ruzin.php",
+    "cena_bazos": "400 €",
+    "spolu_cena": null,
+    "efektivna_cena": 400,
+    "datum_str": "21.07.2026",
+    "datum_iso": "2026-07-21",
+    "lokalita": "PSČ: 821 08",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
   }
 }
