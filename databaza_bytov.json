@@ -345,7 +345,7 @@
     "efektivna_cena": 650,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 841 01",
+    "lokalita": "PSČ: 841 01 (Dúbravka)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -514,7 +514,7 @@
     "efektivna_cena": 700,
     "datum_str": "16.07.2026",
     "datum_iso": "2026-07-16",
-    "lokalita": "PSČ: 821 03 (Ružinov)",
+    "lokalita": "PSČ: 821 03",
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange"
@@ -631,10 +631,10 @@
     "efektivna_cena": 380,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Garsónka",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "193856423": {
     "titulok": "Len u nás prenájom pekného 2 izb. bytu s vlastným parkovaním",
@@ -647,6 +647,19 @@
     "lokalita": "PSČ: 841 02",
     "lat": 48.1949026,
     "lng": 17.0334999,
+    "farba": "orange"
+  },
+  "193864940": {
+    "titulok": "Ponúkame na prenájom 2-izbový byt v Bratislave - mestská čas",
+    "odkaz": "https://reality.bazos.sk/inzerat/193864940/ponukame-na-prenajom-2-izbovy-byt-v-bratislave-mestska-cas.php",
+    "cena_bazos": "610 €",
+    "spolu_cena": null,
+    "efektivna_cena": 610,
+    "datum_str": "21.07.2026",
+    "datum_iso": "2026-07-21",
+    "lokalita": "PSČ: 821 03",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
     "farba": "orange"
   }
 }
