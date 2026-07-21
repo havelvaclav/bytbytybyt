@@ -635,5 +635,18 @@
     "lat": 48.152388204809,
     "lng": 17.076725032113,
     "farba": "orange"
+  },
+  "193856423": {
+    "titulok": "Len u nás prenájom pekného 2 izb. bytu s vlastným parkovaním",
+    "odkaz": "https://reality.bazos.sk/inzerat/193856423/len-u-nas-prenajom-pekneho-2-izb-bytu-s-vlastnym-parkovanim.php",
+    "cena_bazos": "700 €",
+    "spolu_cena": null,
+    "efektivna_cena": 700,
+    "datum_str": "21.07.2026",
+    "datum_iso": "2026-07-21",
+    "lokalita": "PSČ: 841 02",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   }
 }
