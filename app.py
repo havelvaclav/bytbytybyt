@@ -338,7 +338,7 @@ for strana in range(MAX_STRANOK):
             nove_pribudli += 1
         spolu_info = f" (Spolu: {spolu_cena_num}€)" if spolu_cena_num else ""
         print(f"  ✨ [PRIDANÝ BYT {efektivna_cena}€{spolu_info}] Lokalita: '{lokalita_zobraz}' | {titulok[:30]}...")
-        posli_discord_notifikaciu(titulok, zobrazena_cena, lokalita_zobraz, odkaz)
+        posli_discord_notifikaciu(titulok, efektivna_cena, lokalita_zobraz, odkaz)
 
 # 🧹 STRUKTÚRNE ČISTENIE DATABÁZY (Odstráni staré aj drahé položky)
 aktualizovana_db = {}
