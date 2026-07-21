@@ -25,7 +25,7 @@ jobs:
 
       - name: Spustenie skriptu
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.JOZO }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python app.py
 
       - name: Uloženie novej mapy a databázy do repozitára
