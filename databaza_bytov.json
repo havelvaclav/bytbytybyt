@@ -635,5 +635,18 @@
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
+  },
+  "193797379": {
+    "titulok": "Na prenájom 2 izbový byt, 63 m2, Bratislava, Nové Mesto, Šan",
+    "odkaz": "https://reality.bazos.sk/inzerat/193797379/na-prenajom-2-izbovy-byt-63-m2-bratislava-nove-mesto-san.php",
+    "cena_bazos": "640 €",
+    "spolu_cena": null,
+    "efektivna_cena": 640,
+    "datum_str": "21.07.2026",
+    "datum_iso": "2026-07-21",
+    "lokalita": "Matúškova (Nové Mesto)",
+    "lat": 48.15966062611,
+    "lng": 17.110172009827,
+    "farba": "green"
   }
 }
