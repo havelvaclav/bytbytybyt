@@ -11,8 +11,8 @@ from datetime import datetime, timedelta
 
 # --- NASTAVENIA ---
 MESTO = "Bratislava"
-MAX_STRANOK = 6         # Prehľadávame prvé 2 strany
-MAX_DNI_STARE = 7      # Zobrazíme byty z posledných 14 dní
+MAX_STRANOK = 6         # Prehľadávame prvých x strán
+MAX_DNI_STARE = 7      # Zobrazíme byty z posledných 7 dní
 MAX_CENA = 700          # 💰 MAXIMÁLNA POVOLENÁ CENA (v EUR)
 DB_FILE = 'databaza_bytov.json'
 
@@ -338,6 +338,7 @@ for strana in range(MAX_STRANOK):
             nove_pribudli += 1
         spolu_info = f" (Spolu: {spolu_cena_num}€)" if spolu_cena_num else ""
         print(f"  ✨ [PRIDANÝ BYT {efektivna_cena}€{spolu_info}] Lokalita: '{lokalita_zobraz}' | {titulok[:30]}...")
+        posli_discord_notifikaciu(titulok, zobrazena_cena, lokalita_zobraz, odkaz)
 
 # 🧹 STRUKTÚRNE ČISTENIE DATABÁZY (Odstráni staré aj drahé položky)
 aktualizovana_db = {}
