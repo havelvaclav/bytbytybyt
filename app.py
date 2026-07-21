@@ -40,7 +40,7 @@ STOP_WORDS_ULICA = {
 
 # --- POMOCNÉ FUNKCIE ---
 
-DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
+DISCORD_WEBHOOK_URL = os.environ.get("JOZO")
 
 def posli_discord_notifikaciu(titulok, cena, lokalita, odkaz):
     if not DISCORD_WEBHOOK_URL:
