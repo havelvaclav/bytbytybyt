@@ -44,6 +44,7 @@ DISCORD_WEBHOOK_URL = os.environ.get("JOZO")
 
 def posli_discord_notifikaciu(titulok, cena, lokalita, odkaz):
     if not DISCORD_WEBHOOK_URL:
+        print("⚠️ Notifikácia neodišla: DISCORD_WEBHOOK_URL nie je načítaný v prostredí!")
         return
     
     # Discord Embed správne formátuje správy do peknej karty
