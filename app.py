@@ -40,6 +40,45 @@ STOP_WORDS_ULICA = {
 
 # --- POMOCNÉ FUNKCIE ---
 
+DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
+
+def posli_discord_notifikaciu(titulok, cena, lokalita, odkaz):
+    if not DISCORD_WEBHOOK_URL:
+        return
+    
+    # Discord Embed správne formátuje správy do peknej karty
+    payload = {
+        "username": "Bazoš Bytový Bot",
+        "avatar_url": "https://reality.bazos.sk/favicon.ico",
+        "embeds": [
+            {
+                "title": f"🚨 {titulok}",
+                "url": odkaz,
+                "color": 3447003,  # Modrá farba
+                "fields": [
+                    {
+                        "name": "💰 Cena",
+                        "value": str(cena),
+                        "inline": True
+                    },
+                    {
+                        "name": "📍 Lokalita",
+                        "value": str(lokalita),
+                        "inline": True
+                    }
+                ],
+                "footer": {
+                    "text": "Bazoš Monitor"
+                }
+            }
+        ]
+    }
+    
+    try:
+        requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=5)
+    except Exception as e:
+        print(f"⚠️ Chyba pri posielaní Discord notifikácie: {e}")
+
 def parsuj_datum(text):
     match = re.search(r'(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})', text)
     if match:
