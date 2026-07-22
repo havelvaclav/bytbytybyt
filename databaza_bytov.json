@@ -7,10 +7,10 @@
     "efektivna_cena": 600,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "Domkárska 10 (Ružinov)",
-    "lat": 48.141966316915,
-    "lng": 17.173466420348,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "193651852": {
     "titulok": "Nájomné",
@@ -46,7 +46,7 @@
     "efektivna_cena": 400,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "Štefunkova (Ružinov)",
+    "lokalita": "Štefunkova",
     "lat": 48.156149097076,
     "lng": 17.170923978293,
     "farba": "green"
@@ -85,10 +85,10 @@
     "efektivna_cena": 640,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
-    "lat": 54.7801451,
-    "lng": 20.0944144,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "193847161": {
     "titulok": "Realitný kancelária REALADR s.r.o.",
@@ -124,10 +124,10 @@
     "efektivna_cena": 650,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "Domkárska 10 (Ružinov)",
-    "lat": 48.141966316915,
-    "lng": 17.173466420348,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "193839941": {
     "titulok": "Prenajmem apartmán 1 izba - Bratislava - Trnávka",
@@ -137,10 +137,10 @@
     "efektivna_cena": 520,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Trnávka)",
-    "lat": 49.686397226,
-    "lng": 18.17971062,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "192331127": {
     "titulok": "Prenájom 2izbový byt L.Dérera, Bratislava.",
@@ -176,10 +176,10 @@
     "efektivna_cena": 600,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 841 05 (Dlhé diely)",
-    "lat": 48.1550801,
-    "lng": 17.0463776,
-    "farba": "orange"
+    "lokalita": "Hany Meličkovej (Karlova Ves)",
+    "lat": 49.987329103,
+    "lng": 13.862317088,
+    "farba": "green"
   },
   "193822500": {
     "titulok": "Babony TRE I Prenájom Priestranný 3-izbový byt s loggiou - V",
@@ -202,10 +202,10 @@
     "efektivna_cena": 450,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "Hraničná (Ružinov)",
-    "lat": 48.145944182496,
-    "lng": 17.156492326843,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "193818698": {
     "titulok": "AXIS REAL | Krásny štýlový 1-izb. byt, BA III, Kramáre, ul.",
@@ -215,10 +215,10 @@
     "efektivna_cena": 440,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "Bárdošová (Nové Mesto)",
-    "lat": 48.167384249195,
-    "lng": 17.098136816168,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Kramáre)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "193817790": {
     "titulok": "Prenájom garzónky v novostavbe Slnečnice – Petržalka",
@@ -254,10 +254,10 @@
     "efektivna_cena": 550,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "Domkárska 10 (Ružinov)",
-    "lat": 48.141966316915,
-    "lng": 17.173466420348,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "193815900": {
     "titulok": "Prenájom moderný 2 izbový byt, Drobného ulica, Bratislava IV",
@@ -293,10 +293,10 @@
     "efektivna_cena": 680,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "Kadnárova (Rača)",
-    "lat": 48.205538823268,
-    "lng": 17.148330255905,
-    "farba": "green"
+    "lokalita": "PSČ: 831 52",
+    "lat": 48.1960694,
+    "lng": 17.1407711,
+    "farba": "orange"
   },
   "193770170": {
     "titulok": "Prenájom ubytovania Banská Bystrica",
@@ -319,10 +319,10 @@
     "efektivna_cena": 520,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "Domkárska 10 (Ružinov)",
-    "lat": 48.141966316915,
-    "lng": 17.173466420348,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "193758245": {
     "titulok": "Realitný kancelária REALADR s.r.o.",
@@ -332,7 +332,7 @@
     "efektivna_cena": 690,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lokalita": "PSČ: 821 02",
     "lat": 48.1582936,
     "lng": 17.1633484,
     "farba": "orange"
@@ -358,7 +358,7 @@
     "efektivna_cena": 700,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lokalita": "PSČ: 821 02",
     "lat": 48.1582936,
     "lng": 17.1633484,
     "farba": "orange"
@@ -449,10 +449,10 @@
     "efektivna_cena": 700,
     "datum_str": "16.07.2026",
     "datum_iso": "2026-07-16",
-    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
-    "lat": 54.7801451,
-    "lng": 20.0944144,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "193702436": {
     "titulok": "Moderný 1-izbový byt s balkónom, parkovacie miesto, Slnečnic",
@@ -488,10 +488,10 @@
     "efektivna_cena": 675,
     "datum_str": "16.07.2026",
     "datum_iso": "2026-07-16",
-    "lokalita": "PSČ: 841 05 (Dlhé diely)",
-    "lat": 48.1550801,
-    "lng": 17.0463776,
-    "farba": "orange"
+    "lokalita": "Hany Meličkovej (Karlova Ves)",
+    "lat": 49.987329103,
+    "lng": 13.862317088,
+    "farba": "green"
   },
   "193692528": {
     "titulok": "Pekný 2i byt komplet zariadený, centrum, internet",
@@ -566,10 +566,10 @@
     "efektivna_cena": 380,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "Garsónka",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "193856423": {
     "titulok": "Len u nás prenájom pekného 2 izb. bytu s vlastným parkovaním",
@@ -592,7 +592,7 @@
     "efektivna_cena": 610,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 03",
+    "lokalita": "PSČ: 821 03 (Ružinov)",
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange"
@@ -605,7 +605,7 @@
     "efektivna_cena": 630,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 851 01 (Slnečnice)",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -618,9 +618,139 @@
     "efektivna_cena": 620,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "Domkárska 10 (Ružinov)",
-    "lat": 48.141966316915,
-    "lng": 17.173466420348,
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "193887267": {
+    "titulok": "Ponúkame na prenájom kompletne zariadený 3-izbový byt v mode",
+    "odkaz": "https://reality.bazos.sk/inzerat/193887267/ponukame-na-prenajom-kompletne-zariadeny-3-izbovy-byt-v-mode.php",
+    "cena_bazos": "700 €",
+    "spolu_cena": null,
+    "efektivna_cena": 700,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Sputniková (Ružinov)",
+    "lat": 48.163893510182,
+    "lng": 17.169591837281,
+    "farba": "green"
+  },
+  "193887159": {
+    "titulok": "Na prenájom: Štýlové  2‑izbové  byty v novostavbe s parkovan",
+    "odkaz": "https://reality.bazos.sk/inzerat/193887159/na-prenajom-stylove-2izbove-byty-v-novostavbe-s-parkovan.php",
+    "cena_bazos": "680 €",
+    "spolu_cena": null,
+    "efektivna_cena": 680,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "PSČ: 821 03",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
+    "farba": "orange"
+  },
+  "193886687": {
+    "titulok": "Moderný kompletne zrekonštruovaný 2 izbový byt na prenájom n",
+    "odkaz": "https://reality.bazos.sk/inzerat/193886687/moderny-kompletne-zrekonstruovany-2-izbovy-byt-na-prenajom-n.php",
+    "cena_bazos": "550 €",
+    "spolu_cena": null,
+    "efektivna_cena": 550,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Garsónka (Staré Mesto)",
+    "lat": 49.076799775,
+    "lng": 17.440047297,
+    "farba": "green"
+  },
+  "193885952": {
+    "titulok": "Na prenájom priestranný 3-izbový čiastočne zariadený byt s v",
+    "odkaz": "https://reality.bazos.sk/inzerat/193885952/na-prenajom-priestranny-3-izbovy-ciastocne-zariadeny-byt-s-v.php",
+    "cena_bazos": "700 €",
+    "spolu_cena": null,
+    "efektivna_cena": 700,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Rajecká (Vrakuňa)",
+    "lat": 48.1443574,
+    "lng": 17.2065451,
+    "farba": "green"
+  },
+  "193885282": {
+    "titulok": "Štýlové bývanie v srdci mesta s veľkou terasou a panoramatic",
+    "odkaz": "https://reality.bazos.sk/inzerat/193885282/stylove-byvanie-v-srdci-mesta-s-velkou-terasou-a-panoramatic.php",
+    "cena_bazos": "570 €",
+    "spolu_cena": null,
+    "efektivna_cena": 570,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Mozartova 12 (Staré Mesto)",
+    "lat": 48.152923811298,
+    "lng": 17.086820843204,
+    "farba": "green"
+  },
+  "193885280": {
+    "titulok": "Štýlové bývanie v srdci mesta s veľkou terasou a panoramatic",
+    "odkaz": "https://reality.bazos.sk/inzerat/193885280/stylove-byvanie-v-srdci-mesta-s-velkou-terasou-a-panoramatic.php",
+    "cena_bazos": "570 €",
+    "spolu_cena": null,
+    "efektivna_cena": 570,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Mozartova 12 (Staré Mesto)",
+    "lat": 48.152923811298,
+    "lng": 17.086820843204,
+    "farba": "green"
+  },
+  "193885240": {
+    "titulok": "Štýlové bývanie v srdci mesta s veľkou terasou a panoramatic",
+    "odkaz": "https://reality.bazos.sk/inzerat/193885240/stylove-byvanie-v-srdci-mesta-s-velkou-terasou-a-panoramatic.php",
+    "cena_bazos": "570 €",
+    "spolu_cena": null,
+    "efektivna_cena": 570,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Mozartova 12 (Staré Mesto)",
+    "lat": 48.152923811298,
+    "lng": 17.086820843204,
+    "farba": "green"
+  },
+  "193885241": {
+    "titulok": "Štýlové bývanie v srdci mesta s veľkou terasou a panoramatic",
+    "odkaz": "https://reality.bazos.sk/inzerat/193885241/stylove-byvanie-v-srdci-mesta-s-velkou-terasou-a-panoramatic.php",
+    "cena_bazos": "570 €",
+    "spolu_cena": null,
+    "efektivna_cena": 570,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Mozartova 12 (Staré Mesto)",
+    "lat": 48.152923811298,
+    "lng": 17.086820843204,
+    "farba": "green"
+  },
+  "193883431": {
+    "titulok": "2 izbove byt Racianska",
+    "odkaz": "https://reality.bazos.sk/inzerat/193883431/2-izbove-byt-racianska.php",
+    "cena_bazos": "700 €",
+    "spolu_cena": null,
+    "efektivna_cena": 700,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "ŠANCOVÁ",
+    "lat": 48.155196228503,
+    "lng": 17.106109956113,
+    "farba": "green"
+  },
+  "193882013": {
+    "titulok": "Priestranný 3-izb. byt s loggiou | Ideálny pre rodinu aj štu",
+    "odkaz": "https://reality.bazos.sk/inzerat/193882013/priestranny-3-izb-byt-s-loggiou-idealny-pre-rodinu-aj-stu.php",
+    "cena_bazos": "700 €",
+    "spolu_cena": null,
+    "efektivna_cena": 700,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Rajecká (Vrakuňa)",
+    "lat": 48.1443574,
+    "lng": 17.2065451,
     "farba": "green"
   }
 }
