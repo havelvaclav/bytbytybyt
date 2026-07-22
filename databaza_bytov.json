@@ -5,12 +5,12 @@
     "cena_bazos": "600 €",
     "spolu_cena": null,
     "efektivna_cena": 600,
-    "datum_str": "21.07.2026",
-    "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Domkárska 10 (Ružinov)",
+    "lat": 48.141966316915,
+    "lng": 17.173466420348,
+    "farba": "green"
   },
   "193651852": {
     "titulok": "Nájomné",
@@ -59,7 +59,7 @@
     "efektivna_cena": 699,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "Osuského",
+    "lokalita": "Osuského (Petržalka)",
     "lat": 48.11877134867,
     "lng": 17.114480369312,
     "farba": "green"
@@ -85,9 +85,9 @@
     "efektivna_cena": 640,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "NOVOSTAVBE UNIVERSO",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
+    "lat": 54.7801451,
+    "lng": 20.0944144,
     "farba": "green"
   },
   "193847161": {
@@ -124,10 +124,10 @@
     "efektivna_cena": 650,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Domkárska 10 (Ružinov)",
+    "lat": 48.141966316915,
+    "lng": 17.173466420348,
+    "farba": "green"
   },
   "193839941": {
     "titulok": "Prenajmem apartmán 1 izba - Bratislava - Trnávka",
@@ -137,7 +137,7 @@
     "efektivna_cena": 520,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "NOVOSTAVBE UNIVERSO (Trnávka)",
+    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Trnávka)",
     "lat": 49.686397226,
     "lng": 18.17971062,
     "farba": "green"
@@ -150,10 +150,10 @@
     "efektivna_cena": 610,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "193827509": {
     "titulok": "3i byt s rozlohou 75 m² + 2x LOGGIA – Bárdošova ul./ Kramáre",
@@ -163,10 +163,10 @@
     "efektivna_cena": 670,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "Bárdošova (Nové Mesto)",
-    "lat": 48.167384249195,
-    "lng": 17.098136816168,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Kramáre)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "193826737": {
     "titulok": "Prenájom novo zrekonštruovaný 1 izb byt BA IV Hlaváčikova ul",
@@ -202,10 +202,10 @@
     "efektivna_cena": 450,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Hraničná (Ružinov)",
+    "lat": 48.145944182496,
+    "lng": 17.156492326843,
+    "farba": "green"
   },
   "193818698": {
     "titulok": "AXIS REAL | Krásny štýlový 1-izb. byt, BA III, Kramáre, ul.",
@@ -254,10 +254,10 @@
     "efektivna_cena": 550,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Domkárska 10 (Ružinov)",
+    "lat": 48.141966316915,
+    "lng": 17.173466420348,
+    "farba": "green"
   },
   "193815900": {
     "titulok": "Prenájom moderný 2 izbový byt, Drobného ulica, Bratislava IV",
@@ -319,10 +319,10 @@
     "efektivna_cena": 520,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Domkárska 10 (Ružinov)",
+    "lat": 48.141966316915,
+    "lng": 17.173466420348,
+    "farba": "green"
   },
   "193758245": {
     "titulok": "Realitný kancelária REALADR s.r.o.",
@@ -332,10 +332,10 @@
     "efektivna_cena": 690,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "Trebišovská",
-    "lat": 48.160700283739,
-    "lng": 17.160762714551,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "193755892": {
     "titulok": "Menší 3 izb byt Valachovej v Dubravke",
@@ -358,10 +358,10 @@
     "efektivna_cena": 700,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "Trebišovská",
-    "lat": 48.160700283739,
-    "lng": 17.160762714551,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "193742873": {
     "titulok": "Na prenájom krásny a veľký 1-izbový byt s balkónom, 48 m², A",
@@ -384,10 +384,10 @@
     "efektivna_cena": 510,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "193734110": {
     "titulok": "ARISE / Prenájom 1 izbový byt.",
@@ -436,10 +436,10 @@
     "efektivna_cena": 700,
     "datum_str": "16.07.2026",
     "datum_iso": "2026-07-16",
-    "lokalita": "Trebišovská",
-    "lat": 48.160700283739,
-    "lng": 17.160762714551,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "193702510": {
     "titulok": "2-izbový byt v obľúbenom projekte Ovocné sady na prenájom, B",
@@ -449,9 +449,9 @@
     "efektivna_cena": 700,
     "datum_str": "16.07.2026",
     "datum_iso": "2026-07-16",
-    "lokalita": "NOVOSTAVBE UNIVERSO",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
+    "lat": 54.7801451,
+    "lng": 20.0944144,
     "farba": "green"
   },
   "193702436": {
@@ -519,79 +519,14 @@
     "lng": 17.1672305,
     "farba": "orange"
   },
-  "193681106": {
-    "titulok": "Bratislava 2 izbový byt Zavodná 3/B",
-    "odkaz": "https://reality.bazos.sk/inzerat/193681106/bratislava-2-izbovy-byt.php",
-    "cena_bazos": "650 €",
-    "spolu_cena": null,
-    "efektivna_cena": 650,
-    "datum_str": "15.07.2026",
-    "datum_iso": "2026-07-15",
-    "lokalita": "PSČ: 821 06",
-    "lat": 48.1251898,
-    "lng": 17.2111499,
-    "farba": "orange"
-  },
-  "193669756": {
-    "titulok": "Garsonka v novostavbe Rustaveliho, balkón 6n2, klimatizácia",
-    "odkaz": "https://reality.bazos.sk/inzerat/193669756/garsonka-v-novostavbe-rustaveliho-balkon-6n2-klimatizacia.php",
-    "cena_bazos": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "15.07.2026",
-    "datum_iso": "2026-07-15",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
-  },
-  "193669580": {
-    "titulok": "Na prenájom 2-garsónka s loggiou na ul. Osuského v Petržalke",
-    "odkaz": "https://reality.bazos.sk/inzerat/193669580/na-prenajom-2-garsonka-s-loggiou-na-ul-osuskeho-v-petrzalke.php",
-    "cena_bazos": "699 €",
-    "spolu_cena": null,
-    "efektivna_cena": 699,
-    "datum_str": "15.07.2026",
-    "datum_iso": "2026-07-15",
-    "lokalita": "PSČ: 851 03 (Petržalka)",
-    "lat": 48.1225228,
-    "lng": 17.1161139,
-    "farba": "orange"
-  },
-  "193666977": {
-    "titulok": "Na prenájom garsónka 20 m², Štefunkova ul. Ružinov, od 1.8.2",
-    "odkaz": "https://reality.bazos.sk/inzerat/193666977/na-prenajom-garsonka-20-m-stefunkova-ul-ruzinov-od-182.php",
-    "cena_bazos": "490 €",
-    "spolu_cena": null,
-    "efektivna_cena": 490,
-    "datum_str": "15.07.2026",
-    "datum_iso": "2026-07-15",
-    "lokalita": "Štefunkova (Ružinov)",
-    "lat": 48.156149097076,
-    "lng": 17.170923978293,
-    "farba": "green"
-  },
-  "193666008": {
-    "titulok": "1.BCR | VEĽKÝ 2 IZB BYT S BALKÓNOM-SKALICKÁ CESTA,BRATISLAVA",
-    "odkaz": "https://reality.bazos.sk/inzerat/193666008/1bcr-velky-2-izb-byt-s-balkonom-skalicka-cestabratislava.php",
-    "cena_bazos": "680 €",
-    "spolu_cena": null,
-    "efektivna_cena": 680,
-    "datum_str": "15.07.2026",
-    "datum_iso": "2026-07-15",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
-  },
   "193753019": {
     "titulok": "Prenajom nadstandartny 1-izbovy byt v Dubravke",
     "odkaz": "https://reality.bazos.sk/inzerat/193753019/prenajom-nadstandartny-1-izbovy-byt-v-dubravke.php",
     "cena_bazos": "700 €",
     "spolu_cena": null,
     "efektivna_cena": 700,
-    "datum_str": "21.07.2026",
-    "datum_iso": "2026-07-21",
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
     "lokalita": "Agátová (Dúbravka)",
     "lat": 42.535265076,
     "lng": 18.418318201,
@@ -616,12 +551,12 @@
     "cena_bazos": "640 €",
     "spolu_cena": null,
     "efektivna_cena": 640,
-    "datum_str": "21.07.2026",
-    "datum_iso": "2026-07-21",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
-    "farba": "green"
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "193384428": {
     "titulok": "‼️Krásna plne zariadená garsonka s klímou v NZ‼️",
@@ -629,8 +564,8 @@
     "cena_bazos": "380 €",
     "spolu_cena": null,
     "efektivna_cena": 380,
-    "datum_str": "21.07.2026",
-    "datum_iso": "2026-07-21",
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
     "lokalita": "Garsónka",
     "lat": 48.154419507,
     "lng": 17.119406427,
@@ -661,5 +596,31 @@
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange"
+  },
+  "193878613": {
+    "titulok": "AXIS REAL | KLIMATIZOVANÁ 2-garsónka na začiatku Petržalky,",
+    "odkaz": "https://reality.bazos.sk/inzerat/193878613/axis-real-klimatizovana-2-garsonka-na-zaciatku-petrzalky.php",
+    "cena_bazos": "630 €",
+    "spolu_cena": null,
+    "efektivna_cena": 630,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "PSČ: 851 01 (Slnečnice)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "193876018": {
+    "titulok": "Na prenájom priestranný 2 izbový byt Ružinov / Prievoz",
+    "odkaz": "https://reality.bazos.sk/inzerat/193876018/na-prenajom-priestranny-2-izbovy-byt-ruzinov-prievoz.php",
+    "cena_bazos": "620 €",
+    "spolu_cena": null,
+    "efektivna_cena": 620,
+    "datum_str": "22.07.2026",
+    "datum_iso": "2026-07-22",
+    "lokalita": "Domkárska 10 (Ružinov)",
+    "lat": 48.141966316915,
+    "lng": 17.173466420348,
+    "farba": "green"
   }
 }
