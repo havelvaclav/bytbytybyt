@@ -1,96 +1,240 @@
+from datetime import datetime, timedelta
 import json
 import os
 import re
 import time
-import requests
 from bs4 import BeautifulSoup
-from geopy.geocoders import ArcGIS
 import folium
 from folium.plugins import MarkerCluster
-from datetime import datetime, timedelta
+from geopy.geocoders import ArcGIS
+import requests
+from difflib import SequenceMatcher
 
 # --- NASTAVENIA ---
 MESTO = "Bratislava"
-MAX_STRANOK = 6         # Prehľadávame prvých x strán
-MAX_DNI_STARE = 7      # Zobrazíme byty z posledných 7 dní
-MAX_CENA = 700          # 💰 MAXIMÁLNA POVOLENÁ CENA (v EUR)
-DB_FILE = 'databaza_bytov.json'
+MAX_STRANOK = 6  # Prehľadávame prvých x strán
+MAX_DNI_STARE = 7  # Zobrazíme byty z posledných 7 dní
+MAX_CENA = 700  # 💰 MAXIMÁLNA POVOLENÁ CENA (v EUR)
+DB_FILE = "databaza_bytov.json"
 
 geolocator = ArcGIS(timeout=10)
 
 MESTSKE_CASTI = [
-    "Staré Mesto", "Ružinov", "Petržalka", "Nové Mesto", "Karlova Ves", "Dúbravka",
-    "Rača", "Vrakuňa", "Podunajské Biskupice", "Devínska Nová Ves", "Lamač",
-    "Záhorská Bystrica", "Vajnory", "Jarovce", "Rusovce", "Čunovo", "Devín",
-    "Trnávka", "Kramáre", "Dlhé diely", "Dlhé Diely", "Koliba", "Pošeň", "Ostredky", 
-    "Prievoz", "Mlynská dolina", "Nivy", "Štrkovec", "Bory", "Slnečnice"
+    "Staré Mesto",
+    "Ružinov",
+    "Petržalka",
+    "Nové Mesto",
+    "Karlova Ves",
+    "Dúbravka",
+    "Rača",
+    "Vrakuňa",
+    "Podunajské Biskupice",
+    "Devínska Nová Ves",
+    "Lamač",
+    "Záhorská Bystrica",
+    "Vajnory",
+    "Jarovce",
+    "Rusovce",
+    "Čunovo",
+    "Devín",
+    "Trnávka",
+    "Kramáre",
+    "Dlhé diely",
+    "Dlhé Diely",
+    "Koliba",
+    "Pošeň",
+    "Ostredky",
+    "Prievoz",
+    "Mlynská dolina",
+    "Nivy",
+    "Štrkovec",
+    "Bory",
+    "Slnečnice",
 ]
 
 STOP_WORDS_ULICA = {
-    'bratislava', 'prenájom', 'prenajom', 'byt', '2-izbový', '2 izbový', '1-izbový', '1 izbový',
-    'poschodie', 'centrum', 'novostavba', 'ponuke', 'popis', 'popis bytu',
-    'dispozícia', 'dispozicia', 'rekonštrukcia', 'rekonstrukcia', 'cena',
-    'bratislava i', 'bratislava ii', 'bratislava iii', 'bratislava iv', 'bratislava v',
-    'mail', 'email', 'e-mail', 'fotografie', 'fotky', 'foto', 'zašleme', 'zasleme', 
-    'pošleme', 'posleme', 'vyžiadanie', 'vyziadanie', 'dohodu', 'kontakt', 'telefon', 
-    'telefón', 'píšte', 'piste', 'volať', 'volat', 'info', 'správa', 'sprava', 'obhliadka',
-    'na', 'za', 'do', 'v', 's', 'z', 'o'
+    "bratislava",
+    "prenájom",
+    "prenajom",
+    "byt",
+    "2-izbový",
+    "2 izbový",
+    "1-izbový",
+    "1 izbový",
+    "poschodie",
+    "centrum",
+    "novostavba",
+    "ponuke",
+    "popis",
+    "popis bytu",
+    "dispozícia",
+    "dispozicia",
+    "rekonštrukcia",
+    "rekonstrukcia",
+    "cena",
+    "bratislava i",
+    "bratislava ii",
+    "bratislava iii",
+    "bratislava iv",
+    "bratislava v",
+    "mail",
+    "email",
+    "e-mail",
+    "fotografie",
+    "fotky",
+    "foto",
+    "zašleme",
+    "zasleme",
+    "pošleme",
+    "posleme",
+    "vyžiadanie",
+    "vyziadanie",
+    "dohodu",
+    "kontakt",
+    "telefon",
+    "telefón",
+    "píšte",
+    "piste",
+    "volať",
+    "volat",
+    "info",
+    "správa",
+    "sprava",
+    "obhliadka",
+    "na",
+    "za",
+    "do",
+    "v",
+    "s",
+    "z",
+    "o",
 }
 
 
 # --- POMOCNÉ FUNKCIE ---
+def podobnost_textu(a, b):
+    """Vráti podobnosť dvoch textov od 0.0 do 1.0 (100%)."""
+    if not a or not b:
+        return 0.0
+    return SequenceMatcher(None, a.lower().strip(), b.lower().strip()).ratio()
+
+
+def odstran_duplicity(zoznam_bytov):
+    """Zlúči a odstráni duplicitné inzeráty z rôznych portálov."""
+    unikatne_byty = []
+
+    for byt in zoznam_bytov:
+        je_duplicita = False
+
+        for unikatny in unikatne_byty:
+            # 1. Podobnosť titulku
+            titulok_sim = podobnost_textu(byt["titulok"], unikatny["titulok"])
+
+            # 2. Podobnosť lokality
+            lokalita_sim = podobnost_textu(
+                byt.get("lokalita", ""), unikatny.get("lokalita", "")
+            )
+
+            # 3. Kontrola GPS (či sú súradnice takmer rovnaké - zaokrúhlené na ~100m)
+            rovnake_gps = False
+            if (
+                byt.get("lat")
+                and unikatny.get("lat")
+                and byt.get("lng")
+                and unikatny.get("lng")
+            ):
+                rovnake_gps = round(byt["lat"], 3) == round(
+                    unikatny["lat"], 3
+                ) and round(byt["lng"], 3) == round(unikatny["lng"], 3)
+
+            # 4. Porovnanie cien (ak sa líšia max o 15 €)
+            cena1 = byt.get("efektivna_cena")
+            cena2 = unikatny.get("efektivna_cena")
+            podobna_cena = False
+            if cena1 and cena2:
+                podobna_cena = abs(cena1 - cena2) <= 15
+            elif cena1 == cena2:
+                podobna_cena = True
+
+            # PODMIENKA DUPLICITY:
+            # Ak je veľmi podobný názov A ZAROVEŇ (podobná lokalita ALEBO rovnaké GPS) A podobná cena
+            if (
+                titulok_sim >= 0.75 or (titulok_sim >= 0.60 and rovnake_gps)
+            ) and podobna_cena:
+                je_duplicita = True
+
+                # Ak ide o iný zdroj, pridáme ho ku zdroju (napr. "Bazoš, Reality.sk")
+                if byt["zdroj"] not in unikatny["zdroj"]:
+                    unikatny["zdroj"] += f", {byt['zdroj']}"
+
+                # Zapamätáme si aj alternatívny odkaz
+                if "dalsie_odkazy" not in unikatny:
+                    unikatny["dalsie_odkazy"] = []
+                unikatny["dalsie_odkazy"].append(
+                    {"zdroj": byt["zdroj"], "odkaz": byt["odkaz"]}
+                )
+
+                print(
+                    f"🔄 Zlúčená duplicita: '{byt['titulok'][:35]}...' ({byt['zdroj']}) ➔ pridané k ({unikatny['zdroj']})"
+                )
+                break
+
+        if not je_duplicita:
+            unikatne_byty.append(byt)
+
+    print(
+        f"\n🧹 Deduplikácia: Z pôvodných {len(zoznam_bytov)} inzerátov zostalo {len(unikatne_byty)} unikátnych."
+    )
+    return unikatne_byty
 
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
-def posli_discord_notifikaciu(titulok, cena, lokalita, odkaz):
+
+def posli_discord_notifikaciu(titulok, cena, lokalita, odkaz, zdroj="Bazoš"):
     if not DISCORD_WEBHOOK_URL:
-        print("⚠️ Notifikácia neodišla: DISCORD_WEBHOOK_URL nie je načítaný v prostredí!")
+        print(
+            "⚠️ Notifikácia neodišla: DISCORD_WEBHOOK_URL nie je načítaný v prostredí!"
+        )
         return
-    
-    # Discord Embed správne formátuje správy do peknej karty
+
     payload = {
-        "username": "Bazoš Bytový Bot",
-        "avatar_url": "https://reality.bazos.sk/favicon.ico",
+        "username": f"{zdroj} Bytový Bot",
         "embeds": [
             {
                 "title": f"🚨 {titulok}",
                 "url": odkaz,
-                "color": 3447003,  # Modrá farba
+                "color": 3447003,
                 "fields": [
-                    {
-                        "name": "💰 Cena",
-                        "value": str(cena),
-                        "inline": True
-                    },
+                    {"name": "💰 Cena", "value": f"{cena} €", "inline": True},
                     {
                         "name": "📍 Lokalita",
                         "value": str(lokalita),
-                        "inline": True
-                    }
+                        "inline": True,
+                    },
+                    {"name": "🌐 Zdroj", "value": zdroj, "inline": True},
                 ],
-                "footer": {
-                    "text": "Bazoš Monitor"
-                }
+                "footer": {"text": f"Monitor - {zdroj}"},
             }
-        ]
+        ],
     }
-    
+
     try:
         requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=5)
     except Exception as e:
         print(f"⚠️ Chyba pri posielaní Discord notifikácie: {e}")
 
+
 def parsuj_datum(text):
-    match = re.search(r'(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})', text)
+    match = re.search(r"(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})", text)
     if match:
         den, mesiac, rok = map(int, match.groups())
         return datetime(rok, mesiac, den)
-    
-    match_bez_roku = re.search(r'(\d{1,2})\.\s*(\d{1,2})\.', text)
+
+    match_bez_roku = re.search(r"(\d{1,2})\.\s*(\d{1,2})\.", text)
     if match_bez_roku:
         den, mesiac = map(int, match_bez_roku.groups())
         return datetime(datetime.now().year, mesiac, den)
-        
+
     return None
 
 
@@ -98,14 +242,14 @@ def extrahuj_psc_z_html(soup_detail):
     if not soup_detail:
         return None
     text_page = soup_detail.get_text()
-    match = re.search(r'Lokalita:\s*(\d{3}\s?\d{2})', text_page, re.IGNORECASE)
+    match = re.search(r"Lokalita:\s*(\d{3}\s?\d{2})", text_page, re.IGNORECASE)
     if match:
-        psc_raw = match.group(1).replace(' ', '')
+        psc_raw = match.group(1).replace(" ", "")
         return f"{psc_raw[:3]} {psc_raw[3:]}"
-        
-    match_ba = re.search(r'\b(8[1-5]\d\s?\d{2})\b', text_page)
+
+    match_ba = re.search(r"\b(8[1-5]\d\s?\d{2})\b", text_page)
     if match_ba:
-        psc_raw = match_ba.group(1).replace(' ', '')
+        psc_raw = match_ba.group(1).replace(" ", "")
         return f"{psc_raw[:3]} {psc_raw[3:]}"
 
     return None
@@ -113,7 +257,7 @@ def extrahuj_psc_z_html(soup_detail):
 
 def najdi_mestsku_cast(text):
     for mc in MESTSKE_CASTI:
-        pattern = r'\b(?:Bratislava\s*[\-–\s]\s*)?' + re.escape(mc) + r'\b'
+        pattern = r"\b(?:Bratislava\s*[\-–\s]\s*)?" + re.escape(mc) + r"\b"
         if re.search(pattern, text, re.IGNORECASE):
             return mc
     return None
@@ -122,11 +266,15 @@ def najdi_mestsku_cast(text):
 def je_validny_nazov_ulice(kandidat):
     if not kandidat or len(kandidat) < 3:
         return False
-    slova = re.findall(r'\b[a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9]+\b', kandidat.lower())
+    slova = re.findall(
+        r"\b[a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9]+\b", kandidat.lower()
+    )
     for s in slova:
         if s in STOP_WORDS_ULICA:
             return False
-    if re.match(r'^(?:bratislava|ba)\s*(?:i|ii|iii|iv|v|[1-5])?$', kandidat.lower()):
+    if re.match(
+        r"^(?:bratislava|ba)\s*(?:i|ii|iii|iv|v|[1-5])?$", kandidat.lower()
+    ):
         return False
     return True
 
@@ -136,17 +284,28 @@ def ziskaj_kandidatov_ulic(text):
         return []
     candidates = []
     patterns = [
-        r'\b([A-ZÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9][a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9\.\-\/]{1,25}(?:\s*(?:[\/\&\-]\s*|\s+)[A-ZÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9][a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9\.\-\/]{1,25}){0,3})\s+(?:ulica|ul\.|ul|námestie|namestie|nám\.|nám)\b',
-        r'\b(?:ulica|ul\.|ul|námestie|namestie|nám\.|nám)\b\s*[:\-–,]*\s*([A-ZÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9][a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9\.\-\/]{1,25}(?:\s*(?:[\/\&\-]\s*|\s+)[A-ZÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9][a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9\.\-\/]{1,25}){0,3})'
+        r"\b([A-ZÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9][a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9\.\-\/]{1,25}(?:\s*(?:[\/\&\-]\s*|\s+)[A-ZÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9][a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9\.\-\/]{1,25}){0,3})\s+(?:ulica|ul\.|ul|námestie|namestie|nám\.|nám)\b",
+        r"\b(?:ulica|ul\.|ul|námestie|namestie|nám\.|nám)\b\s*[:\-–,]*\s*([A-ZÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9][a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9\.\-\/]{1,25}(?:\s*(?:[\/\&\-]\s*|\s+)[A-ZÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9][a-zA-ZáčďéíľňóôŕšťúýžÁČĎÉÍĽŇÓÔŔŠŤÚÝŽ0-9\.\-\/]{1,25}){0,3})",
     ]
     for pattern in patterns:
         for match in re.finditer(pattern, text, re.IGNORECASE):
             start_idx = max(0, match.start() - 25)
-            pre_text = text[start_idx:match.start()].lower()
-            if any(w in pre_text for w in ['blízko', 'blizko', 'v blízkosti', 'v blizkosti', 'nedaleko', 'neďaleko', 'okolo']):
+            pre_text = text[start_idx : match.start()].lower()
+            if any(
+                w in pre_text
+                for w in [
+                    "blízko",
+                    "blizko",
+                    "v blízkosti",
+                    "v blizkosti",
+                    "nedaleko",
+                    "neďaleko",
+                    "okolo",
+                ]
+            ):
                 continue
             ulica = match.group(1).strip()
-            ulica = re.split(r'[,;\n\r\(\)<>|]', ulica)[0].strip().rstrip('.')
+            ulica = re.split(r"[,;\n\r\(\)<>|]", ulica)[0].strip().rstrip(".")
             if je_validny_nazov_ulice(ulica):
                 if ulica not in candidates:
                     candidates.append(ulica)
@@ -156,9 +315,9 @@ def ziskaj_kandidatov_ulic(text):
 def extrahuj_cislo(text):
     if not text:
         return None
-    text_clean = re.sub(r'(\d{3,4}),-', r'\1', text)
-    text_clean = re.sub(r'\b(\d{1,2})[\s\.](\d{3})\b', r'\1\2', text_clean)
-    match = re.search(r'(\d{3,4})', text_clean)
+    text_clean = re.sub(r"(\d{3,4}),-", r"\1", text)
+    text_clean = re.sub(r"\b(\d{1,2})[\s\.](\d{3})\b", r"\1\2", text_clean)
+    match = re.search(r"(\d{3,4})", text_clean)
     return int(match.group(1)) if match else None
 
 
@@ -166,11 +325,15 @@ def extrahuj_spolu_cenu(text):
     if not text:
         return None
 
-    text_clean = text.replace('\xa0', ' ').replace('&nbsp;', ' ')
-    text_clean = re.sub(r'(\d{3,4}),-', r'\1', text_clean)
-    text_clean = re.sub(r'\b(\d{1,2})[\s\.](\d{3})\b', r'\1\2', text_clean)
+    text_clean = text.replace("\xa0", " ").replace("&nbsp;", " ")
+    text_clean = re.sub(r"(\d{3,4}),-", r"\1", text_clean)
+    text_clean = re.sub(r"\b(\d{1,2})[\s\.](\d{3})\b", r"\1\2", text_clean)
 
-    match_plus = re.search(r'\b(\d{3,4})\s*(?:€|eur)?\s*\+\s*(\d{2,3})\s*(?:€|eur)?', text_clean, re.IGNORECASE)
+    match_plus = re.search(
+        r"\b(\d{3,4})\s*(?:€|eur)?\s*\+\s*(\d{2,3})\s*(?:€|eur)?",
+        text_clean,
+        re.IGNORECASE,
+    )
     if match_plus:
         najom = int(match_plus.group(1))
         energie = int(match_plus.group(2))
@@ -178,10 +341,10 @@ def extrahuj_spolu_cenu(text):
             return najom + energie
 
     vzory = [
-        r'\b(?:spolu|celkom|komplet|celková cena|celkova cena|cena spolu|celkový nájom|celkovy najom)\b[^\d]{0,20}?(\d{3,4})\b',
-        r'\b(\d{3,4})\s*(?:€|eur)?\s*(?:spolu|celkom|komplet)\b',
-        r'\b(\d{3,4})\s*(?:€|eur)?\s*(?:s\s+energiami|vrátane\s+energií|vrátene\s+energií|vrátane\s+e\b|s\s+e\b|vrátane\s+en\b)',
-        r'\b(?:s\s+energiami|vrátane\s+energií|vrátane\s+e|s\s+e)\b[^\d]{0,20}?(\d{3,4})\b'
+        r"\b(?:spolu|celkom|komplet|celková cena|celkova cena|cena spolu|celkový nájom|celkovy najom)\b[^\d]{0,20}?(\d{3,4})\b",
+        r"\b(\d{3,4})\s*(?:€|eur)?\s*(?:spolu|celkom|komplet)\b",
+        r"\b(\d{3,4})\s*(?:€|eur)?\s*(?:s\s+energiami|vrátane\s+energií|vrátene\s+energií|vrátane\s+e\b|s\s+e\b|vrátane\s+en\b)",
+        r"\b(?:s\s+energiami|vrátane\s+energií|vrátane\s+e|s\s+e)\b[^\d]{0,20}?(\d{3,4})\b",
     ]
 
     for vzor in vzory:
@@ -194,7 +357,9 @@ def extrahuj_spolu_cenu(text):
     return None
 
 
-def vyries_lokalitu_a_gps(titulok, plny_popis, psc, geolocator, mesto="Bratislava"):
+def vyries_lokalitu_a_gps(
+    titulok, plny_popis, psc, geolocator, mesto="Bratislava"
+):
     cely_text = f"{titulok} {plny_popis}"
     najdena_mc = najdi_mestsku_cast(cely_text)
 
@@ -204,7 +369,13 @@ def vyries_lokalitu_a_gps(titulok, plny_popis, psc, geolocator, mesto="Bratislav
         try:
             loc = geolocator.geocode(adresa)
             if loc:
-                return ulica, f"{ulica}" + (f" ({najdena_mc})" if najdena_mc else ""), loc.latitude, loc.longitude, "green"
+                return (
+                    ulica,
+                    f"{ulica}" + (f" ({najdena_mc})" if najdena_mc else ""),
+                    loc.latitude,
+                    loc.longitude,
+                    "green",
+                )
         except Exception:
             pass
 
@@ -214,7 +385,13 @@ def vyries_lokalitu_a_gps(titulok, plny_popis, psc, geolocator, mesto="Bratislav
         try:
             loc = geolocator.geocode(adresa)
             if loc:
-                return ulica, f"{ulica}" + (f" ({najdena_mc})" if najdena_mc else ""), loc.latitude, loc.longitude, "green"
+                return (
+                    ulica,
+                    f"{ulica}" + (f" ({najdena_mc})" if najdena_mc else ""),
+                    loc.latitude,
+                    loc.longitude,
+                    "green",
+                )
         except Exception:
             pass
 
@@ -223,7 +400,13 @@ def vyries_lokalitu_a_gps(titulok, plny_popis, psc, geolocator, mesto="Bratislav
         try:
             loc = geolocator.geocode(f"{psc} Bratislava, Slovakia")
             if loc:
-                return None, f"PSČ: {psc}" + (f" ({najdena_mc})" if najdena_mc else ""), loc.latitude, loc.longitude, "orange"
+                return (
+                    None,
+                    f"PSČ: {psc}" + (f" ({najdena_mc})" if najdena_mc else ""),
+                    loc.latitude,
+                    loc.longitude,
+                    "orange",
+                )
         except Exception:
             pass
 
@@ -232,7 +415,13 @@ def vyries_lokalitu_a_gps(titulok, plny_popis, psc, geolocator, mesto="Bratislav
         try:
             loc = geolocator.geocode(f"Bratislava - {najdena_mc}")
             if loc:
-                return None, f"Mestská časť: {najdena_mc}", loc.latitude, loc.longitude, "blue"
+                return (
+                    None,
+                    f"Mestská časť: {najdena_mc}",
+                    loc.latitude,
+                    loc.longitude,
+                    "blue",
+                )
         except Exception:
             pass
 
@@ -240,118 +429,357 @@ def vyries_lokalitu_a_gps(titulok, plny_popis, psc, geolocator, mesto="Bratislav
     try:
         loc = geolocator.geocode(mesto)
         if loc:
-            return None, "Neuvedená (Bratislava)", loc.latitude, loc.longitude, "gray"
+            return (
+                None,
+                "Neuvedená (Bratislava)",
+                loc.latitude,
+                loc.longitude,
+                "gray",
+            )
     except Exception:
         pass
 
     return None, "Neuvedená", 48.1486, 17.1077, "gray"
 
 
-# --- HLAVNÝ SKRIPT ---
+# --- MODULÁRNE SCRAPERY ---
+
+
+def scrapuj_bazos(hranicny_datum):
+    """Vráti zoznam bytov z Bazošu v štandardizovanom formáte."""
+    vysledky = []
+    print("\n🔍 === Spúšťam scraper pre: Bazoš.sk ===")
+
+    for strana in range(MAX_STRANOK):
+        offset = strana * 20
+        url = f"https://reality.bazos.sk/prenajmu/byt/{'' if offset==0 else str(offset)+'/'}?hledat=bratislava&hlokalita=&humkreis=10&cenaod=&cenado=700&order="
+
+        print(f"--- Bazoš: Sťahujem stranu {strana + 1} ---")
+        response = requests.get(
+            url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10
+        )
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        for inzerat in soup.find_all("div", class_="inzeraty"):
+            link_elem = inzerat.find("h2", class_="nadpis").find("a")
+            titulok = link_elem.text.strip()
+            odkaz = "https://reality.bazos.sk" + link_elem["href"]
+            cena_bazos_raw = inzerat.find(
+                "div", class_="inzeratycena"
+            ).text.strip()
+
+            # 🎯 Prefix Bazošu pre ID
+            raw_id = odkaz.split("/")[-2]
+            inzerat_id = f"bazos_{raw_id}"
+
+            dt_inzeratu = parsuj_datum(inzerat.text)
+            if dt_inzeratu and dt_inzeratu < hranicny_datum:
+                continue
+
+            datum_str = (
+                dt_inzeratu.strftime("%d.%m.%Y") if dt_inzeratu else "Neznámy"
+            )
+            datum_iso = (
+                dt_inzeratu.strftime("%Y-%m-%d")
+                if dt_inzeratu
+                else "2000-01-01"
+            )
+
+            try:
+                time.sleep(0.2)
+                res_detail = requests.get(
+                    odkaz, headers={"User-Agent": "Mozilla/5.0"}, timeout=10
+                )
+                soup_detail = BeautifulSoup(res_detail.text, "html.parser")
+                popis_elem = (
+                    soup_detail.find("div", class_="popis")
+                    or soup_detail.find("div", class_="popisdetail")
+                    or soup_detail.find("div", class_="kompletpopis")
+                )
+                plny_popis = popis_elem.text.strip() if popis_elem else ""
+                najdene_psc = extrahuj_psc_z_html(soup_detail)
+            except Exception:
+                plny_popis = ""
+                najdene_psc = None
+
+            for odsek in [
+                "Podobné inzeráty",
+                "Inzeráty používateľa",
+                "Odpovedať na inzerát",
+            ]:
+                if odsek in plny_popis:
+                    plny_popis = plny_popis.split(odsek)[0]
+
+            cely_text_detail = f"{titulok} {plny_popis}"
+            bazos_cena_num = extrahuj_cislo(cena_bazos_raw)
+            spolu_cena_num = extrahuj_spolu_cenu(cely_text_detail)
+
+            if spolu_cena_num:
+                efektivna_cena = spolu_cena_num
+            elif bazos_cena_num and bazos_cena_num >= 150:
+                efektivna_cena = bazos_cena_num
+            else:
+                efektivna_cena = None
+
+            # Vynecháme drahé byty hneď pri scrapovaní
+            if efektivna_cena and efektivna_cena > MAX_CENA:
+                continue
+
+            ulica_str, lokalita_zobraz, lat, lng, farba = vyries_lokalitu_a_gps(
+                titulok, plny_popis, najdene_psc, geolocator, MESTO
+            )
+
+            vysledky.append(
+                {
+                    "id": inzerat_id,
+                    "zdroj": "Bazoš",
+                    "titulok": titulok,
+                    "odkaz": odkaz,
+                    "cena_povodna": cena_bazos_raw,
+                    "spolu_cena": (
+                        f"{spolu_cena_num} €" if spolu_cena_num else None
+                    ),
+                    "efektivna_cena": efektivna_cena,
+                    "datum_str": datum_str,
+                    "datum_iso": datum_iso,
+                    "lokalita": lokalita_zobraz,
+                    "lat": lat,
+                    "lng": lng,
+                    "farba": farba,
+                }
+            )
+
+    return vysledky
+
+
+# 💡 MIESTO PRE ĎALŠIE PORTÁLY (Napr. Reality.sk)
+def scrapuj_reality_sk(hranicny_datum):
+    """Vráti zoznam bytov z Reality.sk v štandardizovanom formáte."""
+    vysledky = []
+    print("\n🔍 === Spúšťam scraper pre: Reality.sk ===")
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept-Language": "sk-SK,sk;q=0.9,en;q=0.8",
+    }
+
+    for strana in range(1, MAX_STRANOK + 1):
+        # URL pre prenájom bytov v Bratislave do 700€
+        url = f"https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page={strana}"
+
+        print(f"--- Reality.sk: Sťahujem stranu {strana} ---")
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            if response.status_code != 200:
+                print(f"⚠️ Reality.sk vrátil stavový kód {response.status_code}")
+                break
+        except Exception as e:
+            print(f"⚠️ Chyba pri načítavaní Reality.sk: {e}")
+            break
+
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        # Hľadanie kariet inzerátov (Reality.sk používa štandardne article alebo karty inzerátov)
+        inzeraty = soup.find_all("article") or soup.find_all(
+            "div", class_=re.compile(r"advert|property|card|item", re.IGNORECASE)
+        )
+
+        if not inzeraty:
+            print("  Žiadne ďalšie inzeráty neboli nájdené.")
+            break
+
+        for inzerat in inzeraty:
+            try:
+                # 1. Odkaz a Titulok
+                link_elem = inzerat.find("a", href=True)
+                if not link_elem:
+                    continue
+
+                odkaz = link_elem["href"]
+                if not odkaz.startswith("http"):
+                    odkaz = "https://www.reality.sk" + odkaz
+
+                # Získame unikátne ID z URL
+                id_match = re.search(r"/([a-zA-Z0-9\-]+)/?$", odkaz.rstrip("/"))
+                raw_id = (
+                    id_match.group(1)
+                    if id_match
+                    else str(abs(hash(odkaz)))[:8]
+                )
+                inzerat_id = f"reality_{raw_id}"
+
+                titulok = link_elem.text.strip()
+                if not titulok:
+                    heading_elem = inzerat.find(
+                        ["h2", "h3", "h4"],
+                        class_=re.compile(r"title|heading", re.IGNORECASE),
+                    )
+                    titulok = (
+                        heading_elem.text.strip()
+                        if heading_elem
+                        else "Byt na prenájom"
+                    )
+
+                # 2. Cena
+                cena_elem = inzerat.find(
+                    ["span", "div", "p"],
+                    class_=re.compile(r"price|cena", re.IGNORECASE),
+                )
+                cena_raw = (
+                    cena_elem.text.strip() if cena_elem else "Cena neuvedená"
+                )
+
+                # 3. Dátum pridania
+                datum_elem = inzerat.find(
+                    ["span", "time", "div"],
+                    class_=re.compile(r"date|time|datum", re.IGNORECASE),
+                )
+                dt_inzeratu = (
+                    parsuj_datum(datum_elem.text)
+                    if datum_elem
+                    else datetime.now()
+                )
+
+                if dt_inzeratu and dt_inzeratu < hranicny_datum:
+                    continue
+
+                datum_str = (
+                    dt_inzeratu.strftime("%d.%m.%Y")
+                    if dt_inzeratu
+                    else "Neznámy"
+                )
+                datum_iso = (
+                    dt_inzeratu.strftime("%Y-%m-%d")
+                    if dt_inzeratu
+                    else "2000-01-01"
+                )
+
+                # 4. Detail inzerátu pre plný popis a PSČ
+                plny_popis = ""
+                najdene_psc = None
+                try:
+                    time.sleep(0.2)
+                    res_detail = requests.get(
+                        odkaz, headers=headers, timeout=8
+                    )
+                    if res_detail.status_code == 200:
+                        soup_detail = BeautifulSoup(
+                            res_detail.text, "html.parser"
+                        )
+                        popis_elem = soup_detail.find(
+                            ["div", "section"],
+                            class_=re.compile(
+                                r"description|popis|detail-text", re.IGNORECASE
+                            ),
+                        )
+                        if popis_elem:
+                            plny_popis = popis_elem.text.strip()
+                        najdene_psc = extrahuj_psc_z_html(soup_detail)
+                except Exception:
+                    pass
+
+                # 5. Spracovanie ceny a lokality
+                cely_text_detail = f"{titulok} {plny_popis}"
+                reality_cena_num = extrahuj_cislo(cena_raw)
+                spolu_cena_num = extrahuj_spolu_cenu(cely_text_detail)
+
+                if spolu_cena_num:
+                    efektivna_cena = spolu_cena_num
+                elif reality_cena_num and reality_cena_num >= 150:
+                    efektivna_cena = reality_cena_num
+                else:
+                    efektivna_cena = None
+
+                if efektivna_cena and efektivna_cena > MAX_CENA:
+                    continue
+
+                ulica_str, lokalita_zobraz, lat, lng, farba = (
+                    vyries_lokalitu_a_gps(
+                        titulok, plny_popis, najdene_psc, geolocator, MESTO
+                    )
+                )
+
+                vysledky.append(
+                    {
+                        "id": inzerat_id,
+                        "zdroj": "Reality.sk",
+                        "titulok": titulok,
+                        "odkaz": odkaz,
+                        "cena_povodna": cena_raw,
+                        "spolu_cena": (
+                            f"{spolu_cena_num} €" if spolu_cena_num else None
+                        ),
+                        "efektivna_cena": efektivna_cena,
+                        "datum_str": datum_str,
+                        "datum_iso": datum_iso,
+                        "lokalita": lokalita_zobraz,
+                        "lat": lat,
+                        "lng": lng,
+                        "farba": farba,
+                    }
+                )
+
+            except Exception as e:
+                continue
+
+    print(f"✅ Reality.sk: Nájdene štruktúrované byty: {len(vysledky)}")
+    return vysledky
+
+# --- HLAVNÝ PROGRAM ---
 
 hranicny_datum = datetime.now() - timedelta(days=MAX_DNI_STARE)
 print(f"📅 Načítavam byty pridané po: {hranicny_datum.strftime('%d.%m.%Y')}")
 
+# 1. Načítanie databázy
 if os.path.exists(DB_FILE):
-    with open(DB_FILE, 'r', encoding='utf-8') as f:
+    with open(DB_FILE, "r", encoding="utf-8") as f:
         databaza_bytov = json.load(f)
 else:
     databaza_bytov = {}
 
+# 2. Zber dát zo všetkých modulárnych zdrojov
+vsetky_zostozbierane_byty = []
+vsetky_zostozbierane_byty.extend(scrapuj_bazos(hranicny_datum))
+vsetky_zostozbierane_byty.extend(scrapuj_reality_sk(hranicny_datum))
+
+# 3. ODSTRÁNENIE DUPLICÍT
+vsetky_zostozbierane_byty = odstran_duplicity(vsetky_zostozbierane_byty)
+
+# 4. Spracovanie a notifikácie
 nove_pribudli = 0
-odfiltrovane_drahé = 0
 
-for strana in range(MAX_STRANOK):
-    offset = strana * 20
-    url = f"https://reality.bazos.sk/prenajmu/byt/{'' if offset==0 else str(offset)+'/'}?hledat=bratislava&hlokalita=&humkreis=10&cenaod=&cenado=700&order="
-    
-    print(f"--- Sťahujem stranu {strana + 1} ---")
-    response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-    soup = BeautifulSoup(response.text, 'html.parser')
+for byt in vsetky_zostozbierane_byty:
+    b_id = byt["id"]
+    v_db = b_id in databaza_bytov
 
-    for inzerat in soup.find_all('div', class_='inzeraty'):
-        link_elem = inzerat.find('h2', class_='nadpis').find('a')
-        titulok = link_elem.text.strip()
-        odkaz = "https://reality.bazos.sk" + link_elem['href']
-        cena_bazos_raw = inzerat.find('div', class_='inzeratycena').text.strip()
-        inzerat_id = odkaz.split('/')[-2]
+    databaza_bytov[b_id] = byt
 
-        dt_inzeratu = parsuj_datum(inzerat.text)
-        if dt_inzeratu and dt_inzeratu < hranicny_datum:
-            continue
+    if not v_db:
+        nove_pribudli += 1
+        posli_discord_notifikaciu(
+            titulok=byt["titulok"],
+            cena=byt["efektivna_cena"],
+            lokalita=byt["lokalita"],
+            odkaz=byt["odkaz"],
+            zdroj=byt["zdroj"],
+        )
+        spolu_info = (
+            f" (Spolu: {byt['spolu_cena']})" if byt["spolu_cena"] else ""
+        )
+        print(
+            f"  ✨ [NOVÝ BYT {byt['efektivna_cena']}€{spolu_info}] ZDROJ: {byt['zdroj']} | Lokalita: '{byt['lokalita']}'"
+        )
 
-        datum_str = dt_inzeratu.strftime("%d.%m.%Y") if dt_inzeratu else "Neznámy"
-        datum_iso = dt_inzeratu.strftime("%Y-%m-%d") if dt_inzeratu else "2000-01-01"
-
-        try:
-            time.sleep(0.2)
-            res_detail = requests.get(odkaz, headers={'User-Agent': 'Mozilla/5.0'})
-            soup_detail = BeautifulSoup(res_detail.text, 'html.parser')
-            popis_elem = soup_detail.find('div', class_='popis') or soup_detail.find('div', class_='popisdetail') or soup_detail.find('div', class_='kompletpopis')
-            plny_popis = popis_elem.text.strip() if popis_elem else ""
-            najdene_psc = extrahuj_psc_z_html(soup_detail)
-        except Exception:
-            plny_popis = ""
-            najdene_psc = None
-
-        for odsek in ["Podobné inzeráty", "Inzeráty používateľa", "Odpovedať na inzerát"]:
-            if odsek in plny_popis:
-                plny_popis = plny_popis.split(odsek)[0]
-
-        cely_text_detail = f"{titulok} {plny_popis}"
-        
-        bazos_cena_num = extrahuj_cislo(cena_bazos_raw)
-        spolu_cena_num = extrahuj_spolu_cenu(cely_text_detail)
-
-        if spolu_cena_num:
-            efektivna_cena = spolu_cena_num
-        elif bazos_cena_num and bazos_cena_num >= 150:
-            efektivna_cena = bazos_cena_num
-        else:
-            efektivna_cena = None
-
-        # Pevný filter drahých bytov
-        if efektivna_cena and efektivna_cena > MAX_CENA:
-            odfiltrovane_drahé += 1
-            if inzerat_id in databaza_bytov:
-                del databaza_bytov[inzerat_id]
-            print(f"  💸 [VYRADENÝ {efektivna_cena}€ > {MAX_CENA}€]: {titulok[:35]}...")
-            continue
-
-        ulica_str, lokalita_zobraz, lat, lng, farba = vyries_lokalitu_a_gps(titulok, plny_popis, najdene_psc, geolocator, MESTO)
-
-        v_db = inzerat_id in databaza_bytov
-        databaza_bytov[inzerat_id] = {
-            "titulok": titulok,
-            "odkaz": odkaz,
-            "cena_bazos": cena_bazos_raw,
-            "spolu_cena": f"{spolu_cena_num} €" if spolu_cena_num else None,
-            "efektivna_cena": efektivna_cena,
-            "datum_str": datum_str,
-            "datum_iso": datum_iso,
-            "lokalita": lokalita_zobraz,
-            "lat": lat,
-            "lng": lng,
-            "farba": farba
-        }
-        
-        if not v_db:
-            nove_pribudli += 1
-            posli_discord_notifikaciu(titulok, efektivna_cena, lokalita_zobraz, odkaz)
-        spolu_info = f" (Spolu: {spolu_cena_num}€)" if spolu_cena_num else ""
-        print(f"  ✨ [PRIDANÝ BYT {efektivna_cena}€{spolu_info}] Lokalita: '{lokalita_zobraz}' | {titulok[:30]}...")
-
-# 🧹 STRUKTÚRNE ČISTENIE DATABÁZY (Odstráni staré aj drahé položky)
+# 4. Čistenie databázy (odstráni staré alebo drahé inzeráty)
 aktualizovana_db = {}
 for b_id, b_data in databaza_bytov.items():
     dt = datetime.strptime(b_data["datum_iso"], "%Y-%m-%d")
     ef_cena = b_data.get("efektivna_cena")
-    
-    # Podmienka: Musí byť nový a cena nesmie presahovať MAX_CENA
+
     if dt >= hranicny_datum and (ef_cena is None or ef_cena <= MAX_CENA):
         aktualizovana_db[b_id] = b_data
 
-with open(DB_FILE, 'w', encoding='utf-8') as f:
+with open(DB_FILE, "w", encoding="utf-8") as f:
     json.dump(aktualizovana_db, f, ensure_ascii=False, indent=2)
 
 
@@ -360,20 +788,37 @@ mapa = folium.Map(location=[48.1486, 17.1077], zoom_start=13)
 marker_cluster = MarkerCluster(spiderfyOnMaxZoom=True).add_to(mapa)
 
 for b_id, b in aktualizovana_db.items():
-    spolu_riadok = f"<b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>{b['spolu_cena']}</b><br>" if b['spolu_cena'] else ""
-    
+    # BEZPEČNÉ NAČÍTANIE CENY A ZDROJA (Funguje pre staré aj nové záznamy v DB)
+    zobrazena_cena = b.get("cena_povodna") or b.get("cena_bazos") or "Neznáma"
+    zobrazeny_zdroj = b.get("zdroj", "Bazoš")
+
+    spolu_riadok = (
+        f"<b>💰 Cena Spolu:</b> <b style='color:#d9534f;"
+        f" font-size:1.1em;'>{b.get('spolu_cena')}</b><br>"
+        if b.get("spolu_cena")
+        else ""
+    )
+
+    # 1. Vygenerovanie hlavného tlačidla pre odkaz
+    hlavny_zdroj_nazov = zobrazeny_zdroj.split(",")[0]
+    odkazy_html = f"""<a href='{b['odkaz']}' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na {hlavny_zdroj_nazov} 🔗</a>"""
+
+    # 2. Ak po deduplikácii existujú aj ďalšie odkazové portály, pridáme pre ne ďalšie tlačidlá
+    if "dalsie_odkazy" in b and b["dalsie_odkazy"]:
+        for alt in b["dalsie_odkazy"]:
+            odkazy_html += f"""<br><a href='{alt['odkaz']}' target='_blank' style='background-color: #5bc0de; color: white; text-decoration: none; padding: 5px 10px; border-radius: 4px; display: inline-block; font-size: 11px; width: 88%; text-align: center; margin-top: 4px;'>Tiež na {alt['zdroj']} 🔗</a>"""
+
     popup_text = f"""
     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">
         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">
             {b['titulok']}
         </h4>
-        <b>Cena Bazoš:</b> {b['cena_bazos']}<br>
+        <b>Pôvodná cena:</b> {zobrazena_cena}<br>
         {spolu_riadok}
         <b>📅 Dátum:</b> {b['datum_str']}<br>
-        <b>📍 Lokalita:</b> {b['lokalita']}<br><br>
-        <a href='{b['odkaz']}' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>
-            Otvoriť na Bazoši 🔗
-        </a>
+        <b>📍 Lokalita:</b> {b['lokalita']}<br>
+        <b>🌐 Zdroj:</b> {zobrazeny_zdroj}<br><br>
+        {odkazy_html}
         <br><br>
         <button id="btn-skryt-{b_id}" onclick="toggleSkryt('{b_id}')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">
             👻 Stmaviť / Priesvitný byt
@@ -382,14 +827,13 @@ for b_id, b in aktualizovana_db.items():
     """
 
     folium.Marker(
-        location=[b['lat'], b['lng']],
+        location=[b["lat"], b["lng"]],
         popup=folium.Popup(popup_text, max_width=320),
-        icon=folium.Icon(color=b['farba'], icon="home"),
-        options={'inzeratId': str(b_id)}  # 🎯 Priamy kľúč pre JavaScript
+        icon=folium.Icon(color=b["farba"], icon="home"),
+        options={"inzeratId": str(b_id)},
     ).add_to(marker_cluster)
 
-
-# --- SPROSTREDKOVANÝ JAVASCRIPT PRE SKUTOČNÉ SPRIESVITNENIE IKONY ---
+# --- JAVASCRIPT PRE SPRIESVITNENIE IKONY ---
 skryt_script = """
 <script>
 function ziskajIdInzeratu(m) {
@@ -410,12 +854,10 @@ function aktualizujVzhladMarkera(m) {
     let skryte = JSON.parse(localStorage.getItem('skryte_byty') || '[]');
     let jeSkryty = skryte.includes(String(id));
 
-    // Natívne nastaví priesvitnosť 20%
     if (m.setOpacity) {
         m.setOpacity(jeSkryty ? 0.2 : 1.0);
     }
 
-    // Aplikuje sivý filter priamo na DOM prvok
     let el = m.getElement ? m.getElement() : m._icon;
     if (el) {
         if (jeSkryty) {
@@ -475,7 +917,6 @@ function obnovVsetkyMarkery() {
     });
 }
 
-// Háčik priamo na vykresľovanie ikon v Leaflete
 if (typeof L !== 'undefined' && L.Marker) {
     let origOnAdd = L.Marker.prototype.onAdd;
     L.Marker.prototype.onAdd = function(map) {
@@ -496,6 +937,6 @@ mapa.get_root().html.add_child(folium.Element(skryt_script))
 
 mapa.save("index.html")
 
-print(f"\n🎉 HOTOVO!")
+print("\n🎉 HOTOVO!")
 print(f"  + Pribudlo {nove_pribudli} nových bytov.")
 print(f"  🗺️ Na mape sa celkovo zobrazuje {len(aktualizovana_db)} bytov.")
