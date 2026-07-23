@@ -724,7 +724,7 @@
   },
   "bazos_193887267": {
     "id": "bazos_193887267",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Ponúkame na prenájom kompletne zariadený 3-izbový byt v mode",
     "odkaz": "https://reality.bazos.sk/inzerat/193887267/ponukame-na-prenajom-kompletne-zariadeny-3-izbovy-byt-v-mode.php",
     "cena_povodna": "700 €",
@@ -732,24 +732,20 @@
     "efektivna_cena": 700,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 821 02 (Ružinov)",
-    "lat": 48.1582936,
-    "lng": 17.1633484,
-    "farba": "orange",
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/193743719/na-prenajom-zariadeny-2-izbovy-byt-koloseo-bratislava-nov.php"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/ponukame-na-prenajom-kompletne-zariadeny-3-izbovy-byt-v-modernej-novostavbe-na-tomasikovej-ulici/JuqrTpllOgD/"
       }
     ]
   },
   "bazos_193887159": {
     "id": "bazos_193887159",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Na prenájom: Štýlové  2‑izbové  byty v novostavbe s parkovan",
     "odkaz": "https://reality.bazos.sk/inzerat/193887159/na-prenajom-stylove-2izbove-byty-v-novostavbe-s-parkovan.php",
     "cena_povodna": "680 €",
@@ -760,13 +756,7 @@
     "lokalita": "Tokajícka (Ružinov)",
     "lat": 48.16180133618,
     "lng": 17.148220107728,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/na-prenajom-stylove-2-izbove-byty-v-novostavbe-s-parkovanim-seberiniho-ruzinov/Jux5fx7Fc0Y/"
-      }
-    ]
+    "farba": "green"
   },
   "bazos_193886687": {
     "id": "bazos_193886687",
@@ -785,7 +775,7 @@
   },
   "bazos_193885952": {
     "id": "bazos_193885952",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Na prenájom priestranný 3-izbový čiastočne zariadený byt s v",
     "odkaz": "https://reality.bazos.sk/inzerat/193885952/na-prenajom-priestranny-3-izbovy-ciastocne-zariadeny-byt-s-v.php",
     "cena_povodna": "700 €",
@@ -796,17 +786,11 @@
     "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/na-prenajom-priestranny-3-izbovy-ciastocne-zariadeny-byt-s-vymerou-priblizne-80-m2-ba-ii-top/JupZdLlJb-i/"
-      }
-    ]
+    "farba": "orange"
   },
   "bazos_193885282": {
     "id": "bazos_193885282",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Štýlové bývanie v srdci mesta s veľkou terasou a panoramatic",
     "odkaz": "https://reality.bazos.sk/inzerat/193885282/stylove-byvanie-v-srdci-mesta-s-velkou-terasou-a-panoramatic.php",
     "cena_povodna": "570 €",
@@ -830,14 +814,6 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/193885241/stylove-byvanie-v-srdci-mesta-s-velkou-terasou-a-panoramatic.php"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/stylove-byvanie-v-srdci-mesta-s-velkou-terasou-a-panoramatickym-vyhladom/JumViiHJDNM/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/stylove-byvanie-v-srdci-mesta-s-velkou-terasou-a-panoramatickym-vyhladom/JuULa00caLx/"
       }
     ]
   },
@@ -858,7 +834,7 @@
   },
   "bazos_193882013": {
     "id": "bazos_193882013",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Priestranný 3-izb. byt s loggiou | Ideálny pre rodinu aj štu",
     "odkaz": "https://reality.bazos.sk/inzerat/193882013/priestranny-3-izb-byt-s-loggiou-idealny-pre-rodinu-aj-stu.php",
     "cena_povodna": "700 €",
@@ -869,13 +845,7 @@
     "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/priestranny-3-izb-byt-s-loggiou-idealny-pre-rodinu-aj-studentov/Ju3j1DBSr9e/"
-      }
-    ]
+    "farba": "orange"
   },
   "bazos_193878613": {
     "id": "bazos_193878613",
@@ -975,7 +945,7 @@
   },
   "bazos_193852077": {
     "id": "bazos_193852077",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Prenájom dvojgarsónka, Osuského ulica, Bratislava V. Petržal",
     "odkaz": "https://reality.bazos.sk/inzerat/193852077/prenajom-dvojgarsonka-osuskeho-ulica-bratislava-v-petrzal.php",
     "cena_povodna": "699 €",
@@ -986,13 +956,7 @@
     "lokalita": "Osuského (Petržalka)",
     "lat": 48.11877134867,
     "lng": 17.114480369312,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/prenajom-dvojgarsonka-osuskeho-ulica-bratislava-v-petrzalka/Ju4DUw7CnV7/"
-      }
-    ]
+    "farba": "green"
   },
   "bazos_193850232": {
     "id": "bazos_193850232",
@@ -1107,7 +1071,7 @@
   },
   "bazos_193826737": {
     "id": "bazos_193826737",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Prenájom novo zrekonštruovaný 1 izb byt BA IV Hlaváčikova ul",
     "odkaz": "https://reality.bazos.sk/inzerat/193826737/prenajom-novo-zrekonstruovany-1-izb-byt-ba-iv-hlavacikova-ul.php",
     "cena_povodna": "600 €",
@@ -1118,13 +1082,7 @@
     "lokalita": "Hany Meličkovej (Karlova Ves)",
     "lat": 49.987329103,
     "lng": 13.862317088,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/prenajom-novo-zrekonstruovany-1-izb-byt-ba-iv-hlavacikova-ul/Juog6h61pJa/"
-      }
-    ]
+    "farba": "green"
   },
   "bazos_193822500": {
     "id": "bazos_193822500",
@@ -1286,10 +1244,10 @@
     "efektivna_cena": 690,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 821 02 (Ružinov)",
-    "lat": 48.1582936,
-    "lng": 17.1633484,
-    "farba": "orange"
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193755892": {
     "id": "bazos_193755892",
@@ -2622,7 +2580,7 @@
   },
   "bazos_193918937": {
     "id": "bazos_193918937",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Na prenájom priestranný a slnečný 2-izbový byt na Kyjevskej",
     "odkaz": "https://reality.bazos.sk/inzerat/193918937/na-prenajom-priestranny-a-slnecny-2-izbovy-byt-na-kyjevskej.php",
     "cena_povodna": "550 €",
@@ -2630,20 +2588,14 @@
     "efektivna_cena": 550,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/na-prenajom-priestranny-a-slnecny-2-izbovy-byt-na-kyjevskej-ulici/Jue8hB09qqK/"
-      }
-    ]
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193917422": {
     "id": "bazos_193917422",
-    "zdroj": "Bazoš, Reality.sk",
+    "zdroj": "Bazoš",
     "titulok": "Slnečný 2-izbový byt, Kyjevská ulica, Bratislava –Nové Mesto",
     "odkaz": "https://reality.bazos.sk/inzerat/193917422/slnecny-2-izbovy-byt-kyjevska-ulica-bratislava-nove-mesto.php",
     "cena_povodna": "550 €",
@@ -2659,10 +2611,6 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/193916154/prenajom-pekny-2-izbovy-byt-kyjevska-ulica-bratislava-iii.php"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/prenajom-slnecny-2-izbovy-byt-kyjevska-ulica-bratislava-nove-mesto/JuarTWkSpcP/"
       }
     ]
   },
