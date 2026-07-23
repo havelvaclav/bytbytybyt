@@ -590,8 +590,27 @@ def scrapuj_reality_sk(hranicny_datum):
 
         for inzerat in inzeraty:
             try:
-                # 1. Odkaz a Titulok
-                link_elem = inzerat.find("a", href=True)
+                # 1. Odkaz a Titulok (Smarter vyhľadávanie)
+                link_elem = None
+
+                # Najprv skúsim nájsť odkaz priamo vo vnútri nadpisu (h2, h3, h4)
+                heading_elem = inzerat.find(["h2", "h3", "h4"])
+                if heading_elem:
+                    link_elem = heading_elem.find("a", href=True)
+
+                # Ak v nadpise nebol, prejdeme všetky <a> odkazové tagy a ignorujeme čísla (napr. pocty fotiek "3")
+                if not link_elem:
+                    for cand in inzerat.find_all("a", href=True):
+                        txt = cand.text.strip()
+                        # Odkaz musí mať aspoň 4 znaky a nesmie byť len čisté číslo
+                        if len(txt) > 3 and not txt.isdigit():
+                            link_elem = cand
+                            break
+
+                # Ak ani tak nič nenašiel, vezmeme prvý odkaz
+                if not link_elem:
+                    link_elem = inzerat.find("a", href=True)
+
                 if not link_elem:
                     continue
 
@@ -599,26 +618,9 @@ def scrapuj_reality_sk(hranicny_datum):
                 if not odkaz.startswith("http"):
                     odkaz = "https://www.reality.sk" + odkaz
 
-                # Získame unikátne ID z URL
-                id_match = re.search(r"/([a-zA-Z0-9\-]+)/?$", odkaz.rstrip("/"))
-                raw_id = (
-                    id_match.group(1)
-                    if id_match
-                    else str(abs(hash(odkaz)))[:8]
-                )
-                inzerat_id = f"reality_{raw_id}"
-
                 titulok = link_elem.text.strip()
-                if not titulok:
-                    heading_elem = inzerat.find(
-                        ["h2", "h3", "h4"],
-                        class_=re.compile(r"title|heading", re.IGNORECASE),
-                    )
-                    titulok = (
-                        heading_elem.text.strip()
-                        if heading_elem
-                        else "Byt na prenájom"
-                    )
+                if not titulok or titulok.isdigit():
+                    titulok = "Byt na prenájom"
 
                 # 2. Cena
                 cena_elem = inzerat.find(
