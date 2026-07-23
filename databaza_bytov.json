@@ -672,7 +672,7 @@
     "efektivna_cena": 600,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -717,10 +717,10 @@
     "efektivna_cena": 380,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "nové zámky",
+    "lat": 47.996543277183,
+    "lng": 18.168935511329,
+    "farba": "green"
   },
   "bazos_193887267": {
     "id": "bazos_193887267",
@@ -968,7 +968,7 @@
     "efektivna_cena": 670,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 811 01",
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -1154,7 +1154,7 @@
     "efektivna_cena": 550,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -1184,9 +1184,9 @@
     "efektivna_cena": 490,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
-    "lat": 54.7801451,
-    "lng": 20.0944144,
+    "lokalita": "Michala Bučiča (Devínska Nová Ves)",
+    "lat": 48.207339481,
+    "lng": 16.975960238,
     "farba": "green"
   },
   "bazos_193800972": {
@@ -1199,10 +1199,10 @@
     "efektivna_cena": 680,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 831 52",
-    "lat": 48.1960694,
-    "lng": 17.1407711,
-    "farba": "orange"
+    "lokalita": "NOVOSTAVBE UNIVERSO",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193770170": {
     "id": "bazos_193770170",
@@ -1229,7 +1229,7 @@
     "efektivna_cena": 520,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -2246,7 +2246,7 @@
     "efektivna_cena": 650,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -3018,6 +3018,21 @@
     "lokalita": "PSČ: 831 03 (Ostredky)",
     "lat": 48.1649786,
     "lng": 17.1309307,
+    "farba": "orange"
+  },
+  "bazos_193928495": {
+    "id": "bazos_193928495",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM 3-IZB. BYTU V KARLOVEJ VSI , ZREKONŠTRUOVANÝ, ZARIA",
+    "odkaz": "https://reality.bazos.sk/inzerat/193928495/prenajom-3-izb-bytu-v-karlovej-vsi-zrekonstruovany-zaria.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": null,
+    "efektivna_cena": 700,
+    "datum_str": "23.07.2026",
+    "datum_iso": "2026-07-23",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
     "farba": "orange"
   }
 }
