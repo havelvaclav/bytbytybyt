@@ -389,45 +389,6 @@
     "lng": 17.1228167,
     "farba": "orange"
   },
-  "193734110": {
-    "titulok": "ARISE / Prenájom 1 izbový byt.",
-    "odkaz": "https://reality.bazos.sk/inzerat/193734110/arise-prenajom-1-izbovy-byt.php",
-    "cena_bazos": "550 €",
-    "spolu_cena": null,
-    "efektivna_cena": 550,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
-  },
-  "193724942": {
-    "titulok": "Prenájom 2-izbového bytu, 48 m², Karlova Ves – Dlhé Diely",
-    "odkaz": "https://reality.bazos.sk/inzerat/193724942/prenajom-2-izboveho-bytu-48-m-karlova-ves-dlhe-diely.php",
-    "cena_bazos": "550 €",
-    "spolu_cena": null,
-    "efektivna_cena": 550,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
-  },
-  "193714401": {
-    "titulok": "WFG | Na prenájom zariadený 2-izbový byt s loggiou v obľúben",
-    "odkaz": "https://reality.bazos.sk/inzerat/193714401/wfg-na-prenajom-zariadeny-2-izbovy-byt-s-loggiou-v-obluben.php",
-    "cena_bazos": "640 €",
-    "spolu_cena": null,
-    "efektivna_cena": 640,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 821 09",
-    "lat": 48.1398151,
-    "lng": 17.1441354,
-    "farba": "orange"
-  },
   "193753019": {
     "titulok": "Prenajom nadstandartny 1-izbovy byt v Dubravke",
     "odkaz": "https://reality.bazos.sk/inzerat/193753019/prenajom-nadstandartny-1-izbovy-byt-v-dubravke.php",
@@ -670,9 +631,9 @@
     "cena_povodna": "600 €",
     "spolu_cena": null,
     "efektivna_cena": 600,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 821 01",
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -685,12 +646,12 @@
     "cena_povodna": "700 €",
     "spolu_cena": null,
     "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Agátová (Dúbravka)",
-    "lat": 42.535265076,
-    "lng": 18.418318201,
-    "farba": "green"
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_193797379": {
     "id": "bazos_193797379",
@@ -700,8 +661,8 @@
     "cena_povodna": "640 €",
     "spolu_cena": null,
     "efektivna_cena": 640,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
     "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
@@ -715,11 +676,11 @@
     "cena_povodna": "380 €",
     "spolu_cena": null,
     "efektivna_cena": 380,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "nové zámky",
-    "lat": 47.996543277183,
-    "lng": 18.168935511329,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "Nábrežná",
+    "lat": 48.118933339242,
+    "lng": 17.089122350745,
     "farba": "green"
   },
   "bazos_193887267": {
@@ -753,10 +714,10 @@
     "efektivna_cena": 680,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "Tokajícka (Ružinov)",
-    "lat": 48.16180133618,
-    "lng": 17.148220107728,
-    "farba": "green"
+    "lokalita": "PSČ: 821 03 (Ružinov)",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
+    "farba": "orange"
   },
   "bazos_193886687": {
     "id": "bazos_193886687",
@@ -783,7 +744,7 @@
     "efektivna_cena": 700,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -842,7 +803,7 @@
     "efektivna_cena": 700,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -902,10 +863,10 @@
     "efektivna_cena": 610,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "Tokajícka (Ružinov)",
-    "lat": 48.16180133618,
-    "lng": 17.148220107728,
-    "farba": "green"
+    "lokalita": "PSČ: 821 03 (Ružinov)",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
+    "farba": "orange"
   },
   "bazos_193856423": {
     "id": "bazos_193856423",
@@ -917,7 +878,7 @@
     "efektivna_cena": 700,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -1154,7 +1115,7 @@
     "efektivna_cena": 550,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -1229,7 +1190,7 @@
     "efektivna_cena": 520,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -1289,39 +1250,9 @@
     "efektivna_cena": 700,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "Agátová (Dúbravka)",
-    "lat": 42.535265076,
-    "lng": 18.418318201,
-    "farba": "green"
-  },
-  "bazos_193734110": {
-    "id": "bazos_193734110",
-    "zdroj": "Bazoš",
-    "titulok": "ARISE / Prenájom 1 izbový byt.",
-    "odkaz": "https://reality.bazos.sk/inzerat/193734110/arise-prenajom-1-izbovy-byt.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": null,
-    "efektivna_cena": 550,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
-  },
-  "bazos_193714401": {
-    "id": "bazos_193714401",
-    "zdroj": "Bazoš",
-    "titulok": "WFG | Na prenájom zariadený 2-izbový byt s loggiou v obľúben",
-    "odkaz": "https://reality.bazos.sk/inzerat/193714401/wfg-na-prenajom-zariadeny-2-izbovy-byt-s-loggiou-v-obluben.php",
-    "cena_povodna": "640 €",
-    "spolu_cena": null,
-    "efektivna_cena": 640,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 821 09",
-    "lat": 48.1398151,
-    "lng": 17.1441354,
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
     "farba": "orange"
   },
   "reality_40078891": {
@@ -1627,27 +1558,6 @@
     "lng": 17.1566781,
     "farba": "orange"
   },
-  "reality_JuQtyrz9UbT": {
-    "id": "reality_JuQtyrz9UbT",
-    "zdroj": "Reality.sk",
-    "titulok": "Predmetom prenájmu je 3 izbový byt na Kadnárovej ulici BA  -  Rača -  novostavba",
-    "odkaz": "https://www.reality.sk/byty/predmetom-prenajmu-je-3-izbovy-byt-na-kadnarovej-ulici-ba-raca-novostavba/JuQtyrz9UbT/",
-    "cena_povodna": "670 €/mesiac\n                                                            9 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 670,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 821 01 (Rača)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/predmetom-prenajmu-je-3-izbovy-byt-na-kadnarovej-ulici-ba-raca-novostavba/JuQtyrz9UbT/"
-      }
-    ]
-  },
   "reality_JuUwmLIT6ke": {
     "id": "reality_JuUwmLIT6ke",
     "zdroj": "Reality.sk",
@@ -1879,21 +1789,6 @@
     "lng": 17.149965411,
     "farba": "blue"
   },
-  "reality_JuGibCEV-ov": {
-    "id": "reality_JuGibCEV-ov",
-    "zdroj": "Reality.sk",
-    "titulok": "GCK s.r.o. ponúka exkluzívne na prenájom garzónku v Petržalke, s loggiou, 27,42m2.",
-    "odkaz": "https://www.reality.sk/byty/gck-s-r-o-ponuka-exkluzivne-na-prenajom-garzonku-v-petrzalke-s-loggiou-27-42m2/JuGibCEV-ov/",
-    "cena_povodna": "650 €/mesiac\n                                                            27 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 650,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 821 05",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
-  },
   "reality_15333662": {
     "id": "reality_15333662",
     "zdroj": "Reality.sk",
@@ -1995,21 +1890,6 @@
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
     "lokalita": "PSČ: 811 06 (Nové Mesto)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
-  },
-  "reality_JuLxnlfrx07": {
-    "id": "reality_JuLxnlfrx07",
-    "zdroj": "Reality.sk",
-    "titulok": "METROPOLITAN │Zariadený 1-izbový byt v novostavbe, Petržalka",
-    "odkaz": "https://www.reality.sk/byty/metropolitan-zariadeny-1-izbovy-byt-v-novostavbe-petrzalka/JuLxnlfrx07/",
-    "cena_povodna": "600 €/mesiac\n                                                            18 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 600,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 811 06 (Petržalka)",
     "lat": 48.1486616,
     "lng": 17.108133,
     "farba": "orange"
@@ -2231,7 +2111,7 @@
     "efektivna_cena": 350,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -2246,7 +2126,7 @@
     "efektivna_cena": 650,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -2398,21 +2278,6 @@
     "lng": 17.119406427,
     "farba": "gray"
   },
-  "reality_81633841": {
-    "id": "reality_81633841",
-    "zdroj": "Reality.sk",
-    "titulok": "METROPOLITAN │ Slnečný 2-izbový byt s loggiou, Ružinov",
-    "odkaz": "https://www.reality.sk/byty/metropolitan-slnecny-2-izbovy-byt-s-loggiou-ruzinov/JuF7Ua_SkpY/",
-    "cena_povodna": "700 €/mesiac\n                                                            14 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 811 06 (Ružinov)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
-  },
   "reality_38198387": {
     "id": "reality_38198387",
     "zdroj": "Reality.sk",
@@ -2427,21 +2292,6 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "gray"
-  },
-  "reality_44115268": {
-    "id": "reality_44115268",
-    "zdroj": "Reality.sk",
-    "titulok": "Príjemný 2,5i byt 51m2, v pokojnom prostredí",
-    "odkaz": "https://www.reality.sk/byty/prijemny-2-5i-byt-51m2-v-pokojnom-prostredi/JuMx_sJnMVj/",
-    "cena_povodna": "650 €/mesiac\n                                                            13 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 650,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 811 02",
-    "lat": 48.1456082,
-    "lng": 17.0825406,
-    "farba": "orange"
   },
   "reality_JuXY6Jo-8lq": {
     "id": "reality_JuXY6Jo-8lq",
@@ -2588,9 +2438,9 @@
     "efektivna_cena": 550,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "stromová (Kramáre)",
+    "lat": 37.692,
+    "lng": -79.889731,
     "farba": "green"
   },
   "bazos_193917422": {
@@ -2960,36 +2810,6 @@
     "lng": 17.119406427,
     "farba": "gray"
   },
-  "reality_90431245": {
-    "id": "reality_90431245",
-    "zdroj": "Reality.sk",
-    "titulok": "METROPOLITAN │ Slnečný 2-izbový byt s loggiou, Ružinov",
-    "odkaz": "https://www.reality.sk/byty/metropolitan-slnecny-2-izbovy-byt-s-loggiou-ruzinov/JuF7Ua_SkpY/",
-    "cena_povodna": "700 €/mesiac\n                                                            14 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 811 06 (Ružinov)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
-  },
-  "reality_24205148": {
-    "id": "reality_24205148",
-    "zdroj": "Reality.sk",
-    "titulok": "Príjemný 2,5i byt 51m2, v pokojnom prostredí",
-    "odkaz": "https://www.reality.sk/byty/prijemny-2-5i-byt-51m2-v-pokojnom-prostredi/JuMx_sJnMVj/",
-    "cena_povodna": "650 €/mesiac\n                                                            13 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 650,
-    "datum_str": "17.07.2026",
-    "datum_iso": "2026-07-17",
-    "lokalita": "PSČ: 811 02",
-    "lat": 48.1456082,
-    "lng": 17.0825406,
-    "farba": "orange"
-  },
   "reality_53516134": {
     "id": "reality_53516134",
     "zdroj": "Reality.sk",
@@ -3033,6 +2853,66 @@
     "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_193941339": {
+    "id": "bazos_193941339",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom krásny 2 izbový byt, Páričkova ulica, Bratislava II",
+    "odkaz": "https://reality.bazos.sk/inzerat/193941339/prenajom-krasny-2-izbovy-byt-parickova-ulica-bratislava-ii.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": null,
+    "efektivna_cena": 630,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "Páričkova (Ružinov)",
+    "lat": 48.148211836085,
+    "lng": 17.128977158179,
+    "farba": "green"
+  },
+  "bazos_193940584": {
+    "id": "bazos_193940584",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1 izbový byt SLNEČNICE, Žltá ulica, Bratislava V. P",
+    "odkaz": "https://reality.bazos.sk/inzerat/193940584/prenajom-1-izbovy-byt-slnecnice-zlta-ulica-bratislava-v-p.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": null,
+    "efektivna_cena": 650,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "Žltá (Petržalka)",
+    "lat": 48.087577434902,
+    "lng": 17.126260248317,
+    "farba": "green"
+  },
+  "bazos_193939376": {
+    "id": "bazos_193939376",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom zariadená garsónka s parkovaním | Mierová ulica,",
+    "odkaz": "https://reality.bazos.sk/inzerat/193939376/na-prenajom-zariadena-garsonka-s-parkovanim-mierova-ulica.php",
+    "cena_povodna": "420 €",
+    "spolu_cena": null,
+    "efektivna_cena": 420,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.147520984188,
+    "lng": 17.180212177378,
+    "farba": "green"
+  },
+  "bazos_193937013": {
+    "id": "bazos_193937013",
+    "zdroj": "Bazoš",
+    "titulok": "2-izbový byt po rekonštrukcii na Vajnorskej ulici pri Poluse",
+    "odkaz": "https://reality.bazos.sk/inzerat/193937013/2-izbovy-byt-po-rekonstrukcii-na-vajnorskej-ulici-pri-poluse.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": null,
+    "efektivna_cena": 630,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
     "farba": "orange"
   }
 }
