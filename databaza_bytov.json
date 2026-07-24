@@ -633,10 +633,10 @@
     "efektivna_cena": 600,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_193753019": {
     "id": "bazos_193753019",
@@ -678,10 +678,10 @@
     "efektivna_cena": 380,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Nábrežná",
-    "lat": 48.118933339242,
-    "lng": 17.089122350745,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_193887267": {
     "id": "bazos_193887267",
@@ -693,7 +693,7 @@
     "efektivna_cena": 700,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lokalita": "prostredí pri Malom Dunaji",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green",
@@ -714,10 +714,10 @@
     "efektivna_cena": 680,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 821 03 (Ružinov)",
-    "lat": 48.1548806,
-    "lng": 17.1672305,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193886687": {
     "id": "bazos_193886687",
@@ -729,10 +729,10 @@
     "efektivna_cena": 550,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "Jakubovo (Staré Mesto)",
-    "lat": 50.441433649625,
-    "lng": 15.359029884516,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09 (Ružinov)",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_193885952": {
     "id": "bazos_193885952",
@@ -759,10 +759,10 @@
     "efektivna_cena": 570,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "Jakubovo (Staré Mesto)",
-    "lat": 50.441433649625,
-    "lng": 15.359029884516,
-    "farba": "green",
+    "lokalita": "PSČ: 811 09 (Ružinov)",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -833,10 +833,10 @@
     "efektivna_cena": 620,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_193651852": {
     "id": "bazos_193651852",
@@ -863,10 +863,10 @@
     "efektivna_cena": 610,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 03 (Ružinov)",
-    "lat": 48.1548806,
-    "lng": 17.1672305,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193856423": {
     "id": "bazos_193856423",
@@ -929,7 +929,7 @@
     "efektivna_cena": 670,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -995,10 +995,10 @@
     "efektivna_cena": 520,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA (Trnávka)",
+    "lat": 49.686397226,
+    "lng": 18.17971062,
+    "farba": "green"
   },
   "bazos_192331127": {
     "id": "bazos_192331127",
@@ -1010,7 +1010,7 @@
     "efektivna_cena": 610,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -1025,10 +1025,10 @@
     "efektivna_cena": 670,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "Bárdošova (Nové Mesto)",
-    "lat": 48.167384249195,
-    "lng": 17.098136816168,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Kramáre)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_193826737": {
     "id": "bazos_193826737",
@@ -1085,7 +1085,7 @@
     "efektivna_cena": 440,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00 (Kramáre)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -1115,10 +1115,10 @@
     "efektivna_cena": 550,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_193815900": {
     "id": "bazos_193815900",
@@ -1190,10 +1190,10 @@
     "efektivna_cena": 520,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_193758245": {
     "id": "bazos_193758245",
@@ -1205,7 +1205,7 @@
     "efektivna_cena": 690,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lokalita": "prostredí pri Malom Dunaji",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -1220,7 +1220,7 @@
     "efektivna_cena": 650,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "PSČ: 841 01 (Dúbravka)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -2126,10 +2126,10 @@
     "efektivna_cena": 650,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "reality_91828276": {
     "id": "reality_91828276",
@@ -2438,9 +2438,9 @@
     "efektivna_cena": 550,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "stromová (Kramáre)",
-    "lat": 37.692,
-    "lng": -79.889731,
+    "lokalita": "Kadnárova",
+    "lat": 48.205538823268,
+    "lng": 17.148330255905,
     "farba": "green"
   },
   "bazos_193917422": {
@@ -2910,9 +2910,39 @@
     "efektivna_cena": 630,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
+  },
+  "bazos_193951232": {
+    "id": "bazos_193951232",
+    "zdroj": "Bazoš",
+    "titulok": "1i byt v TEHLOVOM DOME _ VHODNÝ AJ PRE 2 OSOBY",
+    "odkaz": "https://reality.bazos.sk/inzerat/193951232/1i-byt-v-tehlovom-dome-vhodny-aj-pre-2-osoby.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": null,
+    "efektivna_cena": 500,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "stromová (Kramáre)",
+    "lat": 37.692,
+    "lng": -79.889731,
+    "farba": "green"
+  },
+  "bazos_193945114": {
+    "id": "bazos_193945114",
+    "zdroj": "Bazoš",
+    "titulok": "1 izb. BOSÁKOVA ul. - novostavba FUXOVA- pekný byt za výborn",
+    "odkaz": "https://reality.bazos.sk/inzerat/193945114/1-izb-bosakova-ul-novostavba-fuxova-pekny-byt-za-vyborn.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": null,
+    "efektivna_cena": 500,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "izb. BOSÁKOVA",
+    "lat": 48.127882377114,
+    "lng": 17.118771966787,
+    "farba": "green"
   }
 }
