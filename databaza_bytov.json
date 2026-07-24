@@ -995,7 +995,7 @@
     "efektivna_cena": 520,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA (Trnávka)",
+    "lokalita": "prostredí pri Malom Dunaji (Trnávka)",
     "lat": 49.686397226,
     "lng": 18.17971062,
     "farba": "green"
@@ -1205,10 +1205,10 @@
     "efektivna_cena": 690,
     "datum_str": "18.07.2026",
     "datum_iso": "2026-07-18",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "bazos_193755892": {
     "id": "bazos_193755892",
@@ -2438,9 +2438,9 @@
     "efektivna_cena": 550,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "Kadnárova",
-    "lat": 48.205538823268,
-    "lng": 17.148330255905,
+    "lokalita": "KYJEVSKÁ",
+    "lat": 48.16815715458,
+    "lng": 17.121692773309,
     "farba": "green"
   },
   "bazos_193917422": {
@@ -2474,7 +2474,7 @@
     "efektivna_cena": 600,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "Geologicka",
+    "lokalita": "Geologicka (Podunajské Biskupice)",
     "lat": 48.139416988262,
     "lng": 17.195618700793,
     "farba": "green"
@@ -2925,9 +2925,9 @@
     "efektivna_cena": 500,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "stromová (Kramáre)",
-    "lat": 37.692,
-    "lng": -79.889731,
+    "lokalita": "KYJEVSKÁ",
+    "lat": 48.16815715458,
+    "lng": 17.121692773309,
     "farba": "green"
   },
   "bazos_193945114": {
@@ -2943,6 +2943,36 @@
     "lokalita": "izb. BOSÁKOVA",
     "lat": 48.127882377114,
     "lng": 17.118771966787,
+    "farba": "green"
+  },
+  "bazos_193957543": {
+    "id": "bazos_193957543",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izboveho bytu, super poloha, OC Central",
+    "odkaz": "https://reality.bazos.sk/inzerat/193957543/prenajom-2-izboveho-bytu-super-poloha-oc-central.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": null,
+    "efektivna_cena": 650,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "PSČ: 821 08 (Nivy)",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
+  },
+  "bazos_193955846": {
+    "id": "bazos_193955846",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom kompletne zariadený 3-izbový byt v mode",
+    "odkaz": "https://reality.bazos.sk/inzerat/193955846/ponukame-na-prenajom-kompletne-zariadeny-3-izbovy-byt-v-mode.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": null,
+    "efektivna_cena": 700,
+    "datum_str": "24.07.2026",
+    "datum_iso": "2026-07-24",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green"
   }
 }
