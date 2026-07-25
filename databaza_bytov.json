@@ -555,7 +555,7 @@
     "efektivna_cena": 600,
     "datum_str": "25.07.2026",
     "datum_iso": "2026-07-25",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -570,7 +570,7 @@
     "efektivna_cena": 700,
     "datum_str": "25.07.2026",
     "datum_iso": "2026-07-25",
-    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lokalita": "PSČ: 841 02",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -740,7 +740,7 @@
     "efektivna_cena": 630,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 851 01 (Slnečnice)",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -800,7 +800,7 @@
     "efektivna_cena": 700,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lokalita": "PSČ: 841 02",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -836,10 +836,10 @@
     "efektivna_cena": 699,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 851 01 (Slnečnice)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Osuského (Petržalka)",
+    "lat": 48.11877134867,
+    "lng": 17.114480369312,
+    "farba": "green"
   },
   "bazos_193850232": {
     "id": "bazos_193850232",
@@ -1037,7 +1037,7 @@
     "efektivna_cena": 550,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -2682,7 +2682,7 @@
     "efektivna_cena": 630,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Páričkova",
+    "lokalita": "Páričkova (Ružinov)",
     "lat": 48.148211836085,
     "lng": 17.128977158179,
     "farba": "green"
@@ -2697,9 +2697,9 @@
     "efektivna_cena": 650,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Žltá (Slnečnice)",
-    "lat": 49.3687163,
-    "lng": 14.3819908,
+    "lokalita": "Žltá (Petržalka)",
+    "lat": 48.087577434902,
+    "lng": 17.126260248317,
     "farba": "green"
   },
   "bazos_193939376": {
@@ -2772,7 +2772,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 821 08",
+    "lokalita": "PSČ: 821 08 (Nivy)",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -2820,6 +2820,21 @@
     "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_193983148": {
+    "id": "bazos_193983148",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom nepriechodnej izby v 2-izbovom byte (75 m²) – BA La",
+    "odkaz": "https://reality.bazos.sk/inzerat/193983148/prenajom-nepriechodnej-izby-v-2-izbovom-byte-75-m-ba-la.php",
+    "cena_povodna": "290 €",
+    "spolu_cena": null,
+    "efektivna_cena": 290,
+    "datum_str": "25.07.2026",
+    "datum_iso": "2026-07-25",
+    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
     "farba": "orange"
   }
 }
