@@ -321,39 +321,120 @@ def extrahuj_cislo(text):
     return int(match.group(1)) if match else None
 
 
-def extrahuj_spolu_cenu(text):
-    if not text:
-        return None
+def extrahuj_spolu_cenu(cely_text, hlavna_cena=None):
+    """Analyzuje text inzerátu a vypočíta celkovú cenu vrátane energií.
 
-    text_clean = text.replace("\xa0", " ").replace("&nbsp;", " ")
-    text_clean = re.sub(r"(\d{3,4}),-", r"\1", text_clean)
-    text_clean = re.sub(r"\b(\d{1,2})[\s\.](\d{3})\b", r"\1\2", text_clean)
+    Ošetruje slovenské zápisy s pomlčkou (650,- eur) aj desatinné miesta (200,00
+    €).
+    """
+    if not cely_text:
+        return hlavna_cena
 
-    match_plus = re.search(
-        r"\b(\d{3,4})\s*(?:€|eur)?\s*\+\s*(\d{2,3})\s*(?:€|eur)?",
-        text_clean,
-        re.IGNORECASE,
-    )
-    if match_plus:
-        najom = int(match_plus.group(1))
-        energie = int(match_plus.group(2))
-        if 200 <= najom <= 2000 and 30 <= energie <= 500:
-            return najom + energie
+    text = cely_text.lower()
 
-    vzory = [
-        r"\b(?:spolu|celkom|komplet|celková cena|celkova cena|cena spolu|celkový nájom|celkovy najom)\b[^\d]{0,20}?(\d{3,4})\b",
-        r"\b(\d{3,4})\s*(?:€|eur)?\s*(?:spolu|celkom|komplet)\b",
-        r"\b(\d{3,4})\s*(?:€|eur)?\s*(?:s\s+energiami|vrátane\s+energií|vrátene\s+energií|vrátane\s+e\b|s\s+e\b|vrátane\s+en\b)",
-        r"\b(?:s\s+energiami|vrátane\s+energií|vrátane\s+e|s\s+e)\b[^\d]{0,20}?(\d{3,4})\b",
+    # 🧹 NORMALIZÁCIA TEXTU: Odstránenie zápisov typu "650,-", "200,00" a medzier v číslach
+    text = re.sub(
+        r"(\d+)\s*,\s*-\s*", r"\1 ", text
+    )  # "650,- eur" -> "650 eur"
+    text = re.sub(
+        r"(\d+)[.,]00\b", r"\1", text
+    )  # "200,00 eur" -> "200 eur"
+    text = re.sub(
+        r"(\d{1,2})\s+(\d{3})", r"\1\2", text
+    )  # "1 200 eur" -> "1200 eur"
+
+    # 1. HĽADANIE PRIPOČÍTAVANIA: "650 + 200", "650 eur + 200 eur", "nájomné: 650 + 200"
+    vzory_plus = [
+        r"(\d{3,4})\s*(?:€|eur|euro)?\s*(?:\+|\splus\s|\sa\s|\sk tomu\s)\s*(\d{2,4})\s*(?:€|eur|euro)?",
+        r"(?:nájom|nájomné|cena)\s*[:\=-]?\s*(\d{3,4})\s*(?:€|eur)?\s*(?:\+|\sa\s|\splus\s)\s*(\d{2,4})",
     ]
 
-    for vzor in vzory:
-        match = re.search(vzor, text_clean, re.IGNORECASE)
+    for vzor in vzory_plus:
+        match = re.search(vzor, text)
         if match:
-            hodnota = int(match.group(1))
-            if 250 <= hodnota <= 2500:
-                return hodnota
+            c1 = int(match.group(1))
+            c2 = int(match.group(2))
 
+            # Filtrujeme blbosti (Nájom 150-1500 €, Energie 20-400 €)
+            if 150 <= c1 <= 1500 and 20 <= c2 <= 400:
+                return c1 + c2
+            elif (
+                150 <= c2 <= 1500 and 20 <= c1 <= 400
+            ):  # Ak niekto napísal energie ako prvé
+                return c1 + c2
+
+    # 2. HĽADANIE SLOVNEJ KOMBINÁCIE BEZ ZNAMENKA +: "nájomné 650 ... energie 200"
+    vzor_najom = re.search(
+        r"(?:nájom|nájomné|cena|čisté nájomné)\b[^\d]*(\d{3,4})\s*(?:€|eur)?",
+        text,
+    )
+    vzor_energie = re.search(
+        r"(?:energie|energií|energie a internet|zálohy|služby)\b[^\d]*(\d{2,3})\s*(?:€|eur)?",
+        text,
+    )
+
+    if vzor_najom and vzor_energie:
+        okolie_text = text[
+            max(0, vzor_energie.start() - 25) : min(
+                len(text), vzor_energie.end() + 25
+            )
+        ]
+        if not any(
+            x in okolie_text
+            for x in ["depozit", "kaucia", "províz", "izb", "m2", "m²"]
+        ):
+            c_najom = int(vzor_najom.group(1))
+            c_energ = int(vzor_energie.group(1))
+
+            if 150 <= c_najom <= 1500 and 20 <= c_energ <= 350:
+                return c_najom + c_energ
+
+    # 3. KONTROLA, ČI JE HLAVNÁ CENA UŽ "KOMPLET"
+    fratane_energie = [
+        "vrátane energií",
+        "vratane energii",
+        "s energiami",
+        "energie v cene",
+        "vrátane energií a internetu",
+        "vratane energii a internetu",
+        "komplet s energiami",
+        "cena je vrátane",
+        "cena je vratane",
+        "cena vrátane",
+        "vrátene energií",
+        "komplet aj internet",
+        "vrátene energií a internetu",
+    ]
+
+    is_komplet = any(fraza in text for fraza in fratane_energie)
+
+    if is_komplet and hlavna_cena:
+        return hlavna_cena
+
+    return hlavna_cena
+
+
+# --- KONTROLA A BEZPEČNÉ GEOKÓDOVANIE ---
+
+
+def je_v_okoli_bratislavy(lat, lng):
+    """Vráti True, iba ak súradnice ležia v okruhu širšej Bratislavy."""
+    return 48.00 <= lat <= 48.30 and 16.80 <= lng <= 17.30
+
+
+def bezpecne_geokoduj(dotaz_text, geolocator):
+    """Vždy pridá 'Bratislava, Slovakia' a skontroluje, či výsledok neskočil do inej krajiny."""
+    if not dotaz_text:
+        return None
+
+    cely_dotaz = f"{dotaz_text}, Bratislava, Slovakia"
+    try:
+        loc = geolocator.geocode(cely_dotaz)
+        # 🛡️ Prijmeme iba výsledky, ktoré ležia v Bratislave a blízkom okolí
+        if loc and je_v_okoli_bratislavy(loc.latitude, loc.longitude):
+            return loc
+    except Exception:
+        pass
     return None
 
 
@@ -363,81 +444,66 @@ def vyries_lokalitu_a_gps(
     cely_text = f"{titulok} {plny_popis}"
     najdena_mc = najdi_mestsku_cast(cely_text)
 
-    # 1. Titulok
+    # 1. Ulice vyhľadané v titulku
     for ulica in ziskaj_kandidatov_ulic(titulok):
-        adresa = f"{ulica}, {najdena_mc if najdena_mc else mesto}"
-        try:
-            loc = geolocator.geocode(adresa)
-            if loc:
-                return (
-                    ulica,
-                    f"{ulica}" + (f" ({najdena_mc})" if najdena_mc else ""),
-                    loc.latitude,
-                    loc.longitude,
-                    "green",
-                )
-        except Exception:
-            pass
+        adresa = f"{ulica}" + (f", {najdena_mc}" if najdena_mc else "")
+        loc = bezpecne_geokoduj(adresa, geolocator)
+        if loc:
+            return (
+                ulica,
+                f"{ulica}" + (f" ({najdena_mc})" if najdena_mc else ""),
+                loc.latitude,
+                loc.longitude,
+                "green",
+            )
 
-    # 2. Popis
+    # 2. Ulice vyhľadané v popise
     for ulica in ziskaj_kandidatov_ulic(plny_popis):
-        adresa = f"{ulica}, {najdena_mc if najdena_mc else mesto}"
-        try:
-            loc = geolocator.geocode(adresa)
-            if loc:
-                return (
-                    ulica,
-                    f"{ulica}" + (f" ({najdena_mc})" if najdena_mc else ""),
-                    loc.latitude,
-                    loc.longitude,
-                    "green",
-                )
-        except Exception:
-            pass
+        adresa = f"{ulica}" + (f", {najdena_mc}" if najdena_mc else "")
+        loc = bezpecne_geokoduj(adresa, geolocator)
+        if loc:
+            return (
+                ulica,
+                f"{ulica}" + (f" ({najdena_mc})" if najdena_mc else ""),
+                loc.latitude,
+                loc.longitude,
+                "green",
+            )
 
     # 3. PSČ
     if psc:
-        try:
-            loc = geolocator.geocode(f"{psc} Bratislava, Slovakia")
-            if loc:
-                return (
-                    None,
-                    f"PSČ: {psc}" + (f" ({najdena_mc})" if najdena_mc else ""),
-                    loc.latitude,
-                    loc.longitude,
-                    "orange",
-                )
-        except Exception:
-            pass
-
-    # 4. Mestská časť
-    if najdena_mc:
-        try:
-            loc = geolocator.geocode(f"Bratislava - {najdena_mc}")
-            if loc:
-                return (
-                    None,
-                    f"Mestská časť: {najdena_mc}",
-                    loc.latitude,
-                    loc.longitude,
-                    "blue",
-                )
-        except Exception:
-            pass
-
-    # 5. Fallback
-    try:
-        loc = geolocator.geocode(mesto)
+        loc = bezpecne_geokoduj(f"PSČ {psc}", geolocator)
         if loc:
             return (
                 None,
-                "Neuvedená (Bratislava)",
+                f"PSČ: {psc}" + (f" ({najdena_mc})" if najdena_mc else ""),
                 loc.latitude,
                 loc.longitude,
-                "gray",
+                "orange",
             )
-    except Exception:
-        pass
+
+    # 4. Mestská časť
+    if najdena_mc:
+        loc = bezpecne_geokoduj(najdena_mc, geolocator)
+        if loc:
+            return (
+                None,
+                f"Mestská časť: {najdena_mc}",
+                loc.latitude,
+                loc.longitude,
+                "blue",
+            )
+
+    # 5. Fallback na centrum Bratislavy
+    loc = bezpecne_geokoduj(mesto, geolocator)
+    if loc:
+        return (
+            None,
+            "Neuvedená (Bratislava)",
+            loc.latitude,
+            loc.longitude,
+            "gray",
+        )
 
     return None, "Neuvedená", 48.1486, 17.1077, "gray"
 
@@ -512,7 +578,7 @@ def scrapuj_bazos(hranicny_datum):
 
             cely_text_detail = f"{titulok} {plny_popis}"
             bazos_cena_num = extrahuj_cislo(cena_bazos_raw)
-            spolu_cena_num = extrahuj_spolu_cenu(cely_text_detail)
+            spolu_cena_num = extrahuj_spolu_cenu(cely_text_detail, bazos_cena_num)
 
             if spolu_cena_num:
                 efektivna_cena = spolu_cena_num
@@ -683,7 +749,7 @@ def scrapuj_reality_sk(hranicny_datum):
                 # 5. Spracovanie ceny a lokality
                 cely_text_detail = f"{titulok} {plny_popis}"
                 reality_cena_num = extrahuj_cislo(cena_raw)
-                spolu_cena_num = extrahuj_spolu_cenu(cely_text_detail)
+                spolu_cena_num = extrahuj_spolu_cenu(cely_text_detail, reality_cena_num)
 
                 if spolu_cena_num:
                     efektivna_cena = spolu_cena_num
