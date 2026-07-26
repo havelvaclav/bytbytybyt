@@ -298,19 +298,6 @@
     "lng": 17.1407711,
     "farba": "orange"
   },
-  "193770170": {
-    "titulok": "Prenájom ubytovania Banská Bystrica",
-    "odkaz": "https://reality.bazos.sk/inzerat/193770170/prenajom-ubytovania-banska-bystrica.php",
-    "cena_bazos": "300 €",
-    "spolu_cena": null,
-    "efektivna_cena": 300,
-    "datum_str": "19.07.2026",
-    "datum_iso": "2026-07-19",
-    "lokalita": "PSČ: 974 05",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "orange"
-  },
   "193753019": {
     "titulok": "Prenajom nadstandartny 1-izbovy byt v Dubravke",
     "odkaz": "https://reality.bazos.sk/inzerat/193753019/prenajom-nadstandartny-1-izbovy-byt-v-dubravke.php",
@@ -553,9 +540,9 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "25.07.2026",
-    "datum_iso": "2026-07-25",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "datum_str": "26.07.2026",
+    "datum_iso": "2026-07-26",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -568,8 +555,8 @@
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
     "efektivna_cena": 700,
-    "datum_str": "25.07.2026",
-    "datum_iso": "2026-07-25",
+    "datum_str": "26.07.2026",
+    "datum_iso": "2026-07-26",
     "lokalita": "PSČ: 841 02",
     "lat": 48.1949026,
     "lng": 17.0334999,
@@ -583,8 +570,8 @@
     "cena_povodna": "640 €",
     "spolu_cena": "640 €",
     "efektivna_cena": 640,
-    "datum_str": "25.07.2026",
-    "datum_iso": "2026-07-25",
+    "datum_str": "26.07.2026",
+    "datum_iso": "2026-07-26",
     "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
@@ -651,10 +638,10 @@
     "efektivna_cena": 550,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
-    "lat": 48.146671381,
-    "lng": 17.143563264,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09 (Ružinov)",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_193885952": {
     "id": "bazos_193885952",
@@ -681,10 +668,10 @@
     "efektivna_cena": 570,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
-    "lat": 48.146671381,
-    "lng": 17.143563264,
-    "farba": "green",
+    "lokalita": "PSČ: 811 09 (Ružinov)",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -1037,7 +1024,7 @@
     "efektivna_cena": 550,
     "datum_str": "20.07.2026",
     "datum_iso": "2026-07-20",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -1086,21 +1073,6 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
-  },
-  "bazos_193770170": {
-    "id": "bazos_193770170",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom ubytovania Banská Bystrica",
-    "odkaz": "https://reality.bazos.sk/inzerat/193770170/prenajom-ubytovania-banska-bystrica.php",
-    "cena_povodna": "300 €",
-    "spolu_cena": "300 €",
-    "efektivna_cena": 300,
-    "datum_str": "19.07.2026",
-    "datum_iso": "2026-07-19",
-    "lokalita": "PSČ: 974 05",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "orange"
   },
   "reality_40078891": {
     "id": "reality_40078891",
@@ -1508,21 +1480,6 @@
     "lokalita": "PSČ: 811 04",
     "lat": 48.1601818,
     "lng": 17.0857125,
-    "farba": "orange"
-  },
-  "reality_JuvUQ8xWKFS": {
-    "id": "reality_JuvUQ8xWKFS",
-    "zdroj": "Reality.sk",
-    "titulok": "BA II. Na prenájom 3 izbový byt na Bajzovej ulici pri zimnom stadióne",
-    "odkaz": "https://www.reality.sk/byty/ba-ii-na-prenajom-3-izbovy-byt-na-bajzovej-ulici-pri-zimnom-stadione/JuvUQ8xWKFS/",
-    "cena_povodna": "700 €/mesiac\n                                                            8 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "19.07.2026",
-    "datum_iso": "2026-07-19",
-    "lokalita": "PSČ: 821 06",
-    "lat": 48.1251898,
-    "lng": 17.2111499,
     "farba": "orange"
   },
   "reality_JuDkSktbHaC": {
@@ -2388,21 +2345,6 @@
     "lng": 17.1278204,
     "farba": "orange"
   },
-  "reality_JuawGE0r2wr": {
-    "id": "reality_JuawGE0r2wr",
-    "zdroj": "Reality.sk",
-    "titulok": "PRENÁJOM - PEKNÝ, ZREKONŠTRUOVANÝ  2- IZBOVÝ BYT V RUŽINOVE UPROSTRED ZELENE",
-    "odkaz": "https://www.reality.sk/byty/prenajom-pekny-zrekonstruovany-2-izbovy-byt-v-ruzinove-uprostred-zelene/JuawGE0r2wr/",
-    "cena_povodna": "550 €/mesiac\n                                                            13 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 550,
-    "datum_str": "19.07.2026",
-    "datum_iso": "2026-07-19",
-    "lokalita": "PSČ: 821 04",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
-  },
   "reality_JubGaXquG1j": {
     "id": "reality_JubGaXquG1j",
     "zdroj": "Reality.sk",
@@ -2682,7 +2624,7 @@
     "efektivna_cena": 630,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Páričkova (Ružinov)",
+    "lokalita": "Páričkova",
     "lat": 48.148211836085,
     "lng": 17.128977158179,
     "farba": "green"
@@ -2787,7 +2729,7 @@
     "efektivna_cena": 700,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lokalita": "PSČ: 821 02",
     "lat": 48.1582936,
     "lng": 17.1633484,
     "farba": "orange"
