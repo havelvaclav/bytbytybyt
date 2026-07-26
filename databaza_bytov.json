@@ -587,10 +587,10 @@
     "efektivna_cena": 380,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Jazdecká",
-    "lat": 48.168977379372,
-    "lng": 17.133590269357,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_193887267": {
     "id": "bazos_193887267",
@@ -727,7 +727,7 @@
     "efektivna_cena": 630,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -823,7 +823,7 @@
     "efektivna_cena": 699,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "Osuského (Petržalka)",
+    "lokalita": "Osuského",
     "lat": 48.11877134867,
     "lng": 17.114480369312,
     "farba": "green"
@@ -838,10 +838,10 @@
     "efektivna_cena": 670,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "Záhrebská",
-    "lat": 48.156139216478,
-    "lng": 17.116077543249,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_193847421": {
     "id": "bazos_193847421",
@@ -1900,7 +1900,7 @@
     "efektivna_cena": 350,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -2639,7 +2639,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Žltá (Petržalka)",
+    "lokalita": "Žltá (Slnečnice)",
     "lat": 48.087577434902,
     "lng": 17.126260248317,
     "farba": "green"
@@ -2710,8 +2710,8 @@
     "titulok": "Prenájom 2-izboveho bytu, super poloha, OC Central",
     "odkaz": "https://reality.bazos.sk/inzerat/193957543/prenajom-2-izboveho-bytu-super-poloha-oc-central.php",
     "cena_povodna": "650 €",
-    "spolu_cena": "500 €",
-    "efektivna_cena": 500,
+    "spolu_cena": "560 €",
+    "efektivna_cena": 560,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
     "lokalita": "PSČ: 821 08 (Nivy)",
@@ -2729,7 +2729,7 @@
     "efektivna_cena": 700,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 821 02",
+    "lokalita": "PSČ: 821 02 (Ružinov)",
     "lat": 48.1582936,
     "lng": 17.1633484,
     "farba": "orange"
