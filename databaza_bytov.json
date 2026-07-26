@@ -587,10 +587,10 @@
     "efektivna_cena": 380,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Jazdecká",
+    "lat": 48.168977379372,
+    "lng": 17.133590269357,
+    "farba": "green"
   },
   "bazos_193887267": {
     "id": "bazos_193887267",
@@ -904,7 +904,7 @@
     "efektivna_cena": 520,
     "datum_str": "21.07.2026",
     "datum_iso": "2026-07-21",
-    "lokalita": "PSČ: 821 04 (Ružinov)",
+    "lokalita": "PSČ: 821 04 (Trnávka)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -2744,10 +2744,10 @@
     "efektivna_cena": 650,
     "datum_str": "25.07.2026",
     "datum_iso": "2026-07-25",
-    "lokalita": "Trenčianska (Ružinov)",
-    "lat": 48.1539594813,
-    "lng": 17.146607491801,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "bazos_193971264": {
     "id": "bazos_193971264",
@@ -2759,7 +2759,7 @@
     "efektivna_cena": 650,
     "datum_str": "25.07.2026",
     "datum_iso": "2026-07-25",
-    "lokalita": "PSČ: 821 04 (Ružinov)",
+    "lokalita": "PSČ: 821 04",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -2778,5 +2778,41 @@
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
+  },
+  "bazos_194001906": {
+    "id": "bazos_194001906",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194001906/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "26.07.2026",
+    "datum_iso": "2026-07-26",
+    "lokalita": "PSČ: 831 04",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
+    "farba": "orange"
+  },
+  "bazos_194000853": {
+    "id": "bazos_194000853",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom zariadená garsónka s loggiou",
+    "odkaz": "https://reality.bazos.sk/inzerat/194000853/na-prenajom-zariadena-garsonka-s-loggiou.php",
+    "cena_povodna": "490 €",
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
+    "datum_str": "26.07.2026",
+    "datum_iso": "2026-07-26",
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/193810236/na-prenajom-kompletne-zrekonstruovana-a-zariadena-garsonka-s.php"
+      }
+    ]
   }
 }
