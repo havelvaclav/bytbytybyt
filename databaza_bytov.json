@@ -467,9 +467,9 @@
     "efektivna_cena": 680,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "KYJEVSKÁ",
-    "lat": 48.16815715458,
-    "lng": 17.121692773309,
+    "lokalita": "DRIEŇOVÁ (Štrkovec)",
+    "lat": 48.161801751433,
+    "lng": 17.158916939362,
     "farba": "green"
   },
   "bazos_193886687": {
@@ -1720,10 +1720,10 @@
     "efektivna_cena": 550,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Vavrínová 4B (Ružinov)",
+    "lat": 48.155779358072,
+    "lng": 17.178341838149,
+    "farba": "green"
   },
   "bazos_193917422": {
     "id": "bazos_193917422",
@@ -1735,7 +1735,7 @@
     "efektivna_cena": 550,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "Kyjevská (Nové Mesto)",
+    "lokalita": "Kyjevská (Ružinov)",
     "lat": 48.16815715458,
     "lng": 17.121692773309,
     "farba": "green",
@@ -2192,10 +2192,10 @@
     "efektivna_cena": 500,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Vavrínová 4B (Ružinov)",
+    "lat": 48.155779358072,
+    "lng": 17.178341838149,
+    "farba": "green"
   },
   "bazos_193945114": {
     "id": "bazos_193945114",
@@ -2428,14 +2428,14 @@
     "titulok": "Garsónka s klímou a parkovacím miestom na prenájom, Na pasek",
     "odkaz": "https://reality.bazos.sk/inzerat/194035772/garsonka-s-klimou-a-parkovacim-miestom-na-prenajom-na-pasek.php",
     "cena_povodna": "490 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "KYJEVSKÁ",
+    "lat": 48.16815715458,
+    "lng": 17.121692773309,
+    "farba": "green"
   },
   "bazos_194033156": {
     "id": "bazos_194033156",
@@ -2488,14 +2488,14 @@
     "titulok": "Novostavba s parkingom 2 izbový byt, Kadnárova, Bratislava I",
     "odkaz": "https://reality.bazos.sk/inzerat/194031027/novostavba-s-parkingom-2-izbovy-byt-kadnarova-bratislava-i.php",
     "cena_povodna": "690 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "KYJEVSKÁ",
+    "lat": 48.16815715458,
+    "lng": 17.121692773309,
+    "farba": "green"
   },
   "bazos_194030331": {
     "id": "bazos_194030331",
@@ -2522,9 +2522,9 @@
     "efektivna_cena": 700,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "KYJEVSKÁ",
-    "lat": 48.16815715458,
-    "lng": 17.121692773309,
+    "lokalita": "DRIEŇOVÁ (Štrkovec)",
+    "lat": 48.161801751433,
+    "lng": 17.158916939362,
     "farba": "green"
   },
   "bazos_194028847": {
@@ -2537,9 +2537,9 @@
     "efektivna_cena": 610,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "KYJEVSKÁ",
-    "lat": 48.16815715458,
-    "lng": 17.121692773309,
+    "lokalita": "DRIEŇOVÁ (Štrkovec)",
+    "lat": 48.161801751433,
+    "lng": 17.158916939362,
     "farba": "green"
   },
   "bazos_194028674": {
