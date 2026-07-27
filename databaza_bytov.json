@@ -416,10 +416,10 @@
     "efektivna_cena": 640,
     "datum_str": "26.07.2026",
     "datum_iso": "2026-07-26",
-    "lokalita": "Rožňavská (Nové Mesto)",
-    "lat": 48.175460837485,
-    "lng": 17.164786275529,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_193384428": {
     "id": "bazos_193384428",
@@ -1468,7 +1468,7 @@
     "efektivna_cena": 350,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -2132,7 +2132,7 @@
     "efektivna_cena": 630,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Páričkova (Ružinov)",
+    "lokalita": "Páričkova",
     "lat": 48.148211836085,
     "lng": 17.128977158179,
     "farba": "green"
@@ -2417,10 +2417,10 @@
     "efektivna_cena": 640,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Guothova (Nové Mesto)",
-    "lat": 48.165028421571,
-    "lng": 17.101222188547,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194035772": {
     "id": "bazos_194035772",
