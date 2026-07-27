@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 import json
 import os
 import re
@@ -1004,7 +1005,8 @@ window.addEventListener('load', function() {
 mapa.get_root().html.add_child(folium.Element(skryt_script))
 
 # --- DASHBOARD PANEL (NASTAVENIA & ŠTATISTIKY) ---
-cas_teraz = datetime.now().strftime("%H:%M")
+# 🇸🇰 Vždy vráti presný čas v Bratislave (automaticky rieši aj letný/zimný čas)
+cas_teraz = datetime.now(ZoneInfo("Europe/Bratislava")).strftime("%H:%M")
 pocet_bytov = len(aktualizovana_db)
 
 # Uistite sa, že premennú MAX_CENA máte definovanú vyššie v kóde (napr. MAX_CENA = 550)
