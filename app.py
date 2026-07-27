@@ -1003,6 +1003,147 @@ window.addEventListener('load', function() {
 """
 mapa.get_root().html.add_child(folium.Element(skryt_script))
 
+# --- DASHBOARD PANEL (NASTAVENIA & ŠTATISTIKY) ---
+cas_teraz = datetime.now().strftime("%H:%M")
+pocet_bytov = len(aktualizovana_db)
+
+# Uistite sa, že premennú MAX_CENA máte definovanú vyššie v kóde (napr. MAX_CENA = 550)
+dashboard_html = f"""
+<div id="settings-dashboard">
+    <div class="dashboard-header">
+        <span>⚙️ Nastavenia Bota</span>
+        <span class="status-dot" title="Bot je aktívny"></span>
+    </div>
+    
+    <div class="dashboard-body">
+        <div class="input-group">
+            <label>Max. limit ceny:</label>
+            <input type="text" value="{MAX_CENA} €" disabled readonly />
+        </div>
+
+        <div class="input-group">
+            <label>Lokalita:</label>
+            <input type="text" value="Bratislava & okolie" disabled readonly />
+        </div>
+
+        <div class="dashboard-stats">
+            <div class="stat-box">
+                <span class="stat-value">{pocet_bytov}</span>
+                <span class="stat-label">Bytov</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-value">{cas_teraz}</span>
+                <span class="stat-label">Aktualizované</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+#settings-dashboard {{
+    position: fixed;
+    top: 12px;
+    right: 12px;
+    z-index: 99999; /* Zabezpečí, že panel pláva nad mapou */
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(8px);
+    border-radius: 12px;
+    padding: 12px 14px;
+    width: 210px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.18);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    border: 1px solid rgba(0,0,0,0.1);
+}}
+
+.dashboard-header {{
+    font-weight: 700;
+    font-size: 13px;
+    color: #2c3e50;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}}
+
+.status-dot {{
+    width: 8px;
+    height: 8px;
+    background-color: #2ecc71;
+    border-radius: 50%;
+    box-shadow: 0 0 6px #2ecc71;
+}}
+
+.input-group {{
+    margin-bottom: 6px;
+}}
+
+.input-group label {{
+    display: block;
+    font-size: 10px;
+    color: #7f8c8d;
+    margin-bottom: 2px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}}
+
+.input-group input {{
+    width: 100%;
+    padding: 5px 8px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    background-color: #f8fafc;
+    color: #334155;
+    font-size: 12px;
+    font-weight: 600;
+    box-sizing: border-box;
+    cursor: not-allowed;
+}}
+
+.dashboard-stats {{
+    display: flex;
+    gap: 6px;
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px solid #e2e8f0;
+}}
+
+.stat-box {{
+    flex: 1;
+    background: #f1f5f9;
+    padding: 5px;
+    border-radius: 6px;
+    text-align: center;
+}}
+
+.stat-value {{
+    display: block;
+    font-weight: 700;
+    font-size: 13px;
+    color: #0f172a;
+}}
+
+.stat-label {{
+    font-size: 10px;
+    color: #64748b;
+}}
+
+/* Prispôsobenie pre mobilné zariadenia */
+@media (max-width: 600px) {{
+    #settings-dashboard {{
+        top: auto;
+        bottom: 25px;
+        right: 10px;
+        left: 10px;
+        width: auto;
+    }}
+}}
+</style>
+"""
+
+# Vloženie panelu do HTML mapy
+mapa.get_root().html.add_child(folium.Element(dashboard_html))
+
 mapa.save("index.html")
 
 print("\n🎉 HOTOVO!")
