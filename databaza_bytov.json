@@ -386,7 +386,7 @@
     "efektivna_cena": 600,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ostredky)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -571,7 +571,7 @@
     "efektivna_cena": 630,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -2132,9 +2132,9 @@
     "efektivna_cena": 630,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Páričkova",
-    "lat": 48.148211836085,
-    "lng": 17.128977158179,
+    "lokalita": "Páričkova (Ostredky)",
+    "lat": 48.160684651,
+    "lng": 17.171822278,
     "farba": "green"
   },
   "bazos_193940584": {
@@ -2147,7 +2147,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Žltá (Petržalka)",
+    "lokalita": "Žltá (Slnečnice)",
     "lat": 48.087577434902,
     "lng": 17.126260248317,
     "farba": "green"
@@ -2162,7 +2162,7 @@
     "efektivna_cena": 420,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Mierová",
+    "lokalita": "Mierová (Ostredky)",
     "lat": 48.147520984188,
     "lng": 17.180212177378,
     "farba": "green"
@@ -2207,7 +2207,7 @@
     "efektivna_cena": 500,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "izb. BOSÁKOVA",
+    "lokalita": "izb. BOSÁKOVA (Nivy)",
     "lat": 48.127882377114,
     "lng": 17.118771966787,
     "farba": "green"
@@ -2307,9 +2307,9 @@
     "zdroj": "Bazoš",
     "titulok": "Na prenájom zariadená garsónka s loggiou",
     "odkaz": "https://reality.bazos.sk/inzerat/194000853/na-prenajom-zariadena-garsonka-s-loggiou.php",
-    "cena_povodna": "490 €",
-    "spolu_cena": "490 €",
-    "efektivna_cena": 490,
+    "cena_povodna": "415 €",
+    "spolu_cena": "415 €",
+    "efektivna_cena": 415,
     "datum_str": "26.07.2026",
     "datum_iso": "2026-07-26",
     "lokalita": "NOVOSTAVBE UNIVERSO",
@@ -2327,7 +2327,7 @@
     "efektivna_cena": 550,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Geologicka",
+    "lokalita": "Geologicka (Podunajské Biskupice)",
     "lat": 48.139416988262,
     "lng": 17.195618700793,
     "farba": "green"
@@ -2552,9 +2552,9 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "slepá",
+    "lat": 48.144246806918,
+    "lng": 17.092857734044,
     "farba": "green"
   },
   "bazos_194028480": {
@@ -2567,9 +2567,24 @@
     "efektivna_cena": 700,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA (Staré Mesto)",
+    "lokalita": "prostredí pri Malom Dunaji (Staré Mesto)",
     "lat": 48.15039,
     "lng": 17.09002,
+    "farba": "green"
+  },
+  "bazos_194048355": {
+    "id": "bazos_194048355",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 2 izbový byt Bratislavská - Záhorská Bystrica",
+    "odkaz": "https://reality.bazos.sk/inzerat/194048355/na-prenajom-2-izbovy-byt-bratislavska-zahorska-bystrica.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "27.07.2026",
+    "datum_iso": "2026-07-27",
+    "lokalita": "NOVOSTAVBE UNIVERSO (Záhorská Bystrica)",
+    "lat": 48.241798661,
+    "lng": 17.038232715,
     "farba": "green"
   }
 }
