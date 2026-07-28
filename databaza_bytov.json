@@ -262,10 +262,10 @@
     "efektivna_cena": 380,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "M.R.Štefánika",
-    "lat": 48.154191662046,
-    "lng": 17.106125547036,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_193887267": {
     "id": "bazos_193887267",
@@ -372,10 +372,10 @@
     "efektivna_cena": 700,
     "datum_str": "22.07.2026",
     "datum_iso": "2026-07-22",
-    "lokalita": "lukratívnej lokalite STARÉHO MESTA",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 811 05",
+    "lat": 48.15687,
+    "lng": 17.1137209,
+    "farba": "orange"
   },
   "bazos_193882013": {
     "id": "bazos_193882013",
@@ -897,10 +897,10 @@
     "efektivna_cena": 670,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "lukratívnej lokalite STARÉHO MESTA",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 811 05",
+    "lat": 48.15687,
+    "lng": 17.1137209,
+    "farba": "orange"
   },
   "bazos_193905532": {
     "id": "bazos_193905532",
@@ -1134,10 +1134,10 @@
     "efektivna_cena": 550,
     "datum_str": "23.07.2026",
     "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "NOVOSTAVBE UNIVERSO",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193917422": {
     "id": "bazos_193917422",
@@ -1591,10 +1591,10 @@
     "efektivna_cena": 500,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "NOVOSTAVBE UNIVERSO",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193945114": {
     "id": "bazos_193945114",
@@ -1876,10 +1876,10 @@
     "efektivna_cena": 580,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
+    "farba": "green"
   },
   "bazos_194031027": {
     "id": "bazos_194031027",
@@ -2095,6 +2095,36 @@
     "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_194080116": {
+    "id": "bazos_194080116",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom moderný 3-izbový byt na Račianskej ulici – Nové",
+    "odkaz": "https://reality.bazos.sk/inzerat/194080116/na-prenajom-moderny-3-izbovy-byt-na-racianskej-ulici-nove.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "28.07.2026",
+    "datum_iso": "2026-07-28",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_194046855": {
+    "id": "bazos_194046855",
+    "zdroj": "Bazoš",
+    "titulok": "Dvojizbový byt v zelenej časti širšieho centra/A two-room ap",
+    "odkaz": "https://reality.bazos.sk/inzerat/194046855/dvojizbovy-byt-v-zelenej-casti-sirsieho-centraa-two-room-ap.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "27.07.2026",
+    "datum_iso": "2026-07-27",
+    "lokalita": "PSČ: 831 01",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
     "farba": "orange"
   }
 }
