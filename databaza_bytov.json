@@ -999,8 +999,8 @@
     "titulok": "Garsónka s klímou a parkovacím miestom na prenájom, Na pasek",
     "odkaz": "https://reality.bazos.sk/inzerat/194035772/garsonka-s-klimou-a-parkovacim-miestom-na-prenajom-na-pasek.php",
     "cena_povodna": "490 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
     "lokalita": "PSČ: 831 06",
@@ -1429,7 +1429,7 @@
     "efektivna_cena": 630,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -1459,9 +1459,9 @@
     "efektivna_cena": 550,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Garsónka",
+    "lokalita": "PSČ: 929 01",
     "lat": 48.154419507,
     "lng": 17.119406427,
-    "farba": "green"
+    "farba": "orange"
   }
 }
