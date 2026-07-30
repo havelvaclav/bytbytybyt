@@ -369,10 +369,10 @@
     "efektivna_cena": 490,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "ŠANCOVÁ",
+    "lat": 48.155196228503,
+    "lng": 17.106109956113,
+    "farba": "green"
   },
   "bazos_194033156": {
     "id": "bazos_194033156",
@@ -384,10 +384,10 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "NOVOSTAVBE UNIVERSO",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194032716": {
     "id": "bazos_194032716",
@@ -429,9 +429,9 @@
     "efektivna_cena": 690,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Kadnárova (Rača)",
-    "lat": 48.205538823268,
-    "lng": 17.148330255905,
+    "lokalita": "ŠANCOVÁ",
+    "lat": 48.155196228503,
+    "lng": 17.106109956113,
     "farba": "green"
   },
   "bazos_194030331": {
@@ -474,7 +474,7 @@
     "efektivna_cena": 610,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 821 03 (Ružinov)",
+    "lokalita": "PSČ: 821 03",
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange"
@@ -504,10 +504,10 @@
     "efektivna_cena": 700,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 811 06 (Staré Mesto)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
+    "lokalita": "DRIEŇOVÁ (Staré Mesto)",
+    "lat": 48.161801751433,
+    "lng": 17.158916939362,
+    "farba": "green"
   },
   "bazos_194048355": {
     "id": "bazos_194048355",
@@ -549,7 +549,7 @@
     "efektivna_cena": 450,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Garsonka Mierová (Štrkovec)",
+    "lokalita": "Garsonka Mierová",
     "lat": 48.147520984188,
     "lng": 17.180212177378,
     "farba": "green"
@@ -690,7 +690,7 @@
     "efektivna_cena": 580,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 811 01",
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -765,7 +765,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 831 04",
+    "lokalita": "PSČ: 831 04 (Nové Mesto)",
     "lat": 48.1712321,
     "lng": 17.1499302,
     "farba": "orange"
@@ -780,10 +780,10 @@
     "efektivna_cena": 630,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 831 06 (Rača)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "ŠANCOVÁ (Rača)",
+    "lat": 48.155196228503,
+    "lng": 17.106109956113,
+    "farba": "green"
   },
   "bazos_194101516": {
     "id": "bazos_194101516",
@@ -795,9 +795,9 @@
     "efektivna_cena": 630,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "Šustekova (Petržalka)",
-    "lat": 48.128974204293,
-    "lng": 17.124670906598,
+    "lokalita": "Blagoevova",
+    "lat": 48.127207564471,
+    "lng": 17.129563541314,
     "farba": "green"
   },
   "bazos_194097669": {
@@ -915,7 +915,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Tomášikova (Ružinov)",
+    "lokalita": "Tomášikova",
     "lat": 48.163704885586,
     "lng": 17.15367903129,
     "farba": "green"
@@ -930,7 +930,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "novostavbe Budatínska (Petržalka)",
+    "lokalita": "novostavbe Budatínska",
     "lat": 48.109083924342,
     "lng": 17.098447581979,
     "farba": "green"
@@ -960,9 +960,9 @@
     "efektivna_cena": 530,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Šustekova (Petržalka)",
-    "lat": 48.128974204293,
-    "lng": 17.124670906598,
+    "lokalita": "Blagoevova",
+    "lat": 48.127207564471,
+    "lng": 17.129563541314,
     "farba": "green"
   }
 }
