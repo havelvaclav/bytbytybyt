@@ -9,7 +9,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -59,640 +59,6 @@
     "lng": 17.076725032113,
     "farba": "orange"
   },
-  "bazos_193911562": {
-    "id": "bazos_193911562",
-    "zdroj": "Bazoš",
-    "titulok": "1,5 izbový byt vhodný aj ako kancelária, v peknom historicko",
-    "odkaz": "https://reality.bazos.sk/inzerat/193911562/15-izbovy-byt-vhodny-aj-ako-kancelaria-v-peknom-historicko.php",
-    "cena_povodna": "670 €",
-    "spolu_cena": "670 €",
-    "efektivna_cena": 670,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 811 05 (Staré Mesto)",
-    "lat": 48.15687,
-    "lng": 17.1137209,
-    "farba": "orange"
-  },
-  "bazos_193905532": {
-    "id": "bazos_193905532",
-    "zdroj": "Bazoš",
-    "titulok": "Prenajom izby so super dostupnostou",
-    "odkaz": "https://reality.bazos.sk/inzerat/193905532/prenajom-izby-so-super-dostupnostou.php",
-    "cena_povodna": "350 €",
-    "spolu_cena": "350 €",
-    "efektivna_cena": 350,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
-  },
-  "reality_91828276": {
-    "id": "reality_91828276",
-    "zdroj": "Reality.sk",
-    "titulok": "Byt na prenájom",
-    "odkaz": "https://www.reality.sk/",
-    "cena_povodna": "Cena neuvedená",
-    "spolu_cena": null,
-    "efektivna_cena": null,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Neuvedená (Bratislava)",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "gray",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=2"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=3"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=4"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=5"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      }
-    ]
-  },
-  "reality_JuVR7U5Z2j6": {
-    "id": "reality_JuVR7U5Z2j6",
-    "zdroj": "Reality.sk",
-    "titulok": "Zariadená zrekonštruovaná garzónka, 20 m², 2. posch., Wifi, parkovanie vo dvore, na Krajnej ulici, neďaleko Avion shopping center v Ružinove",
-    "odkaz": "https://www.reality.sk/byty/zariadena-zrekonstruovana-garzonka-20-m2-2-posch-wifi-parkovanie-vo-dvore-na-krajnej-ulici-nedaleko-avion-shopping-center-v-ruzinove/JuVR7U5Z2j6/",
-    "cena_povodna": "460 €/mesiac\n                                                            23 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 460,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 821 03",
-    "lat": 48.1548806,
-    "lng": 17.1672305,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/zariadena-zrekonstruovana-garzonka-20-m2-1-posch-wifi-parkovanie-vo-dvore-na-krajnej-ulici-nedaleko-avion-shopping-center-v-ruzinove/JuuZ6dDB5qC/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/zariadena-zrekonstruovana-garzonka-20-m2-2-posch-wifi-parkovanie-vo-dvore-na-krajnej-ulici-nedaleko-avion-shopping-center-v-ruzinove/JuvRsk_PLqp/"
-      }
-    ]
-  },
-  "reality_49223969": {
-    "id": "reality_49223969",
-    "zdroj": "Reality.sk",
-    "titulok": "2",
-    "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=2",
-    "cena_povodna": "Cena neuvedená",
-    "spolu_cena": null,
-    "efektivna_cena": null,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Neuvedená (Bratislava)",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "gray"
-  },
-  "reality_38198387": {
-    "id": "reality_38198387",
-    "zdroj": "Reality.sk",
-    "titulok": "1",
-    "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700",
-    "cena_povodna": "Cena neuvedená",
-    "spolu_cena": null,
-    "efektivna_cena": null,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Neuvedená (Bratislava)",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "gray"
-  },
-  "reality_Juq8Z6QNjBZ": {
-    "id": "reality_Juq8Z6QNjBZ",
-    "zdroj": "Reality.sk",
-    "titulok": "NOMA | MARTINČEKOVA - Praktický 1,5 izbový byt s walk-in šatníkom a loggiou",
-    "odkaz": "https://www.reality.sk/byty/noma-martincekova-prakticky-1-5-izbovy-byt-s-walk-in-satnikom-a-loggiou/Juq8Z6QNjBZ/",
-    "cena_povodna": "700 €/mesiac\n                                                            17 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 851 01",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
-  },
-  "reality_JuOKl2tyc0K": {
-    "id": "reality_JuOKl2tyc0K",
-    "zdroj": "Reality.sk",
-    "titulok": "1,5 izbový byt vhodný aj ako kancelária, v peknom historickom objekte, v blízkosti Hl. vlakovej stanice, Jelenia ul, BAI,  45m2",
-    "odkaz": "https://www.reality.sk/byty/1-5-izbovy-byt-vhodny-aj-ako-kancelaria-v-peknom-historickom-objekte-v-blizkosti-hl-vlakovej-stanice-jelenia-ul-bai-45m2/JuOKl2tyc0K/",
-    "cena_povodna": "670 €/mesiac\n                                                            15 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 670,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Jelenia",
-    "lat": 48.157144423691,
-    "lng": 17.111169517839,
-    "farba": "green"
-  },
-  "reality_JuKfleClddi": {
-    "id": "reality_JuKfleClddi",
-    "zdroj": "Reality.sk",
-    "titulok": "PRENÁJOM, 2 IZBOVÝ BYT S BALKÓNOM, VÝBORNÁ LOKALITA, TOMÁŠIKOV ULICA, BRATISLAVA - RUŽINOV.",
-    "odkaz": "https://www.reality.sk/byty/prenajom-2-izbovy-byt-s-balkonom-vyborna-lokalita-tomasikov-ulica-bratislava-ruzinov/JuKfleClddi/",
-    "cena_povodna": "700 €/mesiac\n                                                            14 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "TOMÁŠIKOV (Ružinov)",
-    "lat": 48.163704885586,
-    "lng": 17.15367903129,
-    "farba": "green"
-  },
-  "reality_JumM2xHK7jl": {
-    "id": "reality_JumM2xHK7jl",
-    "zdroj": "Reality.sk",
-    "titulok": "PRENÁJOM, 2 IZBOVÝ BYT, VÝBORNÁ LOKALITA, TOMÁŠIKOV ULICA, BRATISLAVA - RUŽINOV.",
-    "odkaz": "https://www.reality.sk/byty/prenajom-2-izbovy-byt-vyborna-lokalita-tomasikov-ulica-bratislava-ruzinov/JumM2xHK7jl/",
-    "cena_povodna": "650 €/mesiac\n                                                            15 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 650,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "TOMÁŠIKOV (Ružinov)",
-    "lat": 48.163704885586,
-    "lng": 17.15367903129,
-    "farba": "green"
-  },
-  "reality_68895602": {
-    "id": "reality_68895602",
-    "zdroj": "Reality.sk",
-    "titulok": "PRENÁJOM slnečného dizajnového bytu s loggiou po kompletnej rekonštrukcii pri parku Ostredky",
-    "odkaz": "https://www.reality.sk/byty/prenajom-slnecneho-dizajnoveho-bytu-s-loggiou-po-kompletnej-rekonstrukcii-pri-parku-ostredky/JuE0ypJ_bKA/",
-    "cena_povodna": "680 €/mesiac\n                                                            14 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 680,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 831 03 (Ostredky)",
-    "lat": 48.1649786,
-    "lng": 17.1309307,
-    "farba": "orange"
-  },
-  "bazos_193918937": {
-    "id": "bazos_193918937",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom priestranný a slnečný 2-izbový byt na Kyjevskej",
-    "odkaz": "https://reality.bazos.sk/inzerat/193918937/na-prenajom-priestranny-a-slnecny-2-izbovy-byt-na-kyjevskej.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "NOVOSTAVBE UNIVERSO",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
-  },
-  "bazos_193917422": {
-    "id": "bazos_193917422",
-    "zdroj": "Bazoš",
-    "titulok": "Slnečný 2-izbový byt, Kyjevská ulica, Bratislava –Nové Mesto",
-    "odkaz": "https://reality.bazos.sk/inzerat/193917422/slnecny-2-izbovy-byt-kyjevska-ulica-bratislava-nove-mesto.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Kyjevská (Nové Mesto)",
-    "lat": 48.16815715458,
-    "lng": 17.121692773309,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/193916154/prenajom-pekny-2-izbovy-byt-kyjevska-ulica-bratislava-iii.php"
-      }
-    ]
-  },
-  "bazos_193913841": {
-    "id": "bazos_193913841",
-    "zdroj": "Bazoš",
-    "titulok": "Geologicka ul., 1 izb. s parkovacim miestom, bez provizie",
-    "odkaz": "https://reality.bazos.sk/inzerat/193913841/geologicka-ul-1-izb-s-parkovacim-miestom-bez-provizie.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Geologicka (Podunajské Biskupice)",
-    "lat": 48.139416988262,
-    "lng": 17.195618700793,
-    "farba": "green"
-  },
-  "reality_48198273": {
-    "id": "reality_48198273",
-    "zdroj": "Reality.sk",
-    "titulok": "Byt na prenájom",
-    "odkaz": "https://www.reality.sk/",
-    "cena_povodna": "Cena neuvedená",
-    "spolu_cena": null,
-    "efektivna_cena": null,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Neuvedená (Bratislava)",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "gray",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=2"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=3"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=4"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=5"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.facebook.com/www.reality.sk"
-      }
-    ]
-  },
-  "reality_JuGahz1VtFS": {
-    "id": "reality_JuGahz1VtFS",
-    "zdroj": "Reality.sk",
-    "titulok": "BA/NIVY-Prenájom 1,5i bytu po modernej rekonštrukcii s balkónom",
-    "odkaz": "https://www.reality.sk/byty/ba-nivy-prenajom-1-5i-bytu-po-modernej-rekonstrukcii-s-balkonom/JuGahz1VtFS/",
-    "cena_povodna": "620 €/mesiac\n                                                            14 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 620,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 851 04 (Nivy)",
-    "lat": 48.1273452,
-    "lng": 17.1278204,
-    "farba": "orange"
-  },
-  "reality_JubGaXquG1j": {
-    "id": "reality_JubGaXquG1j",
-    "zdroj": "Reality.sk",
-    "titulok": "Zariadená zrekonštruovaná garzónka, 20 m², 1. posch., Wifi, parkovanie vo dvore, na Krajnej ulici, neďaleko Avion shopping center v Ružinove",
-    "odkaz": "https://www.reality.sk/byty/zariadena-zrekonstruovana-garzonka-20-m2-1-posch-wifi-parkovanie-vo-dvore-na-krajnej-ulici-nedaleko-avion-shopping-center-v-ruzinove/JubGaXquG1j/",
-    "cena_povodna": "460 €/mesiac\n                                                            23 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 460,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 821 03",
-    "lat": 48.1548806,
-    "lng": 17.1672305,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/zariadena-zrekonstruovana-garzonka-20-m2-2-posch-wifi-parkovanie-vo-dvore-na-krajnej-ulici-nedaleko-avion-shopping-center-v-ruzinove/JuKM_nN4_IU/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/zariadena-zrekonstruovana-garzonka-20-m2-2-posch-wifi-parkovanie-vo-dvore-na-krajnej-ulici-nedaleko-avion-shopping-center-v-ruzinove/Ju55zOj-1MZ/"
-      },
-      {
-        "zdroj": "Reality.sk",
-        "odkaz": "https://www.reality.sk/byty/zariadena-zrekonstruovana-garzonka-20-m2-1-posch-wifi-parkovanie-vo-dvore-na-krajnej-ulici-nedaleko-avion-shopping-center-v-ruzinove/JueO_4ddRLw/"
-      }
-    ]
-  },
-  "reality_JusHtQcapz2": {
-    "id": "reality_JusHtQcapz2",
-    "zdroj": "Reality.sk",
-    "titulok": "Na prenájom 3 izbový byt Bratislava Dúbravka Bagarova ulica",
-    "odkaz": "https://www.reality.sk/byty/na-prenajom-3-izbovy-byt-bratislava-dubravka-bagarova-ulica/JusHtQcapz2/",
-    "cena_povodna": "700 €/mesiac\n                                                            12 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 851 03 (Dúbravka)",
-    "lat": 48.1225228,
-    "lng": 17.1161139,
-    "farba": "orange"
-  },
-  "reality_Julv3VWdIai": {
-    "id": "reality_Julv3VWdIai",
-    "zdroj": "Reality.sk",
-    "titulok": "TRENČIANSKA - 2 iz. byt v tehlovom dome, klimatizácia, WIFI, vhodný pre pár",
-    "odkaz": "https://www.reality.sk/byty/trencianska-2-iz-byt-v-tehlovom-dome-klimatizacia-wifi-vhodny-pre-par/Julv3VWdIai/",
-    "cena_povodna": "650 €/mesiac\n                                                            10 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 650,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 821 09",
-    "lat": 48.1398151,
-    "lng": 17.1441354,
-    "farba": "orange"
-  },
-  "reality_42656642": {
-    "id": "reality_42656642",
-    "zdroj": "Reality.sk",
-    "titulok": "2",
-    "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700&page=2",
-    "cena_povodna": "Cena neuvedená",
-    "spolu_cena": null,
-    "efektivna_cena": null,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Neuvedená (Bratislava)",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "gray"
-  },
-  "reality_Ju1GJezzFii": {
-    "id": "reality_Ju1GJezzFii",
-    "zdroj": "Reality.sk",
-    "titulok": "Prenájom 2-izbového ateliéru s predzáhradkou – Vrakuňa",
-    "odkaz": "https://www.reality.sk/byty/prenajom-2-izboveho-atelieru-s-predzahradkou-vrakuna/Ju1GJezzFii/",
-    "cena_povodna": "700 €/mesiac\n                                                            17 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 841 04 (Vrakuňa)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
-  },
-  "reality_JusZ3YxxkXA": {
-    "id": "reality_JusZ3YxxkXA",
-    "zdroj": "Reality.sk",
-    "titulok": "Prenájom 2-izbový byt v Ružinove aj s parkingom",
-    "odkaz": "https://www.reality.sk/byty/prenajom-2-izbovy-byt-v-ruzinove-aj-s-parkingom/JusZ3YxxkXA/",
-    "cena_povodna": "700 €/mesiac\n                                                            13 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 851 05",
-    "lat": 48.1060532,
-    "lng": 17.1075321,
-    "farba": "orange"
-  },
-  "reality_87178941": {
-    "id": "reality_87178941",
-    "zdroj": "Reality.sk",
-    "titulok": "DAHLEH-Na prenájom úplne nový 1 izbový byt v novostavbe Olivia Residence",
-    "odkaz": "https://www.reality.sk/byty/dahleh-na-prenajom-uplne-novy-1-izbovy-byt-v-novostavbe-olivia-residence/JuoyDYC_Pyp/",
-    "cena_povodna": "620 €/mesiac\n                                                            20 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 620,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 821 09",
-    "lat": 48.1398151,
-    "lng": 17.1441354,
-    "farba": "orange"
-  },
-  "reality_JuM462Qjryw": {
-    "id": "reality_JuM462Qjryw",
-    "zdroj": "Reality.sk",
-    "titulok": "**QREAL**KLIMATIZOVANÝ 2-IZBOVÝ BYT S BALKÓNOM**",
-    "odkaz": "https://www.reality.sk/byty/qreal-klimatizovany-2-izbovy-byt-s-balkonom/JuM462Qjryw/",
-    "cena_povodna": "690 €/mesiac\n                                                            12 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 690,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
-  },
-  "reality_Jui8vNwaN2Y": {
-    "id": "reality_Jui8vNwaN2Y",
-    "zdroj": "Reality.sk",
-    "titulok": "Príjemný 2 izbový byt s balkónom a klimatizáciou na prenájom – Bratislava III, Nové Mesto, Kyjevská ulica",
-    "odkaz": "https://www.reality.sk/byty/prijemny-2-izbovy-byt-s-balkonom-a-klimatizaciou-na-prenajom-bratislava-iii-nove-mesto-kyjevska-ulica/Jui8vNwaN2Y/",
-    "cena_povodna": "550 €/mesiac\n                                                            10 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 550,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Kyjevská (Nové Mesto)",
-    "lat": 48.16815715458,
-    "lng": 17.121692773309,
-    "farba": "green"
-  },
-  "reality_Juzbv-DULP3": {
-    "id": "reality_Juzbv-DULP3",
-    "zdroj": "Reality.sk",
-    "titulok": "Prenájom 1i byt,Ružinov, Tokajícka ulica",
-    "odkaz": "https://www.reality.sk/byty/prenajom-1i-byt-ruzinov-tokajicka-ulica/Juzbv-DULP3/",
-    "cena_povodna": "640 €/mesiac\n                                                            17 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 640,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Tokajícka (Ružinov)",
-    "lat": 48.16180133618,
-    "lng": 17.148220107728,
-    "farba": "green"
-  },
-  "reality_JuPFqHdhacj": {
-    "id": "reality_JuPFqHdhacj",
-    "zdroj": "Reality.sk",
-    "titulok": "1,5 izbový byt BA II - Prievoz parkovanie vo dvore len pre bytový komplex. Cena 700,- eur",
-    "odkaz": "https://www.reality.sk/byty/1-5-izbovy-byt-ba-ii-prievoz-parkovanie-vo-dvore-len-pre-bytovy-komplex-cena-700-eur/JuPFqHdhacj/",
-    "cena_povodna": "700 €/mesiac\n                                                            20 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 831 04 (Prievoz)",
-    "lat": 48.1712321,
-    "lng": 17.1499302,
-    "farba": "orange"
-  },
-  "reality_JuWCwHMwH1D": {
-    "id": "reality_JuWCwHMwH1D",
-    "zdroj": "Reality.sk",
-    "titulok": "Priestranný 1-izbový byt so samostatnou kuchyňou | Petržalka – Rovniankova",
-    "odkaz": "https://www.reality.sk/byty/priestranny-1-izbovy-byt-so-samostatnou-kuchynou-petrzalka-rovniankova/JuWCwHMwH1D/",
-    "cena_povodna": "700 €/mesiac\n                                                            19 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 821 03 (Petržalka)",
-    "lat": 48.1548806,
-    "lng": 17.1672305,
-    "farba": "orange"
-  },
-  "reality_Jucvzyl6RQC": {
-    "id": "reality_Jucvzyl6RQC",
-    "zdroj": "Reality.sk",
-    "titulok": "Geologická ul.: na prenájom útulný 1-izbový byt so spacím kútom a s vyhradeným parkovacím miestom pred bytovým domom",
-    "odkaz": "https://www.reality.sk/byty/geologicka-ul-na-prenajom-utulny-1-izbovy-byt-so-spacim-kutom-a-s-vyhradenym-parkovacim-miestom-pred-bytovym-domom/Jucvzyl6RQC/",
-    "cena_povodna": "600 €/mesiac\n                                                            14 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 600,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Geologická",
-    "lat": 48.139416988262,
-    "lng": 17.195618700793,
-    "farba": "green"
-  },
-  "reality_39700579": {
-    "id": "reality_39700579",
-    "zdroj": "Reality.sk",
-    "titulok": "1",
-    "odkaz": "https://www.reality.sk/byty/bratislava/prenajom/?price_to=700",
-    "cena_povodna": "Cena neuvedená",
-    "spolu_cena": null,
-    "efektivna_cena": null,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "Neuvedená (Bratislava)",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "gray"
-  },
-  "reality_54766890": {
-    "id": "reality_54766890",
-    "zdroj": "Reality.sk",
-    "titulok": "PRENÁJOM slnečného dizajnového bytu s loggiou po kompletnej rekonštrukcii pri parku Ostredky",
-    "odkaz": "https://www.reality.sk/byty/prenajom-slnecneho-dizajnoveho-bytu-s-loggiou-po-kompletnej-rekonstrukcii-pri-parku-ostredky/JuE0ypJ_bKA/",
-    "cena_povodna": "680 €/mesiac\n                                                            14 €/mesiac/m²",
-    "spolu_cena": null,
-    "efektivna_cena": 680,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 831 03 (Ostredky)",
-    "lat": 48.1649786,
-    "lng": 17.1309307,
-    "farba": "orange"
-  },
-  "bazos_193928495": {
-    "id": "bazos_193928495",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM 3-IZB. BYTU V KARLOVEJ VSI , ZREKONŠTRUOVANÝ, ZARIA",
-    "odkaz": "https://reality.bazos.sk/inzerat/193928495/prenajom-3-izb-bytu-v-karlovej-vsi-zrekonstruovany-zaria.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "23.07.2026",
-    "datum_iso": "2026-07-23",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
-  },
   "bazos_193941339": {
     "id": "bazos_193941339",
     "zdroj": "Bazoš",
@@ -703,7 +69,7 @@
     "efektivna_cena": 630,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Páričkova",
+    "lokalita": "Páričkova (Ružinov)",
     "lat": 48.148211836085,
     "lng": 17.128977158179,
     "farba": "green"
@@ -733,9 +99,9 @@
     "efektivna_cena": 420,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Mierová",
-    "lat": 48.147520984188,
-    "lng": 17.180212177378,
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
     "farba": "green"
   },
   "bazos_193937013": {
@@ -793,7 +159,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "PSČ: 821 08",
+    "lokalita": "PSČ: 821 08 (Nivy)",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -956,8 +322,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "29.07.2026",
-    "datum_iso": "2026-07-29",
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
     "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
@@ -971,8 +337,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "29.07.2026",
-    "datum_iso": "2026-07-29",
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
     "lokalita": "PSČ: 821 04",
     "lat": 48.1880333,
     "lng": 17.1853566,
@@ -988,9 +354,9 @@
     "efektivna_cena": 640,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Bajkalská",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
+    "lokalita": "Kutuzovova (Nové Mesto)",
+    "lat": 48.167331566219,
+    "lng": 17.129812676458,
     "farba": "green"
   },
   "bazos_194035772": {
@@ -1018,10 +384,10 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Jakubovo (Staré Mesto)",
-    "lat": 48.143356247308,
-    "lng": 17.120245993702,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_194032716": {
     "id": "bazos_194032716",
@@ -1151,8 +517,8 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "29.07.2026",
-    "datum_iso": "2026-07-29",
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
     "lokalita": "NOVOSTAVBE UNIVERSO (Záhorská Bystrica)",
     "lat": 48.241798661,
     "lng": 17.038232715,
@@ -1168,7 +534,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lokalita": "PSČ: 841 04 (Mlynská dolina)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -1198,9 +564,9 @@
     "efektivna_cena": 650,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Trnavská",
-    "lat": 48.158287058564,
-    "lng": 17.133347902862,
+    "lokalita": "Trnavská (Nové Mesto)",
+    "lat": 48.162770527543,
+    "lng": 17.142030007352,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -1249,7 +615,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Nobelova",
+    "lokalita": "Nobelova (Nové Mesto)",
     "lat": 48.184114462402,
     "lng": 17.145890069513,
     "farba": "green"
@@ -1307,8 +673,8 @@
     "cena_povodna": "670 €",
     "spolu_cena": "670 €",
     "efektivna_cena": 670,
-    "datum_str": "29.07.2026",
-    "datum_iso": "2026-07-29",
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
     "lokalita": "Stavbárska (Vrakuňa)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
@@ -1354,7 +720,7 @@
     "efektivna_cena": 650,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 821 08",
+    "lokalita": "PSČ: 821 08 (Nivy)",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -1429,7 +795,7 @@
     "efektivna_cena": 630,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -1444,7 +810,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "Haburská",
+    "lokalita": "Haburská (Ružinov)",
     "lat": 48.162635144036,
     "lng": 17.153625963919,
     "farba": "green"
@@ -1463,5 +829,80 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "orange"
+  },
+  "bazos_194127242": {
+    "id": "bazos_194127242",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom kompletne zariadený 3-izbový byt v mode",
+    "odkaz": "https://reality.bazos.sk/inzerat/194127242/ponukame-na-prenajom-kompletne-zariadeny-3-izbovy-byt-v-mode.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "Jesenná (Ružinov)",
+    "lat": 48.16430762779,
+    "lng": 17.163418644873,
+    "farba": "green"
+  },
+  "bazos_194126991": {
+    "id": "bazos_194126991",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom zariadený 2-izbový byt na ulici Guothov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194126991/ponukame-na-prenajom-zariadeny-2-izbovy-byt-na-ulici-guothov.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "PSČ: 831 01",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
+  },
+  "bazos_194126767": {
+    "id": "bazos_194126767",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | 2 izbový byt s parkovaním vo dvore, Kutuzovova ul.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194126767/bosen-2-izbovy-byt-s-parkovanim-vo-dvore-kutuzovova-ul.php",
+    "cena_povodna": "610 €",
+    "spolu_cena": "610 €",
+    "efektivna_cena": 610,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "Kutuzovova (Nové Mesto)",
+    "lat": 48.167331566219,
+    "lng": 17.129812676458,
+    "farba": "green"
+  },
+  "bazos_194124572": {
+    "id": "bazos_194124572",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Zariadený 3 izbový byt, Pavla Horova, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194124572/bosen-zariadeny-3-izbovy-byt-pavla-horova-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "PSČ: 841 08 (Bory)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
+  },
+  "bazos_194124513": {
+    "id": "bazos_194124513",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Klimatizovaný 2 izbový byt s balkónom, Sputniková, B",
+    "odkaz": "https://reality.bazos.sk/inzerat/194124513/bosen-klimatizovany-2-izbovy-byt-s-balkonom-sputnikova-b.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "Ružinove - JAŠÍKOVA",
+    "lat": 48.155775491223,
+    "lng": 17.166934715298,
+    "farba": "green"
   }
 }
