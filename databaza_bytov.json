@@ -9,7 +9,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -69,7 +69,7 @@
     "efektivna_cena": 630,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Páričkova (Ružinov)",
+    "lokalita": "Páričkova",
     "lat": 48.148211836085,
     "lng": 17.128977158179,
     "farba": "green"
@@ -99,9 +99,9 @@
     "efektivna_cena": 420,
     "datum_str": "24.07.2026",
     "datum_iso": "2026-07-24",
-    "lokalita": "Mierová (Ružinov)",
-    "lat": 48.1491552,
-    "lng": 17.1608078,
+    "lokalita": "Mierová",
+    "lat": 48.147520984188,
+    "lng": 17.180212177378,
     "farba": "green"
   },
   "bazos_193937013": {
@@ -189,7 +189,7 @@
     "efektivna_cena": 650,
     "datum_str": "25.07.2026",
     "datum_iso": "2026-07-25",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -339,7 +339,7 @@
     "efektivna_cena": 650,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -354,10 +354,10 @@
     "efektivna_cena": 640,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Kutuzovova (Nové Mesto)",
-    "lat": 48.167331566219,
-    "lng": 17.129812676458,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194035772": {
     "id": "bazos_194035772",
@@ -399,7 +399,7 @@
     "efektivna_cena": 620,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -425,14 +425,14 @@
     "titulok": "Novostavba s parkingom 2 izbový byt, Kadnárova, Bratislava I",
     "odkaz": "https://reality.bazos.sk/inzerat/194031027/novostavba-s-parkingom-2-izbovy-byt-kadnarova-bratislava-i.php",
     "cena_povodna": "690 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "Kadnárova (Rača)",
+    "lat": 48.205538823268,
+    "lng": 17.148330255905,
+    "farba": "green"
   },
   "bazos_194030331": {
     "id": "bazos_194030331",
@@ -489,10 +489,10 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "slepá",
-    "lat": 48.144246806918,
-    "lng": 17.092857734044,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_194028480": {
     "id": "bazos_194028480",
@@ -534,7 +534,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "PSČ: 841 04 (Mlynská dolina)",
+    "lokalita": "PSČ: 841 04 (Ružinov)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -776,8 +776,8 @@
     "titulok": "Na prenájom 3 izbový byt s veľkou loggiou Bratislava Rača",
     "odkaz": "https://reality.bazos.sk/inzerat/194102351/na-prenajom-3-izbovy-byt-s-velkou-loggiou-bratislava-raca.php",
     "cena_povodna": "630 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
     "lokalita": "PSČ: 831 06 (Rača)",
@@ -795,10 +795,10 @@
     "efektivna_cena": 630,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 851 01",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Šustekova (Petržalka)",
+    "lat": 48.128974204293,
+    "lng": 17.124670906598,
+    "farba": "green"
   },
   "bazos_194097669": {
     "id": "bazos_194097669",
@@ -810,7 +810,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "Haburská (Ružinov)",
+    "lokalita": "Haburská",
     "lat": 48.162635144036,
     "lng": 17.153625963919,
     "farba": "green"
@@ -840,9 +840,9 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Jesenná (Ružinov)",
-    "lat": 48.16430762779,
-    "lng": 17.163418644873,
+    "lokalita": "MILETIČOVA (Ružinov)",
+    "lat": 48.156456161688,
+    "lng": 17.13215886068,
     "farba": "green"
   },
   "bazos_194126991": {
@@ -900,9 +900,69 @@
     "efektivna_cena": 630,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Ružinove - JAŠÍKOVA",
-    "lat": 48.155775491223,
-    "lng": 17.166934715298,
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_194138923": {
+    "id": "bazos_194138923",
+    "zdroj": "Bazoš",
+    "titulok": "NOVOSTAVBA OMNIA 2 izbový byt, Tomášikova ulica, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194138923/novostavba-omnia-2-izbovy-byt-tomasikova-ulica-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "Tomášikova (Ružinov)",
+    "lat": 48.163704885586,
+    "lng": 17.15367903129,
+    "farba": "green"
+  },
+  "bazos_194138909": {
+    "id": "bazos_194138909",
+    "zdroj": "Bazoš",
+    "titulok": "Veľký 2 izb. byt v novostavbe Budatínska ulica,Bratislava V.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194138909/velky-2-izb-byt-v-novostavbe-budatinska-ulicabratislava-v.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "novostavbe Budatínska (Petržalka)",
+    "lat": 48.109083924342,
+    "lng": 17.098447581979,
+    "farba": "green"
+  },
+  "bazos_194136229": {
+    "id": "bazos_194136229",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194136229/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "490 €",
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_194133146": {
+    "id": "bazos_194133146",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194133146/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "530 €",
+    "spolu_cena": "530 €",
+    "efektivna_cena": 530,
+    "datum_str": "30.07.2026",
+    "datum_iso": "2026-07-30",
+    "lokalita": "Šustekova (Petržalka)",
+    "lat": 48.128974204293,
+    "lng": 17.124670906598,
     "farba": "green"
   }
 }
