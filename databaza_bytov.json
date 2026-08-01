@@ -9,10 +9,10 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_193753019": {
     "id": "bazos_193753019",
@@ -99,10 +99,10 @@
     "efektivna_cena": 650,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194014882": {
     "id": "bazos_194014882",
@@ -180,7 +180,7 @@
     "efektivna_cena": 640,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -225,10 +225,10 @@
     "efektivna_cena": 620,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "pri Lidl Galvaniho (Trnávka)",
-    "lat": 48.159152726509,
-    "lng": 17.182079112883,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "bazos_194031186": {
     "id": "bazos_194031186",
@@ -315,10 +315,10 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "novostavbe NUPPU (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_194028480": {
     "id": "bazos_194028480",
@@ -390,9 +390,9 @@
     "efektivna_cena": 650,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Trnavská",
-    "lat": 48.158287058564,
-    "lng": 17.133347902862,
+    "lokalita": "Trnavská (Nové Mesto)",
+    "lat": 48.162770527543,
+    "lng": 17.142030007352,
     "farba": "green"
   },
   "bazos_194048646": {
@@ -435,7 +435,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Nobelova",
+    "lokalita": "Nobelova (Nové Mesto)",
     "lat": 48.184114462402,
     "lng": 17.145890069513,
     "farba": "green"
@@ -615,7 +615,7 @@
     "efektivna_cena": 630,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -660,9 +660,9 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "novostavbe NUPPU (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "MILETIČOVA (Ružinov)",
+    "lat": 48.156456161688,
+    "lng": 17.13215886068,
     "farba": "green"
   },
   "bazos_194126991": {
@@ -690,7 +690,7 @@
     "efektivna_cena": 610,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Kutuzovova",
+    "lokalita": "Kutuzovova (Nové Mesto)",
     "lat": 48.167331566219,
     "lng": 17.129812676458,
     "farba": "green"
@@ -720,10 +720,10 @@
     "efektivna_cena": 630,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194138923": {
     "id": "bazos_194138923",
@@ -750,7 +750,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "novostavbe Budatínska",
+    "lokalita": "novostavbe Budatínska (Petržalka)",
     "lat": 48.109083924342,
     "lng": 17.098447581979,
     "farba": "green"
@@ -780,7 +780,7 @@
     "efektivna_cena": 530,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -810,7 +810,7 @@
     "efektivna_cena": 660,
     "datum_str": "31.07.2026",
     "datum_iso": "2026-07-31",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -870,9 +870,39 @@
     "efektivna_cena": 610,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
+  },
+  "bazos_194195007": {
+    "id": "bazos_194195007",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom veľkometrážneho 2-izbového bytu, 67 m² + balkón 7 m",
+    "odkaz": "https://reality.bazos.sk/inzerat/194195007/prenajom-velkometrazneho-2-izboveho-bytu-67-m-balkon-7-m.php",
+    "cena_povodna": "640 €",
+    "spolu_cena": "640 €",
+    "efektivna_cena": 640,
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
+    "lokalita": "PSČ: 930 05",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_194193476": {
+    "id": "bazos_194193476",
+    "zdroj": "Bazoš",
+    "titulok": "Hľadáte bývanie v Ružinove? 1,5-izbový byt s veľkou…",
+    "odkaz": "https://reality.bazos.sk/inzerat/194193476/hladate-byvanie-v-ruzinove-15-izbovy-byt-s-velkou.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   }
 }
