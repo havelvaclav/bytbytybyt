@@ -144,25 +144,31 @@
     "efektivna_cena": 650,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_193972668": {
     "id": "bazos_193972668",
     "zdroj": "Bazoš",
     "titulok": "Realitný kancelária REALADR s.r.o.",
     "odkaz": "https://reality.bazos.sk/inzerat/193972668/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
+    "cena_povodna": "490 €",
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "pri Lidl Galvaniho (Trnávka)",
-    "lat": 48.159152726509,
-    "lng": 17.182079112883,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/194190462/realitna-kancelaria-realadr-sro.php"
+      }
+    ]
   },
   "bazos_194035805": {
     "id": "bazos_194035805",
@@ -204,10 +210,10 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Jakubovo (Staré Mesto)",
+    "lat": 48.143356247308,
+    "lng": 17.120245993702,
+    "farba": "green"
   },
   "bazos_194032716": {
     "id": "bazos_194032716",
@@ -309,10 +315,10 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 821 06",
-    "lat": 48.1251898,
-    "lng": 17.2111499,
-    "farba": "orange"
+    "lokalita": "novostavbe NUPPU (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194028480": {
     "id": "bazos_194028480",
@@ -489,7 +495,7 @@
     "efektivna_cena": 670,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "Stavbárska",
+    "lokalita": "Stavbárska (Vrakuňa)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -534,7 +540,7 @@
     "efektivna_cena": 650,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 821 08 (Nivy)",
+    "lokalita": "PSČ: 821 08 (Ružinov)",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -639,10 +645,10 @@
     "efektivna_cena": 550,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "pokojnej lokalite",
+    "lokalita": "PSČ: 929 01",
     "lat": 48.154419507,
     "lng": 17.119406427,
-    "farba": "green"
+    "farba": "orange"
   },
   "bazos_194127242": {
     "id": "bazos_194127242",
