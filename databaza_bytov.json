@@ -9,10 +9,10 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_193753019": {
     "id": "bazos_193753019",
@@ -42,51 +42,6 @@
     "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
-    "farba": "orange"
-  },
-  "bazos_193971507": {
-    "id": "bazos_193971507",
-    "zdroj": "Bazoš",
-    "titulok": "2-izb v blízkosti Ikea kompletne zariadený",
-    "odkaz": "https://reality.bazos.sk/inzerat/193971507/2-izb-v-blizkosti-ikea-kompletne-zariadeny.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "25.07.2026",
-    "datum_iso": "2026-07-25",
-    "lokalita": "DRIEŇOVÁ (Štrkovec)",
-    "lat": 48.161801751433,
-    "lng": 17.158916939362,
-    "farba": "green"
-  },
-  "bazos_193971264": {
-    "id": "bazos_193971264",
-    "zdroj": "Bazoš",
-    "titulok": "Realitný kancelária REALADR s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/193971264/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "25.07.2026",
-    "datum_iso": "2026-07-25",
-    "lokalita": "PSČ: 821 04",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
-  },
-  "bazos_193983148": {
-    "id": "bazos_193983148",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom nepriechodnej izby v 2-izbovom byte (75 m²) – BA La",
-    "odkaz": "https://reality.bazos.sk/inzerat/193983148/prenajom-nepriechodnej-izby-v-2-izbovom-byte-75-m-ba-la.php",
-    "cena_povodna": "350 €",
-    "spolu_cena": "350 €",
-    "efektivna_cena": 350,
-    "datum_str": "25.07.2026",
-    "datum_iso": "2026-07-25",
-    "lokalita": "PSČ: 841 03 (Lamač)",
-    "lat": 48.1941432,
-    "lng": 17.0468593,
     "farba": "orange"
   },
   "bazos_194001906": {
@@ -144,10 +99,10 @@
     "efektivna_cena": 650,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194014882": {
     "id": "bazos_194014882",
@@ -187,8 +142,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "31.07.2026",
-    "datum_iso": "2026-07-31",
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
     "lokalita": "prostredí pri Malom Dunaji",
     "lat": 48.154419507,
     "lng": 17.119406427,
@@ -202,11 +157,11 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "31.07.2026",
-    "datum_iso": "2026-07-31",
-    "lokalita": "DRIEŇOVÁ (Štrkovec)",
-    "lat": 48.161801751433,
-    "lng": 17.158916939362,
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
+    "lokalita": "pri Lidl Galvaniho (Trnávka)",
+    "lat": 48.159152726509,
+    "lng": 17.182079112883,
     "farba": "green"
   },
   "bazos_194035805": {
@@ -219,10 +174,10 @@
     "efektivna_cena": 640,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Račianská (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194035772": {
     "id": "bazos_194035772",
@@ -249,10 +204,10 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "NOVOSTAVBE UNIVERSO",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_194032716": {
     "id": "bazos_194032716",
@@ -264,9 +219,9 @@
     "efektivna_cena": 620,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "DRIEŇOVÁ (Štrkovec)",
-    "lat": 48.161801751433,
-    "lng": 17.158916939362,
+    "lokalita": "pri Lidl Galvaniho (Trnávka)",
+    "lat": 48.159152726509,
+    "lng": 17.182079112883,
     "farba": "green"
   },
   "bazos_194031186": {
@@ -339,7 +294,7 @@
     "efektivna_cena": 610,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 821 03",
+    "lokalita": "PSČ: 821 03 (Ružinov)",
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange"
@@ -369,10 +324,10 @@
     "efektivna_cena": 700,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 811 06 (Staré Mesto)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
+    "farba": "green"
   },
   "bazos_194048355": {
     "id": "bazos_194048355",
@@ -414,7 +369,7 @@
     "efektivna_cena": 450,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Garsonka Mierová",
+    "lokalita": "Garsonka Mierová (Ružinov)",
     "lat": 48.147520984188,
     "lng": 17.180212177378,
     "farba": "green"
@@ -429,9 +384,9 @@
     "efektivna_cena": 650,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Trnavská (Nové Mesto)",
-    "lat": 48.162770527543,
-    "lng": 17.142030007352,
+    "lokalita": "Trnavská",
+    "lat": 48.158287058564,
+    "lng": 17.133347902862,
     "farba": "green"
   },
   "bazos_194048646": {
@@ -444,10 +399,10 @@
     "efektivna_cena": 680,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 821 05",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "novostavbe NUPPU (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194074392": {
     "id": "bazos_194074392",
@@ -459,7 +414,7 @@
     "efektivna_cena": 275,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "PSČ: 850 09 (Petržalka)",
+    "lokalita": "PSČ: 850 09 (Rusovce)",
     "lat": 48.0409008,
     "lng": 17.1176491,
     "farba": "orange"
@@ -474,7 +429,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Nobelova (Nové Mesto)",
+    "lokalita": "Nobelova",
     "lat": 48.184114462402,
     "lng": 17.145890069513,
     "farba": "green"
@@ -532,8 +487,8 @@
     "cena_povodna": "670 €",
     "spolu_cena": "670 €",
     "efektivna_cena": 670,
-    "datum_str": "31.07.2026",
-    "datum_iso": "2026-07-31",
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
     "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
@@ -684,7 +639,7 @@
     "efektivna_cena": 550,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Boriny",
+    "lokalita": "pokojnej lokalite",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -729,7 +684,7 @@
     "efektivna_cena": 610,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Kutuzovova (Nové Mesto)",
+    "lokalita": "Kutuzovova",
     "lat": 48.167331566219,
     "lng": 17.129812676458,
     "farba": "green"
@@ -759,10 +714,10 @@
     "efektivna_cena": 630,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194138923": {
     "id": "bazos_194138923",
@@ -862,11 +817,56 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "31.07.2026",
-    "datum_iso": "2026-07-31",
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
     "lokalita": "PSČ: 851 05",
     "lat": 48.1060532,
     "lng": 17.1075321,
+    "farba": "orange"
+  },
+  "bazos_194183020": {
+    "id": "bazos_194183020",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM VEĽMI PEKNEJ ZARIADENEJ GARZONKY V TICHOM PROSTREDÍ",
+    "odkaz": "https://reality.bazos.sk/inzerat/194183020/prenajom-velmi-peknej-zariadenej-garzonky-v-tichom-prostredi.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_194182524": {
+    "id": "bazos_194182524",
+    "zdroj": "Bazoš",
+    "titulok": "Predmetom ponuky je prenájom garsónky na Štefunkovej ulici,",
+    "odkaz": "https://reality.bazos.sk/inzerat/194182524/predmetom-ponuky-je-prenajom-garsonky-na-stefunkovej-ulici.php",
+    "cena_povodna": "440 €",
+    "spolu_cena": "440 €",
+    "efektivna_cena": 440,
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
+    "lokalita": "PSČ: 821 03",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
+    "farba": "orange"
+  },
+  "bazos_194181523": {
+    "id": "bazos_194181523",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2izbový byt L.Dérera, Bratislava.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194181523/prenajom-2izbovy-byt-lderera-bratislava.php",
+    "cena_povodna": "610 €",
+    "spolu_cena": "610 €",
+    "efektivna_cena": 610,
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
     "farba": "orange"
   }
 }
