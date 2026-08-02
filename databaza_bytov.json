@@ -9,7 +9,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -29,21 +29,6 @@
     "lng": 17.0334999,
     "farba": "orange"
   },
-  "bazos_193797379": {
-    "id": "bazos_193797379",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom 2 izbový byt, 63 m2, Bratislava, Nové Mesto, Šan",
-    "odkaz": "https://reality.bazos.sk/inzerat/193797379/na-prenajom-2-izbovy-byt-63-m2-bratislava-nove-mesto-san.php",
-    "cena_povodna": "640 €",
-    "spolu_cena": "640 €",
-    "efektivna_cena": 640,
-    "datum_str": "26.07.2026",
-    "datum_iso": "2026-07-26",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
-  },
   "bazos_194001906": {
     "id": "bazos_194001906",
     "zdroj": "Bazoš",
@@ -57,21 +42,6 @@
     "lokalita": "PSČ: 831 04",
     "lat": 48.1712321,
     "lng": 17.1499302,
-    "farba": "orange"
-  },
-  "bazos_194000853": {
-    "id": "bazos_194000853",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom zariadená garsónka s loggiou",
-    "odkaz": "https://reality.bazos.sk/inzerat/194000853/na-prenajom-zariadena-garsonka-s-loggiou.php",
-    "cena_povodna": "415 €",
-    "spolu_cena": "415 €",
-    "efektivna_cena": 415,
-    "datum_str": "26.07.2026",
-    "datum_iso": "2026-07-26",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
     "farba": "orange"
   },
   "bazos_194025565": {
@@ -142,9 +112,9 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "datum_str": "02.08.2026",
+    "datum_iso": "2026-08-02",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -157,9 +127,9 @@
     "cena_povodna": "490 €",
     "spolu_cena": "490 €",
     "efektivna_cena": 490,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "datum_str": "02.08.2026",
+    "datum_iso": "2026-08-02",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange",
@@ -180,10 +150,10 @@
     "efektivna_cena": 640,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Stromová (Kramáre)",
+    "lat": 48.162105677233,
+    "lng": 17.097674620506,
+    "farba": "green"
   },
   "bazos_194035772": {
     "id": "bazos_194035772",
@@ -360,7 +330,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "PSČ: 841 04 (Ružinov)",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -390,9 +360,9 @@
     "efektivna_cena": 650,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Trnavská (Nové Mesto)",
-    "lat": 48.162770527543,
-    "lng": 17.142030007352,
+    "lokalita": "Trnavská (Kramáre)",
+    "lat": 48.158287058564,
+    "lng": 17.133347902862,
     "farba": "green"
   },
   "bazos_194048646": {
@@ -435,7 +405,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.07.2026",
     "datum_iso": "2026-07-28",
-    "lokalita": "Nobelova (Nové Mesto)",
+    "lokalita": "Nobelova (Kramáre)",
     "lat": 48.184114462402,
     "lng": 17.145890069513,
     "farba": "green"
@@ -493,9 +463,9 @@
     "cena_povodna": "670 €",
     "spolu_cena": "670 €",
     "efektivna_cena": 670,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "Stavbárska (Vrakuňa)",
+    "datum_str": "02.08.2026",
+    "datum_iso": "2026-08-02",
+    "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -615,7 +585,7 @@
     "efektivna_cena": 630,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -630,7 +600,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "Haburská (Ružinov)",
+    "lokalita": "Haburská",
     "lat": 48.162635144036,
     "lng": 17.153625963919,
     "farba": "green"
@@ -690,7 +660,7 @@
     "efektivna_cena": 610,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Kutuzovova (Nové Mesto)",
+    "lokalita": "Kutuzovova (Kramáre)",
     "lat": 48.167331566219,
     "lng": 17.129812676458,
     "farba": "green"
@@ -720,7 +690,7 @@
     "efektivna_cena": 630,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -735,7 +705,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Tomášikova (Ružinov)",
+    "lokalita": "Tomášikova",
     "lat": 48.163704885586,
     "lng": 17.15367903129,
     "farba": "green"
@@ -750,7 +720,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "novostavbe Budatínska (Petržalka)",
+    "lokalita": "novostavbe Budatínska",
     "lat": 48.109083924342,
     "lng": 17.098447581979,
     "farba": "green"
@@ -780,7 +750,7 @@
     "efektivna_cena": 530,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -810,10 +780,10 @@
     "efektivna_cena": 660,
     "datum_str": "31.07.2026",
     "datum_iso": "2026-07-31",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Stromová (Kramáre)",
+    "lat": 48.162105677233,
+    "lng": 17.097674620506,
+    "farba": "green"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -823,8 +793,8 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
+    "datum_str": "02.08.2026",
+    "datum_iso": "2026-08-02",
     "lokalita": "PSČ: 851 05",
     "lat": 48.1060532,
     "lng": 17.1075321,
@@ -840,7 +810,7 @@
     "efektivna_cena": 520,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -870,10 +840,10 @@
     "efektivna_cena": 610,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Stromová (Kramáre)",
+    "lat": 48.162105677233,
+    "lng": 17.097674620506,
+    "farba": "green"
   },
   "bazos_194195007": {
     "id": "bazos_194195007",
@@ -900,9 +870,24 @@
     "efektivna_cena": 700,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_194193023": {
+    "id": "bazos_194193023",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194193023/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "549 €",
+    "spolu_cena": "549 €",
+    "efektivna_cena": 549,
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   }
 }
