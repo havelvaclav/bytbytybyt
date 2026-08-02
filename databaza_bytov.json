@@ -9,7 +9,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -114,10 +114,10 @@
     "efektivna_cena": 650,
     "datum_str": "02.08.2026",
     "datum_iso": "2026-08-02",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
   },
   "bazos_193972668": {
     "id": "bazos_193972668",
@@ -129,14 +129,14 @@
     "efektivna_cena": 490,
     "datum_str": "02.08.2026",
     "datum_iso": "2026-08-02",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange",
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/194190462/realitna-kancelaria-realadr-sro.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/194209586/realitny-kancelaria-realadr-sro.php"
       }
     ]
   },
@@ -161,8 +161,8 @@
     "titulok": "Garsónka s klímou a parkovacím miestom na prenájom, Na pasek",
     "odkaz": "https://reality.bazos.sk/inzerat/194035772/garsonka-s-klimou-a-parkovacim-miestom-na-prenajom-na-pasek.php",
     "cena_povodna": "490 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
     "lokalita": "PSČ: 831 06",
@@ -180,9 +180,9 @@
     "efektivna_cena": 500,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "Jakubovo (Staré Mesto)",
-    "lat": 48.143356247308,
-    "lng": 17.120245993702,
+    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
+    "lat": 48.146671381,
+    "lng": 17.143563264,
     "farba": "green"
   },
   "bazos_194032716": {
@@ -195,7 +195,7 @@
     "efektivna_cena": 620,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -375,9 +375,9 @@
     "efektivna_cena": 680,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
-    "lokalita": "novostavbe NUPPU (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green"
   },
   "bazos_194074392": {
@@ -446,8 +446,8 @@
     "titulok": "Dvojizbový byt v zelenej časti širšieho centra/A two-room ap",
     "odkaz": "https://reality.bazos.sk/inzerat/194046855/dvojizbovy-byt-v-zelenej-casti-sirsieho-centraa-two-room-ap.php",
     "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
     "datum_str": "27.07.2026",
     "datum_iso": "2026-07-27",
     "lokalita": "PSČ: 831 01",
@@ -465,7 +465,7 @@
     "efektivna_cena": 670,
     "datum_str": "02.08.2026",
     "datum_iso": "2026-08-02",
-    "lokalita": "Stavbárska",
+    "lokalita": "Stavbárska (Vrakuňa)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -555,7 +555,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 831 04 (Nové Mesto)",
+    "lokalita": "PSČ: 831 04",
     "lat": 48.1712321,
     "lng": 17.1499302,
     "farba": "orange"
@@ -600,7 +600,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "Haburská",
+    "lokalita": "Haburská (Ružinov)",
     "lat": 48.162635144036,
     "lng": 17.153625963919,
     "farba": "green"
@@ -641,8 +641,8 @@
     "titulok": "Ponúkame na prenájom zariadený 2-izbový byt na ulici Guothov",
     "odkaz": "https://reality.bazos.sk/inzerat/194126991/ponukame-na-prenajom-zariadeny-2-izbovy-byt-na-ulici-guothov.php",
     "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
     "lokalita": "PSČ: 831 01",
@@ -690,7 +690,7 @@
     "efektivna_cena": 630,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -705,7 +705,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Tomášikova",
+    "lokalita": "Tomášikova (Ružinov)",
     "lat": 48.163704885586,
     "lng": 17.15367903129,
     "farba": "green"
@@ -870,7 +870,7 @@
     "efektivna_cena": 700,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -889,5 +889,80 @@
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
+  },
+  "bazos_194216600": {
+    "id": "bazos_194216600",
+    "zdroj": "Bazoš",
+    "titulok": "Gars. - Toryská ul. (novostavba)",
+    "odkaz": "https://reality.bazos.sk/inzerat/194216600/gars-toryska-ul-novostavba.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "02.08.2026",
+    "datum_iso": "2026-08-02",
+    "lokalita": "Gars. - Toryská (Vrakuňa)",
+    "lat": 48.136153581897,
+    "lng": 17.206204576242,
+    "farba": "green"
+  },
+  "bazos_194215345": {
+    "id": "bazos_194215345",
+    "zdroj": "Bazoš",
+    "titulok": "NOVÝ DIZAJNOVÝ ZARIADENÝ 1-IZB. BYT S BALKONOM A VÝHĽADOM ČA",
+    "odkaz": "https://reality.bazos.sk/inzerat/194215345/novy-dizajnovy-zariadeny-1-izb-byt-s-balkonom-a-vyhladom-ca.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "02.08.2026",
+    "datum_iso": "2026-08-02",
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
+  },
+  "bazos_194214415": {
+    "id": "bazos_194214415",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194214415/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "360 €",
+    "spolu_cena": "360 €",
+    "efektivna_cena": 360,
+    "datum_str": "02.08.2026",
+    "datum_iso": "2026-08-02",
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
+  },
+  "bazos_194209715": {
+    "id": "bazos_194209715",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194209715/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "549 €",
+    "spolu_cena": "549 €",
+    "efektivna_cena": 549,
+    "datum_str": "02.08.2026",
+    "datum_iso": "2026-08-02",
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
+  },
+  "bazos_194199707": {
+    "id": "bazos_194199707",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájmem pekný 2-izbový byt",
+    "odkaz": "https://reality.bazos.sk/inzerat/194199707/prenajmem-pekny-2-izbovy-byt.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "01.08.2026",
+    "datum_iso": "2026-08-01",
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
   }
 }
