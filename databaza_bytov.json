@@ -9,7 +9,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nové Mesto)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -210,7 +210,7 @@
     "efektivna_cena": 580,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "PSČ: 811 01",
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -330,7 +330,7 @@
     "efektivna_cena": 600,
     "datum_str": "29.07.2026",
     "datum_iso": "2026-07-29",
-    "lokalita": "Haburská",
+    "lokalita": "Haburská (Nové Mesto)",
     "lat": 48.162635144036,
     "lng": 17.153625963919,
     "farba": "green"
@@ -405,7 +405,7 @@
     "efektivna_cena": 630,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nové Mesto)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -420,9 +420,9 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Tomášikova",
-    "lat": 48.163704885586,
-    "lng": 17.15367903129,
+    "lokalita": "Tomášikova (Nové Mesto)",
+    "lat": 48.169953947668,
+    "lng": 17.147168163888,
     "farba": "green"
   },
   "bazos_194138909": {
@@ -585,7 +585,7 @@
     "efektivna_cena": 700,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nové Mesto)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -735,7 +735,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 841 04",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -801,7 +801,7 @@
     "efektivna_cena": 570,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 841 04",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -816,7 +816,7 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Trenčianska",
+    "lokalita": "Trenčianska (Nové Mesto)",
     "lat": 48.1539594813,
     "lng": 17.146607491801,
     "farba": "green"
@@ -831,7 +831,7 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nové Mesto)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -846,9 +846,24 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nové Mesto)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
+  },
+  "bazos_194262269": {
+    "id": "bazos_194262269",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1 izbový byt, ulica Donnerova, Bratislava IV. Karlo",
+    "odkaz": "https://reality.bazos.sk/inzerat/194262269/prenajom-1-izbovy-byt-ulica-donnerova-bratislava-iv-karlo.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "03.08.2026",
+    "datum_iso": "2026-08-03",
+    "lokalita": "Donnerova",
+    "lat": 48.15852005584,
+    "lng": 17.055032489073,
+    "farba": "green"
   }
 }
