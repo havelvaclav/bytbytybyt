@@ -9,10 +9,10 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "vybavený",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193972668": {
     "id": "bazos_193972668",
@@ -105,7 +105,7 @@
     "efektivna_cena": 610,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Kutuzovova",
+    "lokalita": "Kutuzovova (Nové Mesto)",
     "lat": 48.167331566219,
     "lng": 17.129812676458,
     "farba": "green"
@@ -135,10 +135,10 @@
     "efektivna_cena": 630,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Miletičova (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194138923": {
     "id": "bazos_194138923",
@@ -150,7 +150,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.07.2026",
     "datum_iso": "2026-07-30",
-    "lokalita": "Tomášikova (Ružinov)",
+    "lokalita": "Tomášikova (Prievoz)",
     "lat": 48.163704885586,
     "lng": 17.15367903129,
     "farba": "green"
@@ -225,10 +225,10 @@
     "efektivna_cena": 660,
     "datum_str": "31.07.2026",
     "datum_iso": "2026-07-31",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Horská (Nové Mesto)",
+    "lat": 48.180033767725,
+    "lng": 17.122249883389,
+    "farba": "green"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -238,8 +238,8 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "05.08.2026",
-    "datum_iso": "2026-08-05",
+    "datum_str": "06.08.2026",
+    "datum_iso": "2026-08-06",
     "lokalita": "PSČ: 851 05",
     "lat": 48.1060532,
     "lng": 17.1075321,
@@ -285,10 +285,10 @@
     "efektivna_cena": 610,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Horská (Nové Mesto)",
+    "lat": 48.180033767725,
+    "lng": 17.122249883389,
+    "farba": "green"
   },
   "bazos_194195007": {
     "id": "bazos_194195007",
@@ -315,10 +315,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "Miletičova (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194193023": {
     "id": "bazos_194193023",
@@ -405,10 +405,10 @@
     "efektivna_cena": 600,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "vybavený",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194241367": {
     "id": "bazos_194241367",
@@ -480,10 +480,10 @@
     "efektivna_cena": 549,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "vybavený",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194251821": {
     "id": "bazos_194251821",
@@ -495,10 +495,10 @@
     "efektivna_cena": 490,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "vybavený",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194250778": {
     "id": "bazos_194250778",
@@ -540,7 +540,7 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Trenčianska (Ružinov)",
+    "lokalita": "Trenčianska (Prievoz)",
     "lat": 48.1539594813,
     "lng": 17.146607491801,
     "farba": "green"
@@ -555,10 +555,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Miletičova (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194242348": {
     "id": "bazos_194242348",
@@ -570,10 +570,10 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Miletičova (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194262269": {
     "id": "bazos_194262269",
@@ -598,8 +598,8 @@
     "cena_povodna": "320 €",
     "spolu_cena": "320 €",
     "efektivna_cena": 320,
-    "datum_str": "05.08.2026",
-    "datum_iso": "2026-08-05",
+    "datum_str": "06.08.2026",
+    "datum_iso": "2026-08-06",
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
@@ -630,10 +630,10 @@
     "efektivna_cena": 360,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "NOVOSTAVBE",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194281220": {
     "id": "bazos_194281220",
@@ -643,8 +643,8 @@
     "cena_povodna": "670 €",
     "spolu_cena": "670 €",
     "efektivna_cena": 670,
-    "datum_str": "05.08.2026",
-    "datum_iso": "2026-08-05",
+    "datum_str": "06.08.2026",
+    "datum_iso": "2026-08-06",
     "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
@@ -711,10 +711,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "Miletičova (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Prievoz)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194280903": {
     "id": "bazos_194280903",
@@ -739,8 +739,8 @@
     "cena_povodna": "450 €",
     "spolu_cena": "450 €",
     "efektivna_cena": 450,
-    "datum_str": "05.08.2026",
-    "datum_iso": "2026-08-05",
+    "datum_str": "06.08.2026",
+    "datum_iso": "2026-08-06",
     "lokalita": "Bujnákova (Dúbravka)",
     "lat": 48.179125791149,
     "lng": 17.04070817873,
@@ -751,14 +751,14 @@
     "zdroj": "Bazoš",
     "titulok": "Nájomné",
     "odkaz": "https://reality.bazos.sk/inzerat/193651852/najomne.php",
-    "cena_povodna": "250 €",
-    "spolu_cena": "250 €",
-    "efektivna_cena": 250,
-    "datum_str": "05.08.2026",
-    "datum_iso": "2026-08-05",
-    "lokalita": "Royova 21 (Nové Mesto)",
-    "lat": 48.164097265417,
-    "lng": 17.092684319752,
+    "cena_povodna": "300 €",
+    "spolu_cena": "300 €",
+    "efektivna_cena": 300,
+    "datum_str": "06.08.2026",
+    "datum_iso": "2026-08-06",
+    "lokalita": "Horská (Nové Mesto)",
+    "lat": 48.180033767725,
+    "lng": 17.122249883389,
     "farba": "green"
   },
   "bazos_194315511": {
@@ -786,7 +786,7 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Prievoz)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -849,6 +849,66 @@
     "lokalita": "PSČ: 850 00 (Slnečnice)",
     "lat": 48.123911,
     "lng": 17.11186,
+    "farba": "orange"
+  },
+  "bazos_194324476": {
+    "id": "bazos_194324476",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom - 1-izbový byt na Gorkého ulici – Bratislava I",
+    "odkaz": "https://reality.bazos.sk/inzerat/194324476/prenajom-1-izbovy-byt-na-gorkeho-ulici-bratislava-i.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "05.08.2026",
+    "datum_iso": "2026-08-05",
+    "lokalita": "lukratívnej lokalite STARÉHO MESTA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
+  },
+  "bazos_194321791": {
+    "id": "bazos_194321791",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom - garsónka s loggiou a klimatizáciou - Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194321791/prenajom-garsonka-s-loggiou-a-klimatizaciou-fedinova-pe.php",
+    "cena_povodna": "530 €",
+    "spolu_cena": "530 €",
+    "efektivna_cena": 530,
+    "datum_str": "05.08.2026",
+    "datum_iso": "2026-08-05",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_194321640": {
+    "id": "bazos_194321640",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Klimatizovaný 1 izbový byt s balkónom, Horská ul.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194321640/bosen-klimatizovany-1-izbovy-byt-s-balkonom-horska-ul.php",
+    "cena_povodna": "510 €",
+    "spolu_cena": "510 €",
+    "efektivna_cena": 510,
+    "datum_str": "05.08.2026",
+    "datum_iso": "2026-08-05",
+    "lokalita": "Horská",
+    "lat": 48.180033767725,
+    "lng": 17.122249883389,
+    "farba": "green"
+  },
+  "bazos_194320592": {
+    "id": "bazos_194320592",
+    "zdroj": "Bazoš",
+    "titulok": "1 izb. Kalinčiaková, 37m2, zariadený pri zimnom štadione",
+    "odkaz": "https://reality.bazos.sk/inzerat/194320592/1-izb-kalinciakova-37m2-zariadeny-pri-zimnom-stadione.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "05.08.2026",
+    "datum_iso": "2026-08-05",
+    "lokalita": "PSČ: 831 04",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
     "farba": "orange"
   }
 }
