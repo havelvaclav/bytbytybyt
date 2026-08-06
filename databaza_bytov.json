@@ -9,7 +9,7 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "vybavený",
+    "lokalita": "NOVOSTAVBE",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -64,141 +64,6 @@
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
-  },
-  "bazos_194127242": {
-    "id": "bazos_194127242",
-    "zdroj": "Bazoš",
-    "titulok": "Ponúkame na prenájom kompletne zariadený 3-izbový byt v mode",
-    "odkaz": "https://reality.bazos.sk/inzerat/194127242/ponukame-na-prenajom-kompletne-zariadeny-3-izbovy-byt-v-mode.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
-  },
-  "bazos_194126991": {
-    "id": "bazos_194126991",
-    "zdroj": "Bazoš",
-    "titulok": "Ponúkame na prenájom zariadený 2-izbový byt na ulici Guothov",
-    "odkaz": "https://reality.bazos.sk/inzerat/194126991/ponukame-na-prenajom-zariadeny-2-izbovy-byt-na-ulici-guothov.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 831 01",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
-  },
-  "bazos_194126767": {
-    "id": "bazos_194126767",
-    "zdroj": "Bazoš",
-    "titulok": "BOSEN | 2 izbový byt s parkovaním vo dvore, Kutuzovova ul.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194126767/bosen-2-izbovy-byt-s-parkovanim-vo-dvore-kutuzovova-ul.php",
-    "cena_povodna": "610 €",
-    "spolu_cena": "610 €",
-    "efektivna_cena": 610,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "Kutuzovova (Nové Mesto)",
-    "lat": 48.167331566219,
-    "lng": 17.129812676458,
-    "farba": "green"
-  },
-  "bazos_194124572": {
-    "id": "bazos_194124572",
-    "zdroj": "Bazoš",
-    "titulok": "BOSEN | Zariadený 3 izbový byt, Pavla Horova, Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/194124572/bosen-zariadeny-3-izbovy-byt-pavla-horova-bratislava.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "Podhorská (Devínska Nová Ves)",
-    "lat": 48.205501013418,
-    "lng": 16.975125572784,
-    "farba": "green"
-  },
-  "bazos_194124513": {
-    "id": "bazos_194124513",
-    "zdroj": "Bazoš",
-    "titulok": "BOSEN | Klimatizovaný 2 izbový byt s balkónom, Sputniková, B",
-    "odkaz": "https://reality.bazos.sk/inzerat/194124513/bosen-klimatizovany-2-izbovy-byt-s-balkonom-sputnikova-b.php",
-    "cena_povodna": "630 €",
-    "spolu_cena": "630 €",
-    "efektivna_cena": 630,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
-  },
-  "bazos_194138923": {
-    "id": "bazos_194138923",
-    "zdroj": "Bazoš",
-    "titulok": "NOVOSTAVBA OMNIA 2 izbový byt, Tomášikova ulica, Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/194138923/novostavba-omnia-2-izbovy-byt-tomasikova-ulica-bratislava.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "Tomášikova (Prievoz)",
-    "lat": 48.163704885586,
-    "lng": 17.15367903129,
-    "farba": "green"
-  },
-  "bazos_194138909": {
-    "id": "bazos_194138909",
-    "zdroj": "Bazoš",
-    "titulok": "Veľký 2 izb. byt v novostavbe Budatínska ulica,Bratislava V.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194138909/velky-2-izb-byt-v-novostavbe-budatinska-ulicabratislava-v.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "novostavbe Budatínska (Petržalka)",
-    "lat": 48.109083924342,
-    "lng": 17.098447581979,
-    "farba": "green"
-  },
-  "bazos_194136229": {
-    "id": "bazos_194136229",
-    "zdroj": "Bazoš",
-    "titulok": "Realitná kancelária Realadr s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194136229/realitna-kancelaria-realadr-sro.php",
-    "cena_povodna": "490 €",
-    "spolu_cena": "490 €",
-    "efektivna_cena": 490,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
-  },
-  "bazos_194133146": {
-    "id": "bazos_194133146",
-    "zdroj": "Bazoš",
-    "titulok": "Realitný kancelária REALADR s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194133146/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "530 €",
-    "spolu_cena": "530 €",
-    "efektivna_cena": 530,
-    "datum_str": "30.07.2026",
-    "datum_iso": "2026-07-30",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
   },
   "bazos_194150439": {
     "id": "bazos_194150439",
@@ -315,10 +180,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_194193023": {
     "id": "bazos_194193023",
@@ -405,7 +270,7 @@
     "efektivna_cena": 600,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "vybavený",
+    "lokalita": "NOVOSTAVBE",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -480,7 +345,7 @@
     "efektivna_cena": 549,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "vybavený",
+    "lokalita": "NOVOSTAVBE",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -495,7 +360,7 @@
     "efektivna_cena": 490,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "vybavený",
+    "lokalita": "NOVOSTAVBE",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -510,7 +375,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 850 00",
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
     "lat": 48.123911,
     "lng": 17.11186,
     "farba": "orange"
@@ -540,7 +405,7 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Trenčianska (Prievoz)",
+    "lokalita": "Trenčianska (Ružinov)",
     "lat": 48.1539594813,
     "lng": 17.146607491801,
     "farba": "green"
@@ -555,10 +420,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_194242348": {
     "id": "bazos_194242348",
@@ -570,10 +435,10 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_194262269": {
     "id": "bazos_194262269",
@@ -600,10 +465,10 @@
     "efektivna_cena": 320,
     "datum_str": "06.08.2026",
     "datum_iso": "2026-08-06",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Cyrilometódska",
+    "lat": 48.1425154,
+    "lng": 17.1050239,
+    "farba": "green"
   },
   "bazos_194273862": {
     "id": "bazos_194273862",
@@ -615,7 +480,7 @@
     "efektivna_cena": 600,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 850 00",
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
     "lat": 48.123911,
     "lng": 17.11186,
     "farba": "orange"
@@ -711,10 +576,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_194280903": {
     "id": "bazos_194280903",
@@ -771,7 +636,7 @@
     "efektivna_cena": 560,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lokalita": "PSČ: 841 02",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -786,10 +651,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 821 01 (Prievoz)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
@@ -861,7 +726,7 @@
     "efektivna_cena": 690,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "lukratívnej lokalite STARÉHO MESTA",
+    "lokalita": "vybavený",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -909,6 +774,36 @@
     "lokalita": "PSČ: 831 04",
     "lat": 48.1712321,
     "lng": 17.1499302,
+    "farba": "orange"
+  },
+  "bazos_194335597": {
+    "id": "bazos_194335597",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom bytu bez depozitu Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194335597/prenajom-bytu-bez-depozitu-bratislava.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "06.08.2026",
+    "datum_iso": "2026-08-06",
+    "lokalita": "vybavený",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
+  },
+  "bazos_194335571": {
+    "id": "bazos_194335571",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom- 2i zariadený byt, novostavba, parking, AC, Malokar",
+    "odkaz": "https://reality.bazos.sk/inzerat/194335571/prenajom-2i-zariadeny-byt-novostavba-parking-ac-malokar.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "06.08.2026",
+    "datum_iso": "2026-08-06",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
     "farba": "orange"
   }
 }
