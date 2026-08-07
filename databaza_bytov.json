@@ -135,10 +135,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "Vlči",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194193023": {
     "id": "bazos_194193023",
@@ -375,10 +375,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Vlči",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194242348": {
     "id": "bazos_194242348",
@@ -390,10 +390,10 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Vlči",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194262269": {
     "id": "bazos_194262269",
@@ -531,10 +531,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "Vlči",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194280903": {
     "id": "bazos_194280903",
@@ -606,10 +606,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "Vlči",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
