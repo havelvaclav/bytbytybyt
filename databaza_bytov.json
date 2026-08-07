@@ -135,9 +135,9 @@
     "efektivna_cena": 700,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "Jégého (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
     "farba": "green"
   },
   "bazos_194193023": {
@@ -375,9 +375,9 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Jégého (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
     "farba": "green"
   },
   "bazos_194242348": {
@@ -495,9 +495,9 @@
     "efektivna_cena": 570,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "NOVOSTAVBE UNIVERSO",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
+    "lat": 48.146671381,
+    "lng": 17.143563264,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -531,9 +531,9 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "Jégého (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
     "farba": "green"
   },
   "bazos_194280903": {
@@ -606,9 +606,9 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "Jégého (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
     "farba": "green"
   },
   "bazos_194315413": {
@@ -756,10 +756,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.08.2026",
     "datum_iso": "2026-08-06",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_194352589": {
     "id": "bazos_194352589",
@@ -880,5 +880,20 @@
     "lat": 48.123911,
     "lng": 17.11186,
     "farba": "orange"
+  },
+  "bazos_194380277": {
+    "id": "bazos_194380277",
+    "zdroj": "Bazoš",
+    "titulok": "NOVÝ DIZAJNOVÝ ZARIADENÝ 1-IZB. BYT S BALKONOM A VÝHĽADOM ČA",
+    "odkaz": "https://reality.bazos.sk/inzerat/194380277/novy-dizajnovy-zariadeny-1-izb-byt-s-balkonom-a-vyhladom-ca.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "07.08.2026",
+    "datum_iso": "2026-08-07",
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   }
 }
