@@ -135,10 +135,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.08.2026",
     "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_194193023": {
     "id": "bazos_194193023",
@@ -360,7 +360,7 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Trenčianska",
+    "lokalita": "Trenčianska (Ružinov)",
     "lat": 48.1539594813,
     "lng": 17.146607491801,
     "farba": "green"
@@ -375,10 +375,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_194242348": {
     "id": "bazos_194242348",
@@ -435,7 +435,7 @@
     "efektivna_cena": 600,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lokalita": "PSČ: 850 00",
     "lat": 48.123911,
     "lng": 17.11186,
     "farba": "orange"
@@ -495,9 +495,9 @@
     "efektivna_cena": 570,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "Mickiewiczova (Staré Mesto)",
-    "lat": 48.150285519114,
-    "lng": 17.116510788436,
+    "lokalita": "NOVOSTAVBE UNIVERSO",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -531,10 +531,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_194280903": {
     "id": "bazos_194280903",
@@ -591,7 +591,7 @@
     "efektivna_cena": 560,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -606,10 +606,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégého (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
@@ -681,9 +681,9 @@
     "efektivna_cena": 690,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "NOVOSTAVBE UNIVERSO",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "ŽILINSKÁ",
+    "lat": 48.155488272897,
+    "lng": 17.11229977643,
     "farba": "green"
   },
   "bazos_194321791": {
@@ -741,9 +741,9 @@
     "efektivna_cena": 550,
     "datum_str": "06.08.2026",
     "datum_iso": "2026-08-06",
-    "lokalita": "NOVOSTAVBE UNIVERSO",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "ŽILINSKÁ",
+    "lat": 48.155488272897,
+    "lng": 17.11229977643,
     "farba": "green"
   },
   "bazos_194335571": {
@@ -756,10 +756,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.08.2026",
     "datum_iso": "2026-08-06",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194352589": {
     "id": "bazos_194352589",
@@ -834,6 +834,51 @@
     "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_194375275": {
+    "id": "bazos_194375275",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Zariadený 2 izb. byt, Mánes. nám. 2, Petržalka 50m2",
+    "odkaz": "https://reality.bazos.sk/inzerat/194375275/bosen-zariadeny-2-izb-byt-manes-nam-2-petrzalka-50m2.php",
+    "cena_povodna": "660 €",
+    "spolu_cena": "660 €",
+    "efektivna_cena": 660,
+    "datum_str": "07.08.2026",
+    "datum_iso": "2026-08-07",
+    "lokalita": "Mánes (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
+    "farba": "green"
+  },
+  "bazos_194371824": {
+    "id": "bazos_194371824",
+    "zdroj": "Bazoš",
+    "titulok": "Novozariadený útulný 2izbový byt v Dúbravke",
+    "odkaz": "https://reality.bazos.sk/inzerat/194371824/novozariadeny-utulny-2izbovy-byt-v-dubravke.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "07.08.2026",
+    "datum_iso": "2026-08-07",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
+  },
+  "bazos_194370551": {
+    "id": "bazos_194370551",
+    "zdroj": "Bazoš",
+    "titulok": "VEĽKÝ SLNEČNÝ 1-IZBOVÝ BYT 36 m2 S VEĽKOU LOGGIOU, SLNEČNICE",
+    "odkaz": "https://reality.bazos.sk/inzerat/194370551/velky-slnecny-1-izbovy-byt-36-m2-s-velkou-loggiou-slnecnice.php",
+    "cena_povodna": "560 €",
+    "spolu_cena": "560 €",
+    "efektivna_cena": 560,
+    "datum_str": "07.08.2026",
+    "datum_iso": "2026-08-07",
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
     "farba": "orange"
   }
 }
