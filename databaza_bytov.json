@@ -576,9 +576,9 @@
     "efektivna_cena": 690,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "ŽILINSKÁ",
-    "lat": 48.155488272897,
-    "lng": 17.11229977643,
+    "lokalita": "vybavený",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green"
   },
   "bazos_194321791": {
@@ -636,9 +636,9 @@
     "efektivna_cena": 550,
     "datum_str": "06.08.2026",
     "datum_iso": "2026-08-06",
-    "lokalita": "ŽILINSKÁ",
-    "lat": 48.155488272897,
-    "lng": 17.11229977643,
+    "lokalita": "vybavený",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green"
   },
   "bazos_194335571": {
