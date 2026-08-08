@@ -270,10 +270,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Ondavská (Ružinov)",
-    "lat": 48.159708089816,
-    "lng": 17.140012631645,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194242348": {
     "id": "bazos_194242348",
@@ -315,10 +315,10 @@
     "efektivna_cena": 320,
     "datum_str": "08.08.2026",
     "datum_iso": "2026-08-08",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Gúgska",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194273862": {
     "id": "bazos_194273862",
@@ -390,10 +390,10 @@
     "efektivna_cena": 570,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "lukratívnej lokalite STARÉHO MESTA",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green",
+    "lokalita": "PSČ: 811 09",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -426,10 +426,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "Ondavská (Ružinov)",
-    "lat": 48.159708089816,
-    "lng": 17.140012631645,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194280903": {
     "id": "bazos_194280903",
@@ -501,10 +501,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "Ondavská (Ružinov)",
-    "lat": 48.159708089816,
-    "lng": 17.140012631645,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
@@ -831,7 +831,7 @@
     "efektivna_cena": 550,
     "datum_str": "08.08.2026",
     "datum_iso": "2026-08-08",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
