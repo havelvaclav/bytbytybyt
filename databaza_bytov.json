@@ -790,5 +790,20 @@
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
+  },
+  "bazos_194384414": {
+    "id": "bazos_194384414",
+    "zdroj": "Bazoš",
+    "titulok": "1,5 izbový byt, loggia, novostavba, prenájom, Nobelova, Brat",
+    "odkaz": "https://reality.bazos.sk/inzerat/194384414/15-izbovy-byt-loggia-novostavba-prenajom-nobelova-brat.php",
+    "cena_povodna": "610 €",
+    "spolu_cena": "610 €",
+    "efektivna_cena": 610,
+    "datum_str": "07.08.2026",
+    "datum_iso": "2026-08-07",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   }
 }
