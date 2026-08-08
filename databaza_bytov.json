@@ -9,7 +9,7 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -75,7 +75,7 @@
     "efektivna_cena": 590,
     "datum_str": "02.08.2026",
     "datum_iso": "2026-08-02",
-    "lokalita": "Gars. - Toryská",
+    "lokalita": "Gars. - Toryská (Vrakuňa)",
     "lat": 48.136153581897,
     "lng": 17.206204576242,
     "farba": "green"
@@ -270,10 +270,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
+    "farba": "green"
   },
   "bazos_194242348": {
     "id": "bazos_194242348",
@@ -360,7 +360,7 @@
     "efektivna_cena": 670,
     "datum_str": "08.08.2026",
     "datum_iso": "2026-08-08",
-    "lokalita": "Stavbárska",
+    "lokalita": "Stavbárska (Vrakuňa)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -390,9 +390,9 @@
     "efektivna_cena": 570,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "3X SAMOSTATNÉ - NEPRECHODNÉ IZBY (Nivy)",
-    "lat": 48.146671381,
-    "lng": 17.143563264,
+    "lokalita": "lukratívnej lokalite STARÉHO MESTA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -426,10 +426,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
+    "farba": "green"
   },
   "bazos_194280903": {
     "id": "bazos_194280903",
@@ -501,10 +501,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
+    "farba": "green"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
@@ -804,6 +804,36 @@
     "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_194400201": {
+    "id": "bazos_194400201",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194400201/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "549 €",
+    "spolu_cena": "549 €",
+    "efektivna_cena": 549,
+    "datum_str": "08.08.2026",
+    "datum_iso": "2026-08-08",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_194399636": {
+    "id": "bazos_194399636",
+    "zdroj": "Bazoš",
+    "titulok": "NOVÝ DIZAJNOVÝ ZARIADENÝ 1-IZB. BYT S BALKONOM A VÝHĽADOM ČA",
+    "odkaz": "https://reality.bazos.sk/inzerat/194399636/novy-dizajnovy-zariadeny-1-izb-byt-s-balkonom-a-vyhladom-ca.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "08.08.2026",
+    "datum_iso": "2026-08-08",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
