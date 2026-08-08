@@ -65,96 +65,6 @@
     "lng": 17.1075321,
     "farba": "orange"
   },
-  "bazos_194183020": {
-    "id": "bazos_194183020",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM VEĽMI PEKNEJ ZARIADENEJ GARZONKY V TICHOM PROSTREDÍ",
-    "odkaz": "https://reality.bazos.sk/inzerat/194183020/prenajom-velmi-peknej-zariadenej-garzonky-v-tichom-prostredi.php",
-    "cena_povodna": "520 €",
-    "spolu_cena": "520 €",
-    "efektivna_cena": 520,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
-  },
-  "bazos_194182524": {
-    "id": "bazos_194182524",
-    "zdroj": "Bazoš",
-    "titulok": "Predmetom ponuky je prenájom garsónky na Štefunkovej ulici,",
-    "odkaz": "https://reality.bazos.sk/inzerat/194182524/predmetom-ponuky-je-prenajom-garsonky-na-stefunkovej-ulici.php",
-    "cena_povodna": "440 €",
-    "spolu_cena": "440 €",
-    "efektivna_cena": 440,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "MILETIČOVA (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green"
-  },
-  "bazos_194181523": {
-    "id": "bazos_194181523",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 2izbový byt L.Dérera, Bratislava.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194181523/prenajom-2izbovy-byt-lderera-bratislava.php",
-    "cena_povodna": "610 €",
-    "spolu_cena": "610 €",
-    "efektivna_cena": 610,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "Dvojgarsónka (Nové Mesto)",
-    "lat": 48.173547961,
-    "lng": 17.134596885,
-    "farba": "green"
-  },
-  "bazos_194195007": {
-    "id": "bazos_194195007",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom veľkometrážneho 2-izbového bytu, 67 m² + balkón 7 m",
-    "odkaz": "https://reality.bazos.sk/inzerat/194195007/prenajom-velkometrazneho-2-izboveho-bytu-67-m-balkon-7-m.php",
-    "cena_povodna": "640 €",
-    "spolu_cena": "640 €",
-    "efektivna_cena": 640,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 930 05",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "orange"
-  },
-  "bazos_194193476": {
-    "id": "bazos_194193476",
-    "zdroj": "Bazoš",
-    "titulok": "Hľadáte bývanie v Ružinove? 1,5-izbový byt s veľkou…",
-    "odkaz": "https://reality.bazos.sk/inzerat/194193476/hladate-byvanie-v-ruzinove-15-izbovy-byt-s-velkou.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "Ondavská (Ružinov)",
-    "lat": 48.159708089816,
-    "lng": 17.140012631645,
-    "farba": "green"
-  },
-  "bazos_194193023": {
-    "id": "bazos_194193023",
-    "zdroj": "Bazoš",
-    "titulok": "Realitný kancelária REALADR s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194193023/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "549 €",
-    "spolu_cena": "549 €",
-    "efektivna_cena": 549,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
-  },
   "bazos_194216600": {
     "id": "bazos_194216600",
     "zdroj": "Bazoš",
@@ -210,21 +120,6 @@
     "efektivna_cena": 549,
     "datum_str": "02.08.2026",
     "datum_iso": "2026-08-02",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
-  },
-  "bazos_194199707": {
-    "id": "bazos_194199707",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájmem pekný 2-izbový byt",
-    "odkaz": "https://reality.bazos.sk/inzerat/194199707/prenajmem-pekny-2-izbovy-byt.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "01.08.2026",
-    "datum_iso": "2026-08-01",
     "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
@@ -375,10 +270,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "Ondavská (Ružinov)",
-    "lat": 48.159708089816,
-    "lng": 17.140012631645,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194242348": {
     "id": "bazos_194242348",
@@ -531,10 +426,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "Ondavská (Ružinov)",
-    "lat": 48.159708089816,
-    "lng": 17.140012631645,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194280903": {
     "id": "bazos_194280903",
@@ -606,10 +501,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "Ondavská (Ružinov)",
-    "lat": 48.159708089816,
-    "lng": 17.140012631645,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
@@ -891,9 +786,9 @@
     "efektivna_cena": 520,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "Jégého (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   }
 }
