@@ -234,7 +234,7 @@
     "efektivna_cena": 600,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lokalita": "PSČ: 850 00",
     "lat": 48.123911,
     "lng": 17.11186,
     "farba": "orange"
@@ -480,10 +480,10 @@
     "efektivna_cena": 690,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "vybavený",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 811 06",
+    "lat": 48.1486616,
+    "lng": 17.108133,
+    "farba": "orange"
   },
   "bazos_194321791": {
     "id": "bazos_194321791",
@@ -525,10 +525,10 @@
     "efektivna_cena": 580,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 831 04",
-    "lat": 48.1712321,
-    "lng": 17.1499302,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194335597": {
     "id": "bazos_194335597",
@@ -540,10 +540,10 @@
     "efektivna_cena": 550,
     "datum_str": "06.08.2026",
     "datum_iso": "2026-08-06",
-    "lokalita": "vybavený",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 811 06",
+    "lat": 48.1486616,
+    "lng": 17.108133,
+    "farba": "orange"
   },
   "bazos_194335571": {
     "id": "bazos_194335571",
