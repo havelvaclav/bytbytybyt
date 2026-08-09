@@ -9,7 +9,7 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -174,10 +174,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "tichá (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194242348": {
     "id": "bazos_194242348",
@@ -217,8 +217,8 @@
     "cena_povodna": "320 €",
     "spolu_cena": "320 €",
     "efektivna_cena": 320,
-    "datum_str": "09.08.2026",
-    "datum_iso": "2026-08-09",
+    "datum_str": "10.08.2026",
+    "datum_iso": "2026-08-10",
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
@@ -262,9 +262,9 @@
     "cena_povodna": "670 €",
     "spolu_cena": "670 €",
     "efektivna_cena": 670,
-    "datum_str": "09.08.2026",
-    "datum_iso": "2026-08-09",
-    "lokalita": "Stavbárska",
+    "datum_str": "10.08.2026",
+    "datum_iso": "2026-08-10",
+    "lokalita": "Stavbárska (Vrakuňa)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -279,7 +279,7 @@
     "efektivna_cena": 550,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 831 01 (Nové Mesto)",
+    "lokalita": "PSČ: 831 01",
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
@@ -330,10 +330,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "tichá (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194280903": {
     "id": "bazos_194280903",
@@ -373,8 +373,8 @@
     "cena_povodna": "300 €",
     "spolu_cena": "300 €",
     "efektivna_cena": 300,
-    "datum_str": "09.08.2026",
-    "datum_iso": "2026-08-09",
+    "datum_str": "10.08.2026",
+    "datum_iso": "2026-08-10",
     "lokalita": "Horská (Nové Mesto)",
     "lat": 48.180033767725,
     "lng": 17.122249883389,
@@ -405,10 +405,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "tichá (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
@@ -555,10 +555,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.08.2026",
     "datum_iso": "2026-08-06",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "vybavený",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194352589": {
     "id": "bazos_194352589",
@@ -720,7 +720,7 @@
     "efektivna_cena": 549,
     "datum_str": "08.08.2026",
     "datum_iso": "2026-08-08",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
