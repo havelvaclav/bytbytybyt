@@ -9,7 +9,7 @@
     "efektivna_cena": 650,
     "datum_str": "03.08.2026",
     "datum_iso": "2026-08-03",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -234,10 +234,10 @@
     "efektivna_cena": 600,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Bosákova (Petržalka)",
+    "lat": 48.127882377114,
+    "lng": 17.118771966787,
+    "farba": "green"
   },
   "bazos_194251459": {
     "id": "bazos_194251459",
@@ -264,7 +264,7 @@
     "efektivna_cena": 670,
     "datum_str": "09.08.2026",
     "datum_iso": "2026-08-09",
-    "lokalita": "Stavbárska (Vrakuňa)",
+    "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -675,10 +675,10 @@
     "efektivna_cena": 560,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 850 00 (Slnečnice)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Bosákova (Petržalka)",
+    "lat": 48.127882377114,
+    "lng": 17.118771966787,
+    "farba": "green"
   },
   "bazos_194380277": {
     "id": "bazos_194380277",
@@ -720,7 +720,7 @@
     "efektivna_cena": 549,
     "datum_str": "08.08.2026",
     "datum_iso": "2026-08-08",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -739,5 +739,20 @@
     "lat": 48.15715266,
     "lng": 17.149965411,
     "farba": "green"
+  },
+  "bazos_194435059": {
+    "id": "bazos_194435059",
+    "zdroj": "Bazoš",
+    "titulok": "Krásny dvojizbový byt v novostavbe na prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/194435059/krasny-dvojizbovy-byt-v-novostavbe-na-prenajom.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "09.08.2026",
+    "datum_iso": "2026-08-09",
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   }
 }
