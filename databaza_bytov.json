@@ -22,8 +22,8 @@
     "cena_povodna": "320 €",
     "spolu_cena": "320 €",
     "efektivna_cena": 320,
-    "datum_str": "10.08.2026",
-    "datum_iso": "2026-08-10",
+    "datum_str": "11.08.2026",
+    "datum_iso": "2026-08-11",
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
@@ -39,9 +39,9 @@
     "efektivna_cena": 600,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "Ulica závodu Matador (Petržalka)",
-    "lat": 48.1201845585,
-    "lng": 17.096295620825,
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_194281220": {
@@ -52,8 +52,8 @@
     "cena_povodna": "670 €",
     "spolu_cena": "670 €",
     "efektivna_cena": 670,
-    "datum_str": "10.08.2026",
-    "datum_iso": "2026-08-10",
+    "datum_str": "11.08.2026",
+    "datum_iso": "2026-08-11",
     "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
@@ -163,8 +163,8 @@
     "cena_povodna": "300 €",
     "spolu_cena": "300 €",
     "efektivna_cena": 300,
-    "datum_str": "10.08.2026",
-    "datum_iso": "2026-08-10",
+    "datum_str": "11.08.2026",
+    "datum_iso": "2026-08-11",
     "lokalita": "Horská (Nové Mesto)",
     "lat": 48.180033767725,
     "lng": 17.122249883389,
@@ -465,9 +465,9 @@
     "efektivna_cena": 560,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "Ulica závodu Matador (Petržalka)",
-    "lat": 48.1201845585,
-    "lng": 17.096295620825,
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_194380277": {
@@ -540,9 +540,9 @@
     "efektivna_cena": 700,
     "datum_str": "09.08.2026",
     "datum_iso": "2026-08-09",
-    "lokalita": "Ulica závodu Matador (Petržalka)",
-    "lat": 48.1201845585,
-    "lng": 17.096295620825,
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_194454788": {
@@ -618,6 +618,21 @@
     "lokalita": "Sputniková (Ružinov)",
     "lat": 48.163893510182,
     "lng": 17.169591837281,
+    "farba": "green"
+  },
+  "bazos_194474576": {
+    "id": "bazos_194474576",
+    "zdroj": "Bazoš",
+    "titulok": "Klimatizovaná garsónka v projekte Slnečnice - Mesto, BA V –",
+    "odkaz": "https://reality.bazos.sk/inzerat/194474576/klimatizovana-garsonka-v-projekte-slnecnice-mesto-ba-v.php",
+    "cena_povodna": "507 €",
+    "spolu_cena": "507 €",
+    "efektivna_cena": 507,
+    "datum_str": "10.08.2026",
+    "datum_iso": "2026-08-10",
+    "lokalita": "Ulica závodu Matador (Petržalka)",
+    "lat": 48.1201845585,
+    "lng": 17.096295620825,
     "farba": "green"
   }
 }
