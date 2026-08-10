@@ -39,9 +39,9 @@
     "efektivna_cena": 600,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "Bosákova (Petržalka)",
-    "lat": 48.127882377114,
-    "lng": 17.118771966787,
+    "lokalita": "Ulica závodu Matador (Petržalka)",
+    "lat": 48.1201845585,
+    "lng": 17.096295620825,
     "farba": "green"
   },
   "bazos_194281220": {
@@ -84,10 +84,10 @@
     "efektivna_cena": 570,
     "datum_str": "04.08.2026",
     "datum_iso": "2026-08-04",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -315,7 +315,7 @@
     "efektivna_cena": 580,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 831 04 (Nové Mesto)",
+    "lokalita": "PSČ: 831 04",
     "lat": 48.1712321,
     "lng": 17.1499302,
     "farba": "orange"
@@ -465,9 +465,9 @@
     "efektivna_cena": 560,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "Bosákova (Petržalka)",
-    "lat": 48.127882377114,
-    "lng": 17.118771966787,
+    "lokalita": "Ulica závodu Matador (Petržalka)",
+    "lat": 48.1201845585,
+    "lng": 17.096295620825,
     "farba": "green"
   },
   "bazos_194380277": {
@@ -495,10 +495,10 @@
     "efektivna_cena": 610,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "Sibírska (Nové Mesto)",
-    "lat": 48.165223939617,
-    "lng": 17.123469610859,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194400201": {
     "id": "bazos_194400201",
@@ -540,10 +540,10 @@
     "efektivna_cena": 700,
     "datum_str": "09.08.2026",
     "datum_iso": "2026-08-09",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Ulica závodu Matador (Petržalka)",
+    "lat": 48.1201845585,
+    "lng": 17.096295620825,
+    "farba": "green"
   },
   "bazos_194454788": {
     "id": "bazos_194454788",
@@ -604,5 +604,20 @@
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
+  },
+  "bazos_194465624": {
+    "id": "bazos_194465624",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom kompletne zariadený 3-izbový byt v mode",
+    "odkaz": "https://reality.bazos.sk/inzerat/194465624/ponukame-na-prenajom-kompletne-zariadeny-3-izbovy-byt-v-mode.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "10.08.2026",
+    "datum_iso": "2026-08-10",
+    "lokalita": "Sputniková (Ružinov)",
+    "lat": 48.163893510182,
+    "lng": 17.169591837281,
+    "farba": "green"
   }
 }
