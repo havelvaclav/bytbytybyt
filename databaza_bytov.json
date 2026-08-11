@@ -35,11 +35,11 @@
     "titulok": "Stavbárska ulica 2-garsónka na prenájom,Bratislava",
     "odkaz": "https://reality.bazos.sk/inzerat/194281220/stavbarska-ulica-2-garsonka-na-prenajombratislava.php",
     "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "Stavbárska",
+    "lokalita": "Stavbárska (Vrakuňa)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -99,10 +99,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
@@ -474,10 +474,10 @@
     "efektivna_cena": 650,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194450353": {
     "id": "bazos_194450353",
@@ -549,7 +549,7 @@
     "efektivna_cena": 660,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "hraničiarov (Petržalka)",
+    "lokalita": "hraničiarov",
     "lat": 48.123231095814,
     "lng": 17.112549143309,
     "farba": "green"
@@ -568,5 +568,35 @@
     "lat": 48.16876669279,
     "lng": 17.169738936916,
     "farba": "green"
+  },
+  "bazos_194497305": {
+    "id": "bazos_194497305",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194497305/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "549 €",
+    "spolu_cena": "549 €",
+    "efektivna_cena": 549,
+    "datum_str": "11.08.2026",
+    "datum_iso": "2026-08-11",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_194495888": {
+    "id": "bazos_194495888",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194495888/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "530 €",
+    "spolu_cena": "530 €",
+    "efektivna_cena": 530,
+    "datum_str": "11.08.2026",
+    "datum_iso": "2026-08-11",
+    "lokalita": "PSČ: 831 04",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
+    "farba": "orange"
   }
 }
