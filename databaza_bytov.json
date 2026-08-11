@@ -34,9 +34,9 @@
     "zdroj": "Bazoš",
     "titulok": "Stavbárska ulica 2-garsónka na prenájom,Bratislava",
     "odkaz": "https://reality.bazos.sk/inzerat/194281220/stavbarska-ulica-2-garsonka-na-prenajombratislava.php",
-    "cena_povodna": "670 €",
-    "spolu_cena": "670 €",
-    "efektivna_cena": 670,
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
     "lokalita": "Stavbárska",
@@ -99,10 +99,10 @@
     "efektivna_cena": 590,
     "datum_str": "05.08.2026",
     "datum_iso": "2026-08-05",
-    "lokalita": "Bajkalská (Ružinov)",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194315413": {
     "id": "bazos_194315413",
@@ -399,10 +399,10 @@
     "efektivna_cena": 610,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194400201": {
     "id": "bazos_194400201",
@@ -429,10 +429,10 @@
     "efektivna_cena": 550,
     "datum_str": "08.08.2026",
     "datum_iso": "2026-08-08",
-    "lokalita": "Bajkalská (Ružinov)",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194435059": {
     "id": "bazos_194435059",
@@ -459,10 +459,10 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194453795": {
     "id": "bazos_194453795",
@@ -474,10 +474,10 @@
     "efektivna_cena": 650,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Bajkalská (Ružinov)",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194450353": {
     "id": "bazos_194450353",
@@ -537,6 +537,36 @@
     "lokalita": "Ulica závodu Matador (Petržalka)",
     "lat": 48.1201845585,
     "lng": 17.096295620825,
+    "farba": "green"
+  },
+  "bazos_194485816": {
+    "id": "bazos_194485816",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2 izbový byt, Námestie hraničiarov, Bratislava V. P",
+    "odkaz": "https://reality.bazos.sk/inzerat/194485816/prenajom-2-izbovy-byt-namestie-hraniciarov-bratislava-v-p.php",
+    "cena_povodna": "660 €",
+    "spolu_cena": "660 €",
+    "efektivna_cena": 660,
+    "datum_str": "11.08.2026",
+    "datum_iso": "2026-08-11",
+    "lokalita": "hraničiarov (Petržalka)",
+    "lat": 48.123231095814,
+    "lng": 17.112549143309,
+    "farba": "green"
+  },
+  "bazos_194484322": {
+    "id": "bazos_194484322",
+    "zdroj": "Bazoš",
+    "titulok": "PRENAJATÉ - ŠTÝLOVÝ 1. IZB. BYT NA PRENÁJOM, VIETNAMSKÁ UL.,",
+    "odkaz": "https://reality.bazos.sk/inzerat/194484322/prenajate-stylovy-1-izb-byt-na-prenajom-vietnamska-ul.php",
+    "cena_povodna": "470 €",
+    "spolu_cena": "470 €",
+    "efektivna_cena": 470,
+    "datum_str": "11.08.2026",
+    "datum_iso": "2026-08-11",
+    "lokalita": "VIETNAMSKÁ",
+    "lat": 48.16876669279,
+    "lng": 17.169738936916,
     "farba": "green"
   }
 }
