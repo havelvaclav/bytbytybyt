@@ -9,10 +9,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 851 05",
-    "lat": 48.1060532,
-    "lng": 17.1075321,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_193644335": {
     "id": "bazos_193644335",
@@ -129,10 +129,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.08.2026",
     "datum_iso": "2026-08-06",
-    "lokalita": "PSČ: 851 07 (Petržalka)",
-    "lat": 48.0995306,
-    "lng": 17.1308633,
-    "farba": "orange"
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194344897": {
     "id": "bazos_194344897",
@@ -249,7 +249,7 @@
     "efektivna_cena": 610,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -309,7 +309,7 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -319,14 +319,14 @@
     "zdroj": "Bazoš",
     "titulok": "Ružinov, 2 iz.byt v novostavbe, loggia PERLA RUŽINOVA",
     "odkaz": "https://reality.bazos.sk/inzerat/194453795/ruzinov-2-izbyt-v-novostavbe-loggia-perla-ruzinova.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Vlči (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "Domažská (Ružinov)",
+    "lat": 48.139951629528,
+    "lng": 17.207856814689,
     "farba": "green"
   },
   "bazos_194450353": {
@@ -369,9 +369,9 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Sputniková (Ružinov)",
-    "lat": 48.163893510182,
-    "lng": 17.169591837281,
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
     "farba": "green"
   },
   "bazos_194474576": {
@@ -399,9 +399,9 @@
     "efektivna_cena": 660,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "hraničiarov (Petržalka)",
-    "lat": 48.123231095814,
-    "lng": 17.112549143309,
+    "lokalita": "hraničiarov (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green"
   },
   "bazos_194484322": {
@@ -414,7 +414,7 @@
     "efektivna_cena": 470,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "VIETNAMSKÁ",
+    "lokalita": "VIETNAMSKÁ (Vrakuňa)",
     "lat": 48.16876669279,
     "lng": 17.169738936916,
     "farba": "green"
@@ -523,5 +523,50 @@
     "lat": 48.12420437834,
     "lng": 17.093662299696,
     "farba": "green"
+  },
+  "bazos_194530855": {
+    "id": "bazos_194530855",
+    "zdroj": "Bazoš",
+    "titulok": "3i byt v rodinnom dome _ Kompletná rekonštrukcia",
+    "odkaz": "https://reality.bazos.sk/inzerat/194530855/3i-byt-v-rodinnom-dome-kompletna-rekonstrukcia.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "Vlči",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
+  },
+  "bazos_194525793": {
+    "id": "bazos_194525793",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom: Krásny, kompletne zariadený 1-izbový byt s balk",
+    "odkaz": "https://reality.bazos.sk/inzerat/194525793/na-prenajom-krasny-kompletne-zariadeny-1-izbovy-byt-s-balk.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_194435918": {
+    "id": "bazos_194435918",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájmem 2i byt v BA - centrum",
+    "odkaz": "https://reality.bazos.sk/inzerat/194435918/2i-byt-v-ba-centrum.php",
+    "cena_povodna": "440 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "09.08.2026",
+    "datum_iso": "2026-08-09",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   }
 }
