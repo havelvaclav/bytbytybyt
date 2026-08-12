@@ -92,7 +92,7 @@
   "bazos_194335571": {
     "id": "bazos_194335571",
     "zdroj": "Bazoš",
-    "titulok": "Prenájom- 2i zariadený byt, novostavba, parking, AC, Malokar",
+    "titulok": "Prenájom- 2i zariadený byt, novostavba, parking, AC, Malokra",
     "odkaz": "https://reality.bazos.sk/inzerat/194335571/prenajom-2i-zariadeny-byt-novostavba-parking-ac-malokar.php",
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
@@ -204,10 +204,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 841 02",
-    "lat": 48.1949026,
-    "lng": 17.0334999,
-    "farba": "orange"
+    "lokalita": "Agátová (Dúbravka)",
+    "lat": 48.195725911825,
+    "lng": 17.019392117424,
+    "farba": "green"
   },
   "bazos_194370551": {
     "id": "bazos_194370551",
@@ -219,10 +219,10 @@
     "efektivna_cena": 560,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_194380277": {
     "id": "bazos_194380277",
@@ -339,7 +339,7 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Koprivnická",
+    "lokalita": "Koprivnická (Dúbravka)",
     "lat": 48.185221082323,
     "lng": 17.029359388533,
     "farba": "green"
@@ -384,10 +384,10 @@
     "efektivna_cena": 507,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_194485816": {
     "id": "bazos_194485816",
@@ -463,5 +463,65 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "orange"
+  },
+  "bazos_194520969": {
+    "id": "bazos_194520969",
+    "zdroj": "Bazoš",
+    "titulok": "Len u nás prenájom pekného 2 izb. bytu s vlastným parkovaním",
+    "odkaz": "https://reality.bazos.sk/inzerat/194520969/len-u-nas-prenajom-pekneho-2-izb-bytu-s-vlastnym-parkovanim.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "PSČ: 841 02",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
+  },
+  "bazos_194518680": {
+    "id": "bazos_194518680",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | 2 izbový byt s parkovacím státím, Slnečnice",
+    "odkaz": "https://reality.bazos.sk/inzerat/194518680/bosen-2-izbovy-byt-s-parkovacim-statim-slnecnice.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
+  },
+  "bazos_194518313": {
+    "id": "bazos_194518313",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom zariadený 2-izbový byt na ulici Guothov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194518313/ponukame-na-prenajom-zariadeny-2-izbovy-byt-na-ulici-guothov.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "PSČ: 831 01",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
+  },
+  "bazos_194516653": {
+    "id": "bazos_194516653",
+    "zdroj": "Bazoš",
+    "titulok": "Krásny dvojizbový byt v novostavbe na prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/194516653/krasny-dvojizbovy-byt-v-novostavbe-na-prenajom.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   }
 }
