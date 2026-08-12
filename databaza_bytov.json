@@ -204,10 +204,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "Agátová (Dúbravka)",
-    "lat": 48.195725911825,
-    "lng": 17.019392117424,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_194370551": {
     "id": "bazos_194370551",
@@ -324,10 +324,10 @@
     "efektivna_cena": 620,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Domažská (Ružinov)",
-    "lat": 48.139951629528,
-    "lng": 17.207856814689,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194450353": {
     "id": "bazos_194450353",
@@ -369,9 +369,9 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "Sputniková (Ružinov)",
+    "lat": 48.163893510182,
+    "lng": 17.169591837281,
     "farba": "green"
   },
   "bazos_194474576": {
@@ -414,7 +414,7 @@
     "efektivna_cena": 470,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "VIETNAMSKÁ (Vrakuňa)",
+    "lokalita": "VIETNAMSKÁ",
     "lat": 48.16876669279,
     "lng": 17.169738936916,
     "farba": "green"
@@ -474,7 +474,7 @@
     "efektivna_cena": 700,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -534,10 +534,10 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Vlči",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194525793": {
     "id": "bazos_194525793",
@@ -568,5 +568,50 @@
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
+  },
+  "bazos_194537181": {
+    "id": "bazos_194537181",
+    "zdroj": "Bazoš",
+    "titulok": "Exkluzívne bývanie pre NÁROČNÝCH - prenájom zariadený APARTM",
+    "odkaz": "https://reality.bazos.sk/inzerat/194537181/exkluzivne-byvanie-pre-narocnych-prenajom-zariadeny-apartm.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "Hany Meličkovej (Karlova Ves)",
+    "lat": 48.14821497979,
+    "lng": 17.056492649188,
+    "farba": "green"
+  },
+  "bazos_194537092": {
+    "id": "bazos_194537092",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1 izb. bytu Kalinčiaková pri zimnom štadione",
+    "odkaz": "https://reality.bazos.sk/inzerat/194537092/prenajom-1-izb-bytu-kalinciakova-pri-zimnom-stadione.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_194532620": {
+    "id": "bazos_194532620",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | Nový 2-izb. byt, BALKÓN, GARÁŽ, KOBKA, BA IV. Dú",
+    "odkaz": "https://reality.bazos.sk/inzerat/194532620/axis-real-novy-2-izb-byt-balkon-garaz-kobka-ba-iv-du.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "Agátová (Dúbravka)",
+    "lat": 48.195725911825,
+    "lng": 17.019392117424,
+    "farba": "green"
   }
 }
