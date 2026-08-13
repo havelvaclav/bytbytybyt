@@ -35,11 +35,11 @@
     "titulok": "Stavbárska ulica 2-garsónka na prenájom,Bratislava",
     "odkaz": "https://reality.bazos.sk/inzerat/194281220/stavbarska-ulica-2-garsonka-na-prenajombratislava.php",
     "cena_povodna": "650 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "Stavbárska (Vrakuňa)",
+    "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -204,10 +204,10 @@
     "efektivna_cena": 620,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194450353": {
     "id": "bazos_194450353",
@@ -414,10 +414,10 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194525793": {
     "id": "bazos_194525793",
@@ -429,7 +429,7 @@
     "efektivna_cena": 650,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 04 (Staré Mesto)",
+    "lokalita": "PSČ: 821 04",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -474,10 +474,10 @@
     "efektivna_cena": 580,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Tomášikova",
+    "lat": 48.163704885586,
+    "lng": 17.15367903129,
+    "farba": "green"
   },
   "bazos_194532620": {
     "id": "bazos_194532620",
