@@ -129,9 +129,9 @@
     "efektivna_cena": 610,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "Račianska",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "Matúškova (Nové Mesto)",
+    "lat": 48.15966062611,
+    "lng": 17.110172009827,
     "farba": "green"
   },
   "bazos_194400201": {
@@ -189,9 +189,9 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Račianska",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "Matúškova (Nové Mesto)",
+    "lat": 48.15966062611,
+    "lng": 17.110172009827,
     "farba": "green"
   },
   "bazos_194453795": {
@@ -204,9 +204,9 @@
     "efektivna_cena": 620,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Vlči (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
     "farba": "green"
   },
   "bazos_194450353": {
@@ -249,10 +249,10 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Sputniková (Ružinov)",
-    "lat": 48.163893510182,
-    "lng": 17.169591837281,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02 (Nové Mesto)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "bazos_194474576": {
     "id": "bazos_194474576",
@@ -279,9 +279,9 @@
     "efektivna_cena": 660,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "hraničiarov (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
+    "lokalita": "hraničiarov (Petržalka)",
+    "lat": 48.123231095814,
+    "lng": 17.112549143309,
     "farba": "green"
   },
   "bazos_194484322": {
@@ -294,7 +294,7 @@
     "efektivna_cena": 470,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "VIETNAMSKÁ",
+    "lokalita": "VIETNAMSKÁ (Ružinov)",
     "lat": 48.16876669279,
     "lng": 17.169738936916,
     "farba": "green"
@@ -414,9 +414,9 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Vlči",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
     "farba": "green"
   },
   "bazos_194525793": {
@@ -507,6 +507,51 @@
     "lokalita": "PSČ: 841 05 (Dlhé diely)",
     "lat": 48.1550801,
     "lng": 17.0463776,
+    "farba": "orange"
+  },
+  "bazos_194558318": {
+    "id": "bazos_194558318",
+    "zdroj": "Bazoš",
+    "titulok": "Priestranný 3-izbový byt Dulovo námestie Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194558318/priestranny-3-izbovy-byt-dulovo-namestie-ruzinov.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "13.08.2026",
+    "datum_iso": "2026-08-13",
+    "lokalita": "Ružinov (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
+  },
+  "bazos_194554463": {
+    "id": "bazos_194554463",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Príjemný 2 izbový zariadený byt, Haburská, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194554463/bosen-prijemny-2-izbovy-zariadeny-byt-haburska-ruzinov.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "13.08.2026",
+    "datum_iso": "2026-08-13",
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
+  },
+  "bazos_194554436": {
+    "id": "bazos_194554436",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194554436/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "13.08.2026",
+    "datum_iso": "2026-08-13",
+    "lokalita": "PSČ: 851 01 (Staré Mesto)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
     "farba": "orange"
   }
 }
