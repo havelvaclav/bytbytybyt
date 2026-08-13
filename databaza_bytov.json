@@ -9,9 +9,9 @@
     "efektivna_cena": 600,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "loggia. Lietavská",
+    "lat": 48.100085664559,
+    "lng": 17.104009429267,
     "farba": "green"
   },
   "bazos_193644335": {
@@ -39,7 +39,7 @@
     "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "Stavbárska",
+    "lokalita": "Stavbárska (Podunajské Biskupice)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -279,9 +279,9 @@
     "efektivna_cena": 660,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "hraničiarov (Petržalka)",
-    "lat": 48.123231095814,
-    "lng": 17.112549143309,
+    "lokalita": "hraničiarov (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green"
   },
   "bazos_194484322": {
@@ -309,10 +309,10 @@
     "efektivna_cena": 549,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Baltská (Podunajské Biskupice)",
+    "lat": 48.13418455004,
+    "lng": 17.201183772767,
+    "farba": "green"
   },
   "bazos_194495888": {
     "id": "bazos_194495888",
@@ -429,7 +429,7 @@
     "efektivna_cena": 650,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -440,14 +440,14 @@
     "titulok": "Prenájmem 2i byt v BA - centrum",
     "odkaz": "https://reality.bazos.sk/inzerat/194435918/2i-byt-v-ba-centrum.php",
     "cena_povodna": "440 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
+    "spolu_cena": "440 €",
+    "efektivna_cena": 440,
     "datum_str": "09.08.2026",
     "datum_iso": "2026-08-09",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Baltská (Podunajské Biskupice)",
+    "lat": 48.13418455004,
+    "lng": 17.201183772767,
+    "farba": "green"
   },
   "bazos_194537181": {
     "id": "bazos_194537181",
@@ -459,10 +459,10 @@
     "efektivna_cena": 690,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Hany Meličkovej (Karlova Ves)",
-    "lat": 48.14821497979,
-    "lng": 17.056492649188,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_194537092": {
     "id": "bazos_194537092",
@@ -474,10 +474,10 @@
     "efektivna_cena": 580,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Tomášikova",
-    "lat": 48.163704885586,
-    "lng": 17.15367903129,
-    "farba": "green"
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
   },
   "bazos_194532620": {
     "id": "bazos_194532620",
@@ -552,6 +552,21 @@
     "lokalita": "PSČ: 851 01 (Staré Mesto)",
     "lat": 48.1181093,
     "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_194563904": {
+    "id": "bazos_194563904",
+    "zdroj": "Bazoš",
+    "titulok": "1 izbový byt na prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/194563904/1-izbovy-byt-na-prenajom.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "13.08.2026",
+    "datum_iso": "2026-08-13",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
     "farba": "orange"
   }
 }
