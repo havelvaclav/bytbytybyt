@@ -9,10 +9,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "loggia. Lietavská",
-    "lat": 48.100085664559,
-    "lng": 17.104009429267,
-    "farba": "green"
+    "lokalita": "PSČ: 851 05 (Petržalka)",
+    "lat": 48.1060532,
+    "lng": 17.1075321,
+    "farba": "orange"
   },
   "bazos_193644335": {
     "id": "bazos_193644335",
@@ -37,8 +37,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "13.08.2026",
-    "datum_iso": "2026-08-13",
+    "datum_str": "14.08.2026",
+    "datum_iso": "2026-08-14",
     "lokalita": "Stavbárska (Podunajské Biskupice)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
@@ -189,10 +189,10 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194453795": {
     "id": "bazos_194453795",
@@ -568,5 +568,20 @@
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
+  },
+  "bazos_194536019": {
+    "id": "bazos_194536019",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1i byt Bratislava - Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194536019/prenajom-1i-byt-bratislava-petrzalka.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "12.08.2026",
+    "datum_iso": "2026-08-12",
+    "lokalita": "závodu Matador 4. 23 (Petržalka)",
+    "lat": 48.121022706908,
+    "lng": 17.096568912778,
+    "farba": "green"
   }
 }
