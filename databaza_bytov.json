@@ -44,21 +44,6 @@
     "lng": 17.205558193748,
     "farba": "green"
   },
-  "bazos_194306360": {
-    "id": "bazos_194306360",
-    "zdroj": "Bazoš",
-    "titulok": "THE HOME I PRENÁJOM - Príjemný 1 izbový byt na Nejedlého ul.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194306360/the-home-i-prenajom-prijemny-1-izbovy-byt-na-nejedleho-ul.php",
-    "cena_povodna": "450 €",
-    "spolu_cena": "450 €",
-    "efektivna_cena": 450,
-    "datum_str": "06.08.2026",
-    "datum_iso": "2026-08-06",
-    "lokalita": "Bujnákova (Dúbravka)",
-    "lat": 48.179125791149,
-    "lng": 17.04070817873,
-    "farba": "green"
-  },
   "bazos_193651852": {
     "id": "bazos_193651852",
     "zdroj": "Bazoš",
@@ -73,111 +58,6 @@
     "lat": 48.180033767725,
     "lng": 17.122249883389,
     "farba": "green"
-  },
-  "bazos_194335597": {
-    "id": "bazos_194335597",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom bytu bez depozitu Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/194335597/prenajom-bytu-bez-depozitu-bratislava.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "06.08.2026",
-    "datum_iso": "2026-08-06",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
-  },
-  "bazos_194335571": {
-    "id": "bazos_194335571",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom- 2i zariadený byt, novostavba, parking, AC, Malokra",
-    "odkaz": "https://reality.bazos.sk/inzerat/194335571/prenajom-2i-zariadeny-byt-novostavba-parking-ac-malokar.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "06.08.2026",
-    "datum_iso": "2026-08-06",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
-  },
-  "bazos_194352589": {
-    "id": "bazos_194352589",
-    "zdroj": "Bazoš",
-    "titulok": "1-iz byt, Lovestream festival, Bratislava-Raca",
-    "odkaz": "https://reality.bazos.sk/inzerat/194352589/1-iz-byt-lovestream-festival-bratislava-raca.php",
-    "cena_povodna": "100 €",
-    "spolu_cena": "100 €",
-    "efektivna_cena": 100,
-    "datum_str": "06.08.2026",
-    "datum_iso": "2026-08-06",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
-  },
-  "bazos_194346439": {
-    "id": "bazos_194346439",
-    "zdroj": "Bazoš",
-    "titulok": "Svetlý 2-izbový byt s veľkou loggiou | Bratislava - Slnečnic",
-    "odkaz": "https://reality.bazos.sk/inzerat/194346439/svetly-2-izbovy-byt-s-velkou-loggiou-bratislava-slnecnic.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "06.08.2026",
-    "datum_iso": "2026-08-06",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
-  },
-  "bazos_194344897": {
-    "id": "bazos_194344897",
-    "zdroj": "Bazoš",
-    "titulok": "Ponúkame na prenájom 2-izbový byt vo výbornej a vyhľadávanej",
-    "odkaz": "https://reality.bazos.sk/inzerat/194344897/ponukame-na-prenajom-2-izbovy-byt-vo-vybornej-a-vyhladavanej.php",
-    "cena_povodna": "610 €",
-    "spolu_cena": "610 €",
-    "efektivna_cena": 610,
-    "datum_str": "06.08.2026",
-    "datum_iso": "2026-08-06",
-    "lokalita": "MILETIČOVA (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green"
-  },
-  "bazos_194342575": {
-    "id": "bazos_194342575",
-    "zdroj": "Bazoš",
-    "titulok": "Realitný kancelária REALADR s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194342575/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "549 €",
-    "spolu_cena": "549 €",
-    "efektivna_cena": 549,
-    "datum_str": "06.08.2026",
-    "datum_iso": "2026-08-06",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
-  },
-  "bazos_194342058": {
-    "id": "bazos_194342058",
-    "zdroj": "Bazoš",
-    "titulok": "Realitný kancelária REALADR s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194342058/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "490 €",
-    "spolu_cena": "490 €",
-    "efektivna_cena": 490,
-    "datum_str": "06.08.2026",
-    "datum_iso": "2026-08-06",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
   },
   "bazos_194375275": {
     "id": "bazos_194375275",
@@ -219,10 +99,10 @@
     "efektivna_cena": 560,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194380277": {
     "id": "bazos_194380277",
@@ -249,10 +129,10 @@
     "efektivna_cena": 610,
     "datum_str": "07.08.2026",
     "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Račianska",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   },
   "bazos_194400201": {
     "id": "bazos_194400201",
@@ -309,10 +189,10 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Račianska",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   },
   "bazos_194453795": {
     "id": "bazos_194453795",
@@ -384,10 +264,10 @@
     "efektivna_cena": 507,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194485816": {
     "id": "bazos_194485816",
@@ -489,10 +369,10 @@
     "efektivna_cena": 670,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194518313": {
     "id": "bazos_194518313",
@@ -519,10 +399,10 @@
     "efektivna_cena": 700,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194530855": {
     "id": "bazos_194530855",
@@ -549,7 +429,7 @@
     "efektivna_cena": 650,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Staré Mesto)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -613,5 +493,20 @@
     "lat": 48.195725911825,
     "lng": 17.019392117424,
     "farba": "green"
+  },
+  "bazos_194542568": {
+    "id": "bazos_194542568",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka na  ulici Ľ.  Fullu",
+    "odkaz": "https://reality.bazos.sk/inzerat/194542568/garsonka-na-ulici-l-fullu.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "13.08.2026",
+    "datum_iso": "2026-08-13",
+    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lat": 48.1550801,
+    "lng": 17.0463776,
+    "farba": "orange"
   }
 }
