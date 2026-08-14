@@ -24,7 +24,7 @@
     "efektivna_cena": 650,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Stavbárska (Podunajské Biskupice)",
+    "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -39,10 +39,10 @@
     "efektivna_cena": 300,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "Horská (Nové Mesto)",
-    "lat": 48.180033767725,
-    "lng": 17.122249883389,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194400201": {
     "id": "bazos_194400201",
@@ -99,7 +99,7 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -219,10 +219,10 @@
     "efektivna_cena": 549,
     "datum_str": "11.08.2026",
     "datum_iso": "2026-08-11",
-    "lokalita": "Baltská (Podunajské Biskupice)",
-    "lat": 48.13418455004,
-    "lng": 17.201183772767,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194495888": {
     "id": "bazos_194495888",
@@ -354,10 +354,10 @@
     "efektivna_cena": 440,
     "datum_str": "09.08.2026",
     "datum_iso": "2026-08-09",
-    "lokalita": "Baltská (Podunajské Biskupice)",
-    "lat": 48.13418455004,
-    "lng": 17.201183772767,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194537181": {
     "id": "bazos_194537181",
@@ -534,10 +534,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 811 01",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Šancová (Staré Mesto)",
+    "lat": 48.155196228503,
+    "lng": 17.106109956113,
+    "farba": "green"
   },
   "bazos_194585777": {
     "id": "bazos_194585777",
@@ -549,7 +549,7 @@
     "efektivna_cena": 500,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 831 06",
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -579,9 +579,39 @@
     "efektivna_cena": 600,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 821 02 (Ružinov)",
-    "lat": 48.1582936,
-    "lng": 17.1633484,
+    "lokalita": "Sputniková (Ružinov)",
+    "lat": 48.163893510182,
+    "lng": 17.169591837281,
+    "farba": "green"
+  },
+  "bazos_194595132": {
+    "id": "bazos_194595132",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom nepriechodnej izby v 3-i byte, Ružinov – Prievoz",
+    "odkaz": "https://reality.bazos.sk/inzerat/194595132/prenajom-nepriechodnej-izby-v-3-i-byte-ruzinov-prievoz.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "14.08.2026",
+    "datum_iso": "2026-08-14",
+    "lokalita": "PSČ: 821 05 (Ružinov)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
     "farba": "orange"
+  },
+  "bazos_194595218": {
+    "id": "bazos_194595218",
+    "zdroj": "Bazoš",
+    "titulok": "RentHub | svetlý 2i byt | pivnica  | 44 m² | Kukučínová",
+    "odkaz": "https://reality.bazos.sk/inzerat/194595218/renthub-svetly-2i-byt-pivnica-44-m-kukucinova.php",
+    "cena_povodna": "540 €",
+    "spolu_cena": "540 €",
+    "efektivna_cena": 540,
+    "datum_str": "14.08.2026",
+    "datum_iso": "2026-08-14",
+    "lokalita": "Matúškova (Nové Mesto)",
+    "lat": 48.15966062611,
+    "lng": 17.110172009827,
+    "farba": "green"
   }
 }
