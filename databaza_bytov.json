@@ -309,10 +309,10 @@
     "efektivna_cena": 700,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194530855": {
     "id": "bazos_194530855",
