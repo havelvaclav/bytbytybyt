@@ -1,19 +1,4 @@
 {
-  "bazos_194169000": {
-    "id": "bazos_194169000",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom izby v ubytovacom zariadení pri Jazere",
-    "odkaz": "https://reality.bazos.sk/inzerat/194169000/prenajom-izby-v-ubytovacom-zariadeni-pri-jazere.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "07.08.2026",
-    "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 851 05 (Petržalka)",
-    "lat": 48.1060532,
-    "lng": 17.1075321,
-    "farba": "orange"
-  },
   "bazos_193644335": {
     "id": "bazos_193644335",
     "zdroj": "Bazoš",
@@ -57,81 +42,6 @@
     "lokalita": "Horská (Nové Mesto)",
     "lat": 48.180033767725,
     "lng": 17.122249883389,
-    "farba": "green"
-  },
-  "bazos_194375275": {
-    "id": "bazos_194375275",
-    "zdroj": "Bazoš",
-    "titulok": "BOSEN | Zariadený 2 izb. byt, Mánes. nám. 2, Petržalka 50m2",
-    "odkaz": "https://reality.bazos.sk/inzerat/194375275/bosen-zariadeny-2-izb-byt-manes-nam-2-petrzalka-50m2.php",
-    "cena_povodna": "660 €",
-    "spolu_cena": "660 €",
-    "efektivna_cena": 660,
-    "datum_str": "07.08.2026",
-    "datum_iso": "2026-08-07",
-    "lokalita": "Mánes (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
-    "farba": "green"
-  },
-  "bazos_194371824": {
-    "id": "bazos_194371824",
-    "zdroj": "Bazoš",
-    "titulok": "Novozariadený útulný 2izbový byt v Dúbravke",
-    "odkaz": "https://reality.bazos.sk/inzerat/194371824/novozariadeny-utulny-2izbovy-byt-v-dubravke.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "07.08.2026",
-    "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 841 02 (Dúbravka)",
-    "lat": 48.1949026,
-    "lng": 17.0334999,
-    "farba": "orange"
-  },
-  "bazos_194370551": {
-    "id": "bazos_194370551",
-    "zdroj": "Bazoš",
-    "titulok": "VEĽKÝ SLNEČNÝ 1-IZBOVÝ BYT 36 m2 S VEĽKOU LOGGIOU, SLNEČNICE",
-    "odkaz": "https://reality.bazos.sk/inzerat/194370551/velky-slnecny-1-izbovy-byt-36-m2-s-velkou-loggiou-slnecnice.php",
-    "cena_povodna": "560 €",
-    "spolu_cena": "560 €",
-    "efektivna_cena": 560,
-    "datum_str": "07.08.2026",
-    "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 850 00 (Slnečnice)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
-  },
-  "bazos_194380277": {
-    "id": "bazos_194380277",
-    "zdroj": "Bazoš",
-    "titulok": "NOVÝ DIZAJNOVÝ ZARIADENÝ 1-IZB. BYT S BALKONOM A VÝHĽADOM ČA",
-    "odkaz": "https://reality.bazos.sk/inzerat/194380277/novy-dizajnovy-zariadeny-1-izb-byt-s-balkonom-a-vyhladom-ca.php",
-    "cena_povodna": "520 €",
-    "spolu_cena": "520 €",
-    "efektivna_cena": 520,
-    "datum_str": "07.08.2026",
-    "datum_iso": "2026-08-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
-  },
-  "bazos_194384414": {
-    "id": "bazos_194384414",
-    "zdroj": "Bazoš",
-    "titulok": "1,5 izbový byt, loggia, novostavba, prenájom, Nobelova, Brat",
-    "odkaz": "https://reality.bazos.sk/inzerat/194384414/15-izbovy-byt-loggia-novostavba-prenajom-nobelova-brat.php",
-    "cena_povodna": "610 €",
-    "spolu_cena": "610 €",
-    "efektivna_cena": 610,
-    "datum_str": "07.08.2026",
-    "datum_iso": "2026-08-07",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
     "farba": "green"
   },
   "bazos_194400201": {
@@ -204,9 +114,9 @@
     "efektivna_cena": 620,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "Narcisová 48 (Ružinov)",
-    "lat": 48.154483012927,
-    "lng": 17.160485618357,
+    "lokalita": "Nev (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194450353": {
@@ -249,10 +159,10 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 821 02 (Nové Mesto)",
-    "lat": 48.1582936,
-    "lng": 17.1633484,
-    "farba": "orange"
+    "lokalita": "Sputniková (Ružinov)",
+    "lat": 48.163893510182,
+    "lng": 17.169591837281,
+    "farba": "green"
   },
   "bazos_194474576": {
     "id": "bazos_194474576",
@@ -414,9 +324,9 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Narcisová 48 (Ružinov)",
-    "lat": 48.154483012927,
-    "lng": 17.160485618357,
+    "lokalita": "Nev (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194525793": {
@@ -534,9 +444,9 @@
     "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "Narcisová 48 (Ružinov)",
-    "lat": 48.154483012927,
-    "lng": 17.160485618357,
+    "lokalita": "Nev (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194554436": {
