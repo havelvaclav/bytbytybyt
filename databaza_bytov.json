@@ -369,10 +369,10 @@
     "efektivna_cena": 590,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Agátová (Dúbravka)",
-    "lat": 48.195725911825,
-    "lng": 17.019392117424,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_194542568": {
     "id": "bazos_194542568",
@@ -504,10 +504,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Šancová (Staré Mesto)",
-    "lat": 48.155196228503,
-    "lng": 17.106109956113,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_194585777": {
     "id": "bazos_194585777",
