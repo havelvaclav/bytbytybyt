@@ -80,14 +80,14 @@
     "titulok": "Ružinov, 2 iz.byt v novostavbe, loggia PERLA RUŽINOVA",
     "odkaz": "https://reality.bazos.sk/inzerat/194453795/ruzinov-2-izbyt-v-novostavbe-loggia-perla-ruzinova.php",
     "cena_povodna": "620 €",
-    "spolu_cena": "690 €",
-    "efektivna_cena": 690,
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "obľúbenej lokalite Ružinova - Súkennícka (Ružinov)",
+    "lat": 48.143638725851,
+    "lng": 17.134184330526,
+    "farba": "green"
   },
   "bazos_194450353": {
     "id": "bazos_194450353",
@@ -290,14 +290,14 @@
     "titulok": "3i byt v rodinnom dome _ Kompletná rekonštrukcia",
     "odkaz": "https://reality.bazos.sk/inzerat/194530855/3i-byt-v-rodinnom-dome-kompletna-rekonstrukcia.php",
     "cena_povodna": "600 €",
-    "spolu_cena": "690 €",
-    "efektivna_cena": 690,
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "obľúbenej lokalite Ružinova - Súkennícka (Ružinov)",
+    "lat": 48.143638725851,
+    "lng": 17.134184330526,
+    "farba": "green"
   },
   "bazos_194525793": {
     "id": "bazos_194525793",
@@ -410,14 +410,14 @@
     "titulok": "BOSEN | Príjemný 2 izbový zariadený byt, Haburská, Ružinov",
     "odkaz": "https://reality.bazos.sk/inzerat/194554463/bosen-prijemny-2-izbovy-zariadeny-byt-haburska-ruzinov.php",
     "cena_povodna": "650 €",
-    "spolu_cena": "690 €",
-    "efektivna_cena": 690,
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "obľúbenej lokalite Ružinova - Súkennícka (Ružinov)",
+    "lat": 48.143638725851,
+    "lng": 17.134184330526,
+    "farba": "green"
   },
   "bazos_194554436": {
     "id": "bazos_194554436",
@@ -519,10 +519,10 @@
     "efektivna_cena": 500,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_194584747": {
     "id": "bazos_194584747",
@@ -534,9 +534,9 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Nev (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "obľúbenej lokalite Ružinova - Súkennícka (Ružinov)",
+    "lat": 48.143638725851,
+    "lng": 17.134184330526,
     "farba": "green"
   },
   "bazos_194584413": {
