@@ -69,7 +69,7 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Kramáre)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -504,10 +504,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 811 01",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Hviezdoslavovo",
+    "lat": 48.141711348601,
+    "lng": 17.107558074855,
+    "farba": "green"
   },
   "bazos_194585777": {
     "id": "bazos_194585777",
@@ -627,6 +627,21 @@
     "lokalita": "PSČ: 811 06 (Staré Mesto)",
     "lat": 48.1486616,
     "lng": 17.108133,
+    "farba": "orange"
+  },
+  "bazos_194618347": {
+    "id": "bazos_194618347",
+    "zdroj": "Bazoš",
+    "titulok": "Krásny dvojizbový byt v novostavbe na prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/194618347/krasny-dvojizbovy-byt-v-novostavbe-na-prenajom.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "15.08.2026",
+    "datum_iso": "2026-08-15",
+    "lokalita": "PSČ: 850 00 (Nivy)",
+    "lat": 48.123911,
+    "lng": 17.11186,
     "farba": "orange"
   }
 }
