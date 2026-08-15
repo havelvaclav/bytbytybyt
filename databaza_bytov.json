@@ -69,10 +69,10 @@
     "efektivna_cena": 700,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "PSČ: 830 00 (Kramáre)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Tomášikova (Nové Mesto)",
+    "lat": 48.169953947668,
+    "lng": 17.147168163888,
+    "farba": "green"
   },
   "bazos_194453795": {
     "id": "bazos_194453795",
@@ -579,9 +579,9 @@
     "efektivna_cena": 540,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
+    "lokalita": "Tomášikova (Nové Mesto)",
+    "lat": 48.169953947668,
+    "lng": 17.147168163888,
     "farba": "green"
   },
   "bazos_194609088": {
@@ -642,6 +642,21 @@
     "lokalita": "PSČ: 850 00 (Nivy)",
     "lat": 48.123911,
     "lng": 17.11186,
+    "farba": "orange"
+  },
+  "bazos_194622652": {
+    "id": "bazos_194622652",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom - zariadený 2i byt s loggiou pri Kuchajde",
+    "odkaz": "https://reality.bazos.sk/inzerat/194622652/prenajom-zariadeny-2i-byt-s-loggiou-pri-kuchajde.php",
+    "cena_povodna": "660 €",
+    "spolu_cena": "660 €",
+    "efektivna_cena": 660,
+    "datum_str": "15.08.2026",
+    "datum_iso": "2026-08-15",
+    "lokalita": "PSČ: 830 00 (Kramáre)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
     "farba": "orange"
   }
 }
