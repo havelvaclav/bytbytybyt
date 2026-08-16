@@ -709,5 +709,20 @@
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
+  },
+  "bazos_194645751": {
+    "id": "bazos_194645751",
+    "zdroj": "Bazoš",
+    "titulok": "3 izbový byt Dulovo námestie",
+    "odkaz": "https://reality.bazos.sk/inzerat/194645751/3-izbovy-byt-dulovo-namestie.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "16.08.2026",
+    "datum_iso": "2026-08-16",
+    "lokalita": "Sklenárova (Ružinov)",
+    "lat": 48.150535152594,
+    "lng": 17.146664326732,
+    "farba": "green"
   }
 }
