@@ -69,10 +69,10 @@
     "efektivna_cena": 620,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "tichá (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194450353": {
     "id": "bazos_194450353",
@@ -219,9 +219,9 @@
     "efektivna_cena": 700,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Saratovská (Dúbravka)",
-    "lat": 48.1860979,
-    "lng": 17.0384724,
+    "lokalita": "Landauova (Dúbravka)",
+    "lat": 48.184231839861,
+    "lng": 17.040363214148,
     "farba": "green"
   },
   "bazos_194518680": {
@@ -279,10 +279,10 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "tichá (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194525793": {
     "id": "bazos_194525793",
@@ -339,9 +339,9 @@
     "efektivna_cena": 590,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Saratovská (Dúbravka)",
-    "lat": 48.1860979,
-    "lng": 17.0384724,
+    "lokalita": "Landauova (Dúbravka)",
+    "lat": 48.184231839861,
+    "lng": 17.040363214148,
     "farba": "green"
   },
   "bazos_194542568": {
@@ -354,7 +354,7 @@
     "efektivna_cena": 550,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lokalita": "PSČ: 841 05 (Karlova Ves)",
     "lat": 48.1550801,
     "lng": 17.0463776,
     "farba": "orange"
@@ -384,10 +384,10 @@
     "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "tichá (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194554436": {
     "id": "bazos_194554436",
@@ -504,10 +504,10 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "tichá (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194584413": {
     "id": "bazos_194584413",
@@ -679,5 +679,35 @@
         "odkaz": "https://reality.bazos.sk/inzerat/194585777/prenajom-garsonky.php"
       }
     ]
+  },
+  "bazos_194641686": {
+    "id": "bazos_194641686",
+    "zdroj": "Bazoš",
+    "titulok": "Slnečný, zrekonštruovaný 1i byt Landauova ul. BA - Dúbravka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194641686/slnecny-zrekonstruovany-1i-byt-landauova-ul-ba-dubravka.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "16.08.2026",
+    "datum_iso": "2026-08-16",
+    "lokalita": "Saratovská (Dúbravka)",
+    "lat": 48.1860979,
+    "lng": 17.0384724,
+    "farba": "green"
+  },
+  "bazos_194641447": {
+    "id": "bazos_194641447",
+    "zdroj": "Bazoš",
+    "titulok": "Súkromný byt na hodiny – Bratislava Lamac",
+    "odkaz": "https://reality.bazos.sk/inzerat/194641447/sukromny-byt-na-hodiny-bratislava-lamac.php",
+    "cena_povodna": "25 €",
+    "spolu_cena": null,
+    "efektivna_cena": null,
+    "datum_str": "16.08.2026",
+    "datum_iso": "2026-08-16",
+    "lokalita": "PSČ: 841 03",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
   }
 }
