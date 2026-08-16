@@ -279,7 +279,7 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -324,10 +324,10 @@
     "efektivna_cena": 580,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194532620": {
     "id": "bazos_194532620",
@@ -724,5 +724,35 @@
     "lat": 48.150535152594,
     "lng": 17.146664326732,
     "farba": "green"
+  },
+  "bazos_194650821": {
+    "id": "bazos_194650821",
+    "zdroj": "Bazoš",
+    "titulok": "1,5 izb byt s parkingom v cene, bez provizie",
+    "odkaz": "https://reality.bazos.sk/inzerat/194650821/15-izb-byt-s-parkingom-v-cene-bez-provizie.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "16.08.2026",
+    "datum_iso": "2026-08-16",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_194649564": {
+    "id": "bazos_194649564",
+    "zdroj": "Bazoš",
+    "titulok": "Prenajom jednoizboveho bytu Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194649564/prenajom-jednoizboveho-bytu-bratislava.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "16.08.2026",
+    "datum_iso": "2026-08-16",
+    "lokalita": "PSČ: 851 06",
+    "lat": 48.1012697,
+    "lng": 17.1078028,
+    "farba": "orange"
   }
 }
