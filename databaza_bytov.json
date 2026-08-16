@@ -324,7 +324,7 @@
     "efektivna_cena": 580,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 831 02",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -658,5 +658,26 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "orange"
+  },
+  "bazos_193098322": {
+    "id": "bazos_193098322",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom garsonky",
+    "odkaz": "https://reality.bazos.sk/inzerat/193098322/prenajom-garsonky.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "16.08.2026",
+    "datum_iso": "2026-08-16",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/194585777/prenajom-garsonky.php"
+      }
+    ]
   }
 }
