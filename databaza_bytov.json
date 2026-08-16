@@ -69,9 +69,9 @@
     "efektivna_cena": 620,
     "datum_str": "10.08.2026",
     "datum_iso": "2026-08-10",
-    "lokalita": "obľúbenej lokalite Ružinova - Súkennícka (Ružinov)",
-    "lat": 48.143638725851,
-    "lng": 17.134184330526,
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194450353": {
@@ -219,10 +219,10 @@
     "efektivna_cena": 700,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 841 02 (Dúbravka)",
-    "lat": 48.1949026,
-    "lng": 17.0334999,
-    "farba": "orange"
+    "lokalita": "Saratovská (Dúbravka)",
+    "lat": 48.1860979,
+    "lng": 17.0384724,
+    "farba": "green"
   },
   "bazos_194518680": {
     "id": "bazos_194518680",
@@ -279,9 +279,9 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "obľúbenej lokalite Ružinova - Súkennícka (Ružinov)",
-    "lat": 48.143638725851,
-    "lng": 17.134184330526,
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194525793": {
@@ -339,10 +339,10 @@
     "efektivna_cena": 590,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 841 02 (Dúbravka)",
-    "lat": 48.1949026,
-    "lng": 17.0334999,
-    "farba": "orange"
+    "lokalita": "Saratovská (Dúbravka)",
+    "lat": 48.1860979,
+    "lng": 17.0384724,
+    "farba": "green"
   },
   "bazos_194542568": {
     "id": "bazos_194542568",
@@ -384,9 +384,9 @@
     "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "obľúbenej lokalite Ružinova - Súkennícka (Ružinov)",
-    "lat": 48.143638725851,
-    "lng": 17.134184330526,
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194554436": {
@@ -474,10 +474,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Hviezdoslavovo",
-    "lat": 48.141711348601,
-    "lng": 17.107558074855,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_194585777": {
     "id": "bazos_194585777",
@@ -504,9 +504,9 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "obľúbenej lokalite Ružinova - Súkennícka (Ružinov)",
-    "lat": 48.143638725851,
-    "lng": 17.134184330526,
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194584413": {
@@ -519,9 +519,9 @@
     "efektivna_cena": 600,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Sputniková (Ružinov)",
-    "lat": 48.163893510182,
-    "lng": 17.169591837281,
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Ružinov)",
+    "lat": 48.1578746,
+    "lng": 17.148822,
     "farba": "green"
   },
   "bazos_194595132": {
@@ -627,6 +627,36 @@
     "lokalita": "PSČ: 830 00 (Kramáre)",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_194633657": {
+    "id": "bazos_194633657",
+    "zdroj": "Bazoš",
+    "titulok": "2-izbovy byt na prenajom Ruzinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194633657/2-izbovy-byt-na-prenajom-ruzinov.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "16.08.2026",
+    "datum_iso": "2026-08-16",
+    "lokalita": "Trenčianska ulica / Dulovo (Ružinov)",
+    "lat": 48.1539594813,
+    "lng": 17.146607491801,
+    "farba": "green"
+  },
+  "bazos_194632447": {
+    "id": "bazos_194632447",
+    "zdroj": "Bazoš",
+    "titulok": "Moderný 2-izbový byt s balkónom a parkovacím miestom v lokal",
+    "odkaz": "https://reality.bazos.sk/inzerat/194632447/moderny-2-izbovy-byt-s-balkonom-a-parkovacim-miestom-v-lokal.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "16.08.2026",
+    "datum_iso": "2026-08-16",
+    "lokalita": "PSČ: 919 26",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "orange"
   }
 }
