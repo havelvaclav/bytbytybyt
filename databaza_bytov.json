@@ -24,7 +24,7 @@
     "efektivna_cena": 650,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "Stavbárska (Vrakuňa)",
+    "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -189,7 +189,7 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -249,10 +249,10 @@
     "efektivna_cena": 590,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Landauova (Dúbravka)",
-    "lat": 48.184231839861,
-    "lng": 17.040363214148,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_194542568": {
     "id": "bazos_194542568",
@@ -324,10 +324,10 @@
     "efektivna_cena": 600,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194536019": {
     "id": "bazos_194536019",
@@ -414,10 +414,10 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Vlči (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194584413": {
     "id": "bazos_194584413",
@@ -444,10 +444,10 @@
     "efektivna_cena": 450,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "prostredí pri Malom Dunaji (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 05 (Ružinov)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
   },
   "bazos_194595218": {
     "id": "bazos_194595218",
@@ -459,10 +459,10 @@
     "efektivna_cena": 540,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194609088": {
     "id": "bazos_194609088",
@@ -474,10 +474,10 @@
     "efektivna_cena": 549,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194608796": {
     "id": "bazos_194608796",
@@ -534,10 +534,10 @@
     "efektivna_cena": 660,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194633657": {
     "id": "bazos_194633657",
@@ -600,10 +600,10 @@
     "efektivna_cena": 630,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "Saratovská (Dúbravka)",
-    "lat": 48.1860979,
-    "lng": 17.0384724,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_194641447": {
     "id": "bazos_194641447",
@@ -750,10 +750,10 @@
     "efektivna_cena": 650,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194678651": {
     "id": "bazos_194678651",
@@ -765,10 +765,10 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "Vlči",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194678245": {
     "id": "bazos_194678245",
@@ -798,6 +798,36 @@
     "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
     "lat": 48.2059525,
     "lng": 16.9785455,
+    "farba": "orange"
+  },
+  "bazos_194684490": {
+    "id": "bazos_194684490",
+    "zdroj": "Bazoš",
+    "titulok": "Izba na prenájom - Ružinov-Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194684490/izba-na-prenajom-ruzinov-bratislava.php",
+    "cena_povodna": "350 €",
+    "spolu_cena": "350 €",
+    "efektivna_cena": 350,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
+  },
+  "bazos_194682536": {
+    "id": "bazos_194682536",
+    "zdroj": "Bazoš",
+    "titulok": "zariadený 1-izbový byt s výmerou 35 m² v Šamoríne, sídlisko",
+    "odkaz": "https://reality.bazos.sk/inzerat/194682536/zariadeny-1-izbovy-byt-s-vymerou-35-m-v-samorine-sidlisko.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "PSČ: 931 01",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "orange"
   }
 }
