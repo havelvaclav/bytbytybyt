@@ -264,10 +264,10 @@
     "efektivna_cena": 550,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 841 05 (Karlova Ves)",
-    "lat": 48.1550801,
-    "lng": 17.0463776,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194558318": {
     "id": "bazos_194558318",
@@ -519,10 +519,10 @@
     "efektivna_cena": 700,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "ulica Závodu Matador (Petržalka)",
-    "lat": 48.1201845585,
-    "lng": 17.096295620825,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194622652": {
     "id": "bazos_194622652",
@@ -630,10 +630,10 @@
     "efektivna_cena": 700,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "Trenčianska ulica / Dulovo (Ružinov)",
-    "lat": 48.1539594813,
-    "lng": 17.146607491801,
-    "farba": "green"
+    "lokalita": "PSČ: 821 09 (Nivy)",
+    "lat": 48.1398151,
+    "lng": 17.1441354,
+    "farba": "orange"
   },
   "bazos_194650821": {
     "id": "bazos_194650821",
@@ -765,7 +765,7 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
