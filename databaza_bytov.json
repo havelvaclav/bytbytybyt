@@ -189,10 +189,10 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Poludníkova (Ružinov)",
+    "lat": 48.162795264507,
+    "lng": 17.172363567696,
+    "farba": "green"
   },
   "bazos_194525793": {
     "id": "bazos_194525793",
@@ -234,9 +234,9 @@
     "efektivna_cena": 580,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Tomášikova",
+    "lat": 48.163704885586,
+    "lng": 17.15367903129,
     "farba": "green"
   },
   "bazos_194532620": {
@@ -294,10 +294,10 @@
     "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Poludníkova (Ružinov)",
+    "lat": 48.162795264507,
+    "lng": 17.172363567696,
+    "farba": "green"
   },
   "bazos_194554436": {
     "id": "bazos_194554436",
@@ -630,9 +630,9 @@
     "efektivna_cena": 700,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "Sklenárova (Ružinov)",
-    "lat": 48.150535152594,
-    "lng": 17.146664326732,
+    "lokalita": "Trenčianska ulica / Dulovo (Ružinov)",
+    "lat": 48.1539594813,
+    "lng": 17.146607491801,
     "farba": "green"
   },
   "bazos_194650821": {
@@ -645,10 +645,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Tomášikova",
+    "lat": 48.163704885586,
+    "lng": 17.15367903129,
+    "farba": "green"
   },
   "bazos_194649564": {
     "id": "bazos_194649564",
@@ -664,5 +664,50 @@
     "lat": 48.1012697,
     "lng": 17.1078028,
     "farba": "orange"
+  },
+  "bazos_194662705": {
+    "id": "bazos_194662705",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1i byt Bratislava - Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194662705/prenajom-1i-byt-bratislava-petrzalka.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "závodu Matador (Petržalka)",
+    "lat": 48.120873051369,
+    "lng": 17.096808499543,
+    "farba": "green"
+  },
+  "bazos_194657184": {
+    "id": "bazos_194657184",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom zariadená garsónka s loggiou",
+    "odkaz": "https://reality.bazos.sk/inzerat/194657184/na-prenajom-zariadena-garsonka-s-loggiou.php",
+    "cena_povodna": "490 €",
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
+  },
+  "bazos_194653669": {
+    "id": "bazos_194653669",
+    "zdroj": "Bazoš",
+    "titulok": "3 izbový byt Dulovo námestie - Nivy, Trenčianska, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194653669/3-izbovy-byt-dulovo-namestie-trencianska-ruzinov.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "Nivy (Ružinov)",
+    "lat": 48.14455,
+    "lng": 17.13703,
+    "farba": "green"
   }
 }
