@@ -369,7 +369,7 @@
     "efektivna_cena": 590,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 841 01",
+    "lokalita": "PSČ: 841 01 (Dúbravka)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -384,10 +384,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 811 01",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Michalská (Staré Mesto)",
+    "lat": 48.143861245687,
+    "lng": 17.106594112441,
+    "farba": "green"
   },
   "bazos_194585777": {
     "id": "bazos_194585777",
@@ -429,10 +429,10 @@
     "efektivna_cena": 600,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Ružinov)",
-    "lat": 48.1578746,
-    "lng": 17.148822,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "bazos_194595132": {
     "id": "bazos_194595132",
@@ -444,10 +444,10 @@
     "efektivna_cena": 450,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 821 05 (Ružinov)",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194595218": {
     "id": "bazos_194595218",
@@ -459,10 +459,10 @@
     "efektivna_cena": 540,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Tomášikova (Nové Mesto)",
-    "lat": 48.169953947668,
-    "lng": 17.147168163888,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194609088": {
     "id": "bazos_194609088",
@@ -489,7 +489,7 @@
     "efektivna_cena": 530,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "PSČ: 831 01",
+    "lokalita": "PSČ: 831 01 (Kramáre)",
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
@@ -504,10 +504,10 @@
     "efektivna_cena": 400,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "PSČ: 811 06 (Staré Mesto)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
+    "farba": "green"
   },
   "bazos_194618347": {
     "id": "bazos_194618347",
@@ -723,6 +723,36 @@
     "lokalita": "PSČ: 949 11",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_194676074": {
+    "id": "bazos_194676074",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom: Zariadená garsónka, Bratislava centrum - Michalská",
+    "odkaz": "https://reality.bazos.sk/inzerat/194676074/prenajom-zariadena-garsonka-bratislava-centrum-michalska.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
+  },
+  "bazos_194671759": {
+    "id": "bazos_194671759",
+    "zdroj": "Bazoš",
+    "titulok": "1,5-izbový byt s loggiou a parkovaním – Nobelova, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194671759/15-izbovy-byt-s-loggiou-a-parkovanim-nobelova-bratislava.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
     "farba": "orange"
   }
 }
