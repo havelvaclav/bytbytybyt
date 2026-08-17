@@ -189,7 +189,7 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -384,10 +384,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Michalská (Staré Mesto)",
-    "lat": 48.143861245687,
-    "lng": 17.106594112441,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_194585777": {
     "id": "bazos_194585777",
@@ -414,10 +414,10 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194584413": {
     "id": "bazos_194584413",
@@ -690,10 +690,10 @@
     "efektivna_cena": 490,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "Jána Jonáša (Devínska Nová Ves)",
+    "lat": 48.220099355312,
+    "lng": 16.980069778236,
+    "farba": "green"
   },
   "bazos_194653669": {
     "id": "bazos_194653669",
@@ -753,6 +753,51 @@
     "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_194678651": {
+    "id": "bazos_194678651",
+    "zdroj": "Bazoš",
+    "titulok": "prenájom bytu s balkónom v tichom prostredí",
+    "odkaz": "https://reality.bazos.sk/inzerat/194678651/prenajom-bytu-s-balkonom-v-tichom-prostredi.php",
+    "cena_povodna": "530 €",
+    "spolu_cena": "530 €",
+    "efektivna_cena": 530,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "Vlči",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
+  },
+  "bazos_194678245": {
+    "id": "bazos_194678245",
+    "zdroj": "Bazoš",
+    "titulok": "prenájom izby",
+    "odkaz": "https://reality.bazos.sk/inzerat/194678245/prenajom-izby.php",
+    "cena_povodna": "300 €",
+    "spolu_cena": "300 €",
+    "efektivna_cena": 300,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "PSČ: 851 05 (Petržalka)",
+    "lat": 48.1060532,
+    "lng": 17.1075321,
+    "farba": "orange"
+  },
+  "bazos_194677397": {
+    "id": "bazos_194677397",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM útulný a prakticky riešený byt v časti Devínska Nov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194677397/prenajom-utulny-a-prakticky-rieseny-byt-v-casti-devinska-nov.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
     "farba": "orange"
   }
 }
