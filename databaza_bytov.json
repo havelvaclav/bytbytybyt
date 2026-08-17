@@ -189,10 +189,10 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Poludníkova (Ružinov)",
-    "lat": 48.162795264507,
-    "lng": 17.172363567696,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194525793": {
     "id": "bazos_194525793",
@@ -219,7 +219,7 @@
     "efektivna_cena": 690,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 841 04",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -294,10 +294,10 @@
     "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "Poludníkova (Ružinov)",
-    "lat": 48.162795264507,
-    "lng": 17.172363567696,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194554436": {
     "id": "bazos_194554436",
@@ -489,10 +489,10 @@
     "efektivna_cena": 530,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "loggia. Lietavská",
-    "lat": 48.100085664559,
-    "lng": 17.104009429267,
-    "farba": "green"
+    "lokalita": "PSČ: 831 01",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
   },
   "bazos_194606953": {
     "id": "bazos_194606953",
@@ -519,9 +519,9 @@
     "efektivna_cena": 700,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "ulica Závodu Matador (Petržalka)",
+    "lat": 48.1201845585,
+    "lng": 17.096295620825,
     "farba": "green"
   },
   "bazos_194622652": {
@@ -534,7 +534,7 @@
     "efektivna_cena": 660,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "PSČ: 830 00 (Kramáre)",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -709,5 +709,20 @@
     "lat": 48.14455,
     "lng": 17.13703,
     "farba": "green"
+  },
+  "bazos_194665278": {
+    "id": "bazos_194665278",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom – moderný 1-izbový byt v Nitre, Čerman (Hlboká u",
+    "odkaz": "https://reality.bazos.sk/inzerat/194665278/na-prenajom-moderny-1-izbovy-byt-v-nitre-cerman-hlboka-u.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "17.08.2026",
+    "datum_iso": "2026-08-17",
+    "lokalita": "PSČ: 949 11",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
   }
 }
