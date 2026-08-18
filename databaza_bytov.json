@@ -99,10 +99,10 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
+    "farba": "green"
   },
   "bazos_194525793": {
     "id": "bazos_194525793",
@@ -204,10 +204,10 @@
     "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
+    "farba": "green"
   },
   "bazos_194554436": {
     "id": "bazos_194554436",
@@ -230,11 +230,11 @@
     "titulok": "1 izbový byt na prenájom",
     "odkaz": "https://reality.bazos.sk/inzerat/194563904/1-izbovy-byt-na-prenajom.php",
     "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
+    "spolu_cena": "560 €",
+    "efektivna_cena": 560,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -324,10 +324,10 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
+    "farba": "green"
   },
   "bazos_194584413": {
     "id": "bazos_194584413",
@@ -369,10 +369,10 @@
     "efektivna_cena": 540,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194609088": {
     "id": "bazos_194609088",
@@ -444,10 +444,10 @@
     "efektivna_cena": 660,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194633657": {
     "id": "bazos_194633657",
@@ -660,10 +660,10 @@
     "efektivna_cena": 650,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194678651": {
     "id": "bazos_194678651",
@@ -675,10 +675,10 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
+    "farba": "green"
   },
   "bazos_194678245": {
     "id": "bazos_194678245",
@@ -750,10 +750,10 @@
     "efektivna_cena": 360,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Nábrežná",
+    "lat": 48.118933339242,
+    "lng": 17.089122350745,
+    "farba": "green"
   },
   "bazos_194696666": {
     "id": "bazos_194696666",
@@ -818,11 +818,11 @@
     "titulok": "Prenájmem 2i byt v BA - centrum - rezervované do 25.08.2026",
     "odkaz": "https://reality.bazos.sk/inzerat/194435918/2i-byt-v-ba-centrum.php",
     "cena_povodna": "440 €",
-    "spolu_cena": "440 €",
-    "efektivna_cena": 440,
+    "spolu_cena": "560 €",
+    "efektivna_cena": 560,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -837,7 +837,7 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -852,10 +852,10 @@
     "efektivna_cena": 620,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194699558": {
     "id": "bazos_194699558",
@@ -867,9 +867,54 @@
     "efektivna_cena": 600,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
+  },
+  "bazos_194711698": {
+    "id": "bazos_194711698",
+    "zdroj": "Bazoš",
+    "titulok": "ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním",
+    "odkaz": "https://reality.bazos.sk/inzerat/194711698/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "18.08.2026",
+    "datum_iso": "2026-08-18",
     "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_194710936": {
+    "id": "bazos_194710936",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194710936/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "480 €",
+    "spolu_cena": "480 €",
+    "efektivna_cena": 480,
+    "datum_str": "18.08.2026",
+    "datum_iso": "2026-08-18",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_194710761": {
+    "id": "bazos_194710761",
+    "zdroj": "Bazoš",
+    "titulok": "HALO reality - Prenájom, dvojizbový byt Bratislava Ružinov,",
+    "odkaz": "https://reality.bazos.sk/inzerat/194710761/halo-reality-prenajom-dvojizbovy-byt-bratislava-ruzinov.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "18.08.2026",
+    "datum_iso": "2026-08-18",
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
     "farba": "orange"
   }
 }
