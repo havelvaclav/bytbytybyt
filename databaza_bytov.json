@@ -429,7 +429,7 @@
     "efektivna_cena": 700,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lokalita": "PSČ: 850 00",
     "lat": 48.123911,
     "lng": 17.11186,
     "farba": "orange"
@@ -804,13 +804,7 @@
     "lokalita": "PSČ: 902 01",
     "lat": 48.154419507,
     "lng": 17.119406427,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/194632447/moderny-2-izbovy-byt-s-balkonom-a-parkovacim-miestom-v-lokal.php"
-      }
-    ]
+    "farba": "orange"
   },
   "bazos_194435918": {
     "id": "bazos_194435918",
@@ -837,10 +831,10 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 851 01",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "loggia. Lietavská",
+    "lat": 48.100085664559,
+    "lng": 17.104009429267,
+    "farba": "green"
   },
   "bazos_194700973": {
     "id": "bazos_194700973",
