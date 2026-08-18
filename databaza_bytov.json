@@ -99,10 +99,10 @@
     "efektivna_cena": 600,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194525793": {
     "id": "bazos_194525793",
@@ -144,9 +144,9 @@
     "efektivna_cena": 580,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Tomášikova",
-    "lat": 48.163704885586,
-    "lng": 17.15367903129,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194532620": {
@@ -204,10 +204,10 @@
     "efektivna_cena": 650,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194554436": {
     "id": "bazos_194554436",
@@ -324,10 +324,10 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194584413": {
     "id": "bazos_194584413",
@@ -474,10 +474,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 919 26",
+    "lokalita": "Poronda",
     "lat": 48.154419507,
     "lng": 17.119406427,
-    "farba": "orange"
+    "farba": "green"
   },
   "bazos_193098322": {
     "id": "bazos_193098322",
@@ -540,7 +540,7 @@
     "efektivna_cena": 700,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 821 09 (Nivy)",
+    "lokalita": "PSČ: 821 09",
     "lat": 48.1398151,
     "lng": 17.1441354,
     "farba": "orange"
@@ -555,10 +555,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "Tomášikova",
-    "lat": 48.163704885586,
-    "lng": 17.15367903129,
-    "farba": "green"
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
   },
   "bazos_194649564": {
     "id": "bazos_194649564",
@@ -675,10 +675,10 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vlči",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194678245": {
     "id": "bazos_194678245",
@@ -739,5 +739,56 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "orange"
+  },
+  "bazos_194697031": {
+    "id": "bazos_194697031",
+    "zdroj": "Bazoš",
+    "titulok": "‼️Pekná plne zariadená garsonka na prenájom v NZ‼️",
+    "odkaz": "https://reality.bazos.sk/inzerat/194697031/pekna-plne-zariadena-garsonka-na-prenajom-v-nz.php",
+    "cena_povodna": "360 €",
+    "spolu_cena": "360 €",
+    "efektivna_cena": 360,
+    "datum_str": "18.08.2026",
+    "datum_iso": "2026-08-18",
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
+  },
+  "bazos_194696666": {
+    "id": "bazos_194696666",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1,5 izbový byt, Majerníkova ulica, Bratislava IV Dl",
+    "odkaz": "https://reality.bazos.sk/inzerat/194696666/prenajom-15-izbovy-byt-majernikova-ulica-bratislava-iv-dl.php",
+    "cena_povodna": "465 €",
+    "spolu_cena": "465 €",
+    "efektivna_cena": 465,
+    "datum_str": "18.08.2026",
+    "datum_iso": "2026-08-18",
+    "lokalita": "Majerníkova (Karlova Ves)",
+    "lat": 48.152951861821,
+    "lng": 17.046227062137,
+    "farba": "green"
+  },
+  "bazos_194694474": {
+    "id": "bazos_194694474",
+    "zdroj": "Bazoš",
+    "titulok": "2i apartmán,BA – Petržalka,44m2,Betliarska ul.,bazén,fitko",
+    "odkaz": "https://reality.bazos.sk/inzerat/194694474/2i-apartman-v-ba-petrzalke-betliarska-ul-bazen-fitko.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "18.08.2026",
+    "datum_iso": "2026-08-18",
+    "lokalita": "Betliarska (Petržalka)",
+    "lat": 48.099475512814,
+    "lng": 17.116678102609,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/194694466/2i-apartmanba-petrzalka40-m2betliarska-ulbazenfitko.php"
+      }
+    ]
   }
 }
