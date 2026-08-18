@@ -129,7 +129,7 @@
     "efektivna_cena": 690,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lokalita": "PSČ: 841 04",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -144,9 +144,9 @@
     "efektivna_cena": 580,
     "datum_str": "12.08.2026",
     "datum_iso": "2026-08-12",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Tomášikova",
+    "lat": 48.163704885586,
+    "lng": 17.15367903129,
     "farba": "green"
   },
   "bazos_194532620": {
@@ -234,10 +234,10 @@
     "efektivna_cena": 600,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194536019": {
     "id": "bazos_194536019",
@@ -354,10 +354,10 @@
     "efektivna_cena": 450,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 821 05 (Ružinov)",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194595218": {
     "id": "bazos_194595218",
@@ -384,10 +384,10 @@
     "efektivna_cena": 549,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194608796": {
     "id": "bazos_194608796",
@@ -555,10 +555,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Tomášikova",
+    "lat": 48.163704885586,
+    "lng": 17.15367903129,
+    "farba": "green"
   },
   "bazos_194649564": {
     "id": "bazos_194649564",
@@ -790,5 +790,41 @@
         "odkaz": "https://reality.bazos.sk/inzerat/194694466/2i-apartmanba-petrzalka40-m2betliarska-ulbazenfitko.php"
       }
     ]
+  },
+  "bazos_194699488": {
+    "id": "bazos_194699488",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM: Priestranný 2-izbový byt s balkónom | Pezinok, Uli",
+    "odkaz": "https://reality.bazos.sk/inzerat/194699488/prenajom-priestranny-2-izbovy-byt-s-balkonom-pezinok-uli.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "18.08.2026",
+    "datum_iso": "2026-08-18",
+    "lokalita": "PSČ: 902 01",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/194632447/moderny-2-izbovy-byt-s-balkonom-a-parkovacim-miestom-v-lokal.php"
+      }
+    ]
+  },
+  "bazos_194435918": {
+    "id": "bazos_194435918",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájmem 2i byt v BA - centrum - rezervované do 25.08.2026",
+    "odkaz": "https://reality.bazos.sk/inzerat/194435918/2i-byt-v-ba-centrum.php",
+    "cena_povodna": "440 €",
+    "spolu_cena": "440 €",
+    "efektivna_cena": 440,
+    "datum_str": "25.08.2026",
+    "datum_iso": "2026-08-25",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   }
 }
