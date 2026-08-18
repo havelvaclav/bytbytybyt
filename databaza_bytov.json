@@ -369,9 +369,9 @@
     "efektivna_cena": 540,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_194609088": {
@@ -444,9 +444,9 @@
     "efektivna_cena": 660,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_194633657": {
@@ -660,9 +660,9 @@
     "efektivna_cena": 650,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_194678651": {
@@ -831,9 +831,9 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "loggia. Lietavská",
-    "lat": 48.100085664559,
-    "lng": 17.104009429267,
+    "lokalita": "Vavilovova (Petržalka)",
+    "lat": 48.126582157762,
+    "lng": 17.113792794476,
     "farba": "green"
   },
   "bazos_194700973": {
@@ -846,9 +846,9 @@
     "efektivna_cena": 620,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_194699558": {
@@ -861,9 +861,9 @@
     "efektivna_cena": 600,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_194711698": {
@@ -876,10 +876,10 @@
     "efektivna_cena": 650,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   },
   "bazos_194710936": {
     "id": "bazos_194710936",
