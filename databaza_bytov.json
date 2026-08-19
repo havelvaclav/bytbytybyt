@@ -84,9 +84,9 @@
     "efektivna_cena": 600,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
     "farba": "green"
   },
   "bazos_194589784": {
@@ -390,10 +390,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194649564": {
     "id": "bazos_194649564",
@@ -510,7 +510,7 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -651,9 +651,9 @@
     "efektivna_cena": 440,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
     "farba": "green"
   },
   "bazos_194708716": {
@@ -726,9 +726,9 @@
     "efektivna_cena": 480,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
     "farba": "green"
   },
   "bazos_194710761": {
@@ -756,7 +756,7 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -786,10 +786,10 @@
     "efektivna_cena": 480,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 09",
-    "lat": 48.1398151,
-    "lng": 17.1441354,
-    "farba": "orange"
+    "lokalita": "Trenčianska ulica / Dulovo (Ružinov)",
+    "lat": 48.1539594813,
+    "lng": 17.146607491801,
+    "farba": "green"
   },
   "bazos_194729194": {
     "id": "bazos_194729194",
@@ -819,6 +819,66 @@
     "lokalita": "PSČ: 925 53",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_194740998": {
+    "id": "bazos_194740998",
+    "zdroj": "Bazoš",
+    "titulok": "ÚPLNE NOVÉ ŠTÚDIO 23 m² S PARKOVANÍM | BRATISLAVA – VRAKUŇA",
+    "odkaz": "https://reality.bazos.sk/inzerat/194740998/uplne-nove-studio-23-m-s-parkovanim-bratislava-vrakuna.php",
+    "cena_povodna": "599 €",
+    "spolu_cena": "599 €",
+    "efektivna_cena": 599,
+    "datum_str": "19.08.2026",
+    "datum_iso": "2026-08-19",
+    "lokalita": "Brezová (Vrakuňa)",
+    "lat": 48.148644896864,
+    "lng": 17.191518658099,
+    "farba": "green"
+  },
+  "bazos_194740027": {
+    "id": "bazos_194740027",
+    "zdroj": "Bazoš",
+    "titulok": "3 izbový byt Dulovo námestie - Nivy, Trenčianska, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194740027/3-izbovy-byt-dulovo-namestie-nivy-trencianska-ruzinov.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "19.08.2026",
+    "datum_iso": "2026-08-19",
+    "lokalita": "Nivy (Ružinov)",
+    "lat": 48.14455,
+    "lng": 17.13703,
+    "farba": "green"
+  },
+  "bazos_194739918": {
+    "id": "bazos_194739918",
+    "zdroj": "Bazoš",
+    "titulok": "NOVÉ 2-IZBOVÉ ŠTÚDIO | GARÁŽ | PRI VRAKUNSKOM LESÍKU",
+    "odkaz": "https://reality.bazos.sk/inzerat/194739918/nove-2-izbove-studio-garaz-pri-vrakunskom-lesiku.php",
+    "cena_povodna": "699 €",
+    "spolu_cena": "699 €",
+    "efektivna_cena": 699,
+    "datum_str": "19.08.2026",
+    "datum_iso": "2026-08-19",
+    "lokalita": "Garsónka (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
+  },
+  "bazos_194739249": {
+    "id": "bazos_194739249",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194739249/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "19.08.2026",
+    "datum_iso": "2026-08-19",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
