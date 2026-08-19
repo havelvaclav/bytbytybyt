@@ -114,7 +114,7 @@
     "efektivna_cena": 590,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 841 01 (Dúbravka)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -666,9 +666,9 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Vavilovova (Petržalka)",
-    "lat": 48.126582157762,
-    "lng": 17.113792794476,
+    "lokalita": "loggia. Lietavská",
+    "lat": 48.100085664559,
+    "lng": 17.104009429267,
     "farba": "green"
   },
   "bazos_194700973": {
