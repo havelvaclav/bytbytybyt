@@ -405,10 +405,10 @@
     "efektivna_cena": 500,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 851 06",
-    "lat": 48.1012697,
-    "lng": 17.1078028,
-    "farba": "orange"
+    "lokalita": "aj rodinu",
+    "lat": 48.23979289189,
+    "lng": 17.037986911385,
+    "farba": "green"
   },
   "bazos_194662705": {
     "id": "bazos_194662705",
@@ -879,6 +879,21 @@
     "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_194741858": {
+    "id": "bazos_194741858",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbového apartmánového bytu v Pieťanoch",
+    "odkaz": "https://reality.bazos.sk/inzerat/194741858/prenajom-2-izboveho-apartmanoveho-bytu-v-pietanoch.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "19.08.2026",
+    "datum_iso": "2026-08-19",
+    "lokalita": "PSČ: 921 01",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "orange"
   }
 }
