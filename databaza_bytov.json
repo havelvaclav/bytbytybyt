@@ -80,14 +80,14 @@
     "titulok": "1 izbový byt na prenájom",
     "odkaz": "https://reality.bazos.sk/inzerat/194563904/1-izbovy-byt-na-prenajom.php",
     "cena_povodna": "600 €",
-    "spolu_cena": "560 €",
-    "efektivna_cena": 560,
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
     "datum_str": "13.08.2026",
     "datum_iso": "2026-08-13",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
+    "farba": "green"
   },
   "bazos_194589784": {
     "id": "bazos_194589784",
@@ -189,10 +189,10 @@
     "efektivna_cena": 450,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 05 (Ružinov)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
   },
   "bazos_194595218": {
     "id": "bazos_194595218",
@@ -204,10 +204,10 @@
     "efektivna_cena": 540,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194609088": {
     "id": "bazos_194609088",
@@ -264,10 +264,10 @@
     "efektivna_cena": 700,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Údernícka (Petržalka)",
+    "lat": 48.123141472818,
+    "lng": 17.091607390556,
+    "farba": "green"
   },
   "bazos_194622652": {
     "id": "bazos_194622652",
@@ -279,10 +279,10 @@
     "efektivna_cena": 660,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194633657": {
     "id": "bazos_194633657",
@@ -465,10 +465,10 @@
     "efektivna_cena": 550,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 949 11",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "orange"
+    "lokalita": "Bizetova",
+    "lat": 48.179150670518,
+    "lng": 17.037335602675,
+    "farba": "green"
   },
   "bazos_194676074": {
     "id": "bazos_194676074",
@@ -495,10 +495,10 @@
     "efektivna_cena": 650,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194678651": {
     "id": "bazos_194678651",
@@ -585,10 +585,10 @@
     "efektivna_cena": 360,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Nábrežná",
-    "lat": 48.118933339242,
-    "lng": 17.089122350745,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_194696666": {
     "id": "bazos_194696666",
@@ -647,14 +647,14 @@
     "titulok": "Prenájmem 2i byt v BA - centrum - rezervované do 25.08.2026",
     "odkaz": "https://reality.bazos.sk/inzerat/194435918/2i-byt-v-ba-centrum.php",
     "cena_povodna": "440 €",
-    "spolu_cena": "560 €",
-    "efektivna_cena": 560,
+    "spolu_cena": "440 €",
+    "efektivna_cena": 440,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
+    "farba": "green"
   },
   "bazos_194708716": {
     "id": "bazos_194708716",
@@ -681,10 +681,10 @@
     "efektivna_cena": 620,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194699558": {
     "id": "bazos_194699558",
@@ -696,10 +696,10 @@
     "efektivna_cena": 600,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Rača)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194711698": {
     "id": "bazos_194711698",
@@ -711,10 +711,10 @@
     "efektivna_cena": 650,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194710936": {
     "id": "bazos_194710936",
@@ -726,10 +726,10 @@
     "efektivna_cena": 480,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
+    "farba": "green"
   },
   "bazos_194710761": {
     "id": "bazos_194710761",
@@ -756,9 +756,24 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Mierová (Ružinov)",
-    "lat": 48.1491552,
-    "lng": 17.1608078,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_194724787": {
+    "id": "bazos_194724787",
+    "zdroj": "Bazoš",
+    "titulok": "MODERNÝ 2i BYT | NOVOSTAVBA | GARÁŽOVÉ STÁTIE",
+    "odkaz": "https://reality.bazos.sk/inzerat/194724787/moderny-2i-byt-novostavba-garazove-statie.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "19.08.2026",
+    "datum_iso": "2026-08-19",
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   }
 }
