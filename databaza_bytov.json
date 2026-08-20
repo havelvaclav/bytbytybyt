@@ -84,9 +84,9 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Mlynské nivy (Ružinov)",
-    "lat": 48.1453634,
-    "lng": 17.1381912,
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194584413": {
@@ -435,9 +435,9 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "Mlynské nivy (Ružinov)",
-    "lat": 48.1453634,
-    "lng": 17.1381912,
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194678245": {
@@ -681,9 +681,9 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Mlynské nivy (Ružinov)",
-    "lat": 48.1453634,
-    "lng": 17.1381912,
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194724787": {
@@ -801,9 +801,9 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Mlynské nivy (Ružinov)",
-    "lat": 48.1453634,
-    "lng": 17.1381912,
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194741858": {
@@ -910,5 +910,20 @@
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
+  },
+  "bazos_194769826": {
+    "id": "bazos_194769826",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom garsónky v Ružinove, Rezedová",
+    "odkaz": "https://reality.bazos.sk/inzerat/194769826/prenajom-garsonky-v-ruzinove-rezedova.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "20.08.2026",
+    "datum_iso": "2026-08-20",
+    "lokalita": "Mlynské nivy (Ružinov)",
+    "lat": 48.1453634,
+    "lng": 17.1381912,
+    "farba": "green"
   }
 }
