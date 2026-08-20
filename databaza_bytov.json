@@ -84,10 +84,10 @@
     "efektivna_cena": 530,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Mlynské nivy (Ružinov)",
+    "lat": 48.1453634,
+    "lng": 17.1381912,
+    "farba": "green"
   },
   "bazos_194584413": {
     "id": "bazos_194584413",
@@ -315,10 +315,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 831 02",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
   },
   "bazos_194649564": {
     "id": "bazos_194649564",
@@ -435,10 +435,10 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Mlynské nivy (Ružinov)",
+    "lat": 48.1453634,
+    "lng": 17.1381912,
+    "farba": "green"
   },
   "bazos_194678245": {
     "id": "bazos_194678245",
@@ -591,9 +591,9 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "loggia. Lietavská",
-    "lat": 48.100085664559,
-    "lng": 17.104009429267,
+    "lokalita": "Blagoevova",
+    "lat": 48.127207564471,
+    "lng": 17.129563541314,
     "farba": "green"
   },
   "bazos_194700973": {
@@ -681,10 +681,10 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Mlynské nivy (Ružinov)",
+    "lat": 48.1453634,
+    "lng": 17.1381912,
+    "farba": "green"
   },
   "bazos_194724787": {
     "id": "bazos_194724787",
@@ -801,10 +801,10 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Mlynské nivy (Ružinov)",
+    "lat": 48.1453634,
+    "lng": 17.1381912,
+    "farba": "green"
   },
   "bazos_194741858": {
     "id": "bazos_194741858",
@@ -819,6 +819,21 @@
     "lokalita": "PSČ: 921 01",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_194758175": {
+    "id": "bazos_194758175",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka s klímou a parkovacím miestom na prenájom, Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/194758175/garsonka-s-klimou-a-parkovacim-miestom-na-prenajom-raca.php",
+    "cena_povodna": "490 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "20.08.2026",
+    "datum_iso": "2026-08-20",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
     "farba": "orange"
   }
 }
