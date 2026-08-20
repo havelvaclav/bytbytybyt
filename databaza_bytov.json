@@ -129,9 +129,9 @@
     "efektivna_cena": 540,
     "datum_str": "14.08.2026",
     "datum_iso": "2026-08-14",
-    "lokalita": "Račianska",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194609088": {
@@ -204,9 +204,9 @@
     "efektivna_cena": 660,
     "datum_str": "15.08.2026",
     "datum_iso": "2026-08-15",
-    "lokalita": "Račianska",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194633657": {
@@ -315,10 +315,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Kraskova (Nové Mesto)",
+    "lat": 48.161956365201,
+    "lng": 17.120833204908,
+    "farba": "green"
   },
   "bazos_194649564": {
     "id": "bazos_194649564",
@@ -420,9 +420,9 @@
     "efektivna_cena": 650,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "Račianska",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194678651": {
@@ -576,10 +576,10 @@
     "efektivna_cena": 440,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "Garsónka (Vrakuňa)",
-    "lat": 48.145746545,
-    "lng": 17.205805283,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194708716": {
     "id": "bazos_194708716",
@@ -606,9 +606,9 @@
     "efektivna_cena": 620,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Račianska",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194699558": {
@@ -621,9 +621,9 @@
     "efektivna_cena": 600,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Račianska (Rača)",
-    "lat": 48.1961281,
-    "lng": 17.1451392,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194711698": {
@@ -756,10 +756,10 @@
     "efektivna_cena": 599,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Brezová (Vrakuňa)",
-    "lat": 48.148644896864,
-    "lng": 17.191518658099,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194740027": {
     "id": "bazos_194740027",
@@ -786,10 +786,10 @@
     "efektivna_cena": 699,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Garsónka (Vrakuňa)",
-    "lat": 48.145746545,
-    "lng": 17.205805283,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194739249": {
     "id": "bazos_194739249",
@@ -827,13 +827,88 @@
     "titulok": "Garsónka s klímou a parkovacím miestom na prenájom, Rača",
     "odkaz": "https://reality.bazos.sk/inzerat/194758175/garsonka-s-klimou-a-parkovacim-miestom-na-prenajom-raca.php",
     "cena_povodna": "490 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
     "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_194766864": {
+    "id": "bazos_194766864",
+    "zdroj": "Bazoš",
+    "titulok": "Svetlý, tichý 1-izbový byt – Kraskova ulica, širšie centrum",
+    "odkaz": "https://reality.bazos.sk/inzerat/194766864/svetly-tichy-1-izbovy-byt-kraskova-ulica-sirsie-centrum.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "20.08.2026",
+    "datum_iso": "2026-08-20",
+    "lokalita": "Kraskova",
+    "lat": 48.161956365201,
+    "lng": 17.120833204908,
+    "farba": "green"
+  },
+  "bazos_194766634": {
+    "id": "bazos_194766634",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenajom Garsonka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194766634/na-prenajom-garsonka.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "20.08.2026",
+    "datum_iso": "2026-08-20",
+    "lokalita": "PSČ: 811 02",
+    "lat": 48.1456082,
+    "lng": 17.0825406,
+    "farba": "orange"
+  },
+  "bazos_194765455": {
+    "id": "bazos_194765455",
+    "zdroj": "Bazoš",
+    "titulok": "ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním",
+    "odkaz": "https://reality.bazos.sk/inzerat/194765455/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "20.08.2026",
+    "datum_iso": "2026-08-20",
+    "lokalita": "Račianska",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
+  },
+  "bazos_194765135": {
+    "id": "bazos_194765135",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | ELEGANTNÝ 2-IZBOVÝ BYT | BRATISLAVA – VRAKUŇA",
+    "odkaz": "https://reality.bazos.sk/inzerat/194765135/prenajom-elegantny-2-izbovy-byt-bratislava-vrakuna.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "20.08.2026",
+    "datum_iso": "2026-08-20",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_194763911": {
+    "id": "bazos_194763911",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-garsónky Vrakuňa Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194763911/prenajom-2-garsonky-vrakuna-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "20.08.2026",
+    "datum_iso": "2026-08-20",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
     "farba": "orange"
   }
 }
