@@ -233,7 +233,7 @@
   "bazos_194662705": {
     "id": "bazos_194662705",
     "zdroj": "Bazoš",
-    "titulok": "Prenájom 1i byt Bratislava - Petržalka",
+    "titulok": "[Rezervovaný] Prenájom 1i byt Bratislava - Petržalka",
     "odkaz": "https://reality.bazos.sk/inzerat/194662705/prenajom-1i-byt-bratislava-petrzalka.php",
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
@@ -330,10 +330,10 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Plynárenská (Ružinov)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_194678245": {
     "id": "bazos_194678245",
@@ -576,10 +576,10 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Plynárenská (Ružinov)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_194724787": {
     "id": "bazos_194724787",
@@ -696,10 +696,10 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Plynárenská (Ružinov)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_194741858": {
     "id": "bazos_194741858",
@@ -816,10 +816,10 @@
     "efektivna_cena": 600,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Plynárenská (Ružinov)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_194759593": {
     "id": "bazos_194759593",
@@ -879,6 +879,36 @@
     "lokalita": "PSČ: 811 06 (Staré Mesto)",
     "lat": 48.1486616,
     "lng": 17.108133,
+    "farba": "orange"
+  },
+  "bazos_194806434": {
+    "id": "bazos_194806434",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom 1-izbový byt , kompletne zariadený zrek",
+    "odkaz": "https://reality.bazos.sk/inzerat/194806434/ponukame-na-prenajom-1-izbovy-byt-kompletne-zariadeny-zrek.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "21.08.2026",
+    "datum_iso": "2026-08-21",
+    "lokalita": "PSČ: 821 08",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
+  },
+  "bazos_194805241": {
+    "id": "bazos_194805241",
+    "zdroj": "Bazoš",
+    "titulok": "CITY PARK I NIVY I Zariadený 1-izbový byt",
+    "odkaz": "https://reality.bazos.sk/inzerat/194805241/city-park-i-nivy-i-zariadeny-1-izbovy-byt.php",
+    "cena_povodna": "610 €",
+    "spolu_cena": "610 €",
+    "efektivna_cena": 610,
+    "datum_str": "21.08.2026",
+    "datum_iso": "2026-08-21",
+    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
