@@ -210,10 +210,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "Kraskova (Nové Mesto)",
-    "lat": 48.161956365201,
-    "lng": 17.120833204908,
-    "farba": "green"
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
   },
   "bazos_194649564": {
     "id": "bazos_194649564",
@@ -471,10 +471,10 @@
     "efektivna_cena": 440,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194708716": {
     "id": "bazos_194708716",
@@ -486,10 +486,10 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Macharova",
-    "lat": 48.127534705612,
-    "lng": 17.106674829458,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_194700973": {
     "id": "bazos_194700973",
@@ -576,7 +576,7 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -651,10 +651,10 @@
     "efektivna_cena": 599,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Hradska (Vrakuňa)",
-    "lat": 48.139538451937,
-    "lng": 17.202807212118,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194740027": {
     "id": "bazos_194740027",
@@ -681,10 +681,10 @@
     "efektivna_cena": 699,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Hradska",
-    "lat": 48.138565773727,
-    "lng": 17.203250343507,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194739249": {
     "id": "bazos_194739249",
@@ -741,7 +741,7 @@
     "efektivna_cena": 700,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Kraskova",
+    "lokalita": "Kraskova (Nové Mesto)",
     "lat": 48.161956365201,
     "lng": 17.120833204908,
     "farba": "green"
@@ -786,10 +786,10 @@
     "efektivna_cena": 600,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Hradska (Vrakuňa)",
-    "lat": 48.139538451937,
-    "lng": 17.202807212118,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194763911": {
     "id": "bazos_194763911",
@@ -801,10 +801,10 @@
     "efektivna_cena": 700,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Hradska (Vrakuňa)",
-    "lat": 48.139538451937,
-    "lng": 17.202807212118,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_194769826": {
     "id": "bazos_194769826",
@@ -816,7 +816,7 @@
     "efektivna_cena": 600,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -831,10 +831,10 @@
     "efektivna_cena": 550,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Macharova",
-    "lat": 48.127534705612,
-    "lng": 17.106674829458,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_194790686": {
     "id": "bazos_194790686",
