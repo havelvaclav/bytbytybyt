@@ -681,7 +681,7 @@
     "efektivna_cena": 699,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -849,6 +849,36 @@
     "lokalita": "PSČ: 821 09 (Ružinov)",
     "lat": 48.1398151,
     "lng": 17.1441354,
+    "farba": "orange"
+  },
+  "bazos_194799723": {
+    "id": "bazos_194799723",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka na  ulici Ľ.  Fullu",
+    "odkaz": "https://reality.bazos.sk/inzerat/194799723/garsonka-na-ulici-l-fullu.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "21.08.2026",
+    "datum_iso": "2026-08-21",
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_194798676": {
+    "id": "bazos_194798676",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom bytu bez depozitu Bratislava staré mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/194798676/prenajom-bytu-bez-depozitu-bratislava-stare-mesto.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "21.08.2026",
+    "datum_iso": "2026-08-21",
+    "lokalita": "PSČ: 811 06 (Staré Mesto)",
+    "lat": 48.1486616,
+    "lng": 17.108133,
     "farba": "orange"
   }
 }
