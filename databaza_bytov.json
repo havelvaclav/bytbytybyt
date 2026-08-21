@@ -240,10 +240,10 @@
     "efektivna_cena": 700,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 851 05 (Petržalka)",
-    "lat": 48.1060532,
-    "lng": 17.1075321,
-    "farba": "orange"
+    "lokalita": "závodu Matador (Petržalka)",
+    "lat": 48.120873051369,
+    "lng": 17.096808499543,
+    "farba": "green"
   },
   "bazos_194657184": {
     "id": "bazos_194657184",
@@ -486,10 +486,10 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Macharova",
+    "lat": 48.127534705612,
+    "lng": 17.106674829458,
+    "farba": "green"
   },
   "bazos_194700973": {
     "id": "bazos_194700973",
@@ -651,9 +651,9 @@
     "efektivna_cena": 599,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Vrakuňa)",
-    "lat": 48.145746545,
-    "lng": 17.205805283,
+    "lokalita": "Hradska (Vrakuňa)",
+    "lat": 48.139538451937,
+    "lng": 17.202807212118,
     "farba": "green"
   },
   "bazos_194740027": {
@@ -681,9 +681,9 @@
     "efektivna_cena": 699,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "Hradska",
+    "lat": 48.138565773727,
+    "lng": 17.203250343507,
     "farba": "green"
   },
   "bazos_194739249": {
@@ -786,9 +786,9 @@
     "efektivna_cena": 600,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Vrakuňa)",
-    "lat": 48.145746545,
-    "lng": 17.205805283,
+    "lokalita": "Hradska (Vrakuňa)",
+    "lat": 48.139538451937,
+    "lng": 17.202807212118,
     "farba": "green"
   },
   "bazos_194763911": {
@@ -801,9 +801,9 @@
     "efektivna_cena": 700,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Vrakuňa)",
-    "lat": 48.145746545,
-    "lng": 17.205805283,
+    "lokalita": "Hradska (Vrakuňa)",
+    "lat": 48.139538451937,
+    "lng": 17.202807212118,
     "farba": "green"
   },
   "bazos_194769826": {
@@ -831,9 +831,24 @@
     "efektivna_cena": 550,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
+    "lokalita": "Macharova",
+    "lat": 48.127534705612,
+    "lng": 17.106674829458,
+    "farba": "green"
+  },
+  "bazos_194790686": {
+    "id": "bazos_194790686",
+    "zdroj": "Bazoš",
+    "titulok": "Moderný klimatizovaný byt v komplexe City Park Ružinov na Pl",
+    "odkaz": "https://reality.bazos.sk/inzerat/194790686/moderny-klimatizovany-byt-v-komplexe-city-park-ruzinov-na-pl.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "21.08.2026",
+    "datum_iso": "2026-08-21",
+    "lokalita": "PSČ: 821 09 (Ružinov)",
+    "lat": 48.1398151,
+    "lng": 17.1441354,
     "farba": "orange"
   }
 }
