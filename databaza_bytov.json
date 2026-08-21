@@ -240,10 +240,10 @@
     "efektivna_cena": 700,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "závodu Matador (Petržalka)",
-    "lat": 48.120873051369,
-    "lng": 17.096808499543,
-    "farba": "green"
+    "lokalita": "PSČ: 851 05 (Petržalka)",
+    "lat": 48.1060532,
+    "lng": 17.1075321,
+    "farba": "orange"
   },
   "bazos_194657184": {
     "id": "bazos_194657184",
@@ -471,10 +471,10 @@
     "efektivna_cena": 440,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
+    "farba": "green"
   },
   "bazos_194708716": {
     "id": "bazos_194708716",
@@ -651,10 +651,10 @@
     "efektivna_cena": 599,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
   },
   "bazos_194740027": {
     "id": "bazos_194740027",
@@ -681,10 +681,10 @@
     "efektivna_cena": 699,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
+    "farba": "green"
   },
   "bazos_194739249": {
     "id": "bazos_194739249",
@@ -786,10 +786,10 @@
     "efektivna_cena": 600,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
   },
   "bazos_194763911": {
     "id": "bazos_194763911",
@@ -801,10 +801,10 @@
     "efektivna_cena": 700,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
   },
   "bazos_194769826": {
     "id": "bazos_194769826",
