@@ -486,10 +486,10 @@
     "efektivna_cena": 600,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Sputniková (Ružinov)",
-    "lat": 48.163893510182,
-    "lng": 17.169591837281,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "bazos_194719768": {
     "id": "bazos_194719768",
@@ -846,7 +846,22 @@
     "efektivna_cena": 375,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "PSČ: 821 05",
+    "lokalita": "PSČ: 821 05 (Prievoz)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
+  },
+  "bazos_194827011": {
+    "id": "bazos_194827011",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom velkej izby v Bratislave",
+    "odkaz": "https://reality.bazos.sk/inzerat/194827011/prenajom-velkej-izby-v-bratislave.php",
+    "cena_povodna": "375 €",
+    "spolu_cena": "460 €",
+    "efektivna_cena": 460,
+    "datum_str": "22.08.2026",
+    "datum_iso": "2026-08-22",
+    "lokalita": "PSČ: 821 05 (Prievoz)",
     "lat": 48.144834,
     "lng": 17.1686815,
     "farba": "orange"
