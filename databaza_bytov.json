@@ -180,10 +180,10 @@
     "efektivna_cena": 490,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "Jána Jonáša (Devínska Nová Ves)",
-    "lat": 48.220099355312,
-    "lng": 16.980069778236,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08 (Bory)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_194653669": {
     "id": "bazos_194653669",
@@ -285,7 +285,7 @@
     "efektivna_cena": 400,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lokalita": "PSČ: 841 08 (Bory)",
     "lat": 48.2059525,
     "lng": 16.9785455,
     "farba": "orange"
@@ -876,9 +876,9 @@
     "efektivna_cena": 580,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "prostredí pri Malom Dunaji (Rača)",
-    "lat": 48.211068929,
-    "lng": 17.15497545,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   }
 }
