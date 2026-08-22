@@ -135,7 +135,7 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -165,9 +165,9 @@
     "efektivna_cena": 700,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "závodu Matador (Petržalka)",
-    "lat": 48.120873051369,
-    "lng": 17.096808499543,
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_194657184": {
@@ -255,10 +255,10 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194678245": {
     "id": "bazos_194678245",
@@ -501,10 +501,10 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194724787": {
     "id": "bazos_194724787",
@@ -621,10 +621,10 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194741858": {
     "id": "bazos_194741858",
@@ -666,7 +666,7 @@
     "efektivna_cena": 700,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Kraskova (Nové Mesto)",
+    "lokalita": "Kraskova",
     "lat": 48.161956365201,
     "lng": 17.120833204908,
     "farba": "green"
@@ -741,10 +741,10 @@
     "efektivna_cena": 600,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194759593": {
     "id": "bazos_194759593",
@@ -831,9 +831,24 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_194822616": {
+    "id": "bazos_194822616",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom velkej izby",
+    "odkaz": "https://reality.bazos.sk/inzerat/194822616/prenajom-velkej-izby.php",
+    "cena_povodna": "375 €",
+    "spolu_cena": "375 €",
+    "efektivna_cena": 375,
+    "datum_str": "22.08.2026",
+    "datum_iso": "2026-08-22",
+    "lokalita": "PSČ: 821 05",
+    "lat": 48.144834,
+    "lng": 17.1686815,
     "farba": "orange"
   }
 }
