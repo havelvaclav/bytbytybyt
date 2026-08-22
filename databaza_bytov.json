@@ -225,10 +225,10 @@
     "efektivna_cena": 580,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 811 01",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Neuvedená (Bratislava)",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "gray"
   },
   "bazos_194671759": {
     "id": "bazos_194671759",
