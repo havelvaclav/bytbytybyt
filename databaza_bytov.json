@@ -135,7 +135,7 @@
     "efektivna_cena": 650,
     "datum_str": "16.08.2026",
     "datum_iso": "2026-08-16",
-    "lokalita": "PSČ: 831 02",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -666,7 +666,7 @@
     "efektivna_cena": 700,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Kraskova",
+    "lokalita": "Kraskova (Nové Mesto)",
     "lat": 48.161956365201,
     "lng": 17.120833204908,
     "farba": "green"
@@ -865,5 +865,20 @@
     "lat": 48.144834,
     "lng": 17.1686815,
     "farba": "orange"
+  },
+  "bazos_194828504": {
+    "id": "bazos_194828504",
+    "zdroj": "Bazoš",
+    "titulok": "EKONOMICKÁ CENA _ 3i byt _ Ba Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/194828504/ekonomicka-cena-3i-byt-ba-raca.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "22.08.2026",
+    "datum_iso": "2026-08-22",
+    "lokalita": "prostredí pri Malom Dunaji (Rača)",
+    "lat": 48.211068929,
+    "lng": 17.15497545,
+    "farba": "green"
   }
 }
