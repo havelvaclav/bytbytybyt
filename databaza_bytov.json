@@ -135,10 +135,10 @@
     "efektivna_cena": 650,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194678651": {
     "id": "bazos_194678651",
@@ -321,10 +321,10 @@
     "efektivna_cena": 620,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194699558": {
     "id": "bazos_194699558",
@@ -336,10 +336,10 @@
     "efektivna_cena": 600,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 830 00 (Rača)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194711698": {
     "id": "bazos_194711698",
@@ -591,10 +591,10 @@
     "efektivna_cena": 650,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_194765135": {
     "id": "bazos_194765135",
@@ -771,7 +771,7 @@
     "efektivna_cena": 580,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "PSČ: 831 06 (Rača)",
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -815,5 +815,35 @@
     "lat": 48.123141472818,
     "lng": 17.091607390556,
     "farba": "green"
+  },
+  "bazos_194854439": {
+    "id": "bazos_194854439",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom krásny a veľký 1-izbový byt s balkónom, 48 m², A",
+    "odkaz": "https://reality.bazos.sk/inzerat/194854439/na-prenajom-krasny-a-velky-1-izbovy-byt-s-balkonom-48-m-a.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "23.08.2026",
+    "datum_iso": "2026-08-23",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
+  },
+  "bazos_194853396": {
+    "id": "bazos_194853396",
+    "zdroj": "Bazoš",
+    "titulok": "Garzónka Bratislava-kramáre",
+    "odkaz": "https://reality.bazos.sk/inzerat/194853396/garzonka-bratislava-kramare.php",
+    "cena_povodna": "490 €",
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
+    "datum_str": "23.08.2026",
+    "datum_iso": "2026-08-23",
+    "lokalita": "PSČ: 900 86 (Kramáre)",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
   }
 }
