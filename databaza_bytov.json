@@ -306,7 +306,7 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -651,7 +651,7 @@
     "efektivna_cena": 550,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -775,5 +775,30 @@
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
+  },
+  "bazos_194838498": {
+    "id": "bazos_194838498",
+    "zdroj": "Bazoš",
+    "titulok": "2i apartmán,BA – Petržalka,Betliarska ul.,bazén,fitko",
+    "odkaz": "https://reality.bazos.sk/inzerat/194838498/2i-apartmanba-petrzalkabetliarska-ulbazenfitko.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "23.08.2026",
+    "datum_iso": "2026-08-23",
+    "lokalita": "Betliarska (Petržalka)",
+    "lat": 48.099475512814,
+    "lng": 17.116678102609,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/194694474/2i-apartman-v-ba-petrzalke-betliarska-ul-bazen-fitko.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/194694466/2i-apartmanba-petrzalka40-m2betliarska-ulbazenfitko.php"
+      }
+    ]
   }
 }
