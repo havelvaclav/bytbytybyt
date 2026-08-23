@@ -411,10 +411,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Garsónka (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194731587": {
     "id": "bazos_194731587",
@@ -771,7 +771,7 @@
     "efektivna_cena": 580,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -811,10 +811,10 @@
     "efektivna_cena": 550,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "Údernícka (Petržalka)",
-    "lat": 48.123141472818,
-    "lng": 17.091607390556,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194854439": {
     "id": "bazos_194854439",
@@ -826,10 +826,10 @@
     "efektivna_cena": 680,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "PSČ: 841 02 (Dúbravka)",
-    "lat": 48.1949026,
-    "lng": 17.0334999,
-    "farba": "orange"
+    "lokalita": "kto",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194853396": {
     "id": "bazos_194853396",
