@@ -75,10 +75,10 @@
     "efektivna_cena": 490,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 841 08 (Bory)",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194653669": {
     "id": "bazos_194653669",
@@ -150,10 +150,10 @@
     "efektivna_cena": 530,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194678245": {
     "id": "bazos_194678245",
@@ -180,10 +180,10 @@
     "efektivna_cena": 400,
     "datum_str": "17.08.2026",
     "datum_iso": "2026-08-17",
-    "lokalita": "PSČ: 841 08 (Bory)",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194684490": {
     "id": "bazos_194684490",
@@ -396,10 +396,10 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194724787": {
     "id": "bazos_194724787",
@@ -411,10 +411,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
+    "farba": "green"
   },
   "bazos_194731587": {
     "id": "bazos_194731587",
@@ -516,10 +516,10 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194741858": {
     "id": "bazos_194741858",
@@ -636,10 +636,10 @@
     "efektivna_cena": 600,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194759593": {
     "id": "bazos_194759593",
@@ -711,7 +711,7 @@
     "efektivna_cena": 570,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 08",
+    "lokalita": "PSČ: 821 08 (Nivy)",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -726,10 +726,10 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "tichá (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194822616": {
     "id": "bazos_194822616",
@@ -800,5 +800,20 @@
         "odkaz": "https://reality.bazos.sk/inzerat/194694466/2i-apartmanba-petrzalka40-m2betliarska-ulbazenfitko.php"
       }
     ]
+  },
+  "bazos_194845781": {
+    "id": "bazos_194845781",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM ZREKONŠTRUOVANEJ GARZONKY S KLIMATIZÁCIOU V BLÍZKOS",
+    "odkaz": "https://reality.bazos.sk/inzerat/194845781/prenajom-zrekonstruovanej-garzonky-s-klimatizaciou-v-blizkos.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "23.08.2026",
+    "datum_iso": "2026-08-23",
+    "lokalita": "Údernícka (Petržalka)",
+    "lat": 48.123141472818,
+    "lng": 17.091607390556,
+    "farba": "green"
   }
 }
