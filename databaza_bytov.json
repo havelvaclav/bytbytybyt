@@ -195,10 +195,10 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Accenture - Plynárenská (Ružinov)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_194724787": {
     "id": "bazos_194724787",
@@ -210,9 +210,9 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Lužná (Petržalka)",
-    "lat": 48.129188664104,
-    "lng": 17.117912442704,
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_194731587": {
@@ -315,10 +315,10 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Accenture - Plynárenská (Ružinov)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_194741858": {
     "id": "bazos_194741858",
@@ -525,10 +525,10 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Accenture - Plynárenská (Ružinov)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_194822616": {
     "id": "bazos_194822616",
@@ -610,9 +610,9 @@
     "efektivna_cena": 550,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "Lužná (Petržalka)",
-    "lat": 48.129188664104,
-    "lng": 17.117912442704,
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_194854439": {
@@ -670,9 +670,9 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Lužná (Petržalka)",
-    "lat": 48.129188664104,
-    "lng": 17.117912442704,
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_194877579": {
@@ -730,9 +730,9 @@
     "efektivna_cena": 550,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Garsónka (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
     "farba": "green"
   },
   "bazos_194882066": {
@@ -745,9 +745,9 @@
     "efektivna_cena": 500,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "širšom centra Starého Meste",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "Bartoškova (Nové Mesto)",
+    "lat": 48.161145483176,
+    "lng": 17.132134576405,
     "farba": "green"
   },
   "bazos_194881231": {
@@ -760,10 +760,10 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Accenture - Plynárenská (Ružinov)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_194879502": {
     "id": "bazos_194879502",
@@ -805,9 +805,9 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "centre mesta - Medená (Staré Mesto)",
-    "lat": 48.141057874853,
-    "lng": 17.111925924629,
+    "lokalita": "centre mesta - Medená (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
     "farba": "green"
   },
   "bazos_194885434": {
@@ -824,5 +824,20 @@
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
+  },
+  "bazos_194890749": {
+    "id": "bazos_194890749",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Na prenájom garsónka Bratislava - Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194890749/bosen-na-prenajom-garsonka-bratislava-petrzalka.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "24.08.2026",
+    "datum_iso": "2026-08-24",
+    "lokalita": "Lužná (Petržalka)",
+    "lat": 48.129188664104,
+    "lng": 17.117912442704,
+    "farba": "green"
   }
 }
