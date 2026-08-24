@@ -120,10 +120,10 @@
     "efektivna_cena": 620,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194699558": {
     "id": "bazos_194699558",
@@ -135,10 +135,10 @@
     "efektivna_cena": 600,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194711698": {
     "id": "bazos_194711698",
@@ -210,10 +210,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Tematinská (Petržalka)",
+    "lat": 48.109329468859,
+    "lng": 17.112318735221,
+    "farba": "green"
   },
   "bazos_194731587": {
     "id": "bazos_194731587",
@@ -360,7 +360,7 @@
     "efektivna_cena": 700,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Kraskova",
+    "lokalita": "Kraskova (Nové Mesto)",
     "lat": 48.161956365201,
     "lng": 17.120833204908,
     "farba": "green"
@@ -390,10 +390,10 @@
     "efektivna_cena": 650,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194765135": {
     "id": "bazos_194765135",
@@ -610,10 +610,10 @@
     "efektivna_cena": 550,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Tematinská (Petržalka)",
+    "lat": 48.109329468859,
+    "lng": 17.112318735221,
+    "farba": "green"
   },
   "bazos_194854439": {
     "id": "bazos_194854439",
@@ -658,6 +658,36 @@
     "lokalita": "PSČ: 821 09 (Ružinov)",
     "lat": 48.1398151,
     "lng": 17.1441354,
+    "farba": "orange"
+  },
+  "bazos_194878663": {
+    "id": "bazos_194878663",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | ÚTUĽNÝ 1 IZBOVÝ APARTMÁN PRI JAZERE DRAŽDIAK",
+    "odkaz": "https://reality.bazos.sk/inzerat/194878663/prenajom-utulny-1-izbovy-apartman-pri-jazere-drazdiak.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "24.08.2026",
+    "datum_iso": "2026-08-24",
+    "lokalita": "Lužná (Petržalka)",
+    "lat": 48.129188664104,
+    "lng": 17.117912442704,
+    "farba": "green"
+  },
+  "bazos_194877579": {
+    "id": "bazos_194877579",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | 2-i ateliér, TERASA, NOVOSTAVBA, KOLIBA, Pod Vtá",
+    "odkaz": "https://reality.bazos.sk/inzerat/194877579/axis-real-2-i-atelier-terasa-novostavba-koliba-pod-vta.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "24.08.2026",
+    "datum_iso": "2026-08-24",
+    "lokalita": "PSČ: 830 00 (Koliba)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
     "farba": "orange"
   }
 }
