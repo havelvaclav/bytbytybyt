@@ -105,7 +105,7 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -120,10 +120,10 @@
     "efektivna_cena": 620,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194699558": {
     "id": "bazos_194699558",
@@ -135,10 +135,10 @@
     "efektivna_cena": 600,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194711698": {
     "id": "bazos_194711698",
@@ -195,7 +195,7 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -525,7 +525,7 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -570,10 +570,10 @@
     "efektivna_cena": 580,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "Alstrova (Rača)",
-    "lat": 48.209940227594,
-    "lng": 17.145415828789,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_194838498": {
     "id": "bazos_194838498",
@@ -625,10 +625,10 @@
     "efektivna_cena": 680,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "kto",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_194853396": {
     "id": "bazos_194853396",
@@ -685,10 +685,10 @@
     "efektivna_cena": 600,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194884875": {
     "id": "bazos_194884875",
@@ -715,10 +715,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Československých parašutistov (Nové Mesto)",
-    "lat": 48.17372710285,
-    "lng": 17.130521602698,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194882593": {
     "id": "bazos_194882593",
@@ -730,10 +730,10 @@
     "efektivna_cena": 550,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Garsónka (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
+    "farba": "green"
   },
   "bazos_194882066": {
     "id": "bazos_194882066",
@@ -760,7 +760,7 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -775,10 +775,10 @@
     "efektivna_cena": 570,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194802604": {
     "id": "bazos_194802604",
@@ -794,5 +794,35 @@
     "lat": 48.158265421,
     "lng": 17.155931953,
     "farba": "green"
+  },
+  "bazos_194889068": {
+    "id": "bazos_194889068",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom veľmi príjemnej garsónky v centre mesta - Medená ul",
+    "odkaz": "https://reality.bazos.sk/inzerat/194889068/prenajom-velmi-prijemnej-garsonky-v-centre-mesta-medena-ul.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "24.08.2026",
+    "datum_iso": "2026-08-24",
+    "lokalita": "centre mesta - Medená (Staré Mesto)",
+    "lat": 48.141057874853,
+    "lng": 17.111925924629,
+    "farba": "green"
+  },
+  "bazos_194885434": {
+    "id": "bazos_194885434",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom úplne nového 1-izb. bytu | OLIVIA Residence",
+    "odkaz": "https://reality.bazos.sk/inzerat/194885434/prenajom-uplne-noveho-1-izb-bytu-olivia-residence.php",
+    "cena_povodna": "640 €",
+    "spolu_cena": "640 €",
+    "efektivna_cena": 640,
+    "datum_str": "24.08.2026",
+    "datum_iso": "2026-08-24",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   }
 }
