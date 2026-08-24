@@ -105,10 +105,10 @@
     "efektivna_cena": 630,
     "datum_str": "18.08.2026",
     "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 851 01",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Vavilovova (Petržalka)",
+    "lat": 48.126582157762,
+    "lng": 17.113792794476,
+    "farba": "green"
   },
   "bazos_194700973": {
     "id": "bazos_194700973",
@@ -210,10 +210,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Garsónka (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194731587": {
     "id": "bazos_194731587",
@@ -510,10 +510,10 @@
     "efektivna_cena": 570,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 08 (Nivy)",
-    "lat": 48.1582055,
-    "lng": 17.1398196,
-    "farba": "orange"
+    "lokalita": "Bajkalská (Ružinov)",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194805241": {
     "id": "bazos_194805241",
@@ -610,10 +610,10 @@
     "efektivna_cena": 550,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "Garsónka (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194854439": {
     "id": "bazos_194854439",
@@ -670,10 +670,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Garsónka (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194877579": {
     "id": "bazos_194877579",
@@ -835,9 +835,9 @@
     "efektivna_cena": 520,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Lužná (Petržalka)",
-    "lat": 48.129188664104,
-    "lng": 17.117912442704,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   }
 }
