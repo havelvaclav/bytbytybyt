@@ -644,5 +644,20 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "orange"
+  },
+  "bazos_194871652": {
+    "id": "bazos_194871652",
+    "zdroj": "Bazoš",
+    "titulok": "Moderný klimatizovaný byt v komplexe City Park Ružinov na Pl",
+    "odkaz": "https://reality.bazos.sk/inzerat/194871652/moderny-klimatizovany-byt-v-komplexe-city-park-ruzinov-na-pl.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "24.08.2026",
+    "datum_iso": "2026-08-24",
+    "lokalita": "PSČ: 821 09 (Ružinov)",
+    "lat": 48.1398151,
+    "lng": 17.1441354,
+    "farba": "orange"
   }
 }
