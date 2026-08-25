@@ -49,14 +49,14 @@
     "zdroj": "Bazoš",
     "titulok": "Prenájom 2-izbového bytu s balkónom / 54 m2 / Bratislava...",
     "odkaz": "https://reality.bazos.sk/inzerat/194719768/prenajom-2-izboveho-bytu-s-balkonom-54-m2-bratislava.php",
-    "cena_povodna": "670 €",
-    "spolu_cena": "670 €",
-    "efektivna_cena": 670,
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Drieňová",
-    "lat": 48.161801751433,
-    "lng": 17.158916939362,
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
     "farba": "green"
   },
   "bazos_194724787": {
@@ -69,10 +69,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Budatínska (Petržalka)",
-    "lat": 48.109083924342,
-    "lng": 17.098447581979,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194731587": {
     "id": "bazos_194731587",
@@ -174,9 +174,9 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Astrova (Ružinov)",
-    "lat": 48.15554774588,
-    "lng": 17.159077032125,
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
     "farba": "green"
   },
   "bazos_194741858": {
@@ -384,9 +384,9 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "Astrova (Ružinov)",
-    "lat": 48.15554774588,
-    "lng": 17.159077032125,
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
     "farba": "green"
   },
   "bazos_194822616": {
@@ -399,7 +399,7 @@
     "efektivna_cena": 375,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "PSČ: 821 05 (Prievoz)",
+    "lokalita": "PSČ: 821 05",
     "lat": 48.144834,
     "lng": 17.1686815,
     "farba": "orange"
@@ -497,7 +497,7 @@
   "bazos_194871652": {
     "id": "bazos_194871652",
     "zdroj": "Bazoš",
-    "titulok": "Moderný klimatizovaný byt v komplexe City Park Ružinov na Pl",
+    "titulok": "Moderný byt v komplexe City Park Ružinov na Plynárenskej, Ni",
     "odkaz": "https://reality.bazos.sk/inzerat/194871652/moderny-klimatizovany-byt-v-komplexe-city-park-ruzinov-na-pl.php",
     "cena_povodna": "520 €",
     "spolu_cena": "520 €",
@@ -519,10 +519,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Budatínska (Petržalka)",
-    "lat": 48.109083924342,
-    "lng": 17.098447581979,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194877579": {
     "id": "bazos_194877579",
@@ -564,7 +564,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -594,10 +594,10 @@
     "efektivna_cena": 500,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Bartoškova (Nové Mesto)",
-    "lat": 48.161145483176,
-    "lng": 17.132134576405,
-    "farba": "green"
+    "lokalita": "PSČ: 831 04",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
+    "farba": "orange"
   },
   "bazos_194881231": {
     "id": "bazos_194881231",
@@ -609,9 +609,9 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Drieňová",
-    "lat": 48.161801751433,
-    "lng": 17.158916939362,
+    "lokalita": "Mierová (Ružinov)",
+    "lat": 48.1491552,
+    "lng": 17.1608078,
     "farba": "green"
   },
   "bazos_194879502": {
@@ -669,7 +669,7 @@
     "efektivna_cena": 640,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -684,10 +684,10 @@
     "efektivna_cena": 520,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Budatínska (Petržalka)",
-    "lat": 48.109083924342,
-    "lng": 17.098447581979,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194899343": {
     "id": "bazos_194899343",
