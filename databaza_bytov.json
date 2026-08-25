@@ -22,62 +22,11 @@
     "cena_povodna": "360 €",
     "spolu_cena": "360 €",
     "efektivna_cena": 360,
-    "datum_str": "24.08.2026",
-    "datum_iso": "2026-08-24",
+    "datum_str": "25.08.2026",
+    "datum_iso": "2026-08-25",
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
-    "farba": "orange"
-  },
-  "bazos_194696666": {
-    "id": "bazos_194696666",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 1,5 izbový byt, Majerníkova ulica, Bratislava IV Dl",
-    "odkaz": "https://reality.bazos.sk/inzerat/194696666/prenajom-15-izbovy-byt-majernikova-ulica-bratislava-iv-dl.php",
-    "cena_povodna": "465 €",
-    "spolu_cena": "465 €",
-    "efektivna_cena": 465,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "Majerníkova (Karlova Ves)",
-    "lat": 48.152951861821,
-    "lng": 17.046227062137,
-    "farba": "green"
-  },
-  "bazos_194694474": {
-    "id": "bazos_194694474",
-    "zdroj": "Bazoš",
-    "titulok": "2i apartmán,BA – Petržalka,44m2,Betliarska ul.,bazén,fitko",
-    "odkaz": "https://reality.bazos.sk/inzerat/194694474/2i-apartman-v-ba-petrzalke-betliarska-ul-bazen-fitko.php",
-    "cena_povodna": "620 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "Betliarska (Petržalka)",
-    "lat": 48.099475512814,
-    "lng": 17.116678102609,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/194694466/2i-apartmanba-petrzalka40-m2betliarska-ulbazenfitko.php"
-      }
-    ]
-  },
-  "bazos_194699488": {
-    "id": "bazos_194699488",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM: Priestranný 2-izbový byt s balkónom | Pezinok, Uli",
-    "odkaz": "https://reality.bazos.sk/inzerat/194699488/prenajom-priestranny-2-izbovy-byt-s-balkonom-pezinok-uli.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 902 01",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
     "farba": "orange"
   },
   "bazos_194435918": {
@@ -93,96 +42,6 @@
     "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
-    "farba": "orange"
-  },
-  "bazos_194708716": {
-    "id": "bazos_194708716",
-    "zdroj": "Bazoš",
-    "titulok": "AXIS REAL | KLIMATIZOVANÁ 2-garsónka, EKONOMICKÁ UNIVERZITA,",
-    "odkaz": "https://reality.bazos.sk/inzerat/194708716/axis-real-klimatizovana-2-garsonka-ekonomicka-univerzita.php",
-    "cena_povodna": "630 €",
-    "spolu_cena": "630 €",
-    "efektivna_cena": 630,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "Vavilovova (Petržalka)",
-    "lat": 48.126582157762,
-    "lng": 17.113792794476,
-    "farba": "green"
-  },
-  "bazos_194700973": {
-    "id": "bazos_194700973",
-    "zdroj": "Bazoš",
-    "titulok": "Útulná a tichá garsónka v zelenej lokalite – Jelšová - Kramá",
-    "odkaz": "https://reality.bazos.sk/inzerat/194700973/utulna-a-ticha-garsonka-v-zelenej-lokalite-jelsova-krama.php",
-    "cena_povodna": "620 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
-  },
-  "bazos_194699558": {
-    "id": "bazos_194699558",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 2-izbovvý byt s balkónom, 61m2, Bratislava-Rača",
-    "odkaz": "https://reality.bazos.sk/inzerat/194699558/prenajom-2-izbovvy-byt-s-balkonom-61m2-bratislava-raca.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
-  },
-  "bazos_194711698": {
-    "id": "bazos_194711698",
-    "zdroj": "Bazoš",
-    "titulok": "ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním",
-    "odkaz": "https://reality.bazos.sk/inzerat/194711698/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "Račianska",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
-  },
-  "bazos_194710936": {
-    "id": "bazos_194710936",
-    "zdroj": "Bazoš",
-    "titulok": "Realitná kancelária Realadr s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/194710936/realitna-kancelaria-realadr-sro.php",
-    "cena_povodna": "480 €",
-    "spolu_cena": "480 €",
-    "efektivna_cena": 480,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "Garsónka (Vrakuňa)",
-    "lat": 48.145746545,
-    "lng": 17.205805283,
-    "farba": "green"
-  },
-  "bazos_194710761": {
-    "id": "bazos_194710761",
-    "zdroj": "Bazoš",
-    "titulok": "HALO reality - Prenájom, dvojizbový byt Bratislava Ružinov,",
-    "odkaz": "https://reality.bazos.sk/inzerat/194710761/halo-reality-prenajom-dvojizbovy-byt-bratislava-ruzinov.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "18.08.2026",
-    "datum_iso": "2026-08-18",
-    "lokalita": "PSČ: 821 02 (Ružinov)",
-    "lat": 48.1582936,
-    "lng": 17.1633484,
     "farba": "orange"
   },
   "bazos_194719768": {
@@ -588,17 +447,7 @@
     "lokalita": "Betliarska (Petržalka)",
     "lat": 48.099475512814,
     "lng": 17.116678102609,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/194694474/2i-apartman-v-ba-petrzalke-betliarska-ul-bazen-fitko.php"
-      },
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/194694466/2i-apartmanba-petrzalka40-m2betliarska-ulbazenfitko.php"
-      }
-    ]
+    "farba": "green"
   },
   "bazos_194845781": {
     "id": "bazos_194845781",
@@ -839,5 +688,20 @@
     "lat": 48.123911,
     "lng": 17.11186,
     "farba": "orange"
+  },
+  "bazos_194899343": {
+    "id": "bazos_194899343",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 3-izbový byt s balkónmi a 2 parkovacími miestami",
+    "odkaz": "https://reality.bazos.sk/inzerat/194899343/na-prenajom-3-izbovy-byt-s-balkonmi-a-2-parkovacimi-miestami.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "25.08.2026",
+    "datum_iso": "2026-08-25",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   }
 }
