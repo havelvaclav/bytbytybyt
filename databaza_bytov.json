@@ -54,7 +54,7 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -384,7 +384,7 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -399,10 +399,10 @@
     "efektivna_cena": 375,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "PSČ: 821 05",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194827011": {
     "id": "bazos_194827011",
@@ -579,10 +579,10 @@
     "efektivna_cena": 550,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Továrenská (Staré Mesto)",
+    "lat": 48.145367063381,
+    "lng": 17.126505039591,
+    "farba": "green"
   },
   "bazos_194882066": {
     "id": "bazos_194882066",
@@ -609,7 +609,7 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -654,7 +654,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "centre mesta - Medená",
+    "lokalita": "centre mesta - Medená (Staré Mesto)",
     "lat": 48.141057874853,
     "lng": 17.111925924629,
     "farba": "green"
@@ -729,10 +729,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 811 09 (Staré Mesto)",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Továrenská (Staré Mesto)",
+    "lat": 48.145367063381,
+    "lng": 17.126505039591,
+    "farba": "green"
   },
   "bazos_194650821": {
     "id": "bazos_194650821",
@@ -774,9 +774,9 @@
     "efektivna_cena": 400,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 831 06 (Rača)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA (Rača)",
+    "lat": 48.211068929,
+    "lng": 17.15497545,
+    "farba": "green"
   }
 }
