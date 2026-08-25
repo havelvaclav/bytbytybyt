@@ -54,10 +54,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Mierová (Ružinov)",
-    "lat": 48.1491552,
-    "lng": 17.1608078,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194724787": {
     "id": "bazos_194724787",
@@ -174,10 +174,10 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Mierová (Ružinov)",
-    "lat": 48.1491552,
-    "lng": 17.1608078,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194741858": {
     "id": "bazos_194741858",
@@ -384,10 +384,10 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "Mierová (Ružinov)",
-    "lat": 48.1491552,
-    "lng": 17.1608078,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194822616": {
     "id": "bazos_194822616",
@@ -564,10 +564,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Garsónka (Nové Mesto)",
+    "lat": 48.173547961,
+    "lng": 17.134596885,
+    "farba": "green"
   },
   "bazos_194882593": {
     "id": "bazos_194882593",
@@ -609,10 +609,10 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Mierová (Ružinov)",
-    "lat": 48.1491552,
-    "lng": 17.1608078,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194879502": {
     "id": "bazos_194879502",
@@ -624,10 +624,10 @@
     "efektivna_cena": 570,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Garsónka (Nové Mesto)",
+    "lat": 48.173547961,
+    "lng": 17.134596885,
+    "farba": "green"
   },
   "bazos_194802604": {
     "id": "bazos_194802604",
@@ -669,10 +669,10 @@
     "efektivna_cena": 640,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Garsónka (Nové Mesto)",
+    "lat": 48.173547961,
+    "lng": 17.134596885,
+    "farba": "green"
   },
   "bazos_194890749": {
     "id": "bazos_194890749",
@@ -699,10 +699,10 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 06 (Záhorská Bystrica)",
+    "lat": 48.2386821,
+    "lng": 17.0348442,
+    "farba": "orange"
   },
   "bazos_194910040": {
     "id": "bazos_194910040",
@@ -733,5 +733,35 @@
     "lat": 48.15039,
     "lng": 17.09002,
     "farba": "green"
+  },
+  "bazos_194650821": {
+    "id": "bazos_194650821",
+    "zdroj": "Bazoš",
+    "titulok": "1,5 izb byt s parkingom v cene, bez provizie",
+    "odkaz": "https://reality.bazos.sk/inzerat/194650821/15-izb-byt-s-parkingom-v-cene-bez-provizie.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "25.08.2026",
+    "datum_iso": "2026-08-25",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_194921379": {
+    "id": "bazos_194921379",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom útulnej garsónky s terasou na ul. Odbojárov, Nové M",
+    "odkaz": "https://reality.bazos.sk/inzerat/194921379/prenajom-utulnej-garsonky-s-terasou-na-ul-odbojarov-nove-m.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "25.08.2026",
+    "datum_iso": "2026-08-25",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   }
 }
