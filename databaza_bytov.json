@@ -69,10 +69,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Budatínska (Petržalka)",
+    "lat": 48.109083924342,
+    "lng": 17.098447581979,
+    "farba": "green"
   },
   "bazos_194731587": {
     "id": "bazos_194731587",
@@ -174,9 +174,9 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Drieňová (Ružinov)",
-    "lat": 48.161801751433,
-    "lng": 17.158916939362,
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
     "farba": "green"
   },
   "bazos_194741858": {
@@ -369,10 +369,10 @@
     "efektivna_cena": 570,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "Bajkalská (Ružinov)",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
-    "farba": "green"
+    "lokalita": "PSČ: 821 08 (Nivy)",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
   },
   "bazos_194805241": {
     "id": "bazos_194805241",
@@ -384,9 +384,9 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "Drieňová (Nivy)",
-    "lat": 48.161801751433,
-    "lng": 17.158916939362,
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
     "farba": "green"
   },
   "bazos_194822616": {
@@ -459,10 +459,10 @@
     "efektivna_cena": 550,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Budatínska (Petržalka)",
+    "lat": 48.109083924342,
+    "lng": 17.098447581979,
+    "farba": "green"
   },
   "bazos_194854439": {
     "id": "bazos_194854439",
@@ -474,7 +474,7 @@
     "efektivna_cena": 680,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -519,10 +519,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Budatínska (Petržalka)",
+    "lat": 48.109083924342,
+    "lng": 17.098447581979,
+    "farba": "green"
   },
   "bazos_194877579": {
     "id": "bazos_194877579",
@@ -579,9 +579,9 @@
     "efektivna_cena": 550,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "Chorvátska (Staré Mesto)",
+    "lat": 48.151513445465,
+    "lng": 17.124560980018,
     "farba": "green"
   },
   "bazos_194882066": {
@@ -654,9 +654,9 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "centre mesta - Medená (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "centre mesta - Medená (Staré Mesto)",
+    "lat": 48.141057874853,
+    "lng": 17.111925924629,
     "farba": "green"
   },
   "bazos_194885434": {
@@ -684,10 +684,10 @@
     "efektivna_cena": 520,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Budatínska (Petržalka)",
+    "lat": 48.109083924342,
+    "lng": 17.098447581979,
+    "farba": "green"
   },
   "bazos_194899343": {
     "id": "bazos_194899343",
@@ -702,6 +702,36 @@
     "lokalita": "prostredí pri Malom Dunaji",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "green"
+  },
+  "bazos_194910040": {
+    "id": "bazos_194910040",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Klimatizovaný 2 izbový byt s garážovým parkovacím mi",
+    "odkaz": "https://reality.bazos.sk/inzerat/194910040/bosen-klimatizovany-2-izbovy-byt-s-garazovym-parkovacim-mi.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "25.08.2026",
+    "datum_iso": "2026-08-25",
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
+  },
+  "bazos_194906245": {
+    "id": "bazos_194906245",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový byt na prenájom, Chorvátska 1, Staré Mesto, Bratisl",
+    "odkaz": "https://reality.bazos.sk/inzerat/194906245/1-izbovy-byt-na-prenajom-chorvatska-1-stare-mesto-bratisl.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "25.08.2026",
+    "datum_iso": "2026-08-25",
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green"
   }
 }
