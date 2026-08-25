@@ -54,9 +54,9 @@
     "efektivna_cena": 670,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Accenture - Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
+    "lokalita": "Drieňová",
+    "lat": 48.161801751433,
+    "lng": 17.158916939362,
     "farba": "green"
   },
   "bazos_194724787": {
@@ -174,9 +174,9 @@
     "efektivna_cena": 570,
     "datum_str": "19.08.2026",
     "datum_iso": "2026-08-19",
-    "lokalita": "Accenture - Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
+    "lokalita": "Drieňová (Ružinov)",
+    "lat": 48.161801751433,
+    "lng": 17.158916939362,
     "farba": "green"
   },
   "bazos_194741858": {
@@ -384,9 +384,9 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "Accenture - Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
+    "lokalita": "Drieňová (Nivy)",
+    "lat": 48.161801751433,
+    "lng": 17.158916939362,
     "farba": "green"
   },
   "bazos_194822616": {
@@ -609,9 +609,9 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Accenture - Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
+    "lokalita": "Drieňová",
+    "lat": 48.161801751433,
+    "lng": 17.158916939362,
     "farba": "green"
   },
   "bazos_194879502": {
