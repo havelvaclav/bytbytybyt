@@ -564,10 +564,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Garsónka (Nové Mesto)",
-    "lat": 48.173547961,
-    "lng": 17.134596885,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194882593": {
     "id": "bazos_194882593",
@@ -579,10 +579,10 @@
     "efektivna_cena": 550,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Chorvátska (Staré Mesto)",
-    "lat": 48.151513445465,
-    "lng": 17.124560980018,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_194882066": {
     "id": "bazos_194882066",
@@ -624,10 +624,10 @@
     "efektivna_cena": 570,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Garsónka (Nové Mesto)",
-    "lat": 48.173547961,
-    "lng": 17.134596885,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194802604": {
     "id": "bazos_194802604",
@@ -654,7 +654,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "centre mesta - Medená (Staré Mesto)",
+    "lokalita": "centre mesta - Medená",
     "lat": 48.141057874853,
     "lng": 17.111925924629,
     "farba": "green"
@@ -669,10 +669,10 @@
     "efektivna_cena": 640,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Garsónka (Nové Mesto)",
-    "lat": 48.173547961,
-    "lng": 17.134596885,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194890749": {
     "id": "bazos_194890749",
@@ -729,10 +729,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09 (Staré Mesto)",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_194650821": {
     "id": "bazos_194650821",
@@ -759,9 +759,24 @@
     "efektivna_cena": 590,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_194923275": {
+    "id": "bazos_194923275",
+    "zdroj": "Bazoš",
+    "titulok": "BABONY TRE - PRENÁJOM GARSÓNKY – RAČA",
+    "odkaz": "https://reality.bazos.sk/inzerat/194923275/babony-tre-prenajom-garsonky-raca.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "25.08.2026",
+    "datum_iso": "2026-08-25",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
     "farba": "orange"
   }
 }
