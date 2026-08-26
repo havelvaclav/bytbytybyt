@@ -429,10 +429,10 @@
     "efektivna_cena": 550,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Továrenská (Staré Mesto)",
-    "lat": 48.145367063381,
-    "lng": 17.126505039591,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_194882066": {
     "id": "bazos_194882066",
@@ -504,7 +504,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "centre mesta - Medená (Staré Mesto)",
+    "lokalita": "centre mesta - Medená",
     "lat": 48.141057874853,
     "lng": 17.111925924629,
     "farba": "green"
@@ -579,10 +579,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "Továrenská (Staré Mesto)",
-    "lat": 48.145367063381,
-    "lng": 17.126505039591,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09 (Staré Mesto)",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_194650821": {
     "id": "bazos_194650821",
@@ -642,6 +642,36 @@
     "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
+    "farba": "orange"
+  },
+  "bazos_194938013": {
+    "id": "bazos_194938013",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/194938013/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "26.08.2026",
+    "datum_iso": "2026-08-26",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_194938420": {
+    "id": "bazos_194938420",
+    "zdroj": "Bazoš",
+    "titulok": "EXKLUZÍVNE Byty na prenájom Nové Mesto nad Váhom",
+    "odkaz": "https://reality.bazos.sk/inzerat/194938420/exkluzivne-byty-na-prenajom-nove-mesto-nad-vahom.php",
+    "cena_povodna": "434 €",
+    "spolu_cena": "434 €",
+    "efektivna_cena": 434,
+    "datum_str": "26.08.2026",
+    "datum_iso": "2026-08-26",
+    "lokalita": "PSČ: 915 01 (Nové Mesto)",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "orange"
   }
 }
