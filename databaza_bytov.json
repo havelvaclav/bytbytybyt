@@ -69,7 +69,7 @@
     "efektivna_cena": 700,
     "datum_str": "20.08.2026",
     "datum_iso": "2026-08-20",
-    "lokalita": "Kraskova (Nové Mesto)",
+    "lokalita": "Kraskova",
     "lat": 48.161956365201,
     "lng": 17.120833204908,
     "farba": "green"
@@ -234,10 +234,10 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 01 (Nivy)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "BA II Ružinov Nivy (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194822616": {
     "id": "bazos_194822616",
@@ -249,10 +249,10 @@
     "efektivna_cena": 375,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 05",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
   },
   "bazos_194827011": {
     "id": "bazos_194827011",
@@ -459,10 +459,10 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "BA II Ružinov Nivy (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194879502": {
     "id": "bazos_194879502",
@@ -594,10 +594,10 @@
     "efektivna_cena": 650,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Tomášikova",
+    "lat": 48.163704885586,
+    "lng": 17.15367903129,
+    "farba": "green"
   },
   "bazos_194921379": {
     "id": "bazos_194921379",
@@ -624,10 +624,10 @@
     "efektivna_cena": 400,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA (Rača)",
-    "lat": 48.211068929,
-    "lng": 17.15497545,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_194933874": {
     "id": "bazos_194933874",
@@ -654,10 +654,10 @@
     "efektivna_cena": 570,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "BA II Ružinov Nivy (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194938420": {
     "id": "bazos_194938420",
@@ -672,6 +672,21 @@
     "lokalita": "PSČ: 915 01 (Nové Mesto)",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_194944820": {
+    "id": "bazos_194944820",
+    "zdroj": "Bazoš",
+    "titulok": "Gars. - Nám. sv. Františka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194944820/gars-nam-sv-frantiska.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "26.08.2026",
+    "datum_iso": "2026-08-26",
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
     "farba": "orange"
   }
 }
