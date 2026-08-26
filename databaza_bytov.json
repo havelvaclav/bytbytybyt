@@ -459,7 +459,7 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -628,5 +628,20 @@
     "lat": 48.211068929,
     "lng": 17.15497545,
     "farba": "green"
+  },
+  "bazos_194933874": {
+    "id": "bazos_194933874",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom: Zariadená garsónka, Bratislava centrum - Michalská",
+    "odkaz": "https://reality.bazos.sk/inzerat/194933874/prenajom-zariadena-garsonka-bratislava-centrum-michalska.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "26.08.2026",
+    "datum_iso": "2026-08-26",
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   }
 }
