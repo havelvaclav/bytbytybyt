@@ -399,10 +399,10 @@
     "efektivna_cena": 280,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Vranovska (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_194883082": {
     "id": "bazos_194883082",
