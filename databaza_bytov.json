@@ -234,9 +234,9 @@
     "efektivna_cena": 610,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "BA II Ružinov Nivy (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "Krížnej (Nivy)",
+    "lat": 48.154016975246,
+    "lng": 17.122725052814,
     "farba": "green"
   },
   "bazos_194822616": {
@@ -369,10 +369,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_194877579": {
     "id": "bazos_194877579",
@@ -459,9 +459,9 @@
     "efektivna_cena": 670,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "BA II Ružinov Nivy (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "Krížnej",
+    "lat": 48.154016975246,
+    "lng": 17.122725052814,
     "farba": "green"
   },
   "bazos_194879502": {
@@ -534,10 +534,10 @@
     "efektivna_cena": 520,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_194899343": {
     "id": "bazos_194899343",
@@ -549,10 +549,10 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 841 06 (Záhorská Bystrica)",
-    "lat": 48.2386821,
-    "lng": 17.0348442,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194910040": {
     "id": "bazos_194910040",
@@ -564,10 +564,10 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_194906245": {
     "id": "bazos_194906245",
@@ -624,7 +624,7 @@
     "efektivna_cena": 400,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -639,10 +639,10 @@
     "efektivna_cena": 580,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 811 01",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Krížnej",
+    "lat": 48.154016975246,
+    "lng": 17.122725052814,
+    "farba": "green"
   },
   "bazos_194938013": {
     "id": "bazos_194938013",
@@ -654,7 +654,7 @@
     "efektivna_cena": 570,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "BA II Ružinov Nivy (Ružinov)",
+    "lokalita": "Krížnej (Ružinov)",
     "lat": 48.15715266,
     "lng": 17.149965411,
     "farba": "green"
