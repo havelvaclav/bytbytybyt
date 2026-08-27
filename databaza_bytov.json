@@ -9,10 +9,10 @@
     "efektivna_cena": 360,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Ďorocká",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194435918": {
     "id": "bazos_194435918",
@@ -234,10 +234,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194877579": {
     "id": "bazos_194877579",
@@ -294,7 +294,7 @@
     "efektivna_cena": 550,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 811 09",
+    "lokalita": "PSČ: 811 09 (Staré Mesto)",
     "lat": 48.1433615,
     "lng": 17.1221656,
     "farba": "orange"
@@ -339,9 +339,9 @@
     "efektivna_cena": 570,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194802604": {
@@ -354,10 +354,10 @@
     "efektivna_cena": 550,
     "datum_str": "21.08.2026",
     "datum_iso": "2026-08-21",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
-    "farba": "green"
+    "lokalita": "PSČ: 841 05 (Karlova Ves)",
+    "lat": 48.1550801,
+    "lng": 17.0463776,
+    "farba": "orange"
   },
   "bazos_194889068": {
     "id": "bazos_194889068",
@@ -369,7 +369,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "centre mesta - Medená",
+    "lokalita": "centre mesta - Medená (Staré Mesto)",
     "lat": 48.141057874853,
     "lng": 17.111925924629,
     "farba": "green"
@@ -384,9 +384,9 @@
     "efektivna_cena": 640,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194890749": {
@@ -399,10 +399,10 @@
     "efektivna_cena": 520,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194899343": {
     "id": "bazos_194899343",
@@ -414,10 +414,10 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 06 (Záhorská Bystrica)",
+    "lat": 48.2386821,
+    "lng": 17.0348442,
+    "farba": "orange"
   },
   "bazos_194910040": {
     "id": "bazos_194910040",
@@ -429,10 +429,10 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194906245": {
     "id": "bazos_194906245",
@@ -474,9 +474,9 @@
     "efektivna_cena": 590,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "Matúškova (Nové Mesto)",
-    "lat": 48.15966062611,
-    "lng": 17.110172009827,
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
     "farba": "green"
   },
   "bazos_194923275": {
@@ -519,10 +519,10 @@
     "efektivna_cena": 570,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "Accenture - Plynárenská (Ružinov)",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194938420": {
     "id": "bazos_194938420",
@@ -549,9 +549,129 @@
     "efektivna_cena": 650,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 841 04",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
+    "lokalita": "časti Karlovej Vsi - Púpavová",
+    "lat": 48.165348687527,
+    "lng": 17.049450390173,
+    "farba": "green"
+  },
+  "bazos_194740998": {
+    "id": "bazos_194740998",
+    "zdroj": "Bazoš",
+    "titulok": "ÚPLNE NOVÉ ŠTÚDIO 23 m² S PARKOVANÍM | BRATISLAVA – VRAKUŇA",
+    "odkaz": "https://reality.bazos.sk/inzerat/194740998/uplne-nove-studio-23-m-s-parkovanim-bratislava-vrakuna.php",
+    "cena_povodna": "599 €",
+    "spolu_cena": "599 €",
+    "efektivna_cena": 599,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
     "farba": "orange"
+  },
+  "bazos_194973879": {
+    "id": "bazos_194973879",
+    "zdroj": "Bazoš",
+    "titulok": "Stavbárska ulica 2-garsónka na prenájom,Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194973879/stavbarska-ulica-2-garsonka-na-prenajombratislava.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "Stavbárska",
+    "lat": 48.140322413132,
+    "lng": 17.205558193748,
+    "farba": "green"
+  },
+  "bazos_194981964": {
+    "id": "bazos_194981964",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Na prenájom garsónka Bratislava - Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194981964/bosen-na-prenajom-garsonka-bratislava-petrzalka.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "Lachova (Petržalka)",
+    "lat": 48.12454985994,
+    "lng": 17.11799029509,
+    "farba": "green"
+  },
+  "bazos_194980177": {
+    "id": "bazos_194980177",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom 1-izbový byt , kompletne zariadený zrek",
+    "odkaz": "https://reality.bazos.sk/inzerat/194980177/ponukame-na-prenajom-1-izbovy-byt-kompletne-zariadeny-zrek.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "PSČ: 821 08 (Nivy)",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
+  },
+  "bazos_194979907": {
+    "id": "bazos_194979907",
+    "zdroj": "Bazoš",
+    "titulok": "LOYALTERS | Svetlý 1 izbový byt s loggiou, nájom - Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/194979907/loyalters-svetly-1-izbovy-byt-s-loggiou-najom-petrzalka.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
+  },
+  "bazos_194975485": {
+    "id": "bazos_194975485",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2 izbového bytu v BA III (Rendéz/ul.Pri Šajbách)",
+    "odkaz": "https://reality.bazos.sk/inzerat/194975485/prenajom-2-izboveho-bytu-v-ba-iii-rendezulpri-sajbach.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "Pri Šajbách",
+    "lat": 48.20570180809,
+    "lng": 17.158390919113,
+    "farba": "green"
+  },
+  "bazos_194975296": {
+    "id": "bazos_194975296",
+    "zdroj": "Bazoš",
+    "titulok": "GRAVITAS | Na prenájom 2-izbový byt, Dúbravka - Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/194975296/gravitas-na-prenajom-2-izbovy-byt-dubravka-bratislava.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
+  },
+  "bazos_194971727": {
+    "id": "bazos_194971727",
+    "zdroj": "Bazoš",
+    "titulok": "ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním",
+    "odkaz": "https://reality.bazos.sk/inzerat/194971727/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "Matúškova (Nové Mesto)",
+    "lat": 48.15966062611,
+    "lng": 17.110172009827,
+    "farba": "green"
   }
 }
