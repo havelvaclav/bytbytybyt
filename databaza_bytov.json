@@ -7,12 +7,12 @@
     "cena_povodna": "360 €",
     "spolu_cena": "360 €",
     "efektivna_cena": 360,
-    "datum_str": "27.08.2026",
-    "datum_iso": "2026-08-27",
-    "lokalita": "Ďorocká",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "datum_str": "28.08.2026",
+    "datum_iso": "2026-08-28",
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_194435918": {
     "id": "bazos_194435918",
@@ -29,81 +29,6 @@
     "lng": 17.2073352,
     "farba": "orange"
   },
-  "bazos_194790686": {
-    "id": "bazos_194790686",
-    "zdroj": "Bazoš",
-    "titulok": "Moderný klimatizovaný byt v komplexe City Park Ružinov na Pl",
-    "odkaz": "https://reality.bazos.sk/inzerat/194790686/moderny-klimatizovany-byt-v-komplexe-city-park-ruzinov-na-pl.php",
-    "cena_povodna": "520 €",
-    "spolu_cena": "520 €",
-    "efektivna_cena": 520,
-    "datum_str": "21.08.2026",
-    "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 09 (Ružinov)",
-    "lat": 48.1398151,
-    "lng": 17.1441354,
-    "farba": "orange"
-  },
-  "bazos_194799723": {
-    "id": "bazos_194799723",
-    "zdroj": "Bazoš",
-    "titulok": "Garsónka na  ulici Ľ.  Fullu",
-    "odkaz": "https://reality.bazos.sk/inzerat/194799723/garsonka-na-ulici-l-fullu.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "21.08.2026",
-    "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 841 04",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
-  },
-  "bazos_194798676": {
-    "id": "bazos_194798676",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom bytu bez depozitu Bratislava staré mesto",
-    "odkaz": "https://reality.bazos.sk/inzerat/194798676/prenajom-bytu-bez-depozitu-bratislava-stare-mesto.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "21.08.2026",
-    "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 811 06 (Staré Mesto)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
-  },
-  "bazos_194806434": {
-    "id": "bazos_194806434",
-    "zdroj": "Bazoš",
-    "titulok": "Ponúkame na prenájom 1-izbový byt , kompletne zariadený zrek",
-    "odkaz": "https://reality.bazos.sk/inzerat/194806434/ponukame-na-prenajom-1-izbovy-byt-kompletne-zariadeny-zrek.php",
-    "cena_povodna": "570 €",
-    "spolu_cena": "570 €",
-    "efektivna_cena": 570,
-    "datum_str": "21.08.2026",
-    "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 08 (Nivy)",
-    "lat": 48.1582055,
-    "lng": 17.1398196,
-    "farba": "orange"
-  },
-  "bazos_194805241": {
-    "id": "bazos_194805241",
-    "zdroj": "Bazoš",
-    "titulok": "CITY PARK I NIVY I Zariadený 1-izbový byt",
-    "odkaz": "https://reality.bazos.sk/inzerat/194805241/city-park-i-nivy-i-zariadeny-1-izbovy-byt.php",
-    "cena_povodna": "610 €",
-    "spolu_cena": "610 €",
-    "efektivna_cena": 610,
-    "datum_str": "21.08.2026",
-    "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 821 01 (Nivy)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
-  },
   "bazos_194822616": {
     "id": "bazos_194822616",
     "zdroj": "Bazoš",
@@ -114,10 +39,10 @@
     "efektivna_cena": 375,
     "datum_str": "22.08.2026",
     "datum_iso": "2026-08-22",
-    "lokalita": "PSČ: 821 05",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "širšom centra Starého Meste",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194827011": {
     "id": "bazos_194827011",
@@ -294,10 +219,10 @@
     "efektivna_cena": 550,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 811 09 (Staré Mesto)",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Martinengova (Staré Mesto)",
+    "lat": 48.159598390907,
+    "lng": 17.078031189453,
+    "farba": "green"
   },
   "bazos_194882066": {
     "id": "bazos_194882066",
@@ -343,21 +268,6 @@
     "lat": 48.184114462402,
     "lng": 17.145890069513,
     "farba": "green"
-  },
-  "bazos_194802604": {
-    "id": "bazos_194802604",
-    "zdroj": "Bazoš",
-    "titulok": "Garsónka na  ulici Ľ.  Fullu",
-    "odkaz": "https://reality.bazos.sk/inzerat/194802604/garsonka-na-ulici-l-fullu.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "21.08.2026",
-    "datum_iso": "2026-08-21",
-    "lokalita": "PSČ: 841 05 (Karlova Ves)",
-    "lat": 48.1550801,
-    "lng": 17.0463776,
-    "farba": "orange"
   },
   "bazos_194889068": {
     "id": "bazos_194889068",
@@ -414,10 +324,10 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 841 06 (Záhorská Bystrica)",
-    "lat": 48.2386821,
-    "lng": 17.0348442,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194910040": {
     "id": "bazos_194910040",
@@ -444,10 +354,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 811 09 (Staré Mesto)",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Martinengova (Staré Mesto)",
+    "lat": 48.159598390907,
+    "lng": 17.078031189453,
+    "farba": "green"
   },
   "bazos_194650821": {
     "id": "bazos_194650821",
@@ -457,8 +367,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "27.08.2026",
-    "datum_iso": "2026-08-27",
+    "datum_str": "28.08.2026",
+    "datum_iso": "2026-08-28",
     "lokalita": "Tomášikova",
     "lat": 48.163704885586,
     "lng": 17.15367903129,
@@ -504,10 +414,10 @@
     "efektivna_cena": 580,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "Krížnej",
-    "lat": 48.154016975246,
-    "lng": 17.122725052814,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_194938013": {
     "id": "bazos_194938013",
@@ -517,8 +427,8 @@
     "cena_povodna": "570 €",
     "spolu_cena": "570 €",
     "efektivna_cena": 570,
-    "datum_str": "27.08.2026",
-    "datum_iso": "2026-08-27",
+    "datum_str": "28.08.2026",
+    "datum_iso": "2026-08-28",
     "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
@@ -549,10 +459,10 @@
     "efektivna_cena": 650,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "časti Karlovej Vsi - Púpavová",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_194740998": {
     "id": "bazos_194740998",
@@ -562,8 +472,8 @@
     "cena_povodna": "599 €",
     "spolu_cena": "599 €",
     "efektivna_cena": 599,
-    "datum_str": "27.08.2026",
-    "datum_iso": "2026-08-27",
+    "datum_str": "28.08.2026",
+    "datum_iso": "2026-08-28",
     "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
@@ -577,8 +487,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "27.08.2026",
-    "datum_iso": "2026-08-27",
+    "datum_str": "28.08.2026",
+    "datum_iso": "2026-08-28",
     "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
@@ -672,6 +582,21 @@
     "lokalita": "Matúškova (Nové Mesto)",
     "lat": 48.15966062611,
     "lng": 17.110172009827,
+    "farba": "green"
+  },
+  "bazos_194984512": {
+    "id": "bazos_194984512",
+    "zdroj": "Bazoš",
+    "titulok": "IHNEĎ VOĽNÝ - 1-izbový byt na prenájom, Karloveská 8, Bratis",
+    "odkaz": "https://reality.bazos.sk/inzerat/194984512/ihned-volny-1-izbovy-byt-na-prenajom-karloveska-8-bratis.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "27.08.2026",
+    "datum_iso": "2026-08-27",
+    "lokalita": "časti Karlovej Vsi - Púpavová",
+    "lat": 48.165348687527,
+    "lng": 17.049450390173,
     "farba": "green"
   }
 }
