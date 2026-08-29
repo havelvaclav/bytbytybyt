@@ -39,9 +39,9 @@
     "efektivna_cena": 620,
     "datum_str": "23.08.2026",
     "datum_iso": "2026-08-23",
-    "lokalita": "Betliarska (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "Betliarska (Petržalka)",
+    "lat": 48.099475512814,
+    "lng": 17.116678102609,
     "farba": "green"
   },
   "bazos_194845781": {
@@ -369,7 +369,7 @@
     "efektivna_cena": 580,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 811 01",
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -384,10 +384,10 @@
     "efektivna_cena": 570,
     "datum_str": "29.08.2026",
     "datum_iso": "2026-08-29",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Rezedova (Ružinov)",
+    "lat": 48.150937350118,
+    "lng": 17.163303712157,
+    "farba": "green"
   },
   "bazos_194938420": {
     "id": "bazos_194938420",
@@ -474,10 +474,10 @@
     "efektivna_cena": 570,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "PSČ: 821 08 (Ružinov)",
-    "lat": 48.1582055,
-    "lng": 17.1398196,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194979907": {
     "id": "bazos_194979907",
@@ -579,10 +579,10 @@
     "efektivna_cena": 590,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Rezedova (Ružinov)",
+    "lat": 48.150937350118,
+    "lng": 17.163303712157,
+    "farba": "green"
   },
   "bazos_195000383": {
     "id": "bazos_195000383",
