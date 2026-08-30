@@ -9,10 +9,10 @@
     "efektivna_cena": 360,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "Garsónka",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_194435918": {
     "id": "bazos_194435918",
@@ -159,10 +159,10 @@
     "efektivna_cena": 570,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194889068": {
     "id": "bazos_194889068",
@@ -189,10 +189,10 @@
     "efektivna_cena": 640,
     "datum_str": "24.08.2026",
     "datum_iso": "2026-08-24",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194890749": {
     "id": "bazos_194890749",
@@ -279,10 +279,10 @@
     "efektivna_cena": 590,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194923275": {
     "id": "bazos_194923275",
@@ -309,7 +309,7 @@
     "efektivna_cena": 580,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 811 01",
+    "lokalita": "PSČ: 811 01 (Ružinov)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -384,7 +384,7 @@
     "efektivna_cena": 650,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "Stavbárska",
+    "lokalita": "Stavbárska (Ružinov)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -474,10 +474,10 @@
     "efektivna_cena": 650,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194984512": {
     "id": "bazos_194984512",
@@ -534,10 +534,10 @@
     "efektivna_cena": 650,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_194912693": {
     "id": "bazos_194912693",
@@ -583,5 +583,20 @@
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
+  },
+  "bazos_194169000": {
+    "id": "bazos_194169000",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby v ubytovacom zariadení pri Jazere",
+    "odkaz": "https://reality.bazos.sk/inzerat/194169000/prenajom-izby-v-ubytovacom-zariadeni-pri-jazere.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "30.08.2026",
+    "datum_iso": "2026-08-30",
+    "lokalita": "Šustekova",
+    "lat": 48.128974204293,
+    "lng": 17.124670906598,
+    "farba": "green"
   }
 }
