@@ -9,10 +9,10 @@
     "efektivna_cena": 360,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Garsónka",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_194435918": {
     "id": "bazos_194435918",
@@ -264,7 +264,7 @@
     "efektivna_cena": 650,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -309,7 +309,7 @@
     "efektivna_cena": 580,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -324,9 +324,9 @@
     "efektivna_cena": 570,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "Rezedova (Ružinov)",
-    "lat": 48.150937350118,
-    "lng": 17.163303712157,
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_194938420": {
@@ -519,9 +519,9 @@
     "efektivna_cena": 590,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "Rezedova (Ružinov)",
-    "lat": 48.150937350118,
-    "lng": 17.163303712157,
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_195000383": {
@@ -567,6 +567,21 @@
     "lokalita": "PSČ: 841 02",
     "lat": 48.1949026,
     "lng": 17.0334999,
+    "farba": "orange"
+  },
+  "bazos_195058969": {
+    "id": "bazos_195058969",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM VEĽMI PEKNEJ ZARIADENEJ GARZONKY V TICHOM PROSTREDÍ",
+    "odkaz": "https://reality.bazos.sk/inzerat/195058969/prenajom-velmi-peknej-zariadenej-garzonky-v-tichom-prostredi.php",
+    "cena_povodna": "530 €",
+    "spolu_cena": "530 €",
+    "efektivna_cena": 530,
+    "datum_str": "30.08.2026",
+    "datum_iso": "2026-08-30",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }

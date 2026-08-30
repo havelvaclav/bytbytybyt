@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_92d3dd54579cbebab665085f9e3bbad1 {
+                #map_cae6af62625843ae7e2fbb04c6cbf60a {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -174,11 +174,11 @@ window.addEventListener('load', function() {
 
         <div class="dashboard-stats">
             <div class="stat-box">
-                <span class="stat-value">38</span>
+                <span class="stat-value">39</span>
                 <span class="stat-label">Bytov</span>
             </div>
             <div class="stat-box">
-                <span class="stat-value">05:24</span>
+                <span class="stat-value">13:12</span>
                 <span class="stat-label">Aktualizované</span>
             </div>
         </div>
@@ -286,14 +286,14 @@ window.addEventListener('load', function() {
 }
 </style>
     
-            <div class="folium-map" id="map_92d3dd54579cbebab665085f9e3bbad1" ></div>
+            <div class="folium-map" id="map_cae6af62625843ae7e2fbb04c6cbf60a" ></div>
         
 </body>
 <script>
     
     
-            var map_92d3dd54579cbebab665085f9e3bbad1 = L.map(
-                "map_92d3dd54579cbebab665085f9e3bbad1",
+            var map_cae6af62625843ae7e2fbb04c6cbf60a = L.map(
+                "map_cae6af62625843ae7e2fbb04c6cbf60a",
                 {
                     center: [48.1486, 17.1077],
                     crs: L.CRS.EPSG3857,
@@ -310,7 +310,7 @@ window.addEventListener('load', function() {
 
         
     
-            var tile_layer_a52bc05146ffe895ddbadecc9e4d885e = L.tileLayer(
+            var tile_layer_1c0eda95daa7e4b4dc0a78ac137d8f34 = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
   "minZoom": 0,
@@ -327,29 +327,29 @@ window.addEventListener('load', function() {
             );
         
     
-            tile_layer_a52bc05146ffe895ddbadecc9e4d885e.addTo(map_92d3dd54579cbebab665085f9e3bbad1);
+            tile_layer_1c0eda95daa7e4b4dc0a78ac137d8f34.addTo(map_cae6af62625843ae7e2fbb04c6cbf60a);
         
     
-            var marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6 = L.markerClusterGroup(
+            var marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93 = L.markerClusterGroup(
                 {
   "spiderfyOnMaxZoom": true,
 }
             );
         
     
-            var marker_de10a8f49bb821c59d467b0c3fb61e09 = L.marker(
-                [48.152388204809, 17.076725032113],
+            var marker_b463ae198e6713d69adb140d1ec709b3 = L.marker(
+                [48.154419507, 17.119406427],
                 {
   "options": {
   "inzeratId": "bazos_194697031",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_5a44d5fb0cb63708e2f3a50ee210dc76 = L.AwesomeMarkers.icon(
+            var icon_b8cab0cf70d846187b45d9892744e7f4 = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "orange",
+  "markerColor": "green",
   "iconColor": "white",
   "icon": "home",
   "prefix": "glyphicon",
@@ -358,37 +358,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_0d98f6e865eeddcd2a7e22c03df32350 = L.popup({
+        var popup_c400e89c0e04434abf458d8a4b428b1d = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_80762ff7de99e0cf08be7594c3a20132 = $(`<div id="html_80762ff7de99e0cf08be7594c3a20132" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             ‼️Pekná plne zariadená garsonka na prenájom v NZ‼️         </h4>         <b>Pôvodná cena:</b> 360 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>360 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 940 02<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194697031/pekna-plne-zariadena-garsonka-na-prenajom-v-nz.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194697031" onclick="toggleSkryt('bazos_194697031')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_0d98f6e865eeddcd2a7e22c03df32350.setContent(html_80762ff7de99e0cf08be7594c3a20132);
+                var html_a3d2d9285fe41226d980b5168570f770 = $(`<div id="html_a3d2d9285fe41226d980b5168570f770" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             ‼️Pekná plne zariadená garsonka na prenájom v NZ‼️         </h4>         <b>Pôvodná cena:</b> 360 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>360 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> Garsónka<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194697031/pekna-plne-zariadena-garsonka-na-prenajom-v-nz.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194697031" onclick="toggleSkryt('bazos_194697031')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_c400e89c0e04434abf458d8a4b428b1d.setContent(html_a3d2d9285fe41226d980b5168570f770);
             
         
 
-        marker_de10a8f49bb821c59d467b0c3fb61e09.bindPopup(popup_0d98f6e865eeddcd2a7e22c03df32350)
+        marker_b463ae198e6713d69adb140d1ec709b3.bindPopup(popup_c400e89c0e04434abf458d8a4b428b1d)
         ;
 
         
     
     
-                marker_de10a8f49bb821c59d467b0c3fb61e09.setIcon(icon_5a44d5fb0cb63708e2f3a50ee210dc76);
+                marker_b463ae198e6713d69adb140d1ec709b3.setIcon(icon_b8cab0cf70d846187b45d9892744e7f4);
             
     
-            var marker_e2022a1b66f94090140910755b34053a = L.marker(
+            var marker_7b64f88ba0eeeb9aab98e70dc92bc5b7 = L.marker(
                 [48.1453315, 17.2073352],
                 {
   "options": {
   "inzeratId": "bazos_194435918",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_facb0ea86d3881642dfe080eb0c7221d = L.AwesomeMarkers.icon(
+            var icon_d85924a8ccce9d2c2cda1ecf7e7e6539 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -399,37 +399,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_810eb9dbc6f62cc6524a2edc55d4fa68 = L.popup({
+        var popup_8e3c775c402f0bbe34251b3484740919 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_8090a6e0442941f6df0bc4db0e98350d = $(`<div id="html_8090a6e0442941f6df0bc4db0e98350d" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájmem 2i byt v BA - centrum - rezervované do 25.08.2026         </h4>         <b>Pôvodná cena:</b> 440 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>440 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 07<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194435918/2i-byt-v-ba-centrum.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194435918" onclick="toggleSkryt('bazos_194435918')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_810eb9dbc6f62cc6524a2edc55d4fa68.setContent(html_8090a6e0442941f6df0bc4db0e98350d);
+                var html_ab937e9415a6d32c106dd6549d724695 = $(`<div id="html_ab937e9415a6d32c106dd6549d724695" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájmem 2i byt v BA - centrum - rezervované do 25.08.2026         </h4>         <b>Pôvodná cena:</b> 440 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>440 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 07<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194435918/2i-byt-v-ba-centrum.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194435918" onclick="toggleSkryt('bazos_194435918')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_8e3c775c402f0bbe34251b3484740919.setContent(html_ab937e9415a6d32c106dd6549d724695);
             
         
 
-        marker_e2022a1b66f94090140910755b34053a.bindPopup(popup_810eb9dbc6f62cc6524a2edc55d4fa68)
+        marker_7b64f88ba0eeeb9aab98e70dc92bc5b7.bindPopup(popup_8e3c775c402f0bbe34251b3484740919)
         ;
 
         
     
     
-                marker_e2022a1b66f94090140910755b34053a.setIcon(icon_facb0ea86d3881642dfe080eb0c7221d);
+                marker_7b64f88ba0eeeb9aab98e70dc92bc5b7.setIcon(icon_d85924a8ccce9d2c2cda1ecf7e7e6539);
             
     
-            var marker_8aa527ee867a8bbb62927424c2fcef11 = L.marker(
+            var marker_b27924cc49ccab81069dc6baaa373532 = L.marker(
                 [48.1398151, 17.1441354],
                 {
   "options": {
   "inzeratId": "bazos_194871652",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_4f5f9be4db77532e69edf932b7f56388 = L.AwesomeMarkers.icon(
+            var icon_f73cb610aef6fd6c969138d08200be87 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -440,37 +440,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_c21ec0011c4f734d07ed8355dea4ab5e = L.popup({
+        var popup_3f7c91ecfbd28003226a38ba58240e42 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_8095386b6bbc66b0059cc25ae7e44a8f = $(`<div id="html_8095386b6bbc66b0059cc25ae7e44a8f" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Moderný byt v komplexe City Park Ružinov na Plynárenskej, Ni         </h4>         <b>Pôvodná cena:</b> 520 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>520 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 09 (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194871652/moderny-klimatizovany-byt-v-komplexe-city-park-ruzinov-na-pl.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194871652" onclick="toggleSkryt('bazos_194871652')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_c21ec0011c4f734d07ed8355dea4ab5e.setContent(html_8095386b6bbc66b0059cc25ae7e44a8f);
+                var html_6a31f8bd7c5c03656eee4eb2caba510c = $(`<div id="html_6a31f8bd7c5c03656eee4eb2caba510c" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Moderný byt v komplexe City Park Ružinov na Plynárenskej, Ni         </h4>         <b>Pôvodná cena:</b> 520 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>520 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 09 (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194871652/moderny-klimatizovany-byt-v-komplexe-city-park-ruzinov-na-pl.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194871652" onclick="toggleSkryt('bazos_194871652')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_3f7c91ecfbd28003226a38ba58240e42.setContent(html_6a31f8bd7c5c03656eee4eb2caba510c);
             
         
 
-        marker_8aa527ee867a8bbb62927424c2fcef11.bindPopup(popup_c21ec0011c4f734d07ed8355dea4ab5e)
+        marker_b27924cc49ccab81069dc6baaa373532.bindPopup(popup_3f7c91ecfbd28003226a38ba58240e42)
         ;
 
         
     
     
-                marker_8aa527ee867a8bbb62927424c2fcef11.setIcon(icon_4f5f9be4db77532e69edf932b7f56388);
+                marker_b27924cc49ccab81069dc6baaa373532.setIcon(icon_f73cb610aef6fd6c969138d08200be87);
             
     
-            var marker_ba1b39ff4360095485851e19f9489fb6 = L.marker(
+            var marker_a4251bc23a5bf7467aac74f19a53178d = L.marker(
                 [48.117814376, 17.109072238],
                 {
   "options": {
   "inzeratId": "bazos_194878663",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_2e4af956a940fe6e19d1e3a526a1e9f0 = L.AwesomeMarkers.icon(
+            var icon_b81f5d39dccd2c4efa8cc082cf7cb034 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -481,37 +481,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_3d4f4920fac5c155db921e7810415f65 = L.popup({
+        var popup_989e9f267b1b2e06e8322d3c91b35bc0 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_df613d116ec3d4c089eee6883376d821 = $(`<div id="html_df613d116ec3d4c089eee6883376d821" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             PRENÁJOM | ÚTUĽNÝ 1 IZBOVÝ APARTMÁN PRI JAZERE DRAŽDIAK         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> M. C. Sklodowskej (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194878663/prenajom-utulny-1-izbovy-apartman-pri-jazere-drazdiak.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194878663" onclick="toggleSkryt('bazos_194878663')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_3d4f4920fac5c155db921e7810415f65.setContent(html_df613d116ec3d4c089eee6883376d821);
+                var html_bfc5ceab78219e9d2b5283fdc869bed1 = $(`<div id="html_bfc5ceab78219e9d2b5283fdc869bed1" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             PRENÁJOM | ÚTUĽNÝ 1 IZBOVÝ APARTMÁN PRI JAZERE DRAŽDIAK         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> M. C. Sklodowskej (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194878663/prenajom-utulny-1-izbovy-apartman-pri-jazere-drazdiak.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194878663" onclick="toggleSkryt('bazos_194878663')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_989e9f267b1b2e06e8322d3c91b35bc0.setContent(html_bfc5ceab78219e9d2b5283fdc869bed1);
             
         
 
-        marker_ba1b39ff4360095485851e19f9489fb6.bindPopup(popup_3d4f4920fac5c155db921e7810415f65)
+        marker_a4251bc23a5bf7467aac74f19a53178d.bindPopup(popup_989e9f267b1b2e06e8322d3c91b35bc0)
         ;
 
         
     
     
-                marker_ba1b39ff4360095485851e19f9489fb6.setIcon(icon_2e4af956a940fe6e19d1e3a526a1e9f0);
+                marker_a4251bc23a5bf7467aac74f19a53178d.setIcon(icon_b81f5d39dccd2c4efa8cc082cf7cb034);
             
     
-            var marker_a87e691adfd52b2bc09b0372aed5fd74 = L.marker(
+            var marker_bda51873705611ffe960ceca31ec17ca = L.marker(
                 [48.1896401, 17.1228167],
                 {
   "options": {
   "inzeratId": "bazos_194877579",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_05fae733e587bf359ff0c86b885f8514 = L.AwesomeMarkers.icon(
+            var icon_a9fb0545f836fe58ddd34d4d0e4f2b2f = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -522,37 +522,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_5146e337ce4b61831b51127815399c85 = L.popup({
+        var popup_040a7b6512d142dde69280571bf42e55 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_01a625ad9b1d31488dd2b4df740f8e17 = $(`<div id="html_01a625ad9b1d31488dd2b4df740f8e17" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             AXIS REAL | 2-i ateliér, TERASA, NOVOSTAVBA, KOLIBA, Pod Vtá         </h4>         <b>Pôvodná cena:</b> 600 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>600 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194877579/axis-real-2-i-atelier-terasa-novostavba-koliba-pod-vta.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194877579" onclick="toggleSkryt('bazos_194877579')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_5146e337ce4b61831b51127815399c85.setContent(html_01a625ad9b1d31488dd2b4df740f8e17);
+                var html_4d5faef8f03c46aa3c899a635828878e = $(`<div id="html_4d5faef8f03c46aa3c899a635828878e" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             AXIS REAL | 2-i ateliér, TERASA, NOVOSTAVBA, KOLIBA, Pod Vtá         </h4>         <b>Pôvodná cena:</b> 600 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>600 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194877579/axis-real-2-i-atelier-terasa-novostavba-koliba-pod-vta.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194877579" onclick="toggleSkryt('bazos_194877579')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_040a7b6512d142dde69280571bf42e55.setContent(html_4d5faef8f03c46aa3c899a635828878e);
             
         
 
-        marker_a87e691adfd52b2bc09b0372aed5fd74.bindPopup(popup_5146e337ce4b61831b51127815399c85)
+        marker_bda51873705611ffe960ceca31ec17ca.bindPopup(popup_040a7b6512d142dde69280571bf42e55)
         ;
 
         
     
     
-                marker_a87e691adfd52b2bc09b0372aed5fd74.setIcon(icon_05fae733e587bf359ff0c86b885f8514);
+                marker_bda51873705611ffe960ceca31ec17ca.setIcon(icon_a9fb0545f836fe58ddd34d4d0e4f2b2f);
             
     
-            var marker_16ea21f83a2fdc751825c057fcd91f8e = L.marker(
+            var marker_e2e249f79eb2c1a41c7a6238bf86036d = L.marker(
                 [48.1423729, 17.099143],
                 {
   "options": {
   "inzeratId": "bazos_194884875",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_2a4825121be6959b143ba39aa2ee039b = L.AwesomeMarkers.icon(
+            var icon_0b1f6b158c1294d9e3836e73c6f4dc86 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -563,37 +563,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_aa2665228deee40281de6b8edb7d771a = L.popup({
+        var popup_839257f48396c80e3f706db2a944434f = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_c3542389ad36e161b10b54b8ed28929a = $(`<div id="html_c3542389ad36e161b10b54b8ed28929a" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             PRENÁJOM IZIEB v BYTE GORKÉHO BRATISLAVA         </h4>         <b>Pôvodná cena:</b> 280 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>280 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 811 01<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194884875/prenajom-izieb-v-byte-gorkeho-bratislava.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194884875" onclick="toggleSkryt('bazos_194884875')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_aa2665228deee40281de6b8edb7d771a.setContent(html_c3542389ad36e161b10b54b8ed28929a);
+                var html_3ad668d1e163a22fb2ed046b2fd04ec7 = $(`<div id="html_3ad668d1e163a22fb2ed046b2fd04ec7" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             PRENÁJOM IZIEB v BYTE GORKÉHO BRATISLAVA         </h4>         <b>Pôvodná cena:</b> 280 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>280 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 811 01<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194884875/prenajom-izieb-v-byte-gorkeho-bratislava.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194884875" onclick="toggleSkryt('bazos_194884875')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_839257f48396c80e3f706db2a944434f.setContent(html_3ad668d1e163a22fb2ed046b2fd04ec7);
             
         
 
-        marker_16ea21f83a2fdc751825c057fcd91f8e.bindPopup(popup_aa2665228deee40281de6b8edb7d771a)
+        marker_e2e249f79eb2c1a41c7a6238bf86036d.bindPopup(popup_839257f48396c80e3f706db2a944434f)
         ;
 
         
     
     
-                marker_16ea21f83a2fdc751825c057fcd91f8e.setIcon(icon_2a4825121be6959b143ba39aa2ee039b);
+                marker_e2e249f79eb2c1a41c7a6238bf86036d.setIcon(icon_0b1f6b158c1294d9e3836e73c6f4dc86);
             
     
-            var marker_c8833bfffb1cf7ee3b95dee1ce4bfd45 = L.marker(
+            var marker_136a6d5e8badcf3ca039845efd1cb603 = L.marker(
                 [48.15966062611, 17.110172009827],
                 {
   "options": {
   "inzeratId": "bazos_194883082",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_640e753bd59dcf221dbc01a25a627408 = L.AwesomeMarkers.icon(
+            var icon_3b20eb26a5938d057113ad9de7606373 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -604,37 +604,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_27c3e57b9c0b545ea8ac09008b14c23c = L.popup({
+        var popup_6c294111e3a904e40687a76ca0594562 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_8037d74346a2d8ba8f510b5a7fb9c6e1 = $(`<div id="html_8037d74346a2d8ba8f510b5a7fb9c6e1" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> Matúškova (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194883082/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194883082" onclick="toggleSkryt('bazos_194883082')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_27c3e57b9c0b545ea8ac09008b14c23c.setContent(html_8037d74346a2d8ba8f510b5a7fb9c6e1);
+                var html_31bf2d811048518f9545d21bdc6e7940 = $(`<div id="html_31bf2d811048518f9545d21bdc6e7940" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> Matúškova (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194883082/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194883082" onclick="toggleSkryt('bazos_194883082')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_6c294111e3a904e40687a76ca0594562.setContent(html_31bf2d811048518f9545d21bdc6e7940);
             
         
 
-        marker_c8833bfffb1cf7ee3b95dee1ce4bfd45.bindPopup(popup_27c3e57b9c0b545ea8ac09008b14c23c)
+        marker_136a6d5e8badcf3ca039845efd1cb603.bindPopup(popup_6c294111e3a904e40687a76ca0594562)
         ;
 
         
     
     
-                marker_c8833bfffb1cf7ee3b95dee1ce4bfd45.setIcon(icon_640e753bd59dcf221dbc01a25a627408);
+                marker_136a6d5e8badcf3ca039845efd1cb603.setIcon(icon_3b20eb26a5938d057113ad9de7606373);
             
     
-            var marker_2ed75c83240a105797a1f9fceae3b256 = L.marker(
+            var marker_729e9f92b7158dc7964e76401139edaa = L.marker(
                 [48.1433615, 17.1221656],
                 {
   "options": {
   "inzeratId": "bazos_194882593",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_bbf096c24ff6495e1ea2fa739513e13c = L.AwesomeMarkers.icon(
+            var icon_3fdb82a38045910aadd78afe6652bec5 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -645,37 +645,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_acb8bbba7d95aed9961317a3e63b7df9 = L.popup({
+        var popup_38864bdaaddf771a2ae8dba9a29a833e = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_a9fbc09035b73de96576954d3b1b7663 = $(`<div id="html_a9fbc09035b73de96576954d3b1b7663" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Na prenájom štýlovo zariadený 1 izbový byt v Bratislave-Star         </h4>         <b>Pôvodná cena:</b> 550 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>550 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 811 09<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194882593/na-prenajom-stylovo-zariadeny-1-izbovy-byt-v-bratislave-star.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194882593" onclick="toggleSkryt('bazos_194882593')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_acb8bbba7d95aed9961317a3e63b7df9.setContent(html_a9fbc09035b73de96576954d3b1b7663);
+                var html_f457ab4e6504bb86e8445ad2b9f0724e = $(`<div id="html_f457ab4e6504bb86e8445ad2b9f0724e" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Na prenájom štýlovo zariadený 1 izbový byt v Bratislave-Star         </h4>         <b>Pôvodná cena:</b> 550 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>550 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 811 09<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194882593/na-prenajom-stylovo-zariadeny-1-izbovy-byt-v-bratislave-star.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194882593" onclick="toggleSkryt('bazos_194882593')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_38864bdaaddf771a2ae8dba9a29a833e.setContent(html_f457ab4e6504bb86e8445ad2b9f0724e);
             
         
 
-        marker_2ed75c83240a105797a1f9fceae3b256.bindPopup(popup_acb8bbba7d95aed9961317a3e63b7df9)
+        marker_729e9f92b7158dc7964e76401139edaa.bindPopup(popup_38864bdaaddf771a2ae8dba9a29a833e)
         ;
 
         
     
     
-                marker_2ed75c83240a105797a1f9fceae3b256.setIcon(icon_bbf096c24ff6495e1ea2fa739513e13c);
+                marker_729e9f92b7158dc7964e76401139edaa.setIcon(icon_3fdb82a38045910aadd78afe6652bec5);
             
     
-            var marker_0c52364fb94244523c77469f9de578b5 = L.marker(
+            var marker_29588753236a68986d313505267eeaf4 = L.marker(
                 [48.1712321, 17.1499302],
                 {
   "options": {
   "inzeratId": "bazos_194882066",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_c5de2fcd45f1c43ee72073f42abde794 = L.AwesomeMarkers.icon(
+            var icon_f7fb516d0c4f4a701f74dc8b77055cec = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -686,37 +686,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_fd6b2240b00110f97b1eb17b5a8af27c = L.popup({
+        var popup_21fd73f39dc68448b792d07504fc223b = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_72d04cf85f6820ecce0ec50f80e47d9b = $(`<div id="html_72d04cf85f6820ecce0ec50f80e47d9b" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Na prenájom byty o výmere 57m2, Bratislava III TOP         </h4>         <b>Pôvodná cena:</b> 500 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>500 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 831 04<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194882066/na-prenajom-byty-o-vymere-57m2-bratislava-iii-top.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194882066" onclick="toggleSkryt('bazos_194882066')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_fd6b2240b00110f97b1eb17b5a8af27c.setContent(html_72d04cf85f6820ecce0ec50f80e47d9b);
+                var html_ac49fcecebef180240927a2c28a15a0f = $(`<div id="html_ac49fcecebef180240927a2c28a15a0f" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Na prenájom byty o výmere 57m2, Bratislava III TOP         </h4>         <b>Pôvodná cena:</b> 500 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>500 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 831 04<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194882066/na-prenajom-byty-o-vymere-57m2-bratislava-iii-top.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194882066" onclick="toggleSkryt('bazos_194882066')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_21fd73f39dc68448b792d07504fc223b.setContent(html_ac49fcecebef180240927a2c28a15a0f);
             
         
 
-        marker_0c52364fb94244523c77469f9de578b5.bindPopup(popup_fd6b2240b00110f97b1eb17b5a8af27c)
+        marker_29588753236a68986d313505267eeaf4.bindPopup(popup_21fd73f39dc68448b792d07504fc223b)
         ;
 
         
     
     
-                marker_0c52364fb94244523c77469f9de578b5.setIcon(icon_c5de2fcd45f1c43ee72073f42abde794);
+                marker_29588753236a68986d313505267eeaf4.setIcon(icon_f7fb516d0c4f4a701f74dc8b77055cec);
             
     
-            var marker_202e163f0f7deadb3502b2e5129af56a = L.marker(
+            var marker_751187bef1589c2272e0fe59eecb1bb2 = L.marker(
                 [48.1536448, 17.1566781],
                 {
   "options": {
   "inzeratId": "bazos_194881231",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_e07d6a39f579d110e336af9d79365538 = L.AwesomeMarkers.icon(
+            var icon_cfd2b149c32c39d74b92d11ae3107c36 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -727,37 +727,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_d5da11ad2c5b454a74ac1d41cde8ed1c = L.popup({
+        var popup_681ac79e2fe4728aa76d5a545eb77728 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_39ac3ab7586b3981517bdb030145dfc1 = $(`<div id="html_39ac3ab7586b3981517bdb030145dfc1" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Priestranný a klimatizovaný 2-izbový byt s loggiou, BA II -         </h4>         <b>Pôvodná cena:</b> 670 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>670 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 01<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194881231/priestranny-a-klimatizovany-2-izbovy-byt-s-loggiou-ba-ii.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194881231" onclick="toggleSkryt('bazos_194881231')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_d5da11ad2c5b454a74ac1d41cde8ed1c.setContent(html_39ac3ab7586b3981517bdb030145dfc1);
+                var html_e9b26db29a35dcff66d76c8547160e73 = $(`<div id="html_e9b26db29a35dcff66d76c8547160e73" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Priestranný a klimatizovaný 2-izbový byt s loggiou, BA II -         </h4>         <b>Pôvodná cena:</b> 670 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>670 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 01<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194881231/priestranny-a-klimatizovany-2-izbovy-byt-s-loggiou-ba-ii.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194881231" onclick="toggleSkryt('bazos_194881231')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_681ac79e2fe4728aa76d5a545eb77728.setContent(html_e9b26db29a35dcff66d76c8547160e73);
             
         
 
-        marker_202e163f0f7deadb3502b2e5129af56a.bindPopup(popup_d5da11ad2c5b454a74ac1d41cde8ed1c)
+        marker_751187bef1589c2272e0fe59eecb1bb2.bindPopup(popup_681ac79e2fe4728aa76d5a545eb77728)
         ;
 
         
     
     
-                marker_202e163f0f7deadb3502b2e5129af56a.setIcon(icon_e07d6a39f579d110e336af9d79365538);
+                marker_751187bef1589c2272e0fe59eecb1bb2.setIcon(icon_cfd2b149c32c39d74b92d11ae3107c36);
             
     
-            var marker_b0ca3632331bb1e7df690cd40aedd094 = L.marker(
+            var marker_c85ef8a025053187fce2cc31c46bc367 = L.marker(
                 [48.1896401, 17.1228167],
                 {
   "options": {
   "inzeratId": "bazos_194879502",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_329b5e1099bbbeb943a21e8554c4d03c = L.AwesomeMarkers.icon(
+            var icon_faee02cde65fb8a4bc2a6441653a853c = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -768,37 +768,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_fc8937688b496e339b6e83552a0521c9 = L.popup({
+        var popup_51686221b76435e24c83a5f4419920ce = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_9453549acc7505e38e6c770faa6a3dcf = $(`<div id="html_9453549acc7505e38e6c770faa6a3dcf" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BOSEN | 2 izbový byt s lodžiou, ul. Čsl. Parašutistov, Brati         </h4>         <b>Pôvodná cena:</b> 570 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>570 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194879502/bosen-2-izbovy-byt-s-lodziou-ul-csl-parasutistov-brati.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194879502" onclick="toggleSkryt('bazos_194879502')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_fc8937688b496e339b6e83552a0521c9.setContent(html_9453549acc7505e38e6c770faa6a3dcf);
+                var html_44a90a16f23b1c59cefdb5c4e3087c62 = $(`<div id="html_44a90a16f23b1c59cefdb5c4e3087c62" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BOSEN | 2 izbový byt s lodžiou, ul. Čsl. Parašutistov, Brati         </h4>         <b>Pôvodná cena:</b> 570 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>570 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194879502/bosen-2-izbovy-byt-s-lodziou-ul-csl-parasutistov-brati.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194879502" onclick="toggleSkryt('bazos_194879502')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_51686221b76435e24c83a5f4419920ce.setContent(html_44a90a16f23b1c59cefdb5c4e3087c62);
             
         
 
-        marker_b0ca3632331bb1e7df690cd40aedd094.bindPopup(popup_fc8937688b496e339b6e83552a0521c9)
+        marker_c85ef8a025053187fce2cc31c46bc367.bindPopup(popup_51686221b76435e24c83a5f4419920ce)
         ;
 
         
     
     
-                marker_b0ca3632331bb1e7df690cd40aedd094.setIcon(icon_329b5e1099bbbeb943a21e8554c4d03c);
+                marker_c85ef8a025053187fce2cc31c46bc367.setIcon(icon_faee02cde65fb8a4bc2a6441653a853c);
             
     
-            var marker_2bbd1d8bb7903ae2a78528b3ed6aec4e = L.marker(
+            var marker_1352e82955a0d3d150069cb77136cde9 = L.marker(
                 [48.141057874853, 17.111925924629],
                 {
   "options": {
   "inzeratId": "bazos_194889068",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_01f8d8ceae91df7f2cfbaf5ad8c230bb = L.AwesomeMarkers.icon(
+            var icon_f34b70ded38d5785f92e3e24a2df1ed2 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -809,37 +809,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_4ec95bdc5f337c2621a9dc54bf277f0e = L.popup({
+        var popup_ea37b16df75a8f7f2133dd6a9a118fda = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_c58cc46ddab7ca51ad37f582912d6672 = $(`<div id="html_c58cc46ddab7ca51ad37f582912d6672" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom veľmi príjemnej garsónky v centre mesta - Medená ul         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> centre mesta - Medená<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194889068/prenajom-velmi-prijemnej-garsonky-v-centre-mesta-medena-ul.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194889068" onclick="toggleSkryt('bazos_194889068')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_4ec95bdc5f337c2621a9dc54bf277f0e.setContent(html_c58cc46ddab7ca51ad37f582912d6672);
+                var html_8edf29bfeb96dfc2058c1516ea209544 = $(`<div id="html_8edf29bfeb96dfc2058c1516ea209544" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom veľmi príjemnej garsónky v centre mesta - Medená ul         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> centre mesta - Medená<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194889068/prenajom-velmi-prijemnej-garsonky-v-centre-mesta-medena-ul.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194889068" onclick="toggleSkryt('bazos_194889068')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_ea37b16df75a8f7f2133dd6a9a118fda.setContent(html_8edf29bfeb96dfc2058c1516ea209544);
             
         
 
-        marker_2bbd1d8bb7903ae2a78528b3ed6aec4e.bindPopup(popup_4ec95bdc5f337c2621a9dc54bf277f0e)
+        marker_1352e82955a0d3d150069cb77136cde9.bindPopup(popup_ea37b16df75a8f7f2133dd6a9a118fda)
         ;
 
         
     
     
-                marker_2bbd1d8bb7903ae2a78528b3ed6aec4e.setIcon(icon_01f8d8ceae91df7f2cfbaf5ad8c230bb);
+                marker_1352e82955a0d3d150069cb77136cde9.setIcon(icon_f34b70ded38d5785f92e3e24a2df1ed2);
             
     
-            var marker_3212f1539d7c9152c9e3fc58ffc00001 = L.marker(
+            var marker_003e41537d87daecdb5d755aac6dfb33 = L.marker(
                 [48.1896401, 17.1228167],
                 {
   "options": {
   "inzeratId": "bazos_194885434",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_f52075db3d30ba116e38dcdef7955987 = L.AwesomeMarkers.icon(
+            var icon_662f77a5b8da2479d09503e2006f2115 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -850,37 +850,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_113757d625b2a342100b92ddbb737563 = L.popup({
+        var popup_13a14b576639a1368130c31a0d41da73 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_b8643c6f95e3e7f9060b094ab20862b7 = $(`<div id="html_b8643c6f95e3e7f9060b094ab20862b7" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom úplne nového 1-izb. bytu | OLIVIA Residence         </h4>         <b>Pôvodná cena:</b> 640 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>640 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194885434/prenajom-uplne-noveho-1-izb-bytu-olivia-residence.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194885434" onclick="toggleSkryt('bazos_194885434')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_113757d625b2a342100b92ddbb737563.setContent(html_b8643c6f95e3e7f9060b094ab20862b7);
+                var html_42031821f44c3dabaa188ee51ef867dc = $(`<div id="html_42031821f44c3dabaa188ee51ef867dc" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom úplne nového 1-izb. bytu | OLIVIA Residence         </h4>         <b>Pôvodná cena:</b> 640 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>640 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194885434/prenajom-uplne-noveho-1-izb-bytu-olivia-residence.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194885434" onclick="toggleSkryt('bazos_194885434')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_13a14b576639a1368130c31a0d41da73.setContent(html_42031821f44c3dabaa188ee51ef867dc);
             
         
 
-        marker_3212f1539d7c9152c9e3fc58ffc00001.bindPopup(popup_113757d625b2a342100b92ddbb737563)
+        marker_003e41537d87daecdb5d755aac6dfb33.bindPopup(popup_13a14b576639a1368130c31a0d41da73)
         ;
 
         
     
     
-                marker_3212f1539d7c9152c9e3fc58ffc00001.setIcon(icon_f52075db3d30ba116e38dcdef7955987);
+                marker_003e41537d87daecdb5d755aac6dfb33.setIcon(icon_662f77a5b8da2479d09503e2006f2115);
             
     
-            var marker_ad4a8a015d31409e1c56ef9625f7513b = L.marker(
+            var marker_e7f96b81b09283e8ccf96a50d32b3a7a = L.marker(
                 [48.117814376, 17.109072238],
                 {
   "options": {
   "inzeratId": "bazos_194890749",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_af4d2be4f72666cb798bdf5807cbaea2 = L.AwesomeMarkers.icon(
+            var icon_99d1ad91d5d1ef69fcb9e3f9f9740451 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -891,37 +891,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_f7bd6b3ce1de7504b8bfb192eb90518d = L.popup({
+        var popup_e1cf73897371853acfc3314e8df48d46 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_67c07a48be5d082355a7c95bbb26d75d = $(`<div id="html_67c07a48be5d082355a7c95bbb26d75d" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BOSEN | Na prenájom garsónka Bratislava - Petržalka         </h4>         <b>Pôvodná cena:</b> 520 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>520 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> M. C. Sklodowskej (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194890749/bosen-na-prenajom-garsonka-bratislava-petrzalka.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194890749" onclick="toggleSkryt('bazos_194890749')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_f7bd6b3ce1de7504b8bfb192eb90518d.setContent(html_67c07a48be5d082355a7c95bbb26d75d);
+                var html_7bcdca966474f9e31bae126fdb652190 = $(`<div id="html_7bcdca966474f9e31bae126fdb652190" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BOSEN | Na prenájom garsónka Bratislava - Petržalka         </h4>         <b>Pôvodná cena:</b> 520 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>520 €</b><br>         <b>📅 Dátum:</b> 24.08.2026<br>         <b>📍 Lokalita:</b> M. C. Sklodowskej (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194890749/bosen-na-prenajom-garsonka-bratislava-petrzalka.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194890749" onclick="toggleSkryt('bazos_194890749')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_e1cf73897371853acfc3314e8df48d46.setContent(html_7bcdca966474f9e31bae126fdb652190);
             
         
 
-        marker_ad4a8a015d31409e1c56ef9625f7513b.bindPopup(popup_f7bd6b3ce1de7504b8bfb192eb90518d)
+        marker_e7f96b81b09283e8ccf96a50d32b3a7a.bindPopup(popup_e1cf73897371853acfc3314e8df48d46)
         ;
 
         
     
     
-                marker_ad4a8a015d31409e1c56ef9625f7513b.setIcon(icon_af4d2be4f72666cb798bdf5807cbaea2);
+                marker_e7f96b81b09283e8ccf96a50d32b3a7a.setIcon(icon_99d1ad91d5d1ef69fcb9e3f9f9740451);
             
     
-            var marker_fa00f59568e248ab88d63112c1a5509f = L.marker(
+            var marker_af3106936ca64543dbc83c618add81c0 = L.marker(
                 [48.154419507, 17.119406427],
                 {
   "options": {
   "inzeratId": "bazos_194899343",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_2c7318e5ea04ffb784ecad74c602ef20 = L.AwesomeMarkers.icon(
+            var icon_44d0e1456b53e1902cd4c82e445c9df4 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -932,37 +932,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_22e8e4accae1a0afffe6ecec7b008526 = L.popup({
+        var popup_7ee7b67a47960157c0057d9120a405eb = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_3a4e6f4b2e15e20690e18fc92f3b36c0 = $(`<div id="html_3a4e6f4b2e15e20690e18fc92f3b36c0" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Na prenájom 3-izbový byt s balkónmi a 2 parkovacími miestami         </h4>         <b>Pôvodná cena:</b> 700 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>700 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> NOVEJ NOVOSTAVBE OLÍVIA<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194899343/na-prenajom-3-izbovy-byt-s-balkonmi-a-2-parkovacimi-miestami.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194899343" onclick="toggleSkryt('bazos_194899343')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_22e8e4accae1a0afffe6ecec7b008526.setContent(html_3a4e6f4b2e15e20690e18fc92f3b36c0);
+                var html_5fde763ebcbec8f8419e0c1edae3e144 = $(`<div id="html_5fde763ebcbec8f8419e0c1edae3e144" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Na prenájom 3-izbový byt s balkónmi a 2 parkovacími miestami         </h4>         <b>Pôvodná cena:</b> 700 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>700 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> NOVEJ NOVOSTAVBE OLÍVIA<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194899343/na-prenajom-3-izbovy-byt-s-balkonmi-a-2-parkovacimi-miestami.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194899343" onclick="toggleSkryt('bazos_194899343')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_7ee7b67a47960157c0057d9120a405eb.setContent(html_5fde763ebcbec8f8419e0c1edae3e144);
             
         
 
-        marker_fa00f59568e248ab88d63112c1a5509f.bindPopup(popup_22e8e4accae1a0afffe6ecec7b008526)
+        marker_af3106936ca64543dbc83c618add81c0.bindPopup(popup_7ee7b67a47960157c0057d9120a405eb)
         ;
 
         
     
     
-                marker_fa00f59568e248ab88d63112c1a5509f.setIcon(icon_2c7318e5ea04ffb784ecad74c602ef20);
+                marker_af3106936ca64543dbc83c618add81c0.setIcon(icon_44d0e1456b53e1902cd4c82e445c9df4);
             
     
-            var marker_3ca809a30db91aedd20776d786943342 = L.marker(
+            var marker_5784fa725d837b321dac2161ff2472f2 = L.marker(
                 [48.117814376, 17.109072238],
                 {
   "options": {
   "inzeratId": "bazos_194910040",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_97f95400573161f119d29d6f46e35fd3 = L.AwesomeMarkers.icon(
+            var icon_f9b97b695caa46de6ce3752103bfc126 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -973,37 +973,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_5c1dda3154f52aea7f9ce8d4fdf679db = L.popup({
+        var popup_3322df3215097679baab31c0692208ee = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_1d102a89266c9fa0805cc51ef62afa67 = $(`<div id="html_1d102a89266c9fa0805cc51ef62afa67" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BOSEN | Klimatizovaný 2 izbový byt s garážovým parkovacím mi         </h4>         <b>Pôvodná cena:</b> 700 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>700 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> M. C. Sklodowskej (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194910040/bosen-klimatizovany-2-izbovy-byt-s-garazovym-parkovacim-mi.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194910040" onclick="toggleSkryt('bazos_194910040')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_5c1dda3154f52aea7f9ce8d4fdf679db.setContent(html_1d102a89266c9fa0805cc51ef62afa67);
+                var html_40afbd8ea78d6fc1f4dd263dc49f00bb = $(`<div id="html_40afbd8ea78d6fc1f4dd263dc49f00bb" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BOSEN | Klimatizovaný 2 izbový byt s garážovým parkovacím mi         </h4>         <b>Pôvodná cena:</b> 700 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>700 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> M. C. Sklodowskej (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194910040/bosen-klimatizovany-2-izbovy-byt-s-garazovym-parkovacim-mi.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194910040" onclick="toggleSkryt('bazos_194910040')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_3322df3215097679baab31c0692208ee.setContent(html_40afbd8ea78d6fc1f4dd263dc49f00bb);
             
         
 
-        marker_3ca809a30db91aedd20776d786943342.bindPopup(popup_5c1dda3154f52aea7f9ce8d4fdf679db)
+        marker_5784fa725d837b321dac2161ff2472f2.bindPopup(popup_3322df3215097679baab31c0692208ee)
         ;
 
         
     
     
-                marker_3ca809a30db91aedd20776d786943342.setIcon(icon_97f95400573161f119d29d6f46e35fd3);
+                marker_5784fa725d837b321dac2161ff2472f2.setIcon(icon_f9b97b695caa46de6ce3752103bfc126);
             
     
-            var marker_6efd6dde99f5d147be881a26b26f48ff = L.marker(
+            var marker_8958e80a31d3e36ff620923b7e181fe9 = L.marker(
                 [48.1433615, 17.1221656],
                 {
   "options": {
   "inzeratId": "bazos_194906245",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_4f1372bf645a8bf84f63f276f95ec18a = L.AwesomeMarkers.icon(
+            var icon_908caa15e8a5d03298142cbcb5103c51 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1014,37 +1014,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_5f28ad7c2647cb245588a22c9ef3732a = L.popup({
+        var popup_b3dee32c4ba47f64e29cc6cb75b221d8 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_a74eb3b77a15dfeae0cfecd0fd93d913 = $(`<div id="html_a74eb3b77a15dfeae0cfecd0fd93d913" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             1-izbový byt na prenájom, Chorvátska 1, Staré Mesto, Bratisl         </h4>         <b>Pôvodná cena:</b> 600 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>600 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 811 09 (Staré Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194906245/1-izbovy-byt-na-prenajom-chorvatska-1-stare-mesto-bratisl.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194906245" onclick="toggleSkryt('bazos_194906245')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_5f28ad7c2647cb245588a22c9ef3732a.setContent(html_a74eb3b77a15dfeae0cfecd0fd93d913);
+                var html_085d1cd27ff894fb38b7c79f0d68193e = $(`<div id="html_085d1cd27ff894fb38b7c79f0d68193e" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             1-izbový byt na prenájom, Chorvátska 1, Staré Mesto, Bratisl         </h4>         <b>Pôvodná cena:</b> 600 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>600 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 811 09 (Staré Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194906245/1-izbovy-byt-na-prenajom-chorvatska-1-stare-mesto-bratisl.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194906245" onclick="toggleSkryt('bazos_194906245')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_b3dee32c4ba47f64e29cc6cb75b221d8.setContent(html_085d1cd27ff894fb38b7c79f0d68193e);
             
         
 
-        marker_6efd6dde99f5d147be881a26b26f48ff.bindPopup(popup_5f28ad7c2647cb245588a22c9ef3732a)
+        marker_8958e80a31d3e36ff620923b7e181fe9.bindPopup(popup_b3dee32c4ba47f64e29cc6cb75b221d8)
         ;
 
         
     
     
-                marker_6efd6dde99f5d147be881a26b26f48ff.setIcon(icon_4f1372bf645a8bf84f63f276f95ec18a);
+                marker_8958e80a31d3e36ff620923b7e181fe9.setIcon(icon_908caa15e8a5d03298142cbcb5103c51);
             
     
-            var marker_669e89865367b042ee5cc5c00a87a5a3 = L.marker(
+            var marker_15b502d38e8f35b7c77df37288e231e3 = L.marker(
                 [48.1754087, 17.1158206],
                 {
   "options": {
   "inzeratId": "bazos_194650821",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_44c8179acd7cecc76c44cde34ca3c4f8 = L.AwesomeMarkers.icon(
+            var icon_a59d0b479797f8513525a26caaefda93 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1055,37 +1055,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_5f725462fe4a525b5a0c53679f49940c = L.popup({
+        var popup_84c4cab75c74b66a405a0636a41fc055 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_09b35444b82ac2c428d99deb73fa405a = $(`<div id="html_09b35444b82ac2c428d99deb73fa405a" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             1,5 izb byt s parkingom v cene, bez provizie         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 831 02 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194650821/15-izb-byt-s-parkingom-v-cene-bez-provizie.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194650821" onclick="toggleSkryt('bazos_194650821')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_5f725462fe4a525b5a0c53679f49940c.setContent(html_09b35444b82ac2c428d99deb73fa405a);
+                var html_78288deadd8579debb8c31ddf258b4b5 = $(`<div id="html_78288deadd8579debb8c31ddf258b4b5" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             1,5 izb byt s parkingom v cene, bez provizie         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 831 02<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194650821/15-izb-byt-s-parkingom-v-cene-bez-provizie.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194650821" onclick="toggleSkryt('bazos_194650821')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_84c4cab75c74b66a405a0636a41fc055.setContent(html_78288deadd8579debb8c31ddf258b4b5);
             
         
 
-        marker_669e89865367b042ee5cc5c00a87a5a3.bindPopup(popup_5f725462fe4a525b5a0c53679f49940c)
+        marker_15b502d38e8f35b7c77df37288e231e3.bindPopup(popup_84c4cab75c74b66a405a0636a41fc055)
         ;
 
         
     
     
-                marker_669e89865367b042ee5cc5c00a87a5a3.setIcon(icon_44c8179acd7cecc76c44cde34ca3c4f8);
+                marker_15b502d38e8f35b7c77df37288e231e3.setIcon(icon_a59d0b479797f8513525a26caaefda93);
             
     
-            var marker_bd5abf792b528d57ae2c042b5d686cc3 = L.marker(
+            var marker_4e17b2cf523b22063b67073908b6ebed = L.marker(
                 [48.1896401, 17.1228167],
                 {
   "options": {
   "inzeratId": "bazos_194921379",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_e68123430b32773fb4177ea1e83749c2 = L.AwesomeMarkers.icon(
+            var icon_b998e42a5824cc72997853030e0c3092 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1096,37 +1096,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_4b80be89d3dafc533d9e22ed3ed9260f = L.popup({
+        var popup_243c902cc1d1ca0e962b15180b0d3424 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_085a1985c014e35dac9374c77c2ad8c8 = $(`<div id="html_085a1985c014e35dac9374c77c2ad8c8" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom útulnej garsónky s terasou na ul. Odbojárov, Nové M         </h4>         <b>Pôvodná cena:</b> 590 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>590 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194921379/prenajom-utulnej-garsonky-s-terasou-na-ul-odbojarov-nove-m.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194921379" onclick="toggleSkryt('bazos_194921379')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_4b80be89d3dafc533d9e22ed3ed9260f.setContent(html_085a1985c014e35dac9374c77c2ad8c8);
+                var html_ed414e4bc52fd393abb5db821325cb89 = $(`<div id="html_ed414e4bc52fd393abb5db821325cb89" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom útulnej garsónky s terasou na ul. Odbojárov, Nové M         </h4>         <b>Pôvodná cena:</b> 590 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>590 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194921379/prenajom-utulnej-garsonky-s-terasou-na-ul-odbojarov-nove-m.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194921379" onclick="toggleSkryt('bazos_194921379')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_243c902cc1d1ca0e962b15180b0d3424.setContent(html_ed414e4bc52fd393abb5db821325cb89);
             
         
 
-        marker_bd5abf792b528d57ae2c042b5d686cc3.bindPopup(popup_4b80be89d3dafc533d9e22ed3ed9260f)
+        marker_4e17b2cf523b22063b67073908b6ebed.bindPopup(popup_243c902cc1d1ca0e962b15180b0d3424)
         ;
 
         
     
     
-                marker_bd5abf792b528d57ae2c042b5d686cc3.setIcon(icon_e68123430b32773fb4177ea1e83749c2);
+                marker_4e17b2cf523b22063b67073908b6ebed.setIcon(icon_b998e42a5824cc72997853030e0c3092);
             
     
-            var marker_7667a8efc3dadd239a9c28ae54f31f67 = L.marker(
+            var marker_3cf8a0123207d874ea38cba3b16b72f7 = L.marker(
                 [48.2114337, 17.1541005],
                 {
   "options": {
   "inzeratId": "bazos_194923275",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_51ceeafde452f529308e4a0bb1e2b60d = L.AwesomeMarkers.icon(
+            var icon_71b2a67d49a6d4e13f705532ee09cca2 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1137,37 +1137,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_b72ed947aa8d5165cabb4e7930300936 = L.popup({
+        var popup_19907fc4509996e10d7bd5bfb83f9f1d = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_8819cad566d018d571129222aebd44c4 = $(`<div id="html_8819cad566d018d571129222aebd44c4" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BABONY TRE - PRENÁJOM GARSÓNKY – RAČA         </h4>         <b>Pôvodná cena:</b> 400 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>400 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 831 06 (Rača)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194923275/babony-tre-prenajom-garsonky-raca.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194923275" onclick="toggleSkryt('bazos_194923275')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_b72ed947aa8d5165cabb4e7930300936.setContent(html_8819cad566d018d571129222aebd44c4);
+                var html_cbe4cd9ec32bc05cd56a0eb645d54539 = $(`<div id="html_cbe4cd9ec32bc05cd56a0eb645d54539" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BABONY TRE - PRENÁJOM GARSÓNKY – RAČA         </h4>         <b>Pôvodná cena:</b> 400 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>400 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 831 06 (Rača)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194923275/babony-tre-prenajom-garsonky-raca.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194923275" onclick="toggleSkryt('bazos_194923275')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_19907fc4509996e10d7bd5bfb83f9f1d.setContent(html_cbe4cd9ec32bc05cd56a0eb645d54539);
             
         
 
-        marker_7667a8efc3dadd239a9c28ae54f31f67.bindPopup(popup_b72ed947aa8d5165cabb4e7930300936)
+        marker_3cf8a0123207d874ea38cba3b16b72f7.bindPopup(popup_19907fc4509996e10d7bd5bfb83f9f1d)
         ;
 
         
     
     
-                marker_7667a8efc3dadd239a9c28ae54f31f67.setIcon(icon_51ceeafde452f529308e4a0bb1e2b60d);
+                marker_3cf8a0123207d874ea38cba3b16b72f7.setIcon(icon_71b2a67d49a6d4e13f705532ee09cca2);
             
     
-            var marker_1ff0fd56719498e2abc6e8a7adcec947 = L.marker(
+            var marker_bfec8c685a7d4f237c0f99ac97ab7f71 = L.marker(
                 [48.1423729, 17.099143],
                 {
   "options": {
   "inzeratId": "bazos_194933874",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_6ca42dd3f2298380893d85b2f58c37c7 = L.AwesomeMarkers.icon(
+            var icon_f549700bd9d207a2dd5d079fd5369bca = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1178,37 +1178,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_c83153ae7096a5ab247eeaafc3d607f5 = L.popup({
+        var popup_fe0f787749ffaeca70e9009ac3f6eace = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_51e269c85aa44a70d3bb18d6f6ac3cd8 = $(`<div id="html_51e269c85aa44a70d3bb18d6f6ac3cd8" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom: Zariadená garsónka, Bratislava centrum - Michalská         </h4>         <b>Pôvodná cena:</b> 580 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>580 €</b><br>         <b>📅 Dátum:</b> 26.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 811 01 (Staré Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194933874/prenajom-zariadena-garsonka-bratislava-centrum-michalska.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194933874" onclick="toggleSkryt('bazos_194933874')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_c83153ae7096a5ab247eeaafc3d607f5.setContent(html_51e269c85aa44a70d3bb18d6f6ac3cd8);
+                var html_0d178b0be3bc5369da31e9de12664404 = $(`<div id="html_0d178b0be3bc5369da31e9de12664404" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom: Zariadená garsónka, Bratislava centrum - Michalská         </h4>         <b>Pôvodná cena:</b> 580 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>580 €</b><br>         <b>📅 Dátum:</b> 26.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 811 01<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194933874/prenajom-zariadena-garsonka-bratislava-centrum-michalska.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194933874" onclick="toggleSkryt('bazos_194933874')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_fe0f787749ffaeca70e9009ac3f6eace.setContent(html_0d178b0be3bc5369da31e9de12664404);
             
         
 
-        marker_1ff0fd56719498e2abc6e8a7adcec947.bindPopup(popup_c83153ae7096a5ab247eeaafc3d607f5)
+        marker_bfec8c685a7d4f237c0f99ac97ab7f71.bindPopup(popup_fe0f787749ffaeca70e9009ac3f6eace)
         ;
 
         
     
     
-                marker_1ff0fd56719498e2abc6e8a7adcec947.setIcon(icon_6ca42dd3f2298380893d85b2f58c37c7);
+                marker_bfec8c685a7d4f237c0f99ac97ab7f71.setIcon(icon_f549700bd9d207a2dd5d079fd5369bca);
             
     
-            var marker_9f091a845af3b64754204da84d40a31d = L.marker(
-                [48.150937350118, 17.163303712157],
+            var marker_1d2bb76832a60845a4153188afdf2c78 = L.marker(
+                [48.15715266, 17.149965411],
                 {
   "options": {
   "inzeratId": "bazos_194938013",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_e74d1475189a4b123ec34244742df501 = L.AwesomeMarkers.icon(
+            var icon_6f85bc6d4e868f5f76b17f6ff2a23aab = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1219,37 +1219,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_ac0daab12f22243a6b9dccf79f5d5635 = L.popup({
+        var popup_dac3c7ad034296d77512ee9c02614600 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_bbd385b448cb5a1b217409f46204dd6c = $(`<div id="html_bbd385b448cb5a1b217409f46204dd6c" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom 2-izbový byt, Svidnícka-Ružinov         </h4>         <b>Pôvodná cena:</b> 570 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>570 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> Rezedova (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194938013/prenajom-2-izbovy-byt-svidnicka-ruzinov.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194938013" onclick="toggleSkryt('bazos_194938013')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_ac0daab12f22243a6b9dccf79f5d5635.setContent(html_bbd385b448cb5a1b217409f46204dd6c);
+                var html_ada38868c7537e14ddb3eb471ee06579 = $(`<div id="html_ada38868c7537e14ddb3eb471ee06579" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom 2-izbový byt, Svidnícka-Ružinov         </h4>         <b>Pôvodná cena:</b> 570 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>570 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> Garsónka (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194938013/prenajom-2-izbovy-byt-svidnicka-ruzinov.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194938013" onclick="toggleSkryt('bazos_194938013')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_dac3c7ad034296d77512ee9c02614600.setContent(html_ada38868c7537e14ddb3eb471ee06579);
             
         
 
-        marker_9f091a845af3b64754204da84d40a31d.bindPopup(popup_ac0daab12f22243a6b9dccf79f5d5635)
+        marker_1d2bb76832a60845a4153188afdf2c78.bindPopup(popup_dac3c7ad034296d77512ee9c02614600)
         ;
 
         
     
     
-                marker_9f091a845af3b64754204da84d40a31d.setIcon(icon_e74d1475189a4b123ec34244742df501);
+                marker_1d2bb76832a60845a4153188afdf2c78.setIcon(icon_6f85bc6d4e868f5f76b17f6ff2a23aab);
             
     
-            var marker_9485cfac6b4030ce6acda8757f9fd98b = L.marker(
+            var marker_448123af2dcbff3d72187b9b9028d46e = L.marker(
                 [48.154419507, 17.119406427],
                 {
   "options": {
   "inzeratId": "bazos_194938420",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_704a1c9888f809b003967d0763251667 = L.AwesomeMarkers.icon(
+            var icon_3a60c6d9fbe8bee27f841d397d33fec7 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1260,37 +1260,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_3062dd1e7a7e86fcd8387464b30f3a9d = L.popup({
+        var popup_346108061438f2d0328a4f6a56e5e7c0 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_6f9e3ed6e4448f98d8686ec25e0834ce = $(`<div id="html_6f9e3ed6e4448f98d8686ec25e0834ce" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             EXKLUZÍVNE Byty na prenájom Nové Mesto nad Váhom         </h4>         <b>Pôvodná cena:</b> 434 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>434 €</b><br>         <b>📅 Dátum:</b> 26.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 915 01 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194938420/exkluzivne-byty-na-prenajom-nove-mesto-nad-vahom.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194938420" onclick="toggleSkryt('bazos_194938420')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_3062dd1e7a7e86fcd8387464b30f3a9d.setContent(html_6f9e3ed6e4448f98d8686ec25e0834ce);
+                var html_75302b2dc54ff4186e787b03f67981ac = $(`<div id="html_75302b2dc54ff4186e787b03f67981ac" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             EXKLUZÍVNE Byty na prenájom Nové Mesto nad Váhom         </h4>         <b>Pôvodná cena:</b> 434 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>434 €</b><br>         <b>📅 Dátum:</b> 26.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 915 01 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194938420/exkluzivne-byty-na-prenajom-nove-mesto-nad-vahom.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194938420" onclick="toggleSkryt('bazos_194938420')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_346108061438f2d0328a4f6a56e5e7c0.setContent(html_75302b2dc54ff4186e787b03f67981ac);
             
         
 
-        marker_9485cfac6b4030ce6acda8757f9fd98b.bindPopup(popup_3062dd1e7a7e86fcd8387464b30f3a9d)
+        marker_448123af2dcbff3d72187b9b9028d46e.bindPopup(popup_346108061438f2d0328a4f6a56e5e7c0)
         ;
 
         
     
     
-                marker_9485cfac6b4030ce6acda8757f9fd98b.setIcon(icon_704a1c9888f809b003967d0763251667);
+                marker_448123af2dcbff3d72187b9b9028d46e.setIcon(icon_3a60c6d9fbe8bee27f841d397d33fec7);
             
     
-            var marker_95e52ef4f89569c7520e3840bcf7aa8c = L.marker(
+            var marker_075ec345fa2ca318100a22377bd0142b = L.marker(
                 [48.165348687527, 17.049450390173],
                 {
   "options": {
   "inzeratId": "bazos_194944820",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_91611aff5388ce968489887cd46bd63a = L.AwesomeMarkers.icon(
+            var icon_6e3bf3c2afccc60e2ded32ed57f43a3a = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1301,37 +1301,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_d141ae9ce5bf69ccbbcb3fca97b51054 = L.popup({
+        var popup_e3f5e63bcfc4008f383d4b465a2d6578 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_8fedbeeb0de5fb1e6fb2cc44a6bf29d2 = $(`<div id="html_8fedbeeb0de5fb1e6fb2cc44a6bf29d2" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Gars. - Nám. sv. Františka         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 26.08.2026<br>         <b>📍 Lokalita:</b> časti Karlovej Vsi - Púpavová<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194944820/gars-nam-sv-frantiska.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194944820" onclick="toggleSkryt('bazos_194944820')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_d141ae9ce5bf69ccbbcb3fca97b51054.setContent(html_8fedbeeb0de5fb1e6fb2cc44a6bf29d2);
+                var html_db177b3905246d545db6659abee124c7 = $(`<div id="html_db177b3905246d545db6659abee124c7" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Gars. - Nám. sv. Františka         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 26.08.2026<br>         <b>📍 Lokalita:</b> časti Karlovej Vsi - Púpavová<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194944820/gars-nam-sv-frantiska.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194944820" onclick="toggleSkryt('bazos_194944820')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_e3f5e63bcfc4008f383d4b465a2d6578.setContent(html_db177b3905246d545db6659abee124c7);
             
         
 
-        marker_95e52ef4f89569c7520e3840bcf7aa8c.bindPopup(popup_d141ae9ce5bf69ccbbcb3fca97b51054)
+        marker_075ec345fa2ca318100a22377bd0142b.bindPopup(popup_e3f5e63bcfc4008f383d4b465a2d6578)
         ;
 
         
     
     
-                marker_95e52ef4f89569c7520e3840bcf7aa8c.setIcon(icon_91611aff5388ce968489887cd46bd63a);
+                marker_075ec345fa2ca318100a22377bd0142b.setIcon(icon_6e3bf3c2afccc60e2ded32ed57f43a3a);
             
     
-            var marker_eadcd1a86b10ab7efe21cab11780f000 = L.marker(
+            var marker_8b669ef1269493d2df2453168f52d775 = L.marker(
                 [48.1453315, 17.2073352],
                 {
   "options": {
   "inzeratId": "bazos_194740998",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_e7dbc46af93e948e15fc645a77a67d86 = L.AwesomeMarkers.icon(
+            var icon_4d64a1ad53bebd091b78120c19e5ca1a = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1342,37 +1342,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_c3a45626dceb2b49ec85a21757087ec0 = L.popup({
+        var popup_0e53110c9f4db1e6668fc074de123c9e = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_a24f3aea28590a2a54b58451e9062160 = $(`<div id="html_a24f3aea28590a2a54b58451e9062160" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             ÚPLNE NOVÉ ŠTÚDIO 23 m² S PARKOVANÍM | BRATISLAVA – VRAKUŇA         </h4>         <b>Pôvodná cena:</b> 599 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>599 €</b><br>         <b>📅 Dátum:</b> 29.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 07 (Vrakuňa)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194740998/uplne-nove-studio-23-m-s-parkovanim-bratislava-vrakuna.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194740998" onclick="toggleSkryt('bazos_194740998')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_c3a45626dceb2b49ec85a21757087ec0.setContent(html_a24f3aea28590a2a54b58451e9062160);
+                var html_87b70251c575aa78d104db6589c81378 = $(`<div id="html_87b70251c575aa78d104db6589c81378" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             ÚPLNE NOVÉ ŠTÚDIO 23 m² S PARKOVANÍM | BRATISLAVA – VRAKUŇA         </h4>         <b>Pôvodná cena:</b> 599 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>599 €</b><br>         <b>📅 Dátum:</b> 29.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 07 (Vrakuňa)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194740998/uplne-nove-studio-23-m-s-parkovanim-bratislava-vrakuna.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194740998" onclick="toggleSkryt('bazos_194740998')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_0e53110c9f4db1e6668fc074de123c9e.setContent(html_87b70251c575aa78d104db6589c81378);
             
         
 
-        marker_eadcd1a86b10ab7efe21cab11780f000.bindPopup(popup_c3a45626dceb2b49ec85a21757087ec0)
+        marker_8b669ef1269493d2df2453168f52d775.bindPopup(popup_0e53110c9f4db1e6668fc074de123c9e)
         ;
 
         
     
     
-                marker_eadcd1a86b10ab7efe21cab11780f000.setIcon(icon_e7dbc46af93e948e15fc645a77a67d86);
+                marker_8b669ef1269493d2df2453168f52d775.setIcon(icon_4d64a1ad53bebd091b78120c19e5ca1a);
             
     
-            var marker_a2dfa73b8f79ef2986de82fc3c4c2a31 = L.marker(
+            var marker_77f2f203232eaf473d35619c9d5bbf2e = L.marker(
                 [48.140322413132, 17.205558193748],
                 {
   "options": {
   "inzeratId": "bazos_194973879",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_c9c02249a4b93a2f49df98801563e5ad = L.AwesomeMarkers.icon(
+            var icon_3fb60c1b6515fc12ee6af67d9f7e6db8 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1383,37 +1383,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_b08da688c11112491c1d375ec8186ece = L.popup({
+        var popup_467f9dad9fec39d7aec930ed76752a56 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_5064503abb919f78c2071fee37a2f37e = $(`<div id="html_5064503abb919f78c2071fee37a2f37e" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Stavbárska ulica 2-garsónka na prenájom,Bratislava         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> Stavbárska<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194973879/stavbarska-ulica-2-garsonka-na-prenajombratislava.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194973879" onclick="toggleSkryt('bazos_194973879')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_b08da688c11112491c1d375ec8186ece.setContent(html_5064503abb919f78c2071fee37a2f37e);
+                var html_18c4233bdc4b4b5ae428efe63944e276 = $(`<div id="html_18c4233bdc4b4b5ae428efe63944e276" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Stavbárska ulica 2-garsónka na prenájom,Bratislava         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> Stavbárska<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194973879/stavbarska-ulica-2-garsonka-na-prenajombratislava.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194973879" onclick="toggleSkryt('bazos_194973879')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_467f9dad9fec39d7aec930ed76752a56.setContent(html_18c4233bdc4b4b5ae428efe63944e276);
             
         
 
-        marker_a2dfa73b8f79ef2986de82fc3c4c2a31.bindPopup(popup_b08da688c11112491c1d375ec8186ece)
+        marker_77f2f203232eaf473d35619c9d5bbf2e.bindPopup(popup_467f9dad9fec39d7aec930ed76752a56)
         ;
 
         
     
     
-                marker_a2dfa73b8f79ef2986de82fc3c4c2a31.setIcon(icon_c9c02249a4b93a2f49df98801563e5ad);
+                marker_77f2f203232eaf473d35619c9d5bbf2e.setIcon(icon_3fb60c1b6515fc12ee6af67d9f7e6db8);
             
     
-            var marker_22fe352325056a4650f9e4e20f1755ca = L.marker(
+            var marker_d9becd076e9557bc78fe50c56b19d07a = L.marker(
                 [48.117814376, 17.109072238],
                 {
   "options": {
   "inzeratId": "bazos_194981964",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_e4b7e888831998d726ddb427c5643c8f = L.AwesomeMarkers.icon(
+            var icon_f134c2f956d4240d8576d6c9ba16d41e = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1424,37 +1424,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_5d7e07f91082fe96590a8955063b2120 = L.popup({
+        var popup_907c597ee38bfa84117d2166099a6c4d = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_c10ac3f78aa4ddc3be90fdc5f570bf84 = $(`<div id="html_c10ac3f78aa4ddc3be90fdc5f570bf84" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BOSEN | Na prenájom garsónka Bratislava - Petržalka         </h4>         <b>Pôvodná cena:</b> 620 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>620 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> M. C. Sklodowskej (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194981964/bosen-na-prenajom-garsonka-bratislava-petrzalka.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194981964" onclick="toggleSkryt('bazos_194981964')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_5d7e07f91082fe96590a8955063b2120.setContent(html_c10ac3f78aa4ddc3be90fdc5f570bf84);
+                var html_85887b8f10fff99317962718cb94279e = $(`<div id="html_85887b8f10fff99317962718cb94279e" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             BOSEN | Na prenájom garsónka Bratislava - Petržalka         </h4>         <b>Pôvodná cena:</b> 620 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>620 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> M. C. Sklodowskej (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194981964/bosen-na-prenajom-garsonka-bratislava-petrzalka.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194981964" onclick="toggleSkryt('bazos_194981964')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_907c597ee38bfa84117d2166099a6c4d.setContent(html_85887b8f10fff99317962718cb94279e);
             
         
 
-        marker_22fe352325056a4650f9e4e20f1755ca.bindPopup(popup_5d7e07f91082fe96590a8955063b2120)
+        marker_d9becd076e9557bc78fe50c56b19d07a.bindPopup(popup_907c597ee38bfa84117d2166099a6c4d)
         ;
 
         
     
     
-                marker_22fe352325056a4650f9e4e20f1755ca.setIcon(icon_e4b7e888831998d726ddb427c5643c8f);
+                marker_d9becd076e9557bc78fe50c56b19d07a.setIcon(icon_f134c2f956d4240d8576d6c9ba16d41e);
             
     
-            var marker_ce02b2c249f0cb451cc8c11c47a87456 = L.marker(
+            var marker_0322a631f3c5e42a4cc7a38e600bc2df = L.marker(
                 [48.1582055, 17.1398196],
                 {
   "options": {
   "inzeratId": "bazos_194980177",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_b3d4a5dd999ab397deb648378564f9b5 = L.AwesomeMarkers.icon(
+            var icon_663b831d147708a8810222a6ab42c977 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1465,37 +1465,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_08d1e9f31b7c1c61d852489945c1ee8c = L.popup({
+        var popup_02bda2f991eb52e3c1cc2710ea33d8f1 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_07eed61d6fd017e6f2d1bfee2ef0910f = $(`<div id="html_07eed61d6fd017e6f2d1bfee2ef0910f" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Ponúkame na prenájom 1-izbový byt , kompletne zariadený zrek         </h4>         <b>Pôvodná cena:</b> 570 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>570 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 08 (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194980177/ponukame-na-prenajom-1-izbovy-byt-kompletne-zariadeny-zrek.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194980177" onclick="toggleSkryt('bazos_194980177')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_08d1e9f31b7c1c61d852489945c1ee8c.setContent(html_07eed61d6fd017e6f2d1bfee2ef0910f);
+                var html_97d6af33d56d81b0f960651fbeb29397 = $(`<div id="html_97d6af33d56d81b0f960651fbeb29397" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Ponúkame na prenájom 1-izbový byt , kompletne zariadený zrek         </h4>         <b>Pôvodná cena:</b> 570 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>570 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 08 (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194980177/ponukame-na-prenajom-1-izbovy-byt-kompletne-zariadeny-zrek.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194980177" onclick="toggleSkryt('bazos_194980177')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_02bda2f991eb52e3c1cc2710ea33d8f1.setContent(html_97d6af33d56d81b0f960651fbeb29397);
             
         
 
-        marker_ce02b2c249f0cb451cc8c11c47a87456.bindPopup(popup_08d1e9f31b7c1c61d852489945c1ee8c)
+        marker_0322a631f3c5e42a4cc7a38e600bc2df.bindPopup(popup_02bda2f991eb52e3c1cc2710ea33d8f1)
         ;
 
         
     
     
-                marker_ce02b2c249f0cb451cc8c11c47a87456.setIcon(icon_b3d4a5dd999ab397deb648378564f9b5);
+                marker_0322a631f3c5e42a4cc7a38e600bc2df.setIcon(icon_663b831d147708a8810222a6ab42c977);
             
     
-            var marker_f99cffc187b31b1be1b53416a167676d = L.marker(
+            var marker_674ede274c26194137fe9cd8dd766415 = L.marker(
                 [48.123911, 17.11186],
                 {
   "options": {
   "inzeratId": "bazos_194979907",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_078bc26aa7ff47225d892b886ef0109c = L.AwesomeMarkers.icon(
+            var icon_a7682417bea42ef3f8a0bf428d847cad = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1506,37 +1506,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_d3f136ff3462b5047f42a5fb3c93d9fe = L.popup({
+        var popup_d6851b6a9be50676e1c5839f4b3415fe = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_d031666ee7be8541652d14dbf97d6059 = $(`<div id="html_d031666ee7be8541652d14dbf97d6059" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             LOYALTERS | Svetlý 1 izbový byt s loggiou, nájom - Petržalka         </h4>         <b>Pôvodná cena:</b> 500 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>500 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 850 00 (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194979907/loyalters-svetly-1-izbovy-byt-s-loggiou-najom-petrzalka.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194979907" onclick="toggleSkryt('bazos_194979907')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_d3f136ff3462b5047f42a5fb3c93d9fe.setContent(html_d031666ee7be8541652d14dbf97d6059);
+                var html_ec5814cc8f3d3914c0118daaea54c57d = $(`<div id="html_ec5814cc8f3d3914c0118daaea54c57d" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             LOYALTERS | Svetlý 1 izbový byt s loggiou, nájom - Petržalka         </h4>         <b>Pôvodná cena:</b> 500 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>500 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 850 00 (Petržalka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194979907/loyalters-svetly-1-izbovy-byt-s-loggiou-najom-petrzalka.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194979907" onclick="toggleSkryt('bazos_194979907')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_d6851b6a9be50676e1c5839f4b3415fe.setContent(html_ec5814cc8f3d3914c0118daaea54c57d);
             
         
 
-        marker_f99cffc187b31b1be1b53416a167676d.bindPopup(popup_d3f136ff3462b5047f42a5fb3c93d9fe)
+        marker_674ede274c26194137fe9cd8dd766415.bindPopup(popup_d6851b6a9be50676e1c5839f4b3415fe)
         ;
 
         
     
     
-                marker_f99cffc187b31b1be1b53416a167676d.setIcon(icon_078bc26aa7ff47225d892b886ef0109c);
+                marker_674ede274c26194137fe9cd8dd766415.setIcon(icon_a7682417bea42ef3f8a0bf428d847cad);
             
     
-            var marker_1987ac3779b7097929872c725822f4ad = L.marker(
+            var marker_57150bba4a457ad6b7c57d7d0d3726e4 = L.marker(
                 [48.20570180809, 17.158390919113],
                 {
   "options": {
   "inzeratId": "bazos_194975485",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_d306fbfcb9dc95e6dbcefacbabdbd3d3 = L.AwesomeMarkers.icon(
+            var icon_4e0c0844c90fd80b1fd1c91d62bd2489 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1547,37 +1547,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_1546430949d7280e549f64e7bec7037f = L.popup({
+        var popup_c5b088901d59d2af0709429de128cb44 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_0b1d7887003a84805a23438eba11fb52 = $(`<div id="html_0b1d7887003a84805a23438eba11fb52" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom 2 izbového bytu v BA III (Rendéz/ul.Pri Šajbách)         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> Pri Šajbách<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194975485/prenajom-2-izboveho-bytu-v-ba-iii-rendezulpri-sajbach.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194975485" onclick="toggleSkryt('bazos_194975485')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_1546430949d7280e549f64e7bec7037f.setContent(html_0b1d7887003a84805a23438eba11fb52);
+                var html_66a6ec77e9f78db59764fe84d2aad9ac = $(`<div id="html_66a6ec77e9f78db59764fe84d2aad9ac" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom 2 izbového bytu v BA III (Rendéz/ul.Pri Šajbách)         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> Pri Šajbách<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194975485/prenajom-2-izboveho-bytu-v-ba-iii-rendezulpri-sajbach.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194975485" onclick="toggleSkryt('bazos_194975485')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_c5b088901d59d2af0709429de128cb44.setContent(html_66a6ec77e9f78db59764fe84d2aad9ac);
             
         
 
-        marker_1987ac3779b7097929872c725822f4ad.bindPopup(popup_1546430949d7280e549f64e7bec7037f)
+        marker_57150bba4a457ad6b7c57d7d0d3726e4.bindPopup(popup_c5b088901d59d2af0709429de128cb44)
         ;
 
         
     
     
-                marker_1987ac3779b7097929872c725822f4ad.setIcon(icon_d306fbfcb9dc95e6dbcefacbabdbd3d3);
+                marker_57150bba4a457ad6b7c57d7d0d3726e4.setIcon(icon_4e0c0844c90fd80b1fd1c91d62bd2489);
             
     
-            var marker_c42d5a972dab4d9bae6c40ccac705f4a = L.marker(
+            var marker_ba53bac1aa38de2a5eeaf05025da3139 = L.marker(
                 [48.198421064051, 17.035757929538],
                 {
   "options": {
   "inzeratId": "bazos_194975296",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_995906028e3eb4f04e192bc869786566 = L.AwesomeMarkers.icon(
+            var icon_7d80524a5f0b5d6a3695825a9c66301c = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1588,37 +1588,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_ec9cb80034e212bb891c110837646e4c = L.popup({
+        var popup_9b6f099c06b956277fb8572855c8a176 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_29ab22e2815d1d52c3149da4f8f875ee = $(`<div id="html_29ab22e2815d1d52c3149da4f8f875ee" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             GRAVITAS | Na prenájom 2-izbový byt, Dúbravka - Bratislava         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> Pri Hrubej lúke (Dúbravka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194975296/gravitas-na-prenajom-2-izbovy-byt-dubravka-bratislava.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194975296" onclick="toggleSkryt('bazos_194975296')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_ec9cb80034e212bb891c110837646e4c.setContent(html_29ab22e2815d1d52c3149da4f8f875ee);
+                var html_4475ee93d494aef5a56d37f931e5b21d = $(`<div id="html_4475ee93d494aef5a56d37f931e5b21d" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             GRAVITAS | Na prenájom 2-izbový byt, Dúbravka - Bratislava         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> Pri Hrubej lúke (Dúbravka)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194975296/gravitas-na-prenajom-2-izbovy-byt-dubravka-bratislava.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194975296" onclick="toggleSkryt('bazos_194975296')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_9b6f099c06b956277fb8572855c8a176.setContent(html_4475ee93d494aef5a56d37f931e5b21d);
             
         
 
-        marker_c42d5a972dab4d9bae6c40ccac705f4a.bindPopup(popup_ec9cb80034e212bb891c110837646e4c)
+        marker_ba53bac1aa38de2a5eeaf05025da3139.bindPopup(popup_9b6f099c06b956277fb8572855c8a176)
         ;
 
         
     
     
-                marker_c42d5a972dab4d9bae6c40ccac705f4a.setIcon(icon_995906028e3eb4f04e192bc869786566);
+                marker_ba53bac1aa38de2a5eeaf05025da3139.setIcon(icon_7d80524a5f0b5d6a3695825a9c66301c);
             
     
-            var marker_e5ac6910328158329f8109c2a0d26226 = L.marker(
+            var marker_72c4289409215901cfb0c0528aaa6ecb = L.marker(
                 [48.1896401, 17.1228167],
                 {
   "options": {
   "inzeratId": "bazos_194971727",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_1f26977b637bded4202fc479939ea035 = L.AwesomeMarkers.icon(
+            var icon_2eb9538fc3273764d1af3c199751a21a = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1629,37 +1629,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_4a70daa6947fb78b0a9f503f70d7273c = L.popup({
+        var popup_0bf99461f828a1efa1028df68e781096 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_fbaff733fa6bd54326f4170d84c8eafe = $(`<div id="html_fbaff733fa6bd54326f4170d84c8eafe" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194971727/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194971727" onclick="toggleSkryt('bazos_194971727')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_4a70daa6947fb78b0a9f503f70d7273c.setContent(html_fbaff733fa6bd54326f4170d84c8eafe);
+                var html_4869d6a350061b7ad76630295ef87efd = $(`<div id="html_4869d6a350061b7ad76630295ef87efd" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194971727/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194971727" onclick="toggleSkryt('bazos_194971727')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_0bf99461f828a1efa1028df68e781096.setContent(html_4869d6a350061b7ad76630295ef87efd);
             
         
 
-        marker_e5ac6910328158329f8109c2a0d26226.bindPopup(popup_4a70daa6947fb78b0a9f503f70d7273c)
+        marker_72c4289409215901cfb0c0528aaa6ecb.bindPopup(popup_0bf99461f828a1efa1028df68e781096)
         ;
 
         
     
     
-                marker_e5ac6910328158329f8109c2a0d26226.setIcon(icon_1f26977b637bded4202fc479939ea035);
+                marker_72c4289409215901cfb0c0528aaa6ecb.setIcon(icon_2eb9538fc3273764d1af3c199751a21a);
             
     
-            var marker_b784557c73cac6abf157a6e03ab39587 = L.marker(
+            var marker_318c6479fd95338a2df4b8541af0b4e4 = L.marker(
                 [48.165348687527, 17.049450390173],
                 {
   "options": {
   "inzeratId": "bazos_194984512",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_4349fc6cf283d31e645abe7f65f1acc1 = L.AwesomeMarkers.icon(
+            var icon_cff56ec0dfda643d627ad3fa7bfe75fa = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1670,37 +1670,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_d300346d1f14e3d40bdeadc6611d03ab = L.popup({
+        var popup_a9f01f51407c248a7adeecf54ac37930 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_a32b3c993001696b0881bee3951e91dd = $(`<div id="html_a32b3c993001696b0881bee3951e91dd" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             IHNEĎ VOĽNÝ - 1-izbový byt na prenájom, Karloveská 8, Bratis         </h4>         <b>Pôvodná cena:</b> 630 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>630 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> časti Karlovej Vsi - Púpavová<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194984512/ihned-volny-1-izbovy-byt-na-prenajom-karloveska-8-bratis.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194984512" onclick="toggleSkryt('bazos_194984512')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_d300346d1f14e3d40bdeadc6611d03ab.setContent(html_a32b3c993001696b0881bee3951e91dd);
+                var html_64401a6160848c6156d305c2d390e4cf = $(`<div id="html_64401a6160848c6156d305c2d390e4cf" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             IHNEĎ VOĽNÝ - 1-izbový byt na prenájom, Karloveská 8, Bratis         </h4>         <b>Pôvodná cena:</b> 630 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>630 €</b><br>         <b>📅 Dátum:</b> 27.08.2026<br>         <b>📍 Lokalita:</b> časti Karlovej Vsi - Púpavová<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194984512/ihned-volny-1-izbovy-byt-na-prenajom-karloveska-8-bratis.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194984512" onclick="toggleSkryt('bazos_194984512')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_a9f01f51407c248a7adeecf54ac37930.setContent(html_64401a6160848c6156d305c2d390e4cf);
             
         
 
-        marker_b784557c73cac6abf157a6e03ab39587.bindPopup(popup_d300346d1f14e3d40bdeadc6611d03ab)
+        marker_318c6479fd95338a2df4b8541af0b4e4.bindPopup(popup_a9f01f51407c248a7adeecf54ac37930)
         ;
 
         
     
     
-                marker_b784557c73cac6abf157a6e03ab39587.setIcon(icon_4349fc6cf283d31e645abe7f65f1acc1);
+                marker_318c6479fd95338a2df4b8541af0b4e4.setIcon(icon_cff56ec0dfda643d627ad3fa7bfe75fa);
             
     
-            var marker_ed916260dd10347dfd6a4f83b780d4a2 = L.marker(
+            var marker_1f92d24cb21e2de46f61acc94ac3f378 = L.marker(
                 [48.123911, 17.11186],
                 {
   "options": {
   "inzeratId": "bazos_194998479",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_70dceeedc0c31e3768f66f2f0a99bf8b = L.AwesomeMarkers.icon(
+            var icon_3b0749b4999e393c92d362ca028db9c4 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1711,37 +1711,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_41a14adf656f401bf6bb1c006c68a611 = L.popup({
+        var popup_6c64c49e20d1870a04b3d32c4e9fb8c3 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_bc834a7ca4fcfc47aec41c04f81c18c5 = $(`<div id="html_bc834a7ca4fcfc47aec41c04f81c18c5" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             1-izbový zariadený byt na prenájom v Petržalke         </h4>         <b>Pôvodná cena:</b> 700 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>700 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 850 00<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194998479/1-izbovy-zariadeny-byt-na-prenajom-v-petrzalke.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194998479" onclick="toggleSkryt('bazos_194998479')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_41a14adf656f401bf6bb1c006c68a611.setContent(html_bc834a7ca4fcfc47aec41c04f81c18c5);
+                var html_ef3c2089099c085ab364387561737e87 = $(`<div id="html_ef3c2089099c085ab364387561737e87" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             1-izbový zariadený byt na prenájom v Petržalke         </h4>         <b>Pôvodná cena:</b> 700 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>700 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 850 00<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194998479/1-izbovy-zariadeny-byt-na-prenajom-v-petrzalke.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194998479" onclick="toggleSkryt('bazos_194998479')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_6c64c49e20d1870a04b3d32c4e9fb8c3.setContent(html_ef3c2089099c085ab364387561737e87);
             
         
 
-        marker_ed916260dd10347dfd6a4f83b780d4a2.bindPopup(popup_41a14adf656f401bf6bb1c006c68a611)
+        marker_1f92d24cb21e2de46f61acc94ac3f378.bindPopup(popup_6c64c49e20d1870a04b3d32c4e9fb8c3)
         ;
 
         
     
     
-                marker_ed916260dd10347dfd6a4f83b780d4a2.setIcon(icon_70dceeedc0c31e3768f66f2f0a99bf8b);
+                marker_1f92d24cb21e2de46f61acc94ac3f378.setIcon(icon_3b0749b4999e393c92d362ca028db9c4);
             
     
-            var marker_1fddef57f3721e9629d7eb0c7d815244 = L.marker(
-                [48.150937350118, 17.163303712157],
+            var marker_46e12858be54d72bb25015c316cc1b56 = L.marker(
+                [48.15715266, 17.149965411],
                 {
   "options": {
   "inzeratId": "bazos_195000522",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_be5767a448a502ba2bf513100e6b8d23 = L.AwesomeMarkers.icon(
+            var icon_000d4b592b818a9fc1dbe43229a66f4c = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1752,37 +1752,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_ce4df84417d3450b13b62b778482085a = L.popup({
+        var popup_755cba7d33f46fae6c21dfa3fe3767f3 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_acc52ef2f4b0c042e88e61ffd51b3781 = $(`<div id="html_acc52ef2f4b0c042e88e61ffd51b3781" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             AVENUE I NÁJOM, štýlový 1i byt v novostavbe s loggiou v Ruži         </h4>         <b>Pôvodná cena:</b> 590 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>590 €</b><br>         <b>📅 Dátum:</b> 28.08.2026<br>         <b>📍 Lokalita:</b> Rezedova (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/195000522/avenue-i-najom-stylovy-1i-byt-v-novostavbe-s-loggiou-v-ruzi.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_195000522" onclick="toggleSkryt('bazos_195000522')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_ce4df84417d3450b13b62b778482085a.setContent(html_acc52ef2f4b0c042e88e61ffd51b3781);
+                var html_f461b8dfc74f9a3068b4b1cab478d296 = $(`<div id="html_f461b8dfc74f9a3068b4b1cab478d296" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             AVENUE I NÁJOM, štýlový 1i byt v novostavbe s loggiou v Ruži         </h4>         <b>Pôvodná cena:</b> 590 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>590 €</b><br>         <b>📅 Dátum:</b> 28.08.2026<br>         <b>📍 Lokalita:</b> Garsónka (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/195000522/avenue-i-najom-stylovy-1i-byt-v-novostavbe-s-loggiou-v-ruzi.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_195000522" onclick="toggleSkryt('bazos_195000522')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_755cba7d33f46fae6c21dfa3fe3767f3.setContent(html_f461b8dfc74f9a3068b4b1cab478d296);
             
         
 
-        marker_1fddef57f3721e9629d7eb0c7d815244.bindPopup(popup_ce4df84417d3450b13b62b778482085a)
+        marker_46e12858be54d72bb25015c316cc1b56.bindPopup(popup_755cba7d33f46fae6c21dfa3fe3767f3)
         ;
 
         
     
     
-                marker_1fddef57f3721e9629d7eb0c7d815244.setIcon(icon_be5767a448a502ba2bf513100e6b8d23);
+                marker_46e12858be54d72bb25015c316cc1b56.setIcon(icon_000d4b592b818a9fc1dbe43229a66f4c);
             
     
-            var marker_129f41ceaa02d8a28c045363a949ce9a = L.marker(
+            var marker_fd6a730406c3f916b45e5c6a3a2d79e7 = L.marker(
                 [48.1896401, 17.1228167],
                 {
   "options": {
   "inzeratId": "bazos_195000383",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_f8b88928ddee4b01a6aae7c4920f60fe = L.AwesomeMarkers.icon(
+            var icon_c1a0c95cd36b0621177ad83dae0080d0 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1793,37 +1793,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_8ade7721be04701267b7ae533ee60c88 = L.popup({
+        var popup_da08d48bc4577ba33976cdcb6d109ec9 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_e3e2b61932d0761953e89fe9a05ac6a3 = $(`<div id="html_e3e2b61932d0761953e89fe9a05ac6a3" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Útulná a tichá garsónka v zelenej lokalite – Jelšová - Kramá         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 28.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/195000383/utulna-a-ticha-garsonka-v-zelenej-lokalite-jelsova-krama.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_195000383" onclick="toggleSkryt('bazos_195000383')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_8ade7721be04701267b7ae533ee60c88.setContent(html_e3e2b61932d0761953e89fe9a05ac6a3);
+                var html_49c6adc3af4139ff66bd617e2e3013ed = $(`<div id="html_49c6adc3af4139ff66bd617e2e3013ed" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Útulná a tichá garsónka v zelenej lokalite – Jelšová - Kramá         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 28.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 830 00 (Nové Mesto)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/195000383/utulna-a-ticha-garsonka-v-zelenej-lokalite-jelsova-krama.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_195000383" onclick="toggleSkryt('bazos_195000383')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_da08d48bc4577ba33976cdcb6d109ec9.setContent(html_49c6adc3af4139ff66bd617e2e3013ed);
             
         
 
-        marker_129f41ceaa02d8a28c045363a949ce9a.bindPopup(popup_8ade7721be04701267b7ae533ee60c88)
+        marker_fd6a730406c3f916b45e5c6a3a2d79e7.bindPopup(popup_da08d48bc4577ba33976cdcb6d109ec9)
         ;
 
         
     
     
-                marker_129f41ceaa02d8a28c045363a949ce9a.setIcon(icon_f8b88928ddee4b01a6aae7c4920f60fe);
+                marker_fd6a730406c3f916b45e5c6a3a2d79e7.setIcon(icon_c1a0c95cd36b0621177ad83dae0080d0);
             
     
-            var marker_1ccdb7e405d4d085b711745cd0f29873 = L.marker(
+            var marker_c968b40a7f2a311dfecf3517cc325e8c = L.marker(
                 [48.154419507, 17.119406427],
                 {
   "options": {
   "inzeratId": "bazos_194912693",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_c7f21bebb4162dbb4e0592274497632c = L.AwesomeMarkers.icon(
+            var icon_2d6a57f2375abc4134c84918cfd69918 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1834,37 +1834,37 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_4b1f99c248ddde4bd473e89b370111c8 = L.popup({
+        var popup_4c6be427987c065d512d34c829791bbf = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_9a43ad0bd844e2e6acd91e27e2603919 = $(`<div id="html_9a43ad0bd844e2e6acd91e27e2603919" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom veľkéj izby V Bratislave         </h4>         <b>Pôvodná cena:</b> 375 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>375 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> širšom centra Starého Meste<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194912693/prenajom-velkeho-bytu-v-bratislave-76m2.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194912693" onclick="toggleSkryt('bazos_194912693')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_4b1f99c248ddde4bd473e89b370111c8.setContent(html_9a43ad0bd844e2e6acd91e27e2603919);
+                var html_119bcceea2bb5a2d0831a5aec79e2a18 = $(`<div id="html_119bcceea2bb5a2d0831a5aec79e2a18" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             Prenájom veľkéj izby V Bratislave         </h4>         <b>Pôvodná cena:</b> 375 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>375 €</b><br>         <b>📅 Dátum:</b> 25.08.2026<br>         <b>📍 Lokalita:</b> širšom centra Starého Meste<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/194912693/prenajom-velkeho-bytu-v-bratislave-76m2.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_194912693" onclick="toggleSkryt('bazos_194912693')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_4c6be427987c065d512d34c829791bbf.setContent(html_119bcceea2bb5a2d0831a5aec79e2a18);
             
         
 
-        marker_1ccdb7e405d4d085b711745cd0f29873.bindPopup(popup_4b1f99c248ddde4bd473e89b370111c8)
+        marker_c968b40a7f2a311dfecf3517cc325e8c.bindPopup(popup_4c6be427987c065d512d34c829791bbf)
         ;
 
         
     
     
-                marker_1ccdb7e405d4d085b711745cd0f29873.setIcon(icon_c7f21bebb4162dbb4e0592274497632c);
+                marker_c968b40a7f2a311dfecf3517cc325e8c.setIcon(icon_2d6a57f2375abc4134c84918cfd69918);
             
     
-            var marker_961a323b7c5d7d2dfee51d7c61c08966 = L.marker(
+            var marker_970afb0c2f75e983e9fa2c596455ce58 = L.marker(
                 [48.1949026, 17.0334999],
                 {
   "options": {
   "inzeratId": "bazos_195013694",
 },
 }
-            ).addTo(marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6);
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
         
     
-            var icon_9797633298a7078a29b5b7cd587aa767 = L.AwesomeMarkers.icon(
+            var icon_bfbf844df98a86c1398bd75aeae7db41 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "orange",
   "iconColor": "white",
@@ -1875,27 +1875,68 @@ window.addEventListener('load', function() {
             );
         
     
-        var popup_d37daed0e61a85525da5c7cb9904be7c = L.popup({
+        var popup_f28509b9af68a3fc2ed73838e1aa01e7 = L.popup({
   "maxWidth": 320,
 });
 
         
             
-                var html_a611f43d67ecb0f5bd5043e962b07a78 = $(`<div id="html_a611f43d67ecb0f5bd5043e962b07a78" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             NOVOSTAVBA 1,5 izbový byt, Pri Hrubej lúke, Bratislava IV. D         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 28.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 841 02<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/195013694/novostavba-15-izbovy-byt-pri-hrubej-luke-bratislava-iv-d.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_195013694" onclick="toggleSkryt('bazos_195013694')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
-                popup_d37daed0e61a85525da5c7cb9904be7c.setContent(html_a611f43d67ecb0f5bd5043e962b07a78);
+                var html_07e2573ea451e92743fd6e105b207f25 = $(`<div id="html_07e2573ea451e92743fd6e105b207f25" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             NOVOSTAVBA 1,5 izbový byt, Pri Hrubej lúke, Bratislava IV. D         </h4>         <b>Pôvodná cena:</b> 650 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>650 €</b><br>         <b>📅 Dátum:</b> 28.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 841 02<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/195013694/novostavba-15-izbovy-byt-pri-hrubej-luke-bratislava-iv-d.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_195013694" onclick="toggleSkryt('bazos_195013694')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_f28509b9af68a3fc2ed73838e1aa01e7.setContent(html_07e2573ea451e92743fd6e105b207f25);
             
         
 
-        marker_961a323b7c5d7d2dfee51d7c61c08966.bindPopup(popup_d37daed0e61a85525da5c7cb9904be7c)
+        marker_970afb0c2f75e983e9fa2c596455ce58.bindPopup(popup_f28509b9af68a3fc2ed73838e1aa01e7)
         ;
 
         
     
     
-                marker_961a323b7c5d7d2dfee51d7c61c08966.setIcon(icon_9797633298a7078a29b5b7cd587aa767);
+                marker_970afb0c2f75e983e9fa2c596455ce58.setIcon(icon_bfbf844df98a86c1398bd75aeae7db41);
             
     
-            marker_cluster_0689e8d8fa5e369fadf68f4774fa36e6.addTo(map_92d3dd54579cbebab665085f9e3bbad1);
+            var marker_b5af9fe9296d64619b4fd69399508bd9 = L.marker(
+                [48.1536448, 17.1566781],
+                {
+  "options": {
+  "inzeratId": "bazos_195058969",
+},
+}
+            ).addTo(marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93);
+        
+    
+            var icon_a93af958749686cbe656aeadd087f13e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6cf6d3cd1326a50bed263e5859f65ca7 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_f36d1d12cbfa190bb597cbde0ed3b1f0 = $(`<div id="html_f36d1d12cbfa190bb597cbde0ed3b1f0" style="width: 100.0%; height: 100.0%;">     <div style="width: 270px; font-family: Arial, sans-serif; font-size: 13px; line-height: 1.5;">         <h4 style="margin: 0 0 8px 0; color: #2c3e50; font-size: 14px; border-bottom: 1px solid #eee; padding-bottom: 5px;">             PRENÁJOM VEĽMI PEKNEJ ZARIADENEJ GARZONKY V TICHOM PROSTREDÍ         </h4>         <b>Pôvodná cena:</b> 530 €<br>         <b>💰 Cena Spolu:</b> <b style='color:#d9534f; font-size:1.1em;'>530 €</b><br>         <b>📅 Dátum:</b> 30.08.2026<br>         <b>📍 Lokalita:</b> PSČ: 821 01 (Ružinov)<br>         <b>🌐 Zdroj:</b> Bazoš<br><br>         <a href='https://reality.bazos.sk/inzerat/195058969/prenajom-velmi-peknej-zariadenej-garzonky-v-tichom-prostredi.php' target='_blank' style='background-color: #337ab7; color: white; text-decoration: none; padding: 6px 12px; border-radius: 4px; display: inline-block; font-weight: bold; width: 88%; text-align: center;'>Otvoriť na Bazoš 🔗</a>         <br><br>         <button id="btn-skryt-bazos_195058969" onclick="toggleSkryt('bazos_195058969')" style="background-color: #e74c3c; color: white; border: none; padding: 7px 12px; border-radius: 4px; cursor: pointer; width: 100%; font-weight: bold; transition: 0.2s;">             👻 Stmaviť / Priesvitný byt         </button>     </div>     </div>`)[0];
+                popup_6cf6d3cd1326a50bed263e5859f65ca7.setContent(html_f36d1d12cbfa190bb597cbde0ed3b1f0);
+            
+        
+
+        marker_b5af9fe9296d64619b4fd69399508bd9.bindPopup(popup_6cf6d3cd1326a50bed263e5859f65ca7)
+        ;
+
+        
+    
+    
+                marker_b5af9fe9296d64619b4fd69399508bd9.setIcon(icon_a93af958749686cbe656aeadd087f13e);
+            
+    
+            marker_cluster_c3ed54f2521e9d96ec9afda0336b8f93.addTo(map_cae6af62625843ae7e2fbb04c6cbf60a);
         
 </script>
 </html>
