@@ -219,10 +219,10 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 06 (Záhorská Bystrica)",
+    "lat": 48.2386821,
+    "lng": 17.0348442,
+    "farba": "orange"
   },
   "bazos_194910040": {
     "id": "bazos_194910040",
@@ -384,7 +384,7 @@
     "efektivna_cena": 650,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "Stavbárska (Ružinov)",
+    "lokalita": "Stavbárska",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -549,7 +549,7 @@
     "efektivna_cena": 375,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "širšom centra Starého Meste",
+    "lokalita": "prostredí pri Malom Dunaji",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
