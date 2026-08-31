@@ -54,9 +54,9 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "M. C. Sklodowskej (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   },
   "bazos_194906245": {
@@ -69,10 +69,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "PSČ: 811 09 (Staré Mesto)",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Žižkova (Staré Mesto)",
+    "lat": 48.142806812256,
+    "lng": 17.087169661423,
+    "farba": "green"
   },
   "bazos_194650821": {
     "id": "bazos_194650821",
@@ -84,10 +84,10 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Tomášikova",
+    "lat": 48.163704885586,
+    "lng": 17.15367903129,
+    "farba": "green"
   },
   "bazos_194921379": {
     "id": "bazos_194921379",
@@ -99,10 +99,10 @@
     "efektivna_cena": 590,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "Bajkalská",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194923275": {
     "id": "bazos_194923275",
@@ -129,7 +129,7 @@
     "efektivna_cena": 580,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -204,7 +204,7 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Stavbárska",
+    "lokalita": "Stavbárska (Vrakuňa)",
     "lat": 48.140322413132,
     "lng": 17.205558193748,
     "farba": "green"
@@ -219,9 +219,9 @@
     "efektivna_cena": 620,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "M. C. Sklodowskej (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   },
   "bazos_194980177": {
@@ -309,9 +309,9 @@
     "efektivna_cena": 630,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "časti Karlovej Vsi - Púpavová",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
+    "lokalita": "Garsónka (Karlova Ves)",
+    "lat": 48.154679128,
+    "lng": 17.053884475,
     "farba": "green"
   },
   "bazos_194998479": {
@@ -324,10 +324,10 @@
     "efektivna_cena": 700,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
+    "farba": "green"
   },
   "bazos_195000522": {
     "id": "bazos_195000522",
@@ -339,10 +339,10 @@
     "efektivna_cena": 590,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195000383": {
     "id": "bazos_195000383",
@@ -354,10 +354,10 @@
     "efektivna_cena": 650,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "Bajkalská",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_194912693": {
     "id": "bazos_194912693",
@@ -369,10 +369,10 @@
     "efektivna_cena": 375,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 05",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
   },
   "bazos_195013694": {
     "id": "bazos_195013694",
@@ -384,7 +384,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -417,6 +417,96 @@
     "lokalita": "Šustekova",
     "lat": 48.128974204293,
     "lng": 17.124670906598,
+    "farba": "green"
+  },
+  "bazos_195093818": {
+    "id": "bazos_195093818",
+    "zdroj": "Bazoš",
+    "titulok": "Moderný byt v komplexe City Park Ružinov na Plynárenskej, Ni",
+    "odkaz": "https://reality.bazos.sk/inzerat/195093818/moderny-byt-v-komplexe-city-park-ruzinov-na-plynarenskej-ni.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 821 09 (Ružinov)",
+    "lat": 48.1398151,
+    "lng": 17.1441354,
+    "farba": "orange"
+  },
+  "bazos_195088244": {
+    "id": "bazos_195088244",
+    "zdroj": "Bazoš",
+    "titulok": "Na vyslní, Nový Ružinov, 1,5 izb. byt od 11.9,možnosť garáže",
+    "odkaz": "https://reality.bazos.sk/inzerat/195088244/na-vyslni-novy-ruzinov-15-izb-byt-od-119moznost-garaze.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 821 05 (Ružinov)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
+  },
+  "bazos_195085910": {
+    "id": "bazos_195085910",
+    "zdroj": "Bazoš",
+    "titulok": "ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním",
+    "odkaz": "https://reality.bazos.sk/inzerat/195085910/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_195080602": {
+    "id": "bazos_195080602",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/195080602/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195078380": {
+    "id": "bazos_195078380",
+    "zdroj": "Bazoš",
+    "titulok": "Gars. - Nám. sv. Františka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195078380/gars-nam-sv-frantiska.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "časti Karlovej Vsi - Púpavová",
+    "lat": 48.165348687527,
+    "lng": 17.049450390173,
+    "farba": "green"
+  },
+  "bazos_195078315": {
+    "id": "bazos_195078315",
+    "zdroj": "Bazoš",
+    "titulok": "2-izb. byt v Petržalke - Medveďovej ul.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195078315/2-izb-byt-v-petrzalke-medvedovej-ul.php",
+    "cena_povodna": "605 €",
+    "spolu_cena": "605 €",
+    "efektivna_cena": 605,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "Petržalke - Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   }
 }
