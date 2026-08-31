@@ -54,10 +54,10 @@
     "efektivna_cena": 700,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "Medveďovej (Petržalka)",
-    "lat": 48.123031098998,
-    "lng": 17.131897232261,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194906245": {
     "id": "bazos_194906245",
@@ -69,9 +69,9 @@
     "efektivna_cena": 600,
     "datum_str": "25.08.2026",
     "datum_iso": "2026-08-25",
-    "lokalita": "Žižkova (Staré Mesto)",
-    "lat": 48.142806812256,
-    "lng": 17.087169661423,
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green"
   },
   "bazos_194650821": {
@@ -129,7 +129,7 @@
     "efektivna_cena": 580,
     "datum_str": "26.08.2026",
     "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 811 01",
+    "lokalita": "PSČ: 811 01 (Nivy)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -219,10 +219,10 @@
     "efektivna_cena": 620,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "Medveďovej (Petržalka)",
-    "lat": 48.123031098998,
-    "lng": 17.131897232261,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194980177": {
     "id": "bazos_194980177",
@@ -234,7 +234,7 @@
     "efektivna_cena": 570,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "PSČ: 821 08 (Ružinov)",
+    "lokalita": "PSČ: 821 08",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -324,10 +324,10 @@
     "efektivna_cena": 700,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Medveďovej (Petržalka)",
-    "lat": 48.123031098998,
-    "lng": 17.131897232261,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195000522": {
     "id": "bazos_195000522",
@@ -339,10 +339,10 @@
     "efektivna_cena": 590,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "ulica (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195000383": {
     "id": "bazos_195000383",
@@ -399,10 +399,10 @@
     "efektivna_cena": 530,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "ulica (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -474,10 +474,10 @@
     "efektivna_cena": 570,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "ulica (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195078380": {
     "id": "bazos_195078380",
@@ -508,5 +508,110 @@
     "lat": 48.123031098998,
     "lng": 17.131897232261,
     "farba": "green"
+  },
+  "bazos_194889787": {
+    "id": "bazos_194889787",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkam 1 izbový byt \"Grand Koliba\" terasa-garáž",
+    "odkaz": "https://reality.bazos.sk/inzerat/194889787/ponukam-15-izbovy-byt-grand-koliba-terasa-garaz-pivnic.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 831 03 (Nové Mesto)",
+    "lat": 48.1649786,
+    "lng": 17.1309307,
+    "farba": "orange"
+  },
+  "bazos_194376675": {
+    "id": "bazos_194376675",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izb. byt vna Bajkalskej ulici, Bratislava.",
+    "odkaz": "https://reality.bazos.sk/inzerat/194376675/prenajom-2-izb-byt-vna-bajkalskej-ulici-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_195105065": {
+    "id": "bazos_195105065",
+    "zdroj": "Bazoš",
+    "titulok": "THE HOME I PRENÁJOM - Príjemný 1 izbový byt na Nejedlého ul.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195105065/the-home-i-prenajom-prijemny-1-izbovy-byt-na-nejedleho-ul.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "Ušiakova (Dúbravka)",
+    "lat": 48.189862711573,
+    "lng": 17.039707621964,
+    "farba": "green"
+  },
+  "bazos_195102372": {
+    "id": "bazos_195102372",
+    "zdroj": "Bazoš",
+    "titulok": "LOYALTERS|Na prenájom svetlý a útulný 2‑izb. byt v Dúbravke",
+    "odkaz": "https://reality.bazos.sk/inzerat/195102372/loyaltersna-prenajom-svetly-a-utulny-2izb-byt-v-dubravke.php",
+    "cena_povodna": "640 €",
+    "spolu_cena": "640 €",
+    "efektivna_cena": 640,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
+  },
+  "bazos_195102181": {
+    "id": "bazos_195102181",
+    "zdroj": "Bazoš",
+    "titulok": "Na PRENÁJOM 2 izbový klimatizovaný byt s balkónom a výhľadom",
+    "odkaz": "https://reality.bazos.sk/inzerat/195102181/na-prenajom-2-izbovy-klimatizovany-byt-s-balkonom-a-vyhladom.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
+  },
+  "bazos_195102150": {
+    "id": "bazos_195102150",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM 2 IZBOVÝ BYT S LOGGIOU, BRATISLAVA-PETRŽALKA SLN",
+    "odkaz": "https://reality.bazos.sk/inzerat/195102150/na-prenajom-2-izbovy-byt-s-loggiou-bratislava-petrzalka-sln.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "Zadunajská (Petržalka)",
+    "lat": 48.130559019338,
+    "lng": 17.102103784817,
+    "farba": "green"
+  },
+  "bazos_195098310": {
+    "id": "bazos_195098310",
+    "zdroj": "Bazoš",
+    "titulok": "ZREKONŠTRUOVANÝ 1i. BYT V ÚPLNOM CENTRE BRATISLAVY / GORKÉHO",
+    "odkaz": "https://reality.bazos.sk/inzerat/195098310/zrekonstruovany-1i-byt-v-uplnom-centre-bratislavy-gorkeho.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "31.08.2026",
+    "datum_iso": "2026-08-31",
+    "lokalita": "PSČ: 811 01 (Nivy)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   }
 }
