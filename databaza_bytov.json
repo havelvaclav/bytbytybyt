@@ -9,10 +9,10 @@
     "efektivna_cena": 360,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "JUH",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_194650821": {
     "id": "bazos_194650821",
@@ -129,10 +129,10 @@
     "efektivna_cena": 620,
     "datum_str": "27.08.2026",
     "datum_iso": "2026-08-27",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_194980177": {
     "id": "bazos_194980177",
@@ -234,10 +234,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_195000522": {
     "id": "bazos_195000522",
@@ -249,10 +249,10 @@
     "efektivna_cena": 590,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vietnamská (Ružinov)",
+    "lat": 48.16876669279,
+    "lng": 17.169738936916,
+    "farba": "green"
   },
   "bazos_195000383": {
     "id": "bazos_195000383",
@@ -264,7 +264,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -279,10 +279,10 @@
     "efektivna_cena": 650,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "Ušiakova (Dúbravka)",
-    "lat": 48.189862711573,
-    "lng": 17.039707621964,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_195058969": {
     "id": "bazos_195058969",
@@ -294,10 +294,10 @@
     "efektivna_cena": 530,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vietnamská (Ružinov)",
+    "lat": 48.16876669279,
+    "lng": 17.169738936916,
+    "farba": "green"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -354,7 +354,7 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -369,10 +369,10 @@
     "efektivna_cena": 570,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vietnamská (Ružinov)",
+    "lat": 48.16876669279,
+    "lng": 17.169738936916,
+    "farba": "green"
   },
   "bazos_195078380": {
     "id": "bazos_195078380",
@@ -399,7 +399,7 @@
     "efektivna_cena": 605,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Petržalke - Medveďovej",
+    "lokalita": "Petržalke - Medveďovej (Petržalka)",
     "lat": 48.123031098998,
     "lng": 17.131897232261,
     "farba": "green"
@@ -410,11 +410,11 @@
     "titulok": "Ponúkam 1 izbový byt \"Grand Koliba\" terasa-garáž",
     "odkaz": "https://reality.bazos.sk/inzerat/194889787/ponukam-15-izbovy-byt-grand-koliba-terasa-garaz-pivnic.php",
     "cena_povodna": "580 €",
-    "spolu_cena": "580 €",
-    "efektivna_cena": 580,
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 831 03 (Nové Mesto)",
+    "lokalita": "PSČ: 831 03 (Koliba)",
     "lat": 48.1649786,
     "lng": 17.1309307,
     "farba": "orange"
@@ -429,7 +429,7 @@
     "efektivna_cena": 700,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -459,10 +459,10 @@
     "efektivna_cena": 640,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Ušiakova (Dúbravka)",
-    "lat": 48.189862711573,
-    "lng": 17.039707621964,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_195102181": {
     "id": "bazos_195102181",
@@ -474,10 +474,10 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195102150": {
     "id": "bazos_195102150",
@@ -489,10 +489,10 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_195098310": {
     "id": "bazos_195098310",
@@ -504,9 +504,54 @@
     "efektivna_cena": 620,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 811 01 (Nivy)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
+    "lokalita": "Dobrovského (Staré Mesto)",
+    "lat": 48.148491894039,
+    "lng": 17.115737965626,
+    "farba": "green"
+  },
+  "bazos_195129161": {
+    "id": "bazos_195129161",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom garsónka s loggiou v Bratislava- Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/195129161/na-prenajom-garsonka-s-loggiou-v-bratislava-ruzinov.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "01.09.2026",
+    "datum_iso": "2026-09-01",
+    "lokalita": "PSČ: 821 05 (Ružinov)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
     "farba": "orange"
+  },
+  "bazos_195124129": {
+    "id": "bazos_195124129",
+    "zdroj": "Bazoš",
+    "titulok": "Hľadám pre klientov na prenájom 2-garsónku  vo Vrakuni",
+    "odkaz": "https://reality.bazos.sk/inzerat/195124129/hladam-pre-klientov-na-prenajom-2-garsonku-vo-vrakuni.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "01.09.2026",
+    "datum_iso": "2026-09-01",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_195121904": {
+    "id": "bazos_195121904",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom dvojizbového bytu Bratislava Bez depozitu",
+    "odkaz": "https://reality.bazos.sk/inzerat/195121904/prenajom-dvojizboveho-bytu-bratislava-bez-depozitu.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "01.09.2026",
+    "datum_iso": "2026-09-01",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   }
 }
