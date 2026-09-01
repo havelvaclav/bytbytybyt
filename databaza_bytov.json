@@ -249,10 +249,10 @@
     "efektivna_cena": 590,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "Vietnamská (Ružinov)",
-    "lat": 48.16876669279,
-    "lng": 17.169738936916,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195000383": {
     "id": "bazos_195000383",
@@ -264,7 +264,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -279,7 +279,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -294,10 +294,10 @@
     "efektivna_cena": 530,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "Vietnamská (Ružinov)",
-    "lat": 48.16876669279,
-    "lng": 17.169738936916,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -354,7 +354,7 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -369,10 +369,10 @@
     "efektivna_cena": 570,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Vietnamská (Ružinov)",
-    "lat": 48.16876669279,
-    "lng": 17.169738936916,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195078380": {
     "id": "bazos_195078380",
@@ -384,9 +384,9 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "časti Karlovej Vsi - Púpavová",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
+    "lokalita": "Líščie údolie (Karlova Ves)",
+    "lat": 48.158329969892,
+    "lng": 17.057052063318,
     "farba": "green"
   },
   "bazos_195078315": {
@@ -410,14 +410,14 @@
     "titulok": "Ponúkam 1 izbový byt \"Grand Koliba\" terasa-garáž",
     "odkaz": "https://reality.bazos.sk/inzerat/194889787/ponukam-15-izbovy-byt-grand-koliba-terasa-garaz-pivnic.php",
     "cena_povodna": "580 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 831 03 (Koliba)",
-    "lat": 48.1649786,
-    "lng": 17.1309307,
-    "farba": "orange"
+    "lokalita": "Pluhová (Nové Mesto)",
+    "lat": 48.173593200687,
+    "lng": 17.136814337386,
+    "farba": "green"
   },
   "bazos_194376675": {
     "id": "bazos_194376675",
@@ -429,7 +429,7 @@
     "efektivna_cena": 700,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -459,7 +459,7 @@
     "efektivna_cena": 640,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -504,10 +504,10 @@
     "efektivna_cena": 620,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Dobrovského (Staré Mesto)",
-    "lat": 48.148491894039,
-    "lng": 17.115737965626,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_195129161": {
     "id": "bazos_195129161",
@@ -553,5 +553,20 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
+  },
+  "bazos_195133111": {
+    "id": "bazos_195133111",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1,5 izbový byt Francisciho ul. Bratislava.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195133111/prenajom-15-izbovy-byt-francisciho-ul-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "01.09.2026",
+    "datum_iso": "2026-09-01",
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   }
 }
