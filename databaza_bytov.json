@@ -29,21 +29,6 @@
     "lng": 17.1158206,
     "farba": "orange"
   },
-  "bazos_194933874": {
-    "id": "bazos_194933874",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom: Zariadená garsónka, Bratislava centrum - Michalská",
-    "odkaz": "https://reality.bazos.sk/inzerat/194933874/prenajom-zariadena-garsonka-bratislava-centrum-michalska.php",
-    "cena_povodna": "580 €",
-    "spolu_cena": "580 €",
-    "efektivna_cena": 580,
-    "datum_str": "26.08.2026",
-    "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 811 01 (Nivy)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
-  },
   "bazos_194938013": {
     "id": "bazos_194938013",
     "zdroj": "Bazoš",
@@ -57,36 +42,6 @@
     "lokalita": "Garsónka (Ružinov)",
     "lat": 48.15715266,
     "lng": 17.149965411,
-    "farba": "green"
-  },
-  "bazos_194938420": {
-    "id": "bazos_194938420",
-    "zdroj": "Bazoš",
-    "titulok": "EXKLUZÍVNE Byty na prenájom Nové Mesto nad Váhom",
-    "odkaz": "https://reality.bazos.sk/inzerat/194938420/exkluzivne-byty-na-prenajom-nove-mesto-nad-vahom.php",
-    "cena_povodna": "434 €",
-    "spolu_cena": "434 €",
-    "efektivna_cena": 434,
-    "datum_str": "26.08.2026",
-    "datum_iso": "2026-08-26",
-    "lokalita": "PSČ: 915 01 (Nové Mesto)",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "orange"
-  },
-  "bazos_194944820": {
-    "id": "bazos_194944820",
-    "zdroj": "Bazoš",
-    "titulok": "Gars. - Nám. sv. Františka",
-    "odkaz": "https://reality.bazos.sk/inzerat/194944820/gars-nam-sv-frantiska.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "26.08.2026",
-    "datum_iso": "2026-08-26",
-    "lokalita": "časti Karlovej Vsi - Púpavová",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
     "farba": "green"
   },
   "bazos_194740998": {
