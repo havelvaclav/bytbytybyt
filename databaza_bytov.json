@@ -24,7 +24,7 @@
     "efektivna_cena": 650,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 831 02",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -204,7 +204,7 @@
     "efektivna_cena": 590,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -249,7 +249,7 @@
     "efektivna_cena": 530,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -459,7 +459,7 @@
     "efektivna_cena": 620,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 811 01 (Nivy)",
+    "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -504,9 +504,9 @@
     "efektivna_cena": 700,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PLYNÁRENSKÁ",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
+    "lokalita": "balkónom Vysoká (Staré Mesto)",
+    "lat": 48.148935939769,
+    "lng": 17.110789106078,
     "farba": "green"
   },
   "bazos_195133111": {
@@ -519,7 +519,7 @@
     "efektivna_cena": 700,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 811 01 (Nivy)",
+    "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -549,10 +549,10 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 851 01",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Kremnická (Petržalka)",
+    "lat": 48.126638876248,
+    "lng": 17.092621475782,
+    "farba": "green"
   },
   "bazos_195160368": {
     "id": "bazos_195160368",
@@ -579,9 +579,9 @@
     "efektivna_cena": 700,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PLYNÁRENSKÁ",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green"
   },
   "bazos_195153073": {
@@ -613,5 +613,50 @@
     "lat": 48.224362605108,
     "lng": 16.979844151716,
     "farba": "green"
+  },
+  "bazos_195165108": {
+    "id": "bazos_195165108",
+    "zdroj": "Bazoš",
+    "titulok": "3izbový byt prenájom, 99 m2, Petržalka, Bratislava 5",
+    "odkaz": "https://reality.bazos.sk/inzerat/195165108/velkorysy-3i-byt-na-prenajom-99-m2-petrzalka-bratislava.php",
+    "cena_povodna": "695 €",
+    "spolu_cena": "695 €",
+    "efektivna_cena": 695,
+    "datum_str": "02.09.2026",
+    "datum_iso": "2026-09-02",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_195164740": {
+    "id": "bazos_195164740",
+    "zdroj": "Bazoš",
+    "titulok": "Zariadený 1-izbový byt – Bratislava - Nové Mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/195164740/zariadeny-1-izbovy-byt-bratislava-nove-mesto.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "02.09.2026",
+    "datum_iso": "2026-09-02",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_195161431": {
+    "id": "bazos_195161431",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový byt na prenájom v Ružinove – možnosť dokončenia pod",
+    "odkaz": "https://reality.bazos.sk/inzerat/195161431/1-izbovy-byt-na-prenajom-v-ruzinove-moznost-dokoncenia-pod.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "02.09.2026",
+    "datum_iso": "2026-09-02",
+    "lokalita": "PSČ: 821 02 (Trnávka)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   }
 }
