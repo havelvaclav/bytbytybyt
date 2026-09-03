@@ -24,7 +24,7 @@
     "efektivna_cena": 650,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -272,7 +272,7 @@
   "bazos_194376675": {
     "id": "bazos_194376675",
     "zdroj": "Bazoš",
-    "titulok": "Prenájom 2-izb. byt vna Bajkalskej ulici, Bratislava.",
+    "titulok": "Prenájom 2-izb. byt na Bajkalskej ulici, Bratislava.",
     "odkaz": "https://reality.bazos.sk/inzerat/194376675/prenajom-2-izb-byt-vna-bajkalskej-ulici-bratislava.php",
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
@@ -332,7 +332,7 @@
   "bazos_195102150": {
     "id": "bazos_195102150",
     "zdroj": "Bazoš",
-    "titulok": "NA PRENÁJOM 2 IZBOVÝ BYT S LOGGIOU, BRATISLAVA-PETRŽALKA SLN",
+    "titulok": "REZERVOVANÉ NA PRENÁJOM 2 IZBOVÝ BYT S LOGGIOU, BRATISLAVA-P",
     "odkaz": "https://reality.bazos.sk/inzerat/195102150/na-prenajom-2-izbovy-byt-s-loggiou-bratislava-petrzalka-sln.php",
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
@@ -444,10 +444,10 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Kremnická (Petržalka)",
-    "lat": 48.126638876248,
-    "lng": 17.092621475782,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195160368": {
     "id": "bazos_195160368",
@@ -474,10 +474,10 @@
     "efektivna_cena": 700,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 811 06 (Staré Mesto)",
+    "lat": 48.1486616,
+    "lng": 17.108133,
+    "farba": "orange"
   },
   "bazos_195153073": {
     "id": "bazos_195153073",
@@ -549,7 +549,7 @@
     "efektivna_cena": 600,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 821 02 (Trnávka)",
+    "lokalita": "PSČ: 821 02",
     "lat": 48.1582936,
     "lng": 17.1633484,
     "farba": "orange"
@@ -567,6 +567,66 @@
     "lokalita": "PSČ: 850 00 (Petržalka)",
     "lat": 48.123911,
     "lng": 17.11186,
+    "farba": "orange"
+  },
+  "bazos_195190303": {
+    "id": "bazos_195190303",
+    "zdroj": "Bazoš",
+    "titulok": "Moderný 1 izbový byt (35 m²) s vyhradeným parkovaním, balkón",
+    "odkaz": "https://reality.bazos.sk/inzerat/195190303/moderny-1-izbovy-byt-35-m-s-vyhradenym-parkovanim-balkon.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "03.09.2026",
+    "datum_iso": "2026-09-03",
+    "lokalita": "PSČ: 831 02",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_195185575": {
+    "id": "bazos_195185575",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 3-izb. byt Riazanská ul. - N. Mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/195185575/na-prenajom-3-izb-byt-riazanska-ul-n-mesto.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "03.09.2026",
+    "datum_iso": "2026-09-03",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_195183878": {
+    "id": "bazos_195183878",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2 izbová NOVOSTAVBA, Jarabinková ulica, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/195183878/prenajom-2-izbova-novostavba-jarabinkova-ulica-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "03.09.2026",
+    "datum_iso": "2026-09-03",
+    "lokalita": "Jarabinková (Ružinov)",
+    "lat": 48.144909593427,
+    "lng": 17.146135533328,
+    "farba": "green"
+  },
+  "bazos_195183383": {
+    "id": "bazos_195183383",
+    "zdroj": "Bazoš",
+    "titulok": "VYMEŇ SUSEDA - VÝNIMOČNÝ 2 IZB. ZREKONŠTRUOVANÝ BYT, BALKÓN",
+    "odkaz": "https://reality.bazos.sk/inzerat/195183383/vymen-suseda-vynimocny-2-izb-zrekonstruovany-byt-balkon.php",
+    "cena_povodna": "699 €",
+    "spolu_cena": "699 €",
+    "efektivna_cena": 699,
+    "datum_str": "03.09.2026",
+    "datum_iso": "2026-09-03",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
