@@ -99,7 +99,7 @@
     "efektivna_cena": 590,
     "datum_str": "28.08.2026",
     "datum_iso": "2026-08-28",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -144,7 +144,7 @@
     "efektivna_cena": 530,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -399,10 +399,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "balkónom Vysoká (Staré Mesto)",
-    "lat": 48.148935939769,
-    "lng": 17.110789106078,
-    "farba": "green"
+    "lokalita": "PSČ: 811 06",
+    "lat": 48.1486616,
+    "lng": 17.108133,
+    "farba": "orange"
   },
   "bazos_195133111": {
     "id": "bazos_195133111",
@@ -414,7 +414,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 811 01",
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -474,7 +474,7 @@
     "efektivna_cena": 700,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 811 06 (Staré Mesto)",
+    "lokalita": "PSČ: 811 06",
     "lat": 48.1486616,
     "lng": 17.108133,
     "farba": "orange"
@@ -564,10 +564,10 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Haanova (Petržalka)",
+    "lat": 48.122419512302,
+    "lng": 17.123228579048,
+    "farba": "green"
   },
   "bazos_195190303": {
     "id": "bazos_195190303",
@@ -609,7 +609,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Jarabinková (Ružinov)",
+    "lokalita": "Jarabinková",
     "lat": 48.144909593427,
     "lng": 17.146135533328,
     "farba": "green"
@@ -624,7 +624,37 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195195925": {
+    "id": "bazos_195195925",
+    "zdroj": "Bazoš",
+    "titulok": "VEĽKÝ 2i byt Prenájom _ Bratislava _ Vrakuňa",
+    "odkaz": "https://reality.bazos.sk/inzerat/195195925/velky-2i-byt-prenajom-bratislava-vrakuna.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "03.09.2026",
+    "datum_iso": "2026-09-03",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_195193485": {
+    "id": "bazos_195193485",
+    "zdroj": "Bazoš",
+    "titulok": "BEZ PROVÍZIE: Priestranný a svetlý 1i, balkón, klimatizácia,",
+    "odkaz": "https://reality.bazos.sk/inzerat/195193485/bez-provizie-priestranny-a-svetly-1i-balkon-klimatizacia.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "03.09.2026",
+    "datum_iso": "2026-09-03",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
