@@ -215,14 +215,14 @@
     "titulok": "Ponúkam 1 izbový byt \"Grand Koliba\" terasa-garáž",
     "odkaz": "https://reality.bazos.sk/inzerat/194889787/ponukam-15-izbovy-byt-grand-koliba-terasa-garaz-pivnic.php",
     "cena_povodna": "580 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 831 03 (Koliba)",
-    "lat": 48.1649786,
-    "lng": 17.1309307,
-    "farba": "orange"
+    "lokalita": "Budyšínska (Koliba)",
+    "lat": 48.164033541998,
+    "lng": 17.126010599139,
+    "farba": "green"
   },
   "bazos_194376675": {
     "id": "bazos_194376675",
@@ -564,7 +564,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Jarabinková",
+    "lokalita": "Jarabinková (Ružinov)",
     "lat": 48.144909593427,
     "lng": 17.146135533328,
     "farba": "green"
@@ -579,7 +579,7 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -612,6 +612,21 @@
     "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195027297": {
+    "id": "bazos_195027297",
+    "zdroj": "Bazoš",
+    "titulok": "ALL INCLUSIVE | 2 - IZBOVÝ BYT | BRATISLAVA III | VAJNORSKÁ",
+    "odkaz": "https://reality.bazos.sk/inzerat/195027297/all-inclusive-2-izbovy-byt-bratislava-iii-vajnorska.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "29.08.2026",
+    "datum_iso": "2026-08-29",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
     "farba": "orange"
   }
 }
