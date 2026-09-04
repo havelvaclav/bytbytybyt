@@ -99,10 +99,10 @@
     "efektivna_cena": 530,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vietnamská (Ružinov)",
+    "lat": 48.16876669279,
+    "lng": 17.169738936916,
+    "farba": "green"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -174,10 +174,10 @@
     "efektivna_cena": 570,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vietnamská (Ružinov)",
+    "lat": 48.16876669279,
+    "lng": 17.169738936916,
+    "farba": "green"
   },
   "bazos_195078380": {
     "id": "bazos_195078380",
@@ -215,14 +215,14 @@
     "titulok": "Ponúkam 1 izbový byt \"Grand Koliba\" terasa-garáž",
     "odkaz": "https://reality.bazos.sk/inzerat/194889787/ponukam-15-izbovy-byt-grand-koliba-terasa-garaz-pivnic.php",
     "cena_povodna": "580 €",
-    "spolu_cena": "580 €",
-    "efektivna_cena": 580,
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "Budyšínska (Koliba)",
-    "lat": 48.164033541998,
-    "lng": 17.126010599139,
-    "farba": "green"
+    "lokalita": "PSČ: 831 03 (Koliba)",
+    "lat": 48.1649786,
+    "lng": 17.1309307,
+    "farba": "orange"
   },
   "bazos_194376675": {
     "id": "bazos_194376675",
@@ -234,10 +234,10 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_195105065": {
     "id": "bazos_195105065",
@@ -264,10 +264,10 @@
     "efektivna_cena": 640,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 841 02",
-    "lat": 48.1949026,
-    "lng": 17.0334999,
-    "farba": "orange"
+    "lokalita": "Ušiakova (Dúbravka)",
+    "lat": 48.189862711573,
+    "lng": 17.039707621964,
+    "farba": "green"
   },
   "bazos_195102181": {
     "id": "bazos_195102181",
@@ -309,10 +309,10 @@
     "efektivna_cena": 620,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 811 01",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Bottova (Staré Mesto)",
+    "lat": 48.143971713715,
+    "lng": 17.127942142029,
+    "farba": "green"
   },
   "bazos_195129161": {
     "id": "bazos_195129161",
@@ -369,10 +369,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Bottova (Staré Mesto)",
+    "lat": 48.143971713715,
+    "lng": 17.127942142029,
+    "farba": "green"
   },
   "bazos_195140044": {
     "id": "bazos_195140044",
@@ -549,10 +549,10 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
   },
   "bazos_195183878": {
     "id": "bazos_195183878",
@@ -579,10 +579,10 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vietnamská (Ružinov)",
+    "lat": 48.16876669279,
+    "lng": 17.169738936916,
+    "farba": "green"
   },
   "bazos_195195925": {
     "id": "bazos_195195925",
@@ -609,10 +609,10 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Vietnamská (Ružinov)",
+    "lat": 48.16876669279,
+    "lng": 17.169738936916,
+    "farba": "green"
   },
   "bazos_195027297": {
     "id": "bazos_195027297",
@@ -624,9 +624,39 @@
     "efektivna_cena": 680,
     "datum_str": "29.08.2026",
     "datum_iso": "2026-08-29",
+    "lokalita": "Nobelova (Nové Mesto)",
+    "lat": 48.184114462402,
+    "lng": 17.145890069513,
+    "farba": "green"
+  },
+  "bazos_195220269": {
+    "id": "bazos_195220269",
+    "zdroj": "Bazoš",
+    "titulok": "ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním",
+    "odkaz": "https://reality.bazos.sk/inzerat/195220269/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "04.09.2026",
+    "datum_iso": "2026-09-04",
     "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
+  },
+  "bazos_195201256": {
+    "id": "bazos_195201256",
+    "zdroj": "Bazoš",
+    "titulok": "2-izbový byt na prenájom – Bratislava Staré Mesto, Tichá ul.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195201256/2-izbovy-byt-na-prenajom-bratislava-stare-mesto-ticha-uli.php",
+    "cena_povodna": "1 €",
+    "spolu_cena": null,
+    "efektivna_cena": null,
+    "datum_str": "03.09.2026",
+    "datum_iso": "2026-09-03",
+    "lokalita": "Tichá (Staré Mesto)",
+    "lat": 48.150877557234,
+    "lng": 17.084198179031,
+    "farba": "green"
   }
 }
