@@ -84,9 +84,9 @@
     "efektivna_cena": 700,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "Haanova (Petržalka)",
-    "lat": 48.122419512302,
-    "lng": 17.123228579048,
+    "lokalita": "Mlynarovičova (Petržalka)",
+    "lat": 48.126679931172,
+    "lng": 17.120589473309,
     "farba": "green"
   },
   "bazos_195058969": {
@@ -99,10 +99,10 @@
     "efektivna_cena": 530,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "Vietnamská (Ružinov)",
-    "lat": 48.16876669279,
-    "lng": 17.169738936916,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -174,10 +174,10 @@
     "efektivna_cena": 570,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Vietnamská (Ružinov)",
-    "lat": 48.16876669279,
-    "lng": 17.169738936916,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195078380": {
     "id": "bazos_195078380",
@@ -189,9 +189,9 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "časti Karlovej Vsi - Púpavová",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
+    "lokalita": "Líščie údolie (Karlova Ves)",
+    "lat": 48.158329969892,
+    "lng": 17.057052063318,
     "farba": "green"
   },
   "bazos_195078315": {
@@ -234,9 +234,9 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195105065": {
@@ -264,10 +264,10 @@
     "efektivna_cena": 640,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Ušiakova (Dúbravka)",
-    "lat": 48.189862711573,
-    "lng": 17.039707621964,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_195102181": {
     "id": "bazos_195102181",
@@ -294,9 +294,9 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Haanova (Petržalka)",
-    "lat": 48.122419512302,
-    "lng": 17.123228579048,
+    "lokalita": "Mlynarovičova (Petržalka)",
+    "lat": 48.126679931172,
+    "lng": 17.120589473309,
     "farba": "green"
   },
   "bazos_195098310": {
@@ -339,10 +339,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "loggiou Čiernovodská (Vrakuňa)",
+    "lat": 48.139123727073,
+    "lng": 17.211374608172,
+    "farba": "green"
   },
   "bazos_195121904": {
     "id": "bazos_195121904",
@@ -519,9 +519,9 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Haanova (Petržalka)",
-    "lat": 48.122419512302,
-    "lng": 17.123228579048,
+    "lokalita": "Mlynarovičova (Petržalka)",
+    "lat": 48.126679931172,
+    "lng": 17.120589473309,
     "farba": "green"
   },
   "bazos_195190303": {
@@ -549,9 +549,9 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195183878": {
@@ -564,7 +564,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Jarabinková (Ružinov)",
+    "lokalita": "Jarabinková (Nivy)",
     "lat": 48.144909593427,
     "lng": 17.146135533328,
     "farba": "green"
@@ -579,10 +579,10 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Vietnamská (Ružinov)",
-    "lat": 48.16876669279,
-    "lng": 17.169738936916,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195195925": {
     "id": "bazos_195195925",
@@ -594,10 +594,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "loggiou Čiernovodská (Vrakuňa)",
+    "lat": 48.139123727073,
+    "lng": 17.211374608172,
+    "farba": "green"
   },
   "bazos_195193485": {
     "id": "bazos_195193485",
@@ -609,10 +609,10 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Vietnamská (Ružinov)",
-    "lat": 48.16876669279,
-    "lng": 17.169738936916,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195027297": {
     "id": "bazos_195027297",
@@ -624,9 +624,9 @@
     "efektivna_cena": 680,
     "datum_str": "29.08.2026",
     "datum_iso": "2026-08-29",
-    "lokalita": "Nobelova (Nové Mesto)",
-    "lat": 48.184114462402,
-    "lng": 17.145890069513,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195220269": {
@@ -639,10 +639,10 @@
     "efektivna_cena": 650,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   },
   "bazos_195201256": {
     "id": "bazos_195201256",
@@ -658,5 +658,20 @@
     "lat": 48.150877557234,
     "lng": 17.084198179031,
     "farba": "green"
+  },
+  "bazos_195227741": {
+    "id": "bazos_195227741",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM 2i bytu na Rezedovej ulici pri OC Retro",
+    "odkaz": "https://reality.bazos.sk/inzerat/195227741/prenajom-2i-bytu-na-rezedovej-ulici-pri-oc-retro.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "04.09.2026",
+    "datum_iso": "2026-09-04",
+    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   }
 }
