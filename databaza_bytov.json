@@ -69,10 +69,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "Mlynarovičova (Petržalka)",
-    "lat": 48.126679931172,
-    "lng": 17.120589473309,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195058969": {
     "id": "bazos_195058969",
@@ -84,7 +84,7 @@
     "efektivna_cena": 530,
     "datum_str": "30.08.2026",
     "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -174,10 +174,10 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "časti Karlovej Vsi - Púpavová",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Dúbravka)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_195078315": {
     "id": "bazos_195078315",
@@ -189,7 +189,7 @@
     "efektivna_cena": 605,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Petržalke - Medveďovej (Petržalka)",
+    "lokalita": "Petržalke - Medveďovej",
     "lat": 48.123031098998,
     "lng": 17.131897232261,
     "farba": "green"
@@ -249,7 +249,7 @@
     "efektivna_cena": 640,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -279,10 +279,10 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Mlynarovičova (Petržalka)",
-    "lat": 48.126679931172,
-    "lng": 17.120589473309,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195098310": {
     "id": "bazos_195098310",
@@ -349,9 +349,9 @@
     "zdroj": "Bazoš",
     "titulok": "Prenájom 1,5 izbový byt Francisciho ul. Bratislava.",
     "odkaz": "https://reality.bazos.sk/inzerat/195133111/prenajom-15-izbovy-byt-francisciho-ul-bratislava.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
+    "cena_povodna": "640 €",
+    "spolu_cena": "640 €",
+    "efektivna_cena": 640,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
     "lokalita": "Bottova (Staré Mesto)",
@@ -399,10 +399,10 @@
     "efektivna_cena": 500,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Haanova (Petržalka)",
-    "lat": 48.122419512302,
-    "lng": 17.123228579048,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195154113": {
     "id": "bazos_195154113",
@@ -444,7 +444,7 @@
     "efektivna_cena": 590,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "novostavbe Bystrická (Devínska Nová Ves)",
+    "lokalita": "novostavbe Bystrická",
     "lat": 48.224362605108,
     "lng": 16.979844151716,
     "farba": "green"
@@ -504,10 +504,10 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Mlynarovičova (Petržalka)",
-    "lat": 48.126679931172,
-    "lng": 17.120589473309,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195190303": {
     "id": "bazos_195190303",
@@ -549,7 +549,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Jarabinková (Nivy)",
+    "lokalita": "Jarabinková (Ružinov)",
     "lat": 48.144909593427,
     "lng": 17.146135533328,
     "farba": "green"
@@ -564,7 +564,7 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -594,7 +594,7 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -639,7 +639,7 @@
     "efektivna_cena": 600,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -702,6 +702,36 @@
     "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_195249694": {
+    "id": "bazos_195249694",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka na prenájom – Bratislava, Gessayova Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195249694/garsonka-na-prenajom-bratislava-gessayova-petrzalka.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "05.09.2026",
+    "datum_iso": "2026-09-05",
+    "lokalita": "Haanova (Petržalka)",
+    "lat": 48.122419512302,
+    "lng": 17.123228579048,
+    "farba": "green"
+  },
+  "bazos_195246322": {
+    "id": "bazos_195246322",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom: Útulný a priestranný 1-izbový byt v Dúbravke",
+    "odkaz": "https://reality.bazos.sk/inzerat/195246322/prenajom-utulny-a-priestranny-1-izbovy-byt-v-dubravke.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "05.09.2026",
+    "datum_iso": "2026-09-05",
+    "lokalita": "PSČ: 123 45",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "orange"
   }
 }
