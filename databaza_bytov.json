@@ -174,10 +174,10 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 841 04 (Dúbravka)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
+    "lokalita": "Silvanska",
+    "lat": 48.160398406069,
+    "lng": 17.047805094215,
+    "farba": "green"
   },
   "bazos_195078315": {
     "id": "bazos_195078315",
@@ -294,10 +294,10 @@
     "efektivna_cena": 620,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Bottova (Staré Mesto)",
-    "lat": 48.143971713715,
-    "lng": 17.127942142029,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_195129161": {
     "id": "bazos_195129161",
@@ -354,10 +354,10 @@
     "efektivna_cena": 640,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "Bottova (Staré Mesto)",
-    "lat": 48.143971713715,
-    "lng": 17.127942142029,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_195140044": {
     "id": "bazos_195140044",
@@ -384,7 +384,7 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -534,10 +534,10 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_195183878": {
     "id": "bazos_195183878",
@@ -609,10 +609,10 @@
     "efektivna_cena": 650,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_195201256": {
     "id": "bazos_195201256",
