@@ -44,21 +44,6 @@
     "lng": 17.149965411,
     "farba": "green"
   },
-  "bazos_194740998": {
-    "id": "bazos_194740998",
-    "zdroj": "Bazoš",
-    "titulok": "ÚPLNE NOVÉ ŠTÚDIO 23 m² S PARKOVANÍM | BRATISLAVA – VRAKUŇA",
-    "odkaz": "https://reality.bazos.sk/inzerat/194740998/uplne-nove-studio-23-m-s-parkovanim-bratislava-vrakuna.php",
-    "cena_povodna": "599 €",
-    "spolu_cena": "599 €",
-    "efektivna_cena": 599,
-    "datum_str": "29.08.2026",
-    "datum_iso": "2026-08-29",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
-  },
   "bazos_194973879": {
     "id": "bazos_194973879",
     "zdroj": "Bazoš",
@@ -614,21 +599,6 @@
     "lng": 17.1566781,
     "farba": "orange"
   },
-  "bazos_195027297": {
-    "id": "bazos_195027297",
-    "zdroj": "Bazoš",
-    "titulok": "ALL INCLUSIVE | 2 - IZBOVÝ BYT | BRATISLAVA III | VAJNORSKÁ",
-    "odkaz": "https://reality.bazos.sk/inzerat/195027297/all-inclusive-2-izbovy-byt-bratislava-iii-vajnorska.php",
-    "cena_povodna": "680 €",
-    "spolu_cena": "680 €",
-    "efektivna_cena": 680,
-    "datum_str": "29.08.2026",
-    "datum_iso": "2026-08-29",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
-  },
   "bazos_195220269": {
     "id": "bazos_195220269",
     "zdroj": "Bazoš",
@@ -687,6 +657,21 @@
     "lokalita": "Račianska (Nové Mesto)",
     "lat": 48.172618620038,
     "lng": 17.127011468374,
+    "farba": "green"
+  },
+  "bazos_195232948": {
+    "id": "bazos_195232948",
+    "zdroj": "Bazoš",
+    "titulok": "HALO reality - Prenájom, jednoizbový byt Bratislava Karlova",
+    "odkaz": "https://reality.bazos.sk/inzerat/195232948/halo-reality-prenajom-jednoizbovy-byt-bratislava-karlova.php",
+    "cena_povodna": "460 €",
+    "spolu_cena": "460 €",
+    "efektivna_cena": 460,
+    "datum_str": "05.09.2026",
+    "datum_iso": "2026-09-05",
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green"
   }
 }
