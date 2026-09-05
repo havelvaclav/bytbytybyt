@@ -673,5 +673,35 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
+  },
+  "bazos_195239721": {
+    "id": "bazos_195239721",
+    "zdroj": "Bazoš",
+    "titulok": "‼️Garsonka kompletne zariadená v NZ‼️",
+    "odkaz": "https://reality.bazos.sk/inzerat/195239721/garsonka-kompletne-zariadena-v-nz.php",
+    "cena_povodna": "380 €",
+    "spolu_cena": "380 €",
+    "efektivna_cena": 380,
+    "datum_str": "05.09.2026",
+    "datum_iso": "2026-09-05",
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
+  },
+  "bazos_195235651": {
+    "id": "bazos_195235651",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom pekný moderný 2 izbový byt Rača - Rendez",
+    "odkaz": "https://reality.bazos.sk/inzerat/195235651/na-prenajom-pekny-moderny-2-izbovy-byt-raca-rendez.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "05.09.2026",
+    "datum_iso": "2026-09-05",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   }
 }
