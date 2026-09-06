@@ -22,8 +22,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "06.09.2026",
-    "datum_iso": "2026-09-06",
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
     "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
@@ -69,10 +69,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -264,7 +264,7 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Vranovska (Petržalka)",
+    "lokalita": "Vranovská (Petržalka)",
     "lat": 48.12420437834,
     "lng": 17.093662299696,
     "farba": "green"
@@ -337,8 +337,8 @@
     "cena_povodna": "640 €",
     "spolu_cena": "640 €",
     "efektivna_cena": 640,
-    "datum_str": "06.09.2026",
-    "datum_iso": "2026-09-06",
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
     "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
@@ -384,7 +384,7 @@
     "efektivna_cena": 500,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Vranovska (Petržalka)",
+    "lokalita": "Vranovská (Petržalka)",
     "lat": 48.12420437834,
     "lng": 17.093662299696,
     "farba": "green"
@@ -489,7 +489,7 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Vranovska (Petržalka)",
+    "lokalita": "Vranovská (Petržalka)",
     "lat": 48.12420437834,
     "lng": 17.093662299696,
     "farba": "green"
