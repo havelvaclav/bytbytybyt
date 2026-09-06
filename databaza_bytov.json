@@ -114,10 +114,10 @@
     "efektivna_cena": 580,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 821 05 (Ružinov)",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195085910": {
     "id": "bazos_195085910",
@@ -174,7 +174,7 @@
     "efektivna_cena": 605,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "Petržalke - Medveďovej",
+    "lokalita": "Petržalke - Medveďovej (Petržalka)",
     "lat": 48.123031098998,
     "lng": 17.131897232261,
     "farba": "green"
@@ -234,7 +234,7 @@
     "efektivna_cena": 640,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lokalita": "PSČ: 841 02",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -264,10 +264,10 @@
     "efektivna_cena": 650,
     "datum_str": "31.08.2026",
     "datum_iso": "2026-08-31",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovska (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_195098310": {
     "id": "bazos_195098310",
@@ -294,10 +294,10 @@
     "efektivna_cena": 580,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 821 05 (Ružinov)",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195124129": {
     "id": "bazos_195124129",
@@ -384,10 +384,10 @@
     "efektivna_cena": 500,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovska (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_195154113": {
     "id": "bazos_195154113",
@@ -444,10 +444,10 @@
     "efektivna_cena": 695,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Bratislave Petržalke (Petržalka)",
+    "lat": 48.12331,
+    "lng": 17.12866,
+    "farba": "green"
   },
   "bazos_195164740": {
     "id": "bazos_195164740",
@@ -489,10 +489,10 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovska (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_195190303": {
     "id": "bazos_195190303",
@@ -534,7 +534,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Jarabinková (Ružinov)",
+    "lokalita": "Jarabinková",
     "lat": 48.144909593427,
     "lng": 17.146135533328,
     "farba": "green"
@@ -549,7 +549,7 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -579,7 +579,7 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -624,7 +624,7 @@
     "efektivna_cena": 600,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -699,9 +699,9 @@
     "efektivna_cena": 450,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "Haanova (Petržalka)",
-    "lat": 48.122419512302,
-    "lng": 17.123228579048,
+    "lokalita": "Vranovska (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
     "farba": "green"
   },
   "bazos_195246322": {
