@@ -74,21 +74,6 @@
     "lng": 17.11186,
     "farba": "orange"
   },
-  "bazos_195058969": {
-    "id": "bazos_195058969",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM VEĽMI PEKNEJ ZARIADENEJ GARZONKY V TICHOM PROSTREDÍ",
-    "odkaz": "https://reality.bazos.sk/inzerat/195058969/prenajom-velmi-peknej-zariadenej-garzonky-v-tichom-prostredi.php",
-    "cena_povodna": "530 €",
-    "spolu_cena": "530 €",
-    "efektivna_cena": 530,
-    "datum_str": "30.08.2026",
-    "datum_iso": "2026-08-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
-  },
   "bazos_194169000": {
     "id": "bazos_194169000",
     "zdroj": "Bazoš",
