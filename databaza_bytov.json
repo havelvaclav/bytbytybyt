@@ -54,10 +54,10 @@
     "efektivna_cena": 700,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_194169000": {
     "id": "bazos_194169000",
@@ -129,7 +129,7 @@
     "efektivna_cena": 700,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -204,10 +204,10 @@
     "efektivna_cena": 500,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195154113": {
     "id": "bazos_195154113",
@@ -309,10 +309,10 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195190303": {
     "id": "bazos_195190303",
@@ -552,6 +552,21 @@
     "lokalita": "BORIA vedľa Štrkoveckého jazera (Rača)",
     "lat": 48.211068929,
     "lng": 17.15497545,
+    "farba": "green"
+  },
+  "bazos_195302463": {
+    "id": "bazos_195302463",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka na prenájom – Bratislava, Gessayova Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195302463/garsonka-na-prenajom-bratislava-gessayova-petrzalka.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "Vranovska (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
     "farba": "green"
   }
 }
