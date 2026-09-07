@@ -24,7 +24,7 @@
     "efektivna_cena": 650,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 831 02",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -114,10 +114,10 @@
     "efektivna_cena": 580,
     "datum_str": "01.09.2026",
     "datum_iso": "2026-09-01",
-    "lokalita": "prostredí pri Malom Dunaji (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 05 (Ružinov)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
   },
   "bazos_195124129": {
     "id": "bazos_195124129",
@@ -189,7 +189,7 @@
     "efektivna_cena": 520,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -264,10 +264,10 @@
     "efektivna_cena": 695,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Bratislave Petržalke (Petržalka)",
-    "lat": 48.12331,
-    "lng": 17.12866,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195164740": {
     "id": "bazos_195164740",
@@ -324,7 +324,7 @@
     "efektivna_cena": 650,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 831 02",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -339,10 +339,10 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Vlárska (Nové Mesto)",
+    "lat": 48.169775121307,
+    "lng": 17.091140193192,
+    "farba": "green"
   },
   "bazos_195183878": {
     "id": "bazos_195183878",
@@ -369,10 +369,10 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Herlianska (Ružinov)",
-    "lat": 48.158367931636,
-    "lng": 17.157014908484,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195195925": {
     "id": "bazos_195195925",
@@ -399,10 +399,10 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Herlianska (Ružinov)",
-    "lat": 48.158367931636,
-    "lng": 17.157014908484,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195220269": {
     "id": "bazos_195220269",
@@ -444,10 +444,10 @@
     "efektivna_cena": 600,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "Herlianska (Ružinov)",
-    "lat": 48.158367931636,
-    "lng": 17.157014908484,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195230250": {
     "id": "bazos_195230250",
@@ -474,10 +474,10 @@
     "efektivna_cena": 460,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lat": 48.1550801,
+    "lng": 17.0463776,
+    "farba": "orange"
   },
   "bazos_195239721": {
     "id": "bazos_195239721",
@@ -504,7 +504,7 @@
     "efektivna_cena": 690,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "PSČ: 831 06 (Rača)",
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -549,9 +549,9 @@
     "efektivna_cena": 550,
     "datum_str": "06.09.2026",
     "datum_iso": "2026-09-06",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Rača)",
-    "lat": 48.211068929,
-    "lng": 17.15497545,
+    "lokalita": "Kadnárova (Rača)",
+    "lat": 48.205538823268,
+    "lng": 17.148330255905,
     "farba": "green"
   },
   "bazos_195302463": {
@@ -567,6 +567,96 @@
     "lokalita": "Vranovska (Petržalka)",
     "lat": 48.12420437834,
     "lng": 17.093662299696,
+    "farba": "green"
+  },
+  "bazos_195316545": {
+    "id": "bazos_195316545",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom zrekonštruovaný 2 izb. na Narcisovej ul. v Ružin",
+    "odkaz": "https://reality.bazos.sk/inzerat/195316545/na-prenajom-zrekonstruovany-2-izb-na-narcisovej-ul-v-ruzin.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195313678": {
+    "id": "bazos_195313678",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2 izb. apartmán, Štefánikova ulica, Bratislava I. S",
+    "odkaz": "https://reality.bazos.sk/inzerat/195313678/prenajom-2-izb-apartman-stefanikova-ulica-bratislava-i-s.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "Štefánikova (Staré Mesto)",
+    "lat": 48.154191662046,
+    "lng": 17.106125547036,
+    "farba": "green"
+  },
+  "bazos_195309876": {
+    "id": "bazos_195309876",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1 izb. byt NOVOSTAVBA, Ivanská cesta, Bratislava II",
+    "odkaz": "https://reality.bazos.sk/inzerat/195309876/prenajom-1-izb-byt-novostavba-ivanska-cesta-bratislava-ii.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195304922": {
+    "id": "bazos_195304922",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbovvý byt s balkónom, 61m2, Bratislava-Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/195304922/prenajom-2-izbovvy-byt-s-balkonom-61m2-bratislava-raca.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "Vlárska (Nové Mesto)",
+    "lat": 48.169775121307,
+    "lng": 17.091140193192,
+    "farba": "green"
+  },
+  "bazos_195304470": {
+    "id": "bazos_195304470",
+    "zdroj": "Bazoš",
+    "titulok": "- NOVO VYMALOVANY - NOVO ZARIADENY - 1,5-izbovy - Súmračná -",
+    "odkaz": "https://reality.bazos.sk/inzerat/195304470/novo-vymylovany-novo-zariadeny-15-izbovy-sumracna.php",
+    "cena_povodna": "390 €",
+    "spolu_cena": "390 €",
+    "efektivna_cena": 390,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195303431": {
+    "id": "bazos_195303431",
+    "zdroj": "Bazoš",
+    "titulok": "ENZO I PRENÁJOM 1 1/2 i byt Nobelova s parkovaním",
+    "odkaz": "https://reality.bazos.sk/inzerat/195303431/enzo-i-prenajom-1-12-i-byt-nobelova-s-parkovanim.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "Vlárska (Nové Mesto)",
+    "lat": 48.169775121307,
+    "lng": 17.091140193192,
     "farba": "green"
   }
 }
