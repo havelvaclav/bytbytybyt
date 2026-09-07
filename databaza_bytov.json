@@ -204,10 +204,10 @@
     "efektivna_cena": 500,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "M.C.Sklodowskej (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
+    "farba": "green"
   },
   "bazos_195154113": {
     "id": "bazos_195154113",
@@ -369,10 +369,10 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195195925": {
     "id": "bazos_195195925",
@@ -399,10 +399,10 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195220269": {
     "id": "bazos_195220269",
@@ -444,10 +444,10 @@
     "efektivna_cena": 600,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195230250": {
     "id": "bazos_195230250",
@@ -474,7 +474,7 @@
     "efektivna_cena": 460,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lokalita": "PSČ: 841 05 (Karlova Ves)",
     "lat": 48.1550801,
     "lng": 17.0463776,
     "farba": "orange"
@@ -504,7 +504,7 @@
     "efektivna_cena": 690,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -564,9 +564,9 @@
     "efektivna_cena": 450,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Vranovska (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "M.C.Sklodowskej (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_195316545": {
@@ -579,10 +579,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195313678": {
     "id": "bazos_195313678",
@@ -609,10 +609,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195304922": {
     "id": "bazos_195304922",
@@ -639,10 +639,10 @@
     "efektivna_cena": 390,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Garsónka (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195303431": {
     "id": "bazos_195303431",
@@ -658,5 +658,50 @@
     "lat": 48.169775121307,
     "lng": 17.091140193192,
     "farba": "green"
+  },
+  "bazos_195324265": {
+    "id": "bazos_195324265",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM príjemný a tichý 2izbový byt v centre Bratislavy",
+    "odkaz": "https://reality.bazos.sk/inzerat/195324265/na-prenajom-prijemny-a-tichy-2izbovy-byt-v-centre-bratislavy.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "PSČ: 811 09",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
+  },
+  "bazos_195322335": {
+    "id": "bazos_195322335",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom - garzónka s balkónom a pivnicou,Ružinov II, Ondavs",
+    "odkaz": "https://reality.bazos.sk/inzerat/195322335/prenajom-garzonka-s-balkonom-a-pivnicouruzinov-ii-ondavs.php",
+    "cena_povodna": "685 €",
+    "spolu_cena": "685 €",
+    "efektivna_cena": 685,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "82m2 (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
+  },
+  "bazos_195322070": {
+    "id": "bazos_195322070",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový zariadený byt na prenájom v Petržalke",
+    "odkaz": "https://reality.bazos.sk/inzerat/195322070/1-izbovy-zariadeny-byt-na-prenajom-v-petrzalke.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "07.09.2026",
+    "datum_iso": "2026-09-07",
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   }
 }
