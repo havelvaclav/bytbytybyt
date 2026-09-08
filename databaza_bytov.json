@@ -104,51 +104,6 @@
     "lng": 17.127011468374,
     "farba": "green"
   },
-  "bazos_195129161": {
-    "id": "bazos_195129161",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom garsónka s loggiou v Bratislava- Ružinov",
-    "odkaz": "https://reality.bazos.sk/inzerat/195129161/na-prenajom-garsonka-s-loggiou-v-bratislava-ruzinov.php",
-    "cena_povodna": "580 €",
-    "spolu_cena": "580 €",
-    "efektivna_cena": 580,
-    "datum_str": "01.09.2026",
-    "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 821 05 (Ružinov)",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
-  },
-  "bazos_195124129": {
-    "id": "bazos_195124129",
-    "zdroj": "Bazoš",
-    "titulok": "Hľadám pre klientov na prenájom 2-garsónku  vo Vrakuni",
-    "odkaz": "https://reality.bazos.sk/inzerat/195124129/hladam-pre-klientov-na-prenajom-2-garsonku-vo-vrakuni.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "01.09.2026",
-    "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
-  },
-  "bazos_195121904": {
-    "id": "bazos_195121904",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom dvojizbového bytu Bratislava Bez depozitu",
-    "odkaz": "https://reality.bazos.sk/inzerat/195121904/prenajom-dvojizboveho-bytu-bratislava-bez-depozitu.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "01.09.2026",
-    "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 811 06",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
-  },
   "bazos_195133111": {
     "id": "bazos_195133111",
     "zdroj": "Bazoš",
@@ -162,21 +117,6 @@
     "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
-    "farba": "orange"
-  },
-  "bazos_195140044": {
-    "id": "bazos_195140044",
-    "zdroj": "Bazoš",
-    "titulok": "Priestranný 1.izbový byt v Lamači - Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/195140044/priestranny-1izbovy-byt-v-lamaci-bratislava.php",
-    "cena_povodna": "400 €",
-    "spolu_cena": "400 €",
-    "efektivna_cena": 400,
-    "datum_str": "01.09.2026",
-    "datum_iso": "2026-09-01",
-    "lokalita": "PSČ: 841 03 (Bory)",
-    "lat": 48.1941432,
-    "lng": 17.0468593,
     "farba": "orange"
   },
   "bazos_195145837": {
@@ -717,6 +657,36 @@
     "lokalita": "PSČ: 821 08",
     "lat": 48.1582055,
     "lng": 17.1398196,
+    "farba": "orange"
+  },
+  "bazos_195328968": {
+    "id": "bazos_195328968",
+    "zdroj": "Bazoš",
+    "titulok": "‼️Prenájom-Kompletne zariadená garsonka,TV, internet, v NZ‼️",
+    "odkaz": "https://reality.bazos.sk/inzerat/195328968/prenajom-kompletne-zariadena-garsonkatv-internet-v-nz.php",
+    "cena_povodna": "360 €",
+    "spolu_cena": "360 €",
+    "efektivna_cena": 360,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
+  },
+  "bazos_195328926": {
+    "id": "bazos_195328926",
+    "zdroj": "Bazoš",
+    "titulok": "‼️Prenájom krásnej, plne zariadenej garsonky s klímou‼️",
+    "odkaz": "https://reality.bazos.sk/inzerat/195328926/prenajom-krasnej-plne-zariadenej-garsonky-s-klimou.php",
+    "cena_povodna": "380 €",
+    "spolu_cena": "380 €",
+    "efektivna_cena": 380,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
     "farba": "orange"
   }
 }
