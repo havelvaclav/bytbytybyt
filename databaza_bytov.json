@@ -69,10 +69,10 @@
     "efektivna_cena": 600,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "Šustekova",
-    "lat": 48.128974204293,
-    "lng": 17.124670906598,
-    "farba": "green"
+    "lokalita": "PSČ: 851 05",
+    "lat": 48.1060532,
+    "lng": 17.1075321,
+    "farba": "orange"
   },
   "bazos_194889787": {
     "id": "bazos_194889787",
@@ -159,10 +159,10 @@
     "efektivna_cena": 700,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PLYNÁRENSKÁ",
-    "lat": 48.145674066655,
-    "lng": 17.141923275467,
-    "farba": "green"
+    "lokalita": "PSČ: 811 06",
+    "lat": 48.1486616,
+    "lng": 17.108133,
+    "farba": "orange"
   },
   "bazos_195153073": {
     "id": "bazos_195153073",
@@ -174,10 +174,10 @@
     "efektivna_cena": 650,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "Bystrická (Devínska Nová Ves)",
+    "lat": 48.224362605108,
+    "lng": 16.979844151716,
+    "farba": "green"
   },
   "bazos_195151401": {
     "id": "bazos_195151401",
@@ -234,10 +234,10 @@
     "efektivna_cena": 600,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "NOVOSTAVBE",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "bazos_195170726": {
     "id": "bazos_195170726",
@@ -309,7 +309,7 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -339,7 +339,7 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -384,7 +384,7 @@
     "efektivna_cena": 600,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -444,10 +444,10 @@
     "efektivna_cena": 690,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "Alstrova (Rača)",
-    "lat": 48.209940227594,
-    "lng": 17.145415828789,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195249694": {
     "id": "bazos_195249694",
@@ -519,7 +519,7 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -534,7 +534,7 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Štefánikova",
+    "lokalita": "Štefánikova (Staré Mesto)",
     "lat": 48.154191662046,
     "lng": 17.106125547036,
     "farba": "green"
@@ -549,7 +549,7 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -609,10 +609,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 811 09 (Ružinov)",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Stromová (Staré Mesto)",
+    "lat": 48.162105677233,
+    "lng": 17.097674620506,
+    "farba": "green"
   },
   "bazos_195322335": {
     "id": "bazos_195322335",
@@ -699,9 +699,9 @@
     "efektivna_cena": 600,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "Továrenská (Staré Mesto)",
-    "lat": 48.145367063381,
-    "lng": 17.126505039591,
+    "lokalita": "Stromová (Staré Mesto)",
+    "lat": 48.162105677233,
+    "lng": 17.097674620506,
     "farba": "green"
   },
   "bazos_195347173": {
@@ -744,9 +744,54 @@
     "efektivna_cena": 700,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
+  },
+  "bazos_195350382": {
+    "id": "bazos_195350382",
+    "zdroj": "Bazoš",
+    "titulok": "Exkluzívne Prenajmem zariadenú garsónku v Nových Zámkoch",
+    "odkaz": "https://reality.bazos.sk/inzerat/195350382/exkluzivne-prenajmem-zariadenu-garsonku-v-novych-zamkoch.php",
+    "cena_povodna": "320 €",
+    "spolu_cena": "320 €",
+    "efektivna_cena": 320,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
+  },
+  "bazos_195349325": {
+    "id": "bazos_195349325",
+    "zdroj": "Bazoš",
+    "titulok": "VYMEŇ SUSEDA – PRIESTRANNÝ 2 IZB. BYT S VEĽKOU LOGGIOU A VÝ",
+    "odkaz": "https://reality.bazos.sk/inzerat/195349325/vymen-suseda-priestranny-2-izb-byt-s-velkou-loggiou-a-vy.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195348684": {
+    "id": "bazos_195348684",
+    "zdroj": "Bazoš",
+    "titulok": "VYMEŇ SUSEDA – PRÍJEMNÝ 2 IZB. BYT S LOGGIOU, SÚMRAČNÁ UL.,",
+    "odkaz": "https://reality.bazos.sk/inzerat/195348684/vymen-suseda-prijemny-2-izb-byt-s-loggiou-sumracna-ul.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "SÚMRAČNÁ",
+    "lat": 48.158787044169,
+    "lng": 17.170947819206,
+    "farba": "green"
   }
 }
