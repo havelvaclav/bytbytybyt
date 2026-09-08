@@ -22,8 +22,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "08.09.2026",
-    "datum_iso": "2026-09-08",
+    "datum_str": "09.09.2026",
+    "datum_iso": "2026-09-09",
     "lokalita": "PSČ: 831 02 (Nové Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
@@ -144,10 +144,10 @@
     "efektivna_cena": 500,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "Rusovská cesta (Petržalka)",
-    "lat": 48.12414170279,
-    "lng": 17.101402956814,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195154113": {
     "id": "bazos_195154113",
@@ -489,9 +489,9 @@
     "efektivna_cena": 550,
     "datum_str": "06.09.2026",
     "datum_iso": "2026-09-06",
-    "lokalita": "Kadnárova (Rača)",
-    "lat": 48.205538823268,
-    "lng": 17.148330255905,
+    "lokalita": "PLYNÁRENSKÁ (Rača)",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
     "farba": "green"
   },
   "bazos_195302463": {
@@ -504,10 +504,10 @@
     "efektivna_cena": 450,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Rusovská cesta (Petržalka)",
-    "lat": 48.12414170279,
-    "lng": 17.101402956814,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195316545": {
     "id": "bazos_195316545",
@@ -639,10 +639,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Rusovská cesta (Petržalka)",
-    "lat": 48.12414170279,
-    "lng": 17.101402956814,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195325403": {
     "id": "bazos_195325403",
@@ -667,8 +667,8 @@
     "cena_povodna": "360 €",
     "spolu_cena": "360 €",
     "efektivna_cena": 360,
-    "datum_str": "08.09.2026",
-    "datum_iso": "2026-09-08",
+    "datum_str": "09.09.2026",
+    "datum_iso": "2026-09-09",
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
@@ -682,8 +682,8 @@
     "cena_povodna": "380 €",
     "spolu_cena": "380 €",
     "efektivna_cena": 380,
-    "datum_str": "08.09.2026",
-    "datum_iso": "2026-09-08",
+    "datum_str": "09.09.2026",
+    "datum_iso": "2026-09-09",
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
@@ -714,10 +714,10 @@
     "efektivna_cena": 700,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "Antolská (Petržalka)",
-    "lat": 48.100462085684,
-    "lng": 17.115311355,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195340654": {
     "id": "bazos_195340654",
