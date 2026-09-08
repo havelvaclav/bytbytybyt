@@ -144,10 +144,10 @@
     "efektivna_cena": 500,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Rusovská cesta (Petržalka)",
+    "lat": 48.12414170279,
+    "lng": 17.101402956814,
+    "farba": "green"
   },
   "bazos_195154113": {
     "id": "bazos_195154113",
@@ -159,10 +159,10 @@
     "efektivna_cena": 700,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 811 06",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
+    "lokalita": "PLYNÁRENSKÁ",
+    "lat": 48.145674066655,
+    "lng": 17.141923275467,
+    "farba": "green"
   },
   "bazos_195153073": {
     "id": "bazos_195153073",
@@ -234,10 +234,10 @@
     "efektivna_cena": 600,
     "datum_str": "02.09.2026",
     "datum_iso": "2026-09-02",
-    "lokalita": "PSČ: 821 02 (Trnávka)",
-    "lat": 48.1582936,
-    "lng": 17.1633484,
-    "farba": "orange"
+    "lokalita": "NOVOSTAVBE",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195170726": {
     "id": "bazos_195170726",
@@ -279,9 +279,9 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Vlárska (Nové Mesto)",
-    "lat": 48.169775121307,
-    "lng": 17.091140193192,
+    "lokalita": "Sibírska (Nové Mesto)",
+    "lat": 48.165223939617,
+    "lng": 17.123469610859,
     "farba": "green"
   },
   "bazos_195183878": {
@@ -309,10 +309,10 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195195925": {
     "id": "bazos_195195925",
@@ -339,10 +339,10 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195220269": {
     "id": "bazos_195220269",
@@ -384,10 +384,10 @@
     "efektivna_cena": 600,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195230250": {
     "id": "bazos_195230250",
@@ -444,10 +444,10 @@
     "efektivna_cena": 690,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "PSČ: 831 06 (Rača)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "Alstrova (Rača)",
+    "lat": 48.209940227594,
+    "lng": 17.145415828789,
+    "farba": "green"
   },
   "bazos_195249694": {
     "id": "bazos_195249694",
@@ -504,10 +504,10 @@
     "efektivna_cena": 450,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Rusovská cesta (Petržalka)",
+    "lat": 48.12414170279,
+    "lng": 17.101402956814,
+    "farba": "green"
   },
   "bazos_195316545": {
     "id": "bazos_195316545",
@@ -519,10 +519,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195313678": {
     "id": "bazos_195313678",
@@ -534,7 +534,7 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Štefánikova (Staré Mesto)",
+    "lokalita": "Štefánikova",
     "lat": 48.154191662046,
     "lng": 17.106125547036,
     "farba": "green"
@@ -549,10 +549,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195304922": {
     "id": "bazos_195304922",
@@ -564,9 +564,9 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Vlárska (Nové Mesto)",
-    "lat": 48.169775121307,
-    "lng": 17.091140193192,
+    "lokalita": "Sibírska (Nové Mesto)",
+    "lat": 48.165223939617,
+    "lng": 17.123469610859,
     "farba": "green"
   },
   "bazos_195304470": {
@@ -579,10 +579,10 @@
     "efektivna_cena": 390,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Garsónka (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195303431": {
     "id": "bazos_195303431",
@@ -594,9 +594,9 @@
     "efektivna_cena": 650,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Vlárska (Nové Mesto)",
-    "lat": 48.169775121307,
-    "lng": 17.091140193192,
+    "lokalita": "Sibírska (Nové Mesto)",
+    "lat": 48.165223939617,
+    "lng": 17.123469610859,
     "farba": "green"
   },
   "bazos_195324265": {
@@ -609,25 +609,25 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Továrenská (Staré Mesto)",
-    "lat": 48.145367063381,
-    "lng": 17.126505039591,
-    "farba": "green"
+    "lokalita": "PSČ: 811 09 (Ružinov)",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
   },
   "bazos_195322335": {
     "id": "bazos_195322335",
     "zdroj": "Bazoš",
     "titulok": "Prenájom - garzónka s balkónom a pivnicou,Ružinov II, Ondavs",
     "odkaz": "https://reality.bazos.sk/inzerat/195322335/prenajom-garzonka-s-balkonom-a-pivnicouruzinov-ii-ondavs.php",
-    "cena_povodna": "685 €",
-    "spolu_cena": "685 €",
-    "efektivna_cena": 685,
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "82m2 (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195322070": {
     "id": "bazos_195322070",
@@ -639,10 +639,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Rusovská cesta (Petržalka)",
+    "lat": 48.12414170279,
+    "lng": 17.101402956814,
+    "farba": "green"
   },
   "bazos_195325403": {
     "id": "bazos_195325403",
@@ -654,7 +654,7 @@
     "efektivna_cena": 570,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 08",
+    "lokalita": "PSČ: 821 08 (Staré Mesto)",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -687,6 +687,66 @@
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
+    "farba": "orange"
+  },
+  "bazos_195347268": {
+    "id": "bazos_195347268",
+    "zdroj": "Bazoš",
+    "titulok": "Hľadám podnájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/195347268/hladam-podnajom.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "Továrenská (Staré Mesto)",
+    "lat": 48.145367063381,
+    "lng": 17.126505039591,
+    "farba": "green"
+  },
+  "bazos_195347173": {
+    "id": "bazos_195347173",
+    "zdroj": "Bazoš",
+    "titulok": "2-izbový byt s balkónom pri Auparku",
+    "odkaz": "https://reality.bazos.sk/inzerat/195347173/2-izbovy-byt-s-balkonom-pri-auparku.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "Antolská (Petržalka)",
+    "lat": 48.100462085684,
+    "lng": 17.115311355,
+    "farba": "green"
+  },
+  "bazos_195340654": {
+    "id": "bazos_195340654",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM IZIEB v BYTE GORKÉHO BRATISLAVA",
+    "odkaz": "https://reality.bazos.sk/inzerat/195340654/prenajom-izieb-v-byte-gorkeho-bratislava.php",
+    "cena_povodna": "280 €",
+    "spolu_cena": "280 €",
+    "efektivna_cena": 280,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "PSČ: 811 01 (Nivy)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
+  },
+  "bazos_195338643": {
+    "id": "bazos_195338643",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom novostavba 2 izb.byt, Rusovská cesta, Bratislava V.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195338643/prenajom-novostavba-2-izbbyt-rusovska-cesta-bratislava-v.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "08.09.2026",
+    "datum_iso": "2026-09-08",
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
     "farba": "orange"
   }
 }
