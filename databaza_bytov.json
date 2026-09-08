@@ -609,10 +609,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Továrenská (Staré Mesto)",
+    "lat": 48.145367063381,
+    "lng": 17.126505039591,
+    "farba": "green"
   },
   "bazos_195322335": {
     "id": "bazos_195322335",
