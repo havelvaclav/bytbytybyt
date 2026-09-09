@@ -22,8 +22,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "09.09.2026",
-    "datum_iso": "2026-09-09",
+    "datum_str": "10.09.2026",
+    "datum_iso": "2026-09-10",
     "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
@@ -174,10 +174,10 @@
     "efektivna_cena": 699,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195195925": {
     "id": "bazos_195195925",
@@ -204,10 +204,10 @@
     "efektivna_cena": 590,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195220269": {
     "id": "bazos_195220269",
@@ -249,10 +249,10 @@
     "efektivna_cena": 600,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195230250": {
     "id": "bazos_195230250",
@@ -369,10 +369,10 @@
     "efektivna_cena": 450,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Pečianska (Petržalka)",
-    "lat": 48.13027309094,
-    "lng": 17.094500160419,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195316545": {
     "id": "bazos_195316545",
@@ -384,10 +384,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195313678": {
     "id": "bazos_195313678",
@@ -414,10 +414,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195304922": {
     "id": "bazos_195304922",
@@ -474,10 +474,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "29. augusta. Plocha (Staré Mesto)",
+    "lat": 48.149661762562,
+    "lng": 17.1158370588,
+    "farba": "green"
   },
   "bazos_195322335": {
     "id": "bazos_195322335",
@@ -489,10 +489,10 @@
     "efektivna_cena": 690,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195322070": {
     "id": "bazos_195322070",
@@ -504,10 +504,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Jungmannova (Petržalka)",
-    "lat": 48.125394231654,
-    "lng": 17.114830652421,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195325403": {
     "id": "bazos_195325403",
@@ -532,8 +532,8 @@
     "cena_povodna": "360 €",
     "spolu_cena": "360 €",
     "efektivna_cena": 360,
-    "datum_str": "09.09.2026",
-    "datum_iso": "2026-09-09",
+    "datum_str": "10.09.2026",
+    "datum_iso": "2026-09-10",
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
@@ -547,8 +547,8 @@
     "cena_povodna": "380 €",
     "spolu_cena": "380 €",
     "efektivna_cena": 380,
-    "datum_str": "09.09.2026",
-    "datum_iso": "2026-09-09",
+    "datum_str": "10.09.2026",
+    "datum_iso": "2026-09-10",
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
@@ -564,10 +564,10 @@
     "efektivna_cena": 600,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "29. augusta. Plocha (Staré Mesto)",
+    "lat": 48.149661762562,
+    "lng": 17.1158370588,
+    "farba": "green"
   },
   "bazos_195347173": {
     "id": "bazos_195347173",
@@ -579,10 +579,10 @@
     "efektivna_cena": 700,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "Jungmannova (Petržalka)",
-    "lat": 48.125394231654,
-    "lng": 17.114830652421,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195340654": {
     "id": "bazos_195340654",
@@ -609,9 +609,9 @@
     "efektivna_cena": 700,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "Antolská (Petržalka)",
-    "lat": 48.100462085684,
-    "lng": 17.115311355,
+    "lokalita": "Vyšehradská (Petržalka)",
+    "lat": 48.097064913802,
+    "lng": 17.102789995248,
     "farba": "green"
   },
   "bazos_195350382": {
@@ -639,10 +639,10 @@
     "efektivna_cena": 590,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195348684": {
     "id": "bazos_195348684",
@@ -669,10 +669,10 @@
     "efektivna_cena": 570,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195362971": {
     "id": "bazos_195362971",
@@ -744,10 +744,10 @@
     "efektivna_cena": 630,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Narcisová 48 (Ružinov)",
+    "lat": 48.154483012927,
+    "lng": 17.160485618357,
+    "farba": "green"
   },
   "bazos_195371303": {
     "id": "bazos_195371303",
@@ -762,6 +762,21 @@
     "lokalita": "SÚMRAČNÁ (Ružinov)",
     "lat": 48.158787044169,
     "lng": 17.170947819206,
+    "farba": "green"
+  },
+  "bazos_195391327": {
+    "id": "bazos_195391327",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 1 izbový byt, 51 m2, Bratislava, Petržalka, Vyše",
+    "odkaz": "https://reality.bazos.sk/inzerat/195391327/na-prenajom-1-izbovy-byt-51-m2-bratislava-petrzalka-vyse.php",
+    "cena_povodna": "530 €",
+    "spolu_cena": "530 €",
+    "efektivna_cena": 530,
+    "datum_str": "10.09.2026",
+    "datum_iso": "2026-09-10",
+    "lokalita": "Antolská (Petržalka)",
+    "lat": 48.100462085684,
+    "lng": 17.115311355,
     "farba": "green"
   }
 }
