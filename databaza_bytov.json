@@ -24,7 +24,7 @@
     "efektivna_cena": 650,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -129,7 +129,7 @@
     "efektivna_cena": 650,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -144,10 +144,10 @@
     "efektivna_cena": 700,
     "datum_str": "03.09.2026",
     "datum_iso": "2026-09-03",
-    "lokalita": "Sibírska (Nové Mesto)",
-    "lat": 48.165223939617,
-    "lng": 17.123469610859,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_195183878": {
     "id": "bazos_195183878",
@@ -305,11 +305,11 @@
     "titulok": "Na prenájom pekný moderný 2 izbový byt Rača - Rendez",
     "odkaz": "https://reality.bazos.sk/inzerat/195235651/na-prenajom-pekny-moderny-2-izbovy-byt-raca-rendez.php",
     "cena_povodna": "690 €",
-    "spolu_cena": "690 €",
-    "efektivna_cena": 690,
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -369,10 +369,10 @@
     "efektivna_cena": 450,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Pečianska (Petržalka)",
+    "lat": 48.13027309094,
+    "lng": 17.094500160419,
+    "farba": "green"
   },
   "bazos_195316545": {
     "id": "bazos_195316545",
@@ -399,7 +399,7 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Štefánikova (Staré Mesto)",
+    "lokalita": "Štefánikova",
     "lat": 48.154191662046,
     "lng": 17.106125547036,
     "farba": "green"
@@ -429,10 +429,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Sibírska (Nové Mesto)",
-    "lat": 48.165223939617,
-    "lng": 17.123469610859,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Rača)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_195304470": {
     "id": "bazos_195304470",
@@ -519,7 +519,7 @@
     "efektivna_cena": 570,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 08 (Nivy)",
+    "lokalita": "PSČ: 821 08 (Ružinov)",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -609,10 +609,10 @@
     "efektivna_cena": 700,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 851 01",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Antolská (Petržalka)",
+    "lat": 48.100462085684,
+    "lng": 17.115311355,
+    "farba": "green"
   },
   "bazos_195350382": {
     "id": "bazos_195350382",
@@ -687,6 +687,81 @@
     "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
     "lat": 48.158265421,
     "lng": 17.155931953,
+    "farba": "green"
+  },
+  "bazos_195375090": {
+    "id": "bazos_195375090",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový byt po čiastočnej rekonštrukcii – Medzilaborecká ul",
+    "odkaz": "https://reality.bazos.sk/inzerat/195375090/1-izbovy-byt-po-ciastocnej-rekonstrukcii-medzilaborecka-ul.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "09.09.2026",
+    "datum_iso": "2026-09-09",
+    "lokalita": "Medzilaborecká",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
+  },
+  "bazos_195374670": {
+    "id": "bazos_195374670",
+    "zdroj": "Bazoš",
+    "titulok": "PENÁJOM- 1i bytu v Starom meste, na Šancovej ulici",
+    "odkaz": "https://reality.bazos.sk/inzerat/195374670/penajom-1i-bytu-v-starom-meste-na-sancovej-ulici.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "09.09.2026",
+    "datum_iso": "2026-09-09",
+    "lokalita": "PSČ: 811 04",
+    "lat": 48.1601818,
+    "lng": 17.0857125,
+    "farba": "orange"
+  },
+  "bazos_195373525": {
+    "id": "bazos_195373525",
+    "zdroj": "Bazoš",
+    "titulok": "VEĽKÝ SVETlÝ 2i byt _ Bratislava Vrakuňa",
+    "odkaz": "https://reality.bazos.sk/inzerat/195373525/velky-svetly-2i-byt-bratislava-vrakuna.php",
+    "cena_povodna": "599 €",
+    "spolu_cena": "599 €",
+    "efektivna_cena": 599,
+    "datum_str": "09.09.2026",
+    "datum_iso": "2026-09-09",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_195372745": {
+    "id": "bazos_195372745",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbového bytu s balkónom / 54 m2 / Bratislava...",
+    "odkaz": "https://reality.bazos.sk/inzerat/195372745/prenajom-2-izboveho-bytu-s-balkonom-54-m2-bratislava.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "09.09.2026",
+    "datum_iso": "2026-09-09",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195371303": {
+    "id": "bazos_195371303",
+    "zdroj": "Bazoš",
+    "titulok": "VYMEŇ SUSEDA – PRÍJEMNÝ 2 IZB. BYT S LOGGIOU, SÚMRAČNÁ UL.,",
+    "odkaz": "https://reality.bazos.sk/inzerat/195371303/vymen-suseda-prijemny-2-izb-byt-s-loggiou-sumracna-ul.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "09.09.2026",
+    "datum_iso": "2026-09-09",
+    "lokalita": "SÚMRAČNÁ",
+    "lat": 48.158787044169,
+    "lng": 17.170947819206,
     "farba": "green"
   }
 }
