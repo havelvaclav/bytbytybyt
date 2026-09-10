@@ -54,9 +54,9 @@
     "efektivna_cena": 600,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "ako aj nemocnicena Antolskej",
-    "lat": 48.106166495991,
-    "lng": 17.115618612242,
+    "lokalita": "širšom centra Starého Meste",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green"
   },
   "bazos_194889787": {
@@ -114,7 +114,7 @@
     "efektivna_cena": 600,
     "datum_str": "04.09.2026",
     "datum_iso": "2026-09-04",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -174,7 +174,7 @@
     "efektivna_cena": 690,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -249,7 +249,7 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -279,7 +279,7 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -294,7 +294,7 @@
     "efektivna_cena": 600,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 830 00 (Rača)",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -339,7 +339,7 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 811 09",
+    "lokalita": "PSČ: 811 09 (Staré Mesto)",
     "lat": 48.1433615,
     "lng": 17.1221656,
     "farba": "orange"
@@ -354,10 +354,10 @@
     "efektivna_cena": 690,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "82m2 (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195322070": {
     "id": "bazos_195322070",
@@ -429,7 +429,7 @@
     "efektivna_cena": 600,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 811 09",
+    "lokalita": "PSČ: 811 09 (Staré Mesto)",
     "lat": 48.1433615,
     "lng": 17.1221656,
     "farba": "orange"
@@ -474,7 +474,7 @@
     "efektivna_cena": 700,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -504,7 +504,7 @@
     "efektivna_cena": 590,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -564,7 +564,7 @@
     "efektivna_cena": 550,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "Medzilaborecká (Ružinov)",
+    "lokalita": "Medzilaborecká",
     "lat": 48.159786915351,
     "lng": 17.159065582246,
     "farba": "green"
@@ -609,7 +609,7 @@
     "efektivna_cena": 630,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -624,7 +624,7 @@
     "efektivna_cena": 600,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "SÚMRAČNÁ (Ružinov)",
+    "lokalita": "SÚMRAČNÁ",
     "lat": 48.158787044169,
     "lng": 17.170947819206,
     "farba": "green"
@@ -673,5 +673,35 @@
     "lat": 48.0995306,
     "lng": 17.1308633,
     "farba": "orange"
+  },
+  "bazos_195412363": {
+    "id": "bazos_195412363",
+    "zdroj": "Bazoš",
+    "titulok": "Sekule - prenájom 2i bytu",
+    "odkaz": "https://reality.bazos.sk/inzerat/195412363/sekule-prenajom-2i-bytu.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "10.09.2026",
+    "datum_iso": "2026-09-10",
+    "lokalita": "PSČ: 908 80",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_195402051": {
+    "id": "bazos_195402051",
+    "zdroj": "Bazoš",
+    "titulok": "NOVOSTAVBA 2 izbový byt, Račianska ulica, Bratislava III. No",
+    "odkaz": "https://reality.bazos.sk/inzerat/195402051/novostavba-2-izbovy-byt-racianska-ulica-bratislava-iii-no.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "10.09.2026",
+    "datum_iso": "2026-09-10",
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   }
 }
