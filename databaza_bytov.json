@@ -22,8 +22,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "10.09.2026",
-    "datum_iso": "2026-09-10",
+    "datum_str": "11.09.2026",
+    "datum_iso": "2026-09-11",
     "lokalita": "PSČ: 831 02 (Nové Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
@@ -474,7 +474,7 @@
     "efektivna_cena": 700,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -637,8 +637,8 @@
     "cena_povodna": "530 €",
     "spolu_cena": "530 €",
     "efektivna_cena": 530,
-    "datum_str": "10.09.2026",
-    "datum_iso": "2026-09-10",
+    "datum_str": "11.09.2026",
+    "datum_iso": "2026-09-11",
     "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
@@ -702,6 +702,21 @@
     "lokalita": "Račianska (Nové Mesto)",
     "lat": 48.172618620038,
     "lng": 17.127011468374,
+    "farba": "green"
+  },
+  "bazos_195420689": {
+    "id": "bazos_195420689",
+    "zdroj": "Bazoš",
+    "titulok": "3-IZBOVÝ BYT NA PRENÁJOM V TRENČÍNE – LEGIONÁRSKA | 68 m² |",
+    "odkaz": "https://reality.bazos.sk/inzerat/195420689/3-izbovy-byt-na-prenajom-v-trencine-legionarska-68-m.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "10.09.2026",
+    "datum_iso": "2026-09-10",
+    "lokalita": "Východná",
+    "lat": 48.196221550688,
+    "lng": 17.179135664704,
     "farba": "green"
   }
 }
