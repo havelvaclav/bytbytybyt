@@ -54,7 +54,7 @@
     "efektivna_cena": 580,
     "datum_str": "06.09.2026",
     "datum_iso": "2026-09-06",
-    "lokalita": "PSČ: 831 03 (Koliba)",
+    "lokalita": "PSČ: 831 03 (Nové Mesto)",
     "lat": 48.1649786,
     "lng": 17.1309307,
     "farba": "orange"
@@ -657,6 +657,21 @@
     "lokalita": "Východná",
     "lat": 48.196221550688,
     "lng": 17.179135664704,
+    "farba": "green"
+  },
+  "bazos_195425280": {
+    "id": "bazos_195425280",
+    "zdroj": "Bazoš",
+    "titulok": "1-izb. byt. - Nám. sv. Františka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195425280/1-izb-byt-nam-sv-frantiska.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "11.09.2026",
+    "datum_iso": "2026-09-11",
+    "lokalita": "Silvanska",
+    "lat": 48.160398406069,
+    "lng": 17.047805094215,
     "farba": "green"
   }
 }
