@@ -24,7 +24,7 @@
     "efektivna_cena": 650,
     "datum_str": "11.09.2026",
     "datum_iso": "2026-09-11",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -110,8 +110,8 @@
     "titulok": "Na prenájom pekný moderný 2 izbový byt Rača - Rendez",
     "odkaz": "https://reality.bazos.sk/inzerat/195235651/na-prenajom-pekny-moderny-2-izbovy-byt-raca-rendez.php",
     "cena_povodna": "690 €",
-    "spolu_cena": "690 €",
-    "efektivna_cena": 690,
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
     "datum_str": "05.09.2026",
     "datum_iso": "2026-09-05",
     "lokalita": "PSČ: 831 06 (Rača)",
@@ -249,7 +249,7 @@
     "efektivna_cena": 390,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -609,7 +609,7 @@
     "efektivna_cena": 650,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "PSČ: 851 07 (Slnečnice)",
+    "lokalita": "PSČ: 851 07",
     "lat": 48.0995306,
     "lng": 17.1308633,
     "farba": "orange"
