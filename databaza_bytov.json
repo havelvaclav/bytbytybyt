@@ -545,8 +545,8 @@
     "titulok": "3-IZBOVÝ BYT NA PRENÁJOM V TRENČÍNE – LEGIONÁRSKA | 68 m² |",
     "odkaz": "https://reality.bazos.sk/inzerat/195420689/3-izbovy-byt-na-prenajom-v-trencine-legionarska-68-m.php",
     "cena_povodna": "500 €",
-    "spolu_cena": "500 €",
-    "efektivna_cena": 500,
+    "spolu_cena": "350 €",
+    "efektivna_cena": 350,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
     "lokalita": "PSČ: 911 01",
@@ -582,6 +582,21 @@
     "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195459571": {
+    "id": "bazos_195459571",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Na prenájom garsónka Bratislava - Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195459571/bosen-na-prenajom-garsonka-bratislava-petrzalka.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "12.09.2026",
+    "datum_iso": "2026-09-12",
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
     "farba": "orange"
   }
 }
