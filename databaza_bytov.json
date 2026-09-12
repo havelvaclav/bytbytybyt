@@ -643,5 +643,20 @@
     "lat": 48.152388204809,
     "lng": 17.076725032113,
     "farba": "orange"
+  },
+  "bazos_195319995": {
+    "id": "bazos_195319995",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM: Moderný 1 izbový byt s balkónom v bytovom dome",
+    "odkaz": "https://reality.bazos.sk/inzerat/195319995/na-prenajom-moderny-1-izbovy-byt-s-balkonom-v-bytovom-dome.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "12.09.2026",
+    "datum_iso": "2026-09-12",
+    "lokalita": "PSČ: 831 03",
+    "lat": 48.1649786,
+    "lng": 17.1309307,
+    "farba": "orange"
   }
 }
