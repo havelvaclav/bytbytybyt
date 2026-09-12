@@ -429,10 +429,10 @@
     "efektivna_cena": 599,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "loggiou Čiernovodská (Vrakuňa)",
+    "lat": 48.139123727073,
+    "lng": 17.211374608172,
+    "farba": "green"
   },
   "bazos_195372745": {
     "id": "bazos_195372745",
@@ -545,14 +545,14 @@
     "titulok": "3-IZBOVÝ BYT NA PRENÁJOM V TRENČÍNE – LEGIONÁRSKA | 68 m² |",
     "odkaz": "https://reality.bazos.sk/inzerat/195420689/3-izbovy-byt-na-prenajom-v-trencine-legionarska-68-m.php",
     "cena_povodna": "500 €",
-    "spolu_cena": "350 €",
-    "efektivna_cena": 350,
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "PSČ: 911 01",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "orange"
+    "lokalita": "Sibírska",
+    "lat": 48.165223939617,
+    "lng": 17.123469610859,
+    "farba": "green"
   },
   "bazos_195425280": {
     "id": "bazos_195425280",
@@ -598,5 +598,20 @@
     "lat": 48.123911,
     "lng": 17.11186,
     "farba": "orange"
+  },
+  "bazos_195463708": {
+    "id": "bazos_195463708",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom ateliér Staré mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/195463708/na-prenajom-atelier-stare-mesto.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "12.09.2026",
+    "datum_iso": "2026-09-12",
+    "lokalita": "Obchodná (Staré Mesto)",
+    "lat": 48.148083409897,
+    "lng": 17.111552376965,
+    "farba": "green"
   }
 }
