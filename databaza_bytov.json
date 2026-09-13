@@ -144,9 +144,9 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "Lermontovova (Staré Mesto)",
+    "lat": 48.151138841062,
+    "lng": 17.104754238281,
     "farba": "green"
   },
   "bazos_195322335": {
@@ -174,9 +174,9 @@
     "efektivna_cena": 700,
     "datum_str": "07.09.2026",
     "datum_iso": "2026-09-07",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   },
   "bazos_195325403": {
@@ -234,9 +234,9 @@
     "efektivna_cena": 600,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
+    "lokalita": "Lermontovova (Staré Mesto)",
+    "lat": 48.151138841062,
+    "lng": 17.104754238281,
     "farba": "green"
   },
   "bazos_195347173": {
@@ -249,9 +249,9 @@
     "efektivna_cena": 700,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   },
   "bazos_195340654": {
@@ -519,10 +519,10 @@
     "efektivna_cena": 500,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "Sibírska",
-    "lat": 48.165223939617,
-    "lng": 17.123469610859,
-    "farba": "green"
+    "lokalita": "PSČ: 911 01",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
   },
   "bazos_195425280": {
     "id": "bazos_195425280",
@@ -564,9 +564,9 @@
     "efektivna_cena": 620,
     "datum_str": "12.09.2026",
     "datum_iso": "2026-09-12",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   },
   "bazos_195463708": {
@@ -643,5 +643,20 @@
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
+  },
+  "bazos_195504195": {
+    "id": "bazos_195504195",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájem 1‑izbový byt na Lužnej ulici v Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/195504195/prenajem-1izbovy-byt-na-luznej-ulici-v-bratislava.php",
+    "cena_povodna": "480 €",
+    "spolu_cena": "480 €",
+    "efektivna_cena": 480,
+    "datum_str": "13.09.2026",
+    "datum_iso": "2026-09-13",
+    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
+    "lat": 48.158265421,
+    "lng": 17.155931953,
+    "farba": "green"
   }
 }
