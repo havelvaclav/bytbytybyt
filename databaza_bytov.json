@@ -14,21 +14,6 @@
     "lng": 17.1158206,
     "farba": "orange"
   },
-  "bazos_194889787": {
-    "id": "bazos_194889787",
-    "zdroj": "Bazoš",
-    "titulok": "Ponúkam 1 izbový byt \"Grand Koliba\" terasa-garáž",
-    "odkaz": "https://reality.bazos.sk/inzerat/194889787/ponukam-15-izbovy-byt-grand-koliba-terasa-garaz-pivnic.php",
-    "cena_povodna": "580 €",
-    "spolu_cena": "580 €",
-    "efektivna_cena": 580,
-    "datum_str": "06.09.2026",
-    "datum_iso": "2026-09-06",
-    "lokalita": "PSČ: 831 03 (Nové Mesto)",
-    "lat": 48.1649786,
-    "lng": 17.1309307,
-    "farba": "orange"
-  },
   "bazos_195133111": {
     "id": "bazos_195133111",
     "zdroj": "Bazoš",
@@ -43,21 +28,6 @@
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
-  },
-  "bazos_195277022": {
-    "id": "bazos_195277022",
-    "zdroj": "Bazoš",
-    "titulok": "Garsónka na prenájom, Bratislava - Rača",
-    "odkaz": "https://reality.bazos.sk/inzerat/195277022/garsonka-na-prenajom-bratislava-raca.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "06.09.2026",
-    "datum_iso": "2026-09-06",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Rača)",
-    "lat": 48.211068929,
-    "lng": 17.15497545,
-    "farba": "green"
   },
   "bazos_195302463": {
     "id": "bazos_195302463",
