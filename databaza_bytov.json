@@ -620,8 +620,8 @@
     "titulok": "NA PRENÁJOM: Moderný 1 izbový byt s balkónom v bytovom dome",
     "odkaz": "https://reality.bazos.sk/inzerat/195319995/na-prenajom-moderny-1-izbovy-byt-s-balkonom-v-bytovom-dome.php",
     "cena_povodna": "700 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
     "datum_str": "13.09.2026",
     "datum_iso": "2026-09-13",
     "lokalita": "PSČ: 831 03",
@@ -658,5 +658,20 @@
     "lat": 48.158265421,
     "lng": 17.155931953,
     "farba": "green"
+  },
+  "bazos_195510172": {
+    "id": "bazos_195510172",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom,1-izb.byt,40M2, Bratislava IV-DNV,Novostavba",
+    "odkaz": "https://reality.bazos.sk/inzerat/195510172/prenajom1-izbbyt40m2-bratislava-iv-dnvnovostavba.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "13.09.2026",
+    "datum_iso": "2026-09-13",
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   }
 }
