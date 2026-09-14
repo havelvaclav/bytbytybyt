@@ -129,7 +129,7 @@
     "efektivna_cena": 590,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -189,7 +189,7 @@
     "efektivna_cena": 550,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "Medzilaborecká (Ružinov)",
+    "lokalita": "Medzilaborecká",
     "lat": 48.159786915351,
     "lng": 17.159065582246,
     "farba": "green"
@@ -234,7 +234,7 @@
     "efektivna_cena": 630,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -249,7 +249,7 @@
     "efektivna_cena": 600,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "SÚMRAČNÁ (Ružinov)",
+    "lokalita": "SÚMRAČNÁ",
     "lat": 48.158787044169,
     "lng": 17.170947819206,
     "farba": "green"
@@ -264,10 +264,10 @@
     "efektivna_cena": 530,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "KRÁSNOHORSKÁ - PETRŽALKA (Petržalka)",
+    "lat": 48.098280241252,
+    "lng": 17.11276425731,
+    "farba": "green"
   },
   "bazos_195409063": {
     "id": "bazos_195409063",
@@ -384,9 +384,9 @@
     "efektivna_cena": 620,
     "datum_str": "12.09.2026",
     "datum_iso": "2026-09-12",
-    "lokalita": "Lužná (Petržalka)",
-    "lat": 48.129188664104,
-    "lng": 17.117912442704,
+    "lokalita": "Pečianska (Petržalka)",
+    "lat": 48.13027309094,
+    "lng": 17.094500160419,
     "farba": "green"
   },
   "bazos_195463708": {
@@ -459,7 +459,7 @@
     "efektivna_cena": 550,
     "datum_str": "13.09.2026",
     "datum_iso": "2026-09-13",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -489,10 +489,10 @@
     "efektivna_cena": 550,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "Podhorská (Devínska Nová Ves)",
+    "lat": 48.205501013418,
+    "lng": 16.975125572784,
+    "farba": "green"
   },
   "bazos_195531273": {
     "id": "bazos_195531273",
@@ -504,10 +504,10 @@
     "efektivna_cena": 500,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Astrová (Ružinov)",
-    "lat": 48.15554774588,
-    "lng": 17.159077032125,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195530983": {
     "id": "bazos_195530983",
@@ -519,10 +519,10 @@
     "efektivna_cena": 590,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Baltská (Podunajské Biskupice)",
-    "lat": 48.13418455004,
-    "lng": 17.201183772767,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_195530187": {
     "id": "bazos_195530187",
@@ -534,9 +534,114 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195540080": {
+    "id": "bazos_195540080",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN I 1,5 izbový byt s parkovaním v novstavbe Bory Promená",
+    "odkaz": "https://reality.bazos.sk/inzerat/195540080/bosen-i-15-izbovy-byt-s-parkovanim-v-novstavbe-bory-promena.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
+  },
+  "bazos_195536868": {
+    "id": "bazos_195536868",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom 1-izbový byt , kompletne zariadený zrek",
+    "odkaz": "https://reality.bazos.sk/inzerat/195536868/ponukame-na-prenajom-1-izbovy-byt-kompletne-zariadeny-zrek.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "PSČ: 821 08 (Nivy)",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
+  },
+  "bazos_195536590": {
+    "id": "bazos_195536590",
+    "zdroj": "Bazoš",
+    "titulok": "- NOVO VYMALOVANY - NOVO ZARIADENY - 1,5-izbovy - Súmračná -",
+    "odkaz": "https://reality.bazos.sk/inzerat/195536590/novo-vymalovany-novo-zariadeny-15-izbovy-sumracna.php",
+    "cena_povodna": "390 €",
+    "spolu_cena": "390 €",
+    "efektivna_cena": 390,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195535774": {
+    "id": "bazos_195535774",
+    "zdroj": "Bazoš",
+    "titulok": "VYMEŇ SUSEDA – VZDUŠNÝ 2 IZB. BYT S VEĽKÝM BALKÓNOM, RUŽINO",
+    "odkaz": "https://reality.bazos.sk/inzerat/195535774/vymen-suseda-vzdusny-2-izb-byt-s-velkym-balkonom-ruzino.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195535665": {
+    "id": "bazos_195535665",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 3 izbový byt, Krásnohorská ulica, Bratislava V. Pet",
+    "odkaz": "https://reality.bazos.sk/inzerat/195535665/prenajom-3-izbovy-byt-krasnohorska-ulica-bratislava-v-pet.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "Krásnohorská (Petržalka)",
+    "lat": 48.098280241252,
+    "lng": 17.11276425731,
+    "farba": "green"
+  },
+  "bazos_195535021": {
+    "id": "bazos_195535021",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Svetlý 2 izbový byt s balkónom v pokojnej časti, Rus",
+    "odkaz": "https://reality.bazos.sk/inzerat/195535021/bosen-svetly-2-izbovy-byt-s-balkonom-v-pokojnej-casti-rus.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "PSČ: 850 09 (Rusovce)",
+    "lat": 48.0409008,
+    "lng": 17.1176491,
+    "farba": "orange"
+  },
+  "bazos_195534766": {
+    "id": "bazos_195534766",
+    "zdroj": "Bazoš",
+    "titulok": "VYMEŇ SUSEDA - VÝNIMOČNÝ  1 IZB. BYT S TERASOU A PREDZÁHRAD",
+    "odkaz": "https://reality.bazos.sk/inzerat/195534766/vymen-suseda-vynimocny-1-izb-byt-sterasou-apredzahrad.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
     "farba": "orange"
   }
 }
