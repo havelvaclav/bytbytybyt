@@ -129,7 +129,7 @@
     "efektivna_cena": 590,
     "datum_str": "08.09.2026",
     "datum_iso": "2026-09-08",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -189,7 +189,7 @@
     "efektivna_cena": 550,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "Medzilaborecká",
+    "lokalita": "Medzilaborecká (Ružinov)",
     "lat": 48.159786915351,
     "lng": 17.159065582246,
     "farba": "green"
@@ -234,7 +234,7 @@
     "efektivna_cena": 630,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -249,7 +249,7 @@
     "efektivna_cena": 600,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "SÚMRAČNÁ",
+    "lokalita": "SÚMRAČNÁ (Ružinov)",
     "lat": 48.158787044169,
     "lng": 17.170947819206,
     "farba": "green"
@@ -369,7 +369,7 @@
     "efektivna_cena": 390,
     "datum_str": "11.09.2026",
     "datum_iso": "2026-09-11",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -384,9 +384,9 @@
     "efektivna_cena": 620,
     "datum_str": "12.09.2026",
     "datum_iso": "2026-09-12",
-    "lokalita": "Medveďovej (Petržalka)",
-    "lat": 48.123031098998,
-    "lng": 17.131897232261,
+    "lokalita": "Lužná (Petržalka)",
+    "lat": 48.129188664104,
+    "lng": 17.117912442704,
     "farba": "green"
   },
   "bazos_195463708": {
@@ -444,10 +444,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 831 03",
-    "lat": 48.1649786,
-    "lng": 17.1309307,
-    "farba": "orange"
+    "lokalita": "PAVLOVSKÁ",
+    "lat": 48.172776589113,
+    "lng": 17.135269981552,
+    "farba": "green"
   },
   "bazos_195490325": {
     "id": "bazos_195490325",
@@ -459,7 +459,7 @@
     "efektivna_cena": 550,
     "datum_str": "13.09.2026",
     "datum_iso": "2026-09-13",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -492,6 +492,51 @@
     "lokalita": "PSČ: 841 08",
     "lat": 48.2059525,
     "lng": 16.9785455,
+    "farba": "orange"
+  },
+  "bazos_195531273": {
+    "id": "bazos_195531273",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekný 1 izbový byt, Doležalova Bratislava II. Ružin",
+    "odkaz": "https://reality.bazos.sk/inzerat/195531273/prenajom-pekny-1-izbovy-byt-dolezalova-bratislava-ii-ruzin.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "Astrová (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
+  },
+  "bazos_195530983": {
+    "id": "bazos_195530983",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-garsónky na Závodnej ulici – Bratislava – P.B",
+    "odkaz": "https://reality.bazos.sk/inzerat/195530983/prenajom-2-garsonky-na-zavodnej-ulici-bratislava-pb.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "Baltská (Podunajské Biskupice)",
+    "lat": 48.13418455004,
+    "lng": 17.201183772767,
+    "farba": "green"
+  },
+  "bazos_195530187": {
+    "id": "bazos_195530187",
+    "zdroj": "Bazoš",
+    "titulok": "VYMEŇ SUSEDA - VÝNIMOČNÝ 2 IZB. ZREKONŠTRUOVANÝ BYT, BALKÓN",
+    "odkaz": "https://reality.bazos.sk/inzerat/195530187/vymen-suseda-vynimocny-2-izb-zrekonstruovany-byt-balkon.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
