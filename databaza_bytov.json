@@ -384,9 +384,9 @@
     "efektivna_cena": 620,
     "datum_str": "12.09.2026",
     "datum_iso": "2026-09-12",
-    "lokalita": "Pečianska (Petržalka)",
-    "lat": 48.13027309094,
-    "lng": 17.094500160419,
+    "lokalita": "M.C.Sklodowskej (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_195463708": {
@@ -643,5 +643,35 @@
     "lat": 48.2059525,
     "lng": 16.9785455,
     "farba": "orange"
+  },
+  "bazos_195545025": {
+    "id": "bazos_195545025",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový zariadený byt na prenájom v Petržalke",
+    "odkaz": "https://reality.bazos.sk/inzerat/195545025/1-izbovy-zariadeny-byt-na-prenajom-v-petrzalke.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "Pečianska (Petržalka)",
+    "lat": 48.13027309094,
+    "lng": 17.094500160419,
+    "farba": "green"
+  },
+  "bazos_195546970": {
+    "id": "bazos_195546970",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
+    "odkaz": "https://reality.bazos.sk/inzerat/195546970/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "14.09.2026",
+    "datum_iso": "2026-09-14",
+    "lokalita": "Platanová",
+    "lat": 48.150190322717,
+    "lng": 17.195852410743,
+    "farba": "green"
   }
 }
