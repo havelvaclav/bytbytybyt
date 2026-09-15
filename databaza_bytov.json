@@ -114,10 +114,10 @@
     "efektivna_cena": 599,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Vrakuňa)",
+    "lat": 48.145746545,
+    "lng": 17.205805283,
+    "farba": "green"
   },
   "bazos_195372745": {
     "id": "bazos_195372745",
@@ -189,10 +189,10 @@
     "efektivna_cena": 650,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 851 07",
+    "lat": 48.0995306,
+    "lng": 17.1308633,
+    "farba": "orange"
   },
   "bazos_195412363": {
     "id": "bazos_195412363",
@@ -648,6 +648,36 @@
     "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195573804": {
+    "id": "bazos_195573804",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový byt s loggiou na dlhodobý prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/195573804/1-izbovy-byt-s-loggiou-na-prenajom.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "PSČ: 841 01",
+    "lat": 48.1845444,
+    "lng": 17.0151322,
+    "farba": "orange"
+  },
+  "bazos_195575827": {
+    "id": "bazos_195575827",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbového bytu v Dunajskej Strede",
+    "odkaz": "https://reality.bazos.sk/inzerat/195575827/prenajom-2-izboveho-bytu-v-dunajskej-strede.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "PSČ: 929 01",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "orange"
   }
 }
