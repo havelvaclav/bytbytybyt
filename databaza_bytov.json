@@ -114,10 +114,10 @@
     "efektivna_cena": 599,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "prostredí pri Malom Dunaji (Vrakuňa)",
-    "lat": 48.145746545,
-    "lng": 17.205805283,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195372745": {
     "id": "bazos_195372745",
@@ -219,7 +219,7 @@
     "efektivna_cena": 680,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "Račianska",
+    "lokalita": "Račianska (Nové Mesto)",
     "lat": 48.172618620038,
     "lng": 17.127011468374,
     "farba": "green"
@@ -474,10 +474,10 @@
     "efektivna_cena": 390,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Solivarská (Ružinov)",
-    "lat": 48.16164153454,
-    "lng": 17.154027961131,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195535774": {
     "id": "bazos_195535774",
@@ -678,6 +678,51 @@
     "lokalita": "PSČ: 929 01",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_195566717": {
+    "id": "bazos_195566717",
+    "zdroj": "Bazoš",
+    "titulok": "Bez provízie | Na prenájom útulná garsónka na Trnavskom mýte",
+    "odkaz": "https://reality.bazos.sk/inzerat/195566717/bez-provizie-na-prenajom-utulna-garsonka-na-trnavskom-myte.php",
+    "cena_povodna": "510 €",
+    "spolu_cena": "510 €",
+    "efektivna_cena": 510,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "Vlárska (Nové Mesto)",
+    "lat": 48.169775121307,
+    "lng": 17.091140193192,
+    "farba": "green"
+  },
+  "bazos_195584477": {
+    "id": "bazos_195584477",
+    "zdroj": "Bazoš",
+    "titulok": "Prenajmem 2 izbový byt",
+    "odkaz": "https://reality.bazos.sk/inzerat/195584477/prenajmem-2-izbovy-byt.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
+  },
+  "bazos_195578404": {
+    "id": "bazos_195578404",
+    "zdroj": "Bazoš",
+    "titulok": "REZERVOVANÉ: Priestranný a svetlý 1i, balkón, klimatizácia,",
+    "odkaz": "https://reality.bazos.sk/inzerat/195578404/rezervovane-priestranny-a-svetly-1i-balkon-klimatizacia.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
