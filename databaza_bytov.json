@@ -69,10 +69,10 @@
     "efektivna_cena": 675,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 04",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195375090": {
     "id": "bazos_195375090",
@@ -84,7 +84,7 @@
     "efektivna_cena": 550,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "Medzilaborecká (Ostredky)",
+    "lokalita": "Medzilaborecká",
     "lat": 48.159786915351,
     "lng": 17.159065582246,
     "farba": "green"
@@ -114,10 +114,10 @@
     "efektivna_cena": 599,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "loggiou Čiernovodská (Vrakuňa)",
-    "lat": 48.139123727073,
-    "lng": 17.211374608172,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195372745": {
     "id": "bazos_195372745",
@@ -129,7 +129,7 @@
     "efektivna_cena": 630,
     "datum_str": "09.09.2026",
     "datum_iso": "2026-09-09",
-    "lokalita": "PSČ: 821 01 (Ostredky)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -159,10 +159,10 @@
     "efektivna_cena": 530,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "KRÁSNOHORSKÁ - PETRŽALKA (Petržalka)",
-    "lat": 48.098280241252,
-    "lng": 17.11276425731,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195409063": {
     "id": "bazos_195409063",
@@ -219,7 +219,7 @@
     "efektivna_cena": 680,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "Račianska (Nové Mesto)",
+    "lokalita": "Račianska",
     "lat": 48.172618620038,
     "lng": 17.127011468374,
     "farba": "green"
@@ -279,10 +279,10 @@
     "efektivna_cena": 620,
     "datum_str": "12.09.2026",
     "datum_iso": "2026-09-12",
-    "lokalita": "M.C.Sklodowskej (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195463708": {
     "id": "bazos_195463708",
@@ -354,7 +354,7 @@
     "efektivna_cena": 550,
     "datum_str": "13.09.2026",
     "datum_iso": "2026-09-13",
-    "lokalita": "PSČ: 821 01 (Ostredky)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -384,10 +384,10 @@
     "efektivna_cena": 550,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Istrijská (Devínska Nová Ves)",
-    "lat": 48.21173095317,
-    "lng": 16.973314560832,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_195531273": {
     "id": "bazos_195531273",
@@ -399,7 +399,7 @@
     "efektivna_cena": 500,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01 (Ostredky)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -429,7 +429,7 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01 (Ostredky)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -474,10 +474,10 @@
     "efektivna_cena": 390,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01 (Ostredky)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Solivarská (Ružinov)",
+    "lat": 48.16164153454,
+    "lng": 17.154027961131,
+    "farba": "green"
   },
   "bazos_195535774": {
     "id": "bazos_195535774",
@@ -489,7 +489,7 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01 (Ostredky)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -534,10 +534,10 @@
     "efektivna_cena": 550,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Istrijská (Devínska Nová Ves)",
-    "lat": 48.21173095317,
-    "lng": 16.973314560832,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_195545025": {
     "id": "bazos_195545025",
@@ -549,10 +549,10 @@
     "efektivna_cena": 680,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Pečianska (Petržalka)",
-    "lat": 48.13027309094,
-    "lng": 17.094500160419,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195546970": {
     "id": "bazos_195546970",
@@ -579,9 +579,75 @@
     "efektivna_cena": 650,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Podhorská (Devínska Nová Ves)",
-    "lat": 48.205501013418,
-    "lng": 16.975125572784,
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
+  },
+  "bazos_195567489": {
+    "id": "bazos_195567489",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekný 2 izbový byt, Solivarská ulica, Bratislava II",
+    "odkaz": "https://reality.bazos.sk/inzerat/195567489/prenajom-pekny-2-izbovy-byt-solivarska-ulica-bratislava-ii.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "Solivarská",
+    "lat": 48.16164153454,
+    "lng": 17.154027961131,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/195535665/prenajom-3-izbovy-byt-krasnohorska-ulica-bratislava-v-pet.php"
+      }
+    ]
+  },
+  "bazos_195567063": {
+    "id": "bazos_195567063",
+    "zdroj": "Bazoš",
+    "titulok": "Komplet zariadený byt s loggiou v RETRO, pet friendly",
+    "odkaz": "https://reality.bazos.sk/inzerat/195567063/komplet-zariadeny-byt-s-loggiou-v-retro-pet-friendly.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195564811": {
+    "id": "bazos_195564811",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2 izbový byt, Námestie hraničiarov, Bratislava V. P",
+    "odkaz": "https://reality.bazos.sk/inzerat/195564811/prenajom-2-izbovy-byt-namestie-hraniciarov-bratislava-v-p.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "hraničiarov",
+    "lat": 48.123231095814,
+    "lng": 17.112549143309,
     "farba": "green"
+  },
+  "bazos_195564252": {
+    "id": "bazos_195564252",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/195564252/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "15.09.2026",
+    "datum_iso": "2026-09-15",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   }
 }
