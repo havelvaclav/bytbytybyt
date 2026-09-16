@@ -114,7 +114,7 @@
     "efektivna_cena": 680,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "Račianska (Nové Mesto)",
+    "lokalita": "Račianska",
     "lat": 48.172618620038,
     "lng": 17.127011468374,
     "farba": "green"
@@ -129,10 +129,10 @@
     "efektivna_cena": 500,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "Soblahovská",
+    "lokalita": "PSČ: 911 01",
     "lat": 48.154419507,
     "lng": 17.119406427,
-    "farba": "green"
+    "farba": "orange"
   },
   "bazos_195425280": {
     "id": "bazos_195425280",
@@ -354,10 +354,10 @@
     "efektivna_cena": 570,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 08",
-    "lat": 48.1582055,
-    "lng": 17.1398196,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195536590": {
     "id": "bazos_195536590",
@@ -459,9 +459,9 @@
     "efektivna_cena": 450,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Platanová",
-    "lat": 48.150190322717,
-    "lng": 17.195852410743,
+    "lokalita": "Garsónka",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "green"
   },
   "bazos_195550615": {
@@ -525,7 +525,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "hraničiarov",
+    "lokalita": "hraničiarov (Petržalka)",
     "lat": 48.123231095814,
     "lng": 17.112549143309,
     "farba": "green"
@@ -585,10 +585,10 @@
     "efektivna_cena": 510,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "Vlárska (Nové Mesto)",
-    "lat": 48.169775121307,
-    "lng": 17.091140193192,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_195584477": {
     "id": "bazos_195584477",
@@ -633,6 +633,66 @@
     "lokalita": "PSČ: 915 01 (Nové Mesto)",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_195606361": {
+    "id": "bazos_195606361",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM 2-IZBOVÉHO BYTU S 2 LODŽIAMI | PRIBIŠOVA",
+    "odkaz": "https://reality.bazos.sk/inzerat/195606361/prenajom-2-izboveho-bytu-s-2-lodziami-pribisova.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "16.09.2026",
+    "datum_iso": "2026-09-16",
+    "lokalita": "Beniakova (Karlova Ves)",
+    "lat": 48.157548195025,
+    "lng": 17.04634597239,
+    "farba": "green"
+  },
+  "bazos_195604760": {
+    "id": "bazos_195604760",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195604760/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "16.09.2026",
+    "datum_iso": "2026-09-16",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_195603882": {
+    "id": "bazos_195603882",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1 izby v 4-izbovom byte, Petržalka, BA",
+    "odkaz": "https://reality.bazos.sk/inzerat/195603882/prenajom-1-izby-v-4-izbovom-byte-petrzalka-ba.php",
+    "cena_povodna": "270 €",
+    "spolu_cena": "270 €",
+    "efektivna_cena": 270,
+    "datum_str": "16.09.2026",
+    "datum_iso": "2026-09-16",
+    "lokalita": "KRÁSNOHORSKÁ - PETRŽALKA (Petržalka)",
+    "lat": 48.098280241252,
+    "lng": 17.11276425731,
+    "farba": "green"
+  },
+  "bazos_195603324": {
+    "id": "bazos_195603324",
+    "zdroj": "Bazoš",
+    "titulok": "Byt v slušnom pôvodnom stave pri Račianskom Mýte",
+    "odkaz": "https://reality.bazos.sk/inzerat/195603324/byt-v-slusnom-povodnom-stave-pri-racianskom-myte.php",
+    "cena_povodna": "530 €",
+    "spolu_cena": "530 €",
+    "efektivna_cena": 530,
+    "datum_str": "16.09.2026",
+    "datum_iso": "2026-09-16",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
     "farba": "orange"
   }
 }
