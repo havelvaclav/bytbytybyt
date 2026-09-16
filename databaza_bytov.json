@@ -249,7 +249,7 @@
     "efektivna_cena": 550,
     "datum_str": "13.09.2026",
     "datum_iso": "2026-09-13",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -279,10 +279,10 @@
     "efektivna_cena": 550,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195531273": {
     "id": "bazos_195531273",
@@ -324,7 +324,7 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -384,7 +384,7 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -429,10 +429,10 @@
     "efektivna_cena": 550,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195545025": {
     "id": "bazos_195545025",
@@ -474,10 +474,10 @@
     "efektivna_cena": 650,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195567489": {
     "id": "bazos_195567489",
@@ -489,7 +489,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Solivarská",
+    "lokalita": "Solivarská (Nivy)",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
     "farba": "green",
@@ -510,7 +510,7 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -525,7 +525,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "hraničiarov (Petržalka)",
+    "lokalita": "hraničiarov",
     "lat": 48.123231095814,
     "lng": 17.112549143309,
     "farba": "green"
@@ -615,7 +615,7 @@
     "efektivna_cena": 590,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -660,7 +660,7 @@
     "efektivna_cena": 700,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -675,10 +675,10 @@
     "efektivna_cena": 270,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "KRÁSNOHORSKÁ - PETRŽALKA (Petržalka)",
-    "lat": 48.098280241252,
-    "lng": 17.11276425731,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195603324": {
     "id": "bazos_195603324",
@@ -694,5 +694,35 @@
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
+  },
+  "bazos_195617381": {
+    "id": "bazos_195617381",
+    "zdroj": "Bazoš",
+    "titulok": "Geologicka ul., 1,5 izbový byt od 15.10, príp. dohodou",
+    "odkaz": "https://reality.bazos.sk/inzerat/195617381/geologicka-ul-15-izbovy-byt-od-1510-prip-dohodou.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "16.09.2026",
+    "datum_iso": "2026-09-16",
+    "lokalita": "Geologicka",
+    "lat": 48.139416988262,
+    "lng": 17.195618700793,
+    "farba": "green"
+  },
+  "bazos_195612260": {
+    "id": "bazos_195612260",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka na prenájom, Bratislava - Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/195612260/garsonka-na-prenajom-bratislava-raca.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "16.09.2026",
+    "datum_iso": "2026-09-16",
+    "lokalita": "širšom centra Starého Meste (Rača)",
+    "lat": 48.211068929,
+    "lng": 17.15497545,
+    "farba": "green"
   }
 }
