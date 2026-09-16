@@ -129,10 +129,10 @@
     "efektivna_cena": 500,
     "datum_str": "10.09.2026",
     "datum_iso": "2026-09-10",
-    "lokalita": "PSČ: 911 01",
+    "lokalita": "Soblahovská",
     "lat": 48.154419507,
     "lng": 17.119406427,
-    "farba": "orange"
+    "farba": "green"
   },
   "bazos_195425280": {
     "id": "bazos_195425280",
@@ -249,10 +249,10 @@
     "efektivna_cena": 550,
     "datum_str": "13.09.2026",
     "datum_iso": "2026-09-13",
-    "lokalita": "Ružová dolina (Ružinov)",
-    "lat": 48.154352518891,
-    "lng": 17.137301589074,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195504195": {
     "id": "bazos_195504195",
@@ -294,10 +294,10 @@
     "efektivna_cena": 500,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Ružová dolina (Ružinov)",
-    "lat": 48.154352518891,
-    "lng": 17.137301589074,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195530983": {
     "id": "bazos_195530983",
@@ -324,10 +324,10 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Ružová dolina (Ružinov)",
-    "lat": 48.154352518891,
-    "lng": 17.137301589074,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195540080": {
     "id": "bazos_195540080",
@@ -354,7 +354,7 @@
     "efektivna_cena": 570,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 08 (Nivy)",
+    "lokalita": "PSČ: 821 08",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange"
@@ -384,10 +384,10 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Ružová dolina (Ružinov)",
-    "lat": 48.154352518891,
-    "lng": 17.137301589074,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195535665": {
     "id": "bazos_195535665",
@@ -489,7 +489,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Solivarská (Ružinov)",
+    "lokalita": "Solivarská",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
     "farba": "green",
@@ -510,10 +510,10 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Ružová dolina (Ružinov)",
-    "lat": 48.154352518891,
-    "lng": 17.137301589074,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195564811": {
     "id": "bazos_195564811",
@@ -600,10 +600,10 @@
     "efektivna_cena": 450,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195578404": {
     "id": "bazos_195578404",
@@ -615,9 +615,24 @@
     "efektivna_cena": 590,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Ružová dolina (Ružinov)",
-    "lat": 48.154352518891,
-    "lng": 17.137301589074,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195598801": {
+    "id": "bazos_195598801",
+    "zdroj": "Bazoš",
+    "titulok": "EXKLUZÍVNE Byty na prenájom Nové Mesto nad Váhom",
+    "odkaz": "https://reality.bazos.sk/inzerat/195598801/exkluzivne-byty-na-prenajom-nove-mesto-nad-vahom.php",
+    "cena_povodna": "434 €",
+    "spolu_cena": "434 €",
+    "efektivna_cena": 434,
+    "datum_str": "16.09.2026",
+    "datum_iso": "2026-09-16",
+    "lokalita": "PSČ: 915 01 (Nové Mesto)",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
   }
 }
