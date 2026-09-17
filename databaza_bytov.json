@@ -540,10 +540,10 @@
     "efektivna_cena": 550,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "Beniakova (Karlova Ves)",
-    "lat": 48.157548195025,
-    "lng": 17.04634597239,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_195604760": {
     "id": "bazos_195604760",
@@ -675,7 +675,7 @@
     "efektivna_cena": 600,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -693,6 +693,21 @@
     "lokalita": "Medzilaborecká (Ružinov)",
     "lat": 48.159786915351,
     "lng": 17.159065582246,
+    "farba": "green"
+  },
+  "bazos_195641420": {
+    "id": "bazos_195641420",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1-izbového bytu Bratislava, Karloveská ulica",
+    "odkaz": "https://reality.bazos.sk/inzerat/195641420/prenajom-1-izboveho-bytu-bratislava-karloveska-ulica.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "17.09.2026",
+    "datum_iso": "2026-09-17",
+    "lokalita": "Karloveská",
+    "lat": 48.169894860205,
+    "lng": 17.049492582236,
     "farba": "green"
   }
 }
