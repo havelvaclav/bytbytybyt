@@ -99,10 +99,10 @@
     "efektivna_cena": 380,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "G.Bethlena",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -114,10 +114,10 @@
     "efektivna_cena": 360,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "G.Bethlena",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195319995": {
     "id": "bazos_195319995",
@@ -540,10 +540,10 @@
     "efektivna_cena": 550,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "PSČ: 841 04",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
+    "lokalita": "Kuklovská (Karlova Ves)",
+    "lat": 48.161839460482,
+    "lng": 17.044741913061,
+    "farba": "green"
   },
   "bazos_195604760": {
     "id": "bazos_195604760",
@@ -615,9 +615,9 @@
     "efektivna_cena": 550,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "širšom centra Starého Meste (Rača)",
-    "lat": 48.211068929,
-    "lng": 17.15497545,
+    "lokalita": "Kadnárova (Rača)",
+    "lat": 48.205538823268,
+    "lng": 17.148330255905,
     "farba": "green"
   },
   "bazos_195618512": {
@@ -705,9 +705,39 @@
     "efektivna_cena": 590,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Karloveská",
-    "lat": 48.169894860205,
-    "lng": 17.049492582236,
+    "lokalita": "Karloveská (Karlova Ves)",
+    "lat": 48.157865790134,
+    "lng": 17.052398812612,
+    "farba": "green"
+  },
+  "bazos_195648276": {
+    "id": "bazos_195648276",
+    "zdroj": "Bazoš",
+    "titulok": "GRAVITAS | Prenájom 2-izb.bytu s predzáhradkou",
+    "odkaz": "https://reality.bazos.sk/inzerat/195648276/prenajom-2-izbbytu-s-predzahradkou.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "17.09.2026",
+    "datum_iso": "2026-09-17",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_195645664": {
+    "id": "bazos_195645664",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | 1 IZBOVÝ BYT S KLIMATIZÁCIOU BRATISLAVA-RENDEZ",
+    "odkaz": "https://reality.bazos.sk/inzerat/195645664/prenajom-1-izbovy-byt-s-klimatizaciou-bratislava-rendez.php",
+    "cena_povodna": "530 €",
+    "spolu_cena": "530 €",
+    "efektivna_cena": 530,
+    "datum_str": "17.09.2026",
+    "datum_iso": "2026-09-17",
+    "lokalita": "Eduarda Wenzla 12 (Rača)",
+    "lat": 48.201856880979,
+    "lng": 17.16491274823,
     "farba": "green"
   }
 }
