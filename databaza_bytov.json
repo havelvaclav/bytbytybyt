@@ -29,36 +29,6 @@
     "lng": 17.1069707,
     "farba": "orange"
   },
-  "bazos_195425280": {
-    "id": "bazos_195425280",
-    "zdroj": "Bazoš",
-    "titulok": "1-izb. byt. - Nám. sv. Františka",
-    "odkaz": "https://reality.bazos.sk/inzerat/195425280/1-izb-byt-nam-sv-frantiska.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "11.09.2026",
-    "datum_iso": "2026-09-11",
-    "lokalita": "Líščie údolie (Karlova Ves)",
-    "lat": 48.158329969892,
-    "lng": 17.057052063318,
-    "farba": "green"
-  },
-  "bazos_195443888": {
-    "id": "bazos_195443888",
-    "zdroj": "Bazoš",
-    "titulok": "- NOVO VYMALOVANY - NOVO ZARIADENY - 1,5-izbovy - Súmračná -",
-    "odkaz": "https://reality.bazos.sk/inzerat/195443888/novo-vymalovany-novo-zariadeny-15-izbovy-sumracna.php",
-    "cena_povodna": "390 €",
-    "spolu_cena": "390 €",
-    "efektivna_cena": 390,
-    "datum_str": "11.09.2026",
-    "datum_iso": "2026-09-11",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
-  },
   "bazos_195459571": {
     "id": "bazos_195459571",
     "zdroj": "Bazoš",
@@ -144,10 +114,10 @@
     "efektivna_cena": 550,
     "datum_str": "13.09.2026",
     "datum_iso": "2026-09-13",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
   },
   "bazos_195504195": {
     "id": "bazos_195504195",
@@ -219,10 +189,10 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
   },
   "bazos_195540080": {
     "id": "bazos_195540080",
@@ -264,10 +234,10 @@
     "efektivna_cena": 390,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
   },
   "bazos_195535774": {
     "id": "bazos_195535774",
@@ -279,10 +249,10 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
   },
   "bazos_195535665": {
     "id": "bazos_195535665",
@@ -339,10 +309,10 @@
     "efektivna_cena": 680,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Zadunajská (Petržalka)",
+    "lat": 48.130559019338,
+    "lng": 17.102103784817,
+    "farba": "green"
   },
   "bazos_195546970": {
     "id": "bazos_195546970",
@@ -384,7 +354,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Solivarská",
+    "lokalita": "Solivarská (Ružinov)",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
     "farba": "green",
@@ -405,10 +375,10 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
   },
   "bazos_195564811": {
     "id": "bazos_195564811",
@@ -510,10 +480,10 @@
     "efektivna_cena": 590,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
   },
   "bazos_195598801": {
     "id": "bazos_195598801",
@@ -739,5 +709,35 @@
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
+  },
+  "bazos_195651142": {
+    "id": "bazos_195651142",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom ubytovania Banská Bystrica",
+    "odkaz": "https://reality.bazos.sk/inzerat/195651142/prenajom-ubytovania-banska-bystrica.php",
+    "cena_povodna": "300 €",
+    "spolu_cena": "300 €",
+    "efektivna_cena": 300,
+    "datum_str": "18.09.2026",
+    "datum_iso": "2026-09-18",
+    "lokalita": "PSČ: 974 05",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_195650950": {
+    "id": "bazos_195650950",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 1-izbový byt, 40 m², Medzilaborecká ul., Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/195650950/na-prenajom-1-izbovy-byt-40-m-medzilaborecka-ul-ruzinov.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "18.09.2026",
+    "datum_iso": "2026-09-18",
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
   }
 }
