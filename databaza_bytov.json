@@ -69,10 +69,10 @@
     "efektivna_cena": 380,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "G.Bethlena",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -84,10 +84,10 @@
     "efektivna_cena": 360,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "G.Bethlena",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195319995": {
     "id": "bazos_195319995",
@@ -234,7 +234,7 @@
     "efektivna_cena": 390,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -309,9 +309,9 @@
     "efektivna_cena": 680,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "Zadunajská (Petržalka)",
-    "lat": 48.130559019338,
-    "lng": 17.102103784817,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   },
   "bazos_195546970": {
@@ -324,9 +324,9 @@
     "efektivna_cena": 450,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Garsónka",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lokalita": "Hlavná",
+    "lat": 48.169352303612,
+    "lng": 17.109829184402,
     "farba": "green"
   },
   "bazos_195550615": {
@@ -639,7 +639,7 @@
     "efektivna_cena": 600,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -777,6 +777,51 @@
     "lokalita": "PSČ: 841 03 (Lamač)",
     "lat": 48.1941432,
     "lng": 17.0468593,
+    "farba": "orange"
+  },
+  "bazos_195668684": {
+    "id": "bazos_195668684",
+    "zdroj": "Bazoš",
+    "titulok": "Zariadená garsónka s balkónom na prenájom, Rača, od 1.11.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195668684/zariadena-garsonka-s-balkonom-na-prenajom-raca-od-111.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "18.09.2026",
+    "datum_iso": "2026-09-18",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_195665182": {
+    "id": "bazos_195665182",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom 1-izbový byt , kompletne zariadený zrek",
+    "odkaz": "https://reality.bazos.sk/inzerat/195665182/ponukame-na-prenajom-1-izbovy-byt-kompletne-zariadeny-zrek.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "18.09.2026",
+    "datum_iso": "2026-09-18",
+    "lokalita": "PSČ: 821 08",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
+  },
+  "bazos_195634862": {
+    "id": "bazos_195634862",
+    "zdroj": "Bazoš",
+    "titulok": "3i byt v dome 114m2, so záhradkou,1. poschodie Tvrdošovce",
+    "odkaz": "https://reality.bazos.sk/inzerat/195634862/3i-byt-114m2-1-poschodie-tvrdosovce.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "17.09.2026",
+    "datum_iso": "2026-09-17",
+    "lokalita": "PSČ: 941 10",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
     "farba": "orange"
   }
 }
