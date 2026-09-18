@@ -69,10 +69,10 @@
     "efektivna_cena": 380,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Šafárikova",
+    "lat": 48.141455245064,
+    "lng": 17.116063461593,
+    "farba": "green"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -84,10 +84,10 @@
     "efektivna_cena": 360,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Šafárikova",
+    "lat": 48.141455245064,
+    "lng": 17.116063461593,
+    "farba": "green"
   },
   "bazos_195319995": {
     "id": "bazos_195319995",
@@ -189,10 +189,10 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Kladnianska (Ružinov)",
+    "lat": 48.145752962768,
+    "lng": 17.163175561007,
+    "farba": "green"
   },
   "bazos_195540080": {
     "id": "bazos_195540080",
@@ -234,10 +234,10 @@
     "efektivna_cena": 390,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Kladnianska (Ružinov)",
+    "lat": 48.145752962768,
+    "lng": 17.163175561007,
+    "farba": "green"
   },
   "bazos_195535774": {
     "id": "bazos_195535774",
@@ -249,10 +249,10 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Kladnianska (Ružinov)",
+    "lat": 48.145752962768,
+    "lng": 17.163175561007,
+    "farba": "green"
   },
   "bazos_195535665": {
     "id": "bazos_195535665",
@@ -369,10 +369,10 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Kladnianska (Ružinov)",
+    "lat": 48.145752962768,
+    "lng": 17.163175561007,
+    "farba": "green"
   },
   "bazos_195564811": {
     "id": "bazos_195564811",
@@ -504,9 +504,9 @@
     "efektivna_cena": 550,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "Kuklovská (Karlova Ves)",
-    "lat": 48.161839460482,
-    "lng": 17.044741913061,
+    "lokalita": "Líščie údolie (Karlova Ves)",
+    "lat": 48.158329969892,
+    "lng": 17.057052063318,
     "farba": "green"
   },
   "bazos_195604760": {
@@ -624,10 +624,10 @@
     "efektivna_cena": 400,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Zuzany Chalupovej. BA (Petržalka)",
+    "lat": 48.093699612055,
+    "lng": 17.115446368023,
+    "farba": "green"
   },
   "bazos_195629895": {
     "id": "bazos_195629895",
@@ -654,10 +654,10 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Kladnianska (Ružinov)",
+    "lat": 48.145752962768,
+    "lng": 17.163175561007,
+    "farba": "green"
   },
   "bazos_195641420": {
     "id": "bazos_195641420",
@@ -822,6 +822,21 @@
     "lokalita": "PSČ: 941 10",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_195673895": {
+    "id": "bazos_195673895",
+    "zdroj": "Bazoš",
+    "titulok": "Exkluzívne 2-izb. byt so samost. kuchyňou a loggiou, BA II",
+    "odkaz": "https://reality.bazos.sk/inzerat/195673895/exkluzivne-2-izb-byt-so-samost-kuchynou-a-loggiou-ba-ii.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "18.09.2026",
+    "datum_iso": "2026-09-18",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
