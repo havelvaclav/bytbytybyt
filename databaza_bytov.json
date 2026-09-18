@@ -62,7 +62,7 @@
   "bazos_195478439": {
     "id": "bazos_195478439",
     "zdroj": "Bazoš",
-    "titulok": "‼️Pekná zariadená veľká garsonka na prenájom v NZ‼️",
+    "titulok": "‼️REZERVOVANÉ-Pekná zariadená garsonka na prenájom v NZ‼️",
     "odkaz": "https://reality.bazos.sk/inzerat/195478439/pekna-zariadena-velka-garsonka-na-prenajom-v-nz.php",
     "cena_povodna": "380 €",
     "spolu_cena": "380 €",
@@ -114,10 +114,10 @@
     "efektivna_cena": 550,
     "datum_str": "13.09.2026",
     "datum_iso": "2026-09-13",
-    "lokalita": "Medzilaborecká (Ružinov)",
-    "lat": 48.159786915351,
-    "lng": 17.159065582246,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195504195": {
     "id": "bazos_195504195",
@@ -189,10 +189,10 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Medzilaborecká (Ružinov)",
-    "lat": 48.159786915351,
-    "lng": 17.159065582246,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195540080": {
     "id": "bazos_195540080",
@@ -204,10 +204,10 @@
     "efektivna_cena": 580,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 841 03 (Lamač)",
-    "lat": 48.1941432,
-    "lng": 17.0468593,
-    "farba": "orange"
+    "lokalita": "Jána Langoša (Lamač)",
+    "lat": 48.194562951,
+    "lng": 17.049236057,
+    "farba": "green"
   },
   "bazos_195536868": {
     "id": "bazos_195536868",
@@ -234,10 +234,10 @@
     "efektivna_cena": 390,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Medzilaborecká (Ružinov)",
-    "lat": 48.159786915351,
-    "lng": 17.159065582246,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195535774": {
     "id": "bazos_195535774",
@@ -249,10 +249,10 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Medzilaborecká (Ružinov)",
-    "lat": 48.159786915351,
-    "lng": 17.159065582246,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195535665": {
     "id": "bazos_195535665",
@@ -357,13 +357,7 @@
     "lokalita": "Solivarská (Ružinov)",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/195535665/prenajom-3-izbovy-byt-krasnohorska-ulica-bratislava-v-pet.php"
-      }
-    ]
+    "farba": "green"
   },
   "bazos_195567063": {
     "id": "bazos_195567063",
@@ -375,10 +369,10 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Medzilaborecká (Ružinov)",
-    "lat": 48.159786915351,
-    "lng": 17.159065582246,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195564811": {
     "id": "bazos_195564811",
@@ -480,10 +474,10 @@
     "efektivna_cena": 590,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Medzilaborecká (Ružinov)",
-    "lat": 48.159786915351,
-    "lng": 17.159065582246,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195598801": {
     "id": "bazos_195598801",
@@ -660,10 +654,10 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Medzilaborecká (Ružinov)",
-    "lat": 48.159786915351,
-    "lng": 17.159065582246,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195641420": {
     "id": "bazos_195641420",
@@ -739,5 +733,50 @@
     "lat": 48.159786915351,
     "lng": 17.159065582246,
     "farba": "green"
+  },
+  "bazos_195659795": {
+    "id": "bazos_195659795",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom, 2izb. byt, v centre STARÉHO MESTA - Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/195659795/na-prenajom-2izb-byt-v-centre-stareho-mesta-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "18.09.2026",
+    "datum_iso": "2026-09-18",
+    "lokalita": "PSČ: 811 05",
+    "lat": 48.15687,
+    "lng": 17.1137209,
+    "farba": "orange"
+  },
+  "bazos_195658982": {
+    "id": "bazos_195658982",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1,5 izbového bytu, Košická ulica, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/195658982/prenajom-15-izboveho-bytu-kosicka-ulica-bratislava.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "18.09.2026",
+    "datum_iso": "2026-09-18",
+    "lokalita": "Košická (Ružinov)",
+    "lat": 48.15023094578,
+    "lng": 17.134728629397,
+    "farba": "green"
+  },
+  "bazos_195656779": {
+    "id": "bazos_195656779",
+    "zdroj": "Bazoš",
+    "titulok": "Moderný 2-izbový byt s 11 m² loggiou a parkovaním – BORY",
+    "odkaz": "https://reality.bazos.sk/inzerat/195656779/moderny-2-izbovy-byt-s-11-m-loggiou-a-parkovanim-bory.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "18.09.2026",
+    "datum_iso": "2026-09-18",
+    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
   }
 }
