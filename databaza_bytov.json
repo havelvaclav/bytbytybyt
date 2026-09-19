@@ -24,10 +24,10 @@
     "efektivna_cena": 380,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "Šafárikova",
-    "lat": 48.141455245064,
-    "lng": 17.116063461593,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -39,10 +39,10 @@
     "efektivna_cena": 360,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "Šafárikova",
-    "lat": 48.141455245064,
-    "lng": 17.116063461593,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195319995": {
     "id": "bazos_195319995",
