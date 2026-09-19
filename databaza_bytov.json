@@ -144,9 +144,9 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "82m2 (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195540080": {
@@ -189,9 +189,9 @@
     "efektivna_cena": 390,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Rezedová (Ružinov)",
-    "lat": 48.150937350118,
-    "lng": 17.163303712157,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195535774": {
@@ -204,9 +204,9 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "82m2 (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195535665": {
@@ -309,7 +309,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Solivarská (Ružinov)",
+    "lokalita": "Solivarská (Nové Mesto)",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
     "farba": "green"
@@ -324,9 +324,9 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Rezedová (Ružinov)",
-    "lat": 48.150937350118,
-    "lng": 17.163303712157,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195564811": {
@@ -609,9 +609,9 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Rezedová (Ružinov)",
-    "lat": 48.150937350118,
-    "lng": 17.163303712157,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195641420": {
@@ -714,9 +714,9 @@
     "efektivna_cena": 630,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "Košická (Ružinov)",
-    "lat": 48.15023094578,
-    "lng": 17.134728629397,
+    "lokalita": "Košická (Nové Mesto)",
+    "lat": 48.143160643249,
+    "lng": 17.130591124195,
     "farba": "green"
   },
   "bazos_195656779": {
@@ -789,9 +789,9 @@
     "efektivna_cena": 550,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "Rezedová (Ružinov)",
-    "lat": 48.150937350118,
-    "lng": 17.163303712157,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_195681764": {
@@ -832,6 +832,21 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
+    "datum_str": "19.09.2026",
+    "datum_iso": "2026-09-19",
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
+  },
+  "bazos_195700866": {
+    "id": "bazos_195700866",
+    "zdroj": "Bazoš",
+    "titulok": "1,5-izb. byt s terasou a výhľadom na Malé Karpaty v Guthaus",
+    "odkaz": "https://reality.bazos.sk/inzerat/195700866/15-izbovy-byt-s-terasou-a-vyhladom-na-male-karpaty.php",
+    "cena_povodna": "660 €",
+    "spolu_cena": "660 €",
+    "efektivna_cena": 660,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
     "lokalita": "82m2 (Ružinov)",
