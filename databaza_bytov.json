@@ -1,19 +1,4 @@
 {
-  "bazos_194650821": {
-    "id": "bazos_194650821",
-    "zdroj": "Bazoš",
-    "titulok": "REZERVACIA 1,5 izb byt s parkingom v cene, bez provizie",
-    "odkaz": "https://reality.bazos.sk/inzerat/194650821/15-izb-byt-s-parkingom-v-cene-bez-provizie.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "12.09.2026",
-    "datum_iso": "2026-09-12",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
-  },
   "bazos_195391327": {
     "id": "bazos_195391327",
     "zdroj": "Bazoš",
@@ -28,36 +13,6 @@
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
-  },
-  "bazos_195459571": {
-    "id": "bazos_195459571",
-    "zdroj": "Bazoš",
-    "titulok": "BOSEN | Na prenájom garsónka Bratislava - Petržalka",
-    "odkaz": "https://reality.bazos.sk/inzerat/195459571/bosen-na-prenajom-garsonka-bratislava-petrzalka.php",
-    "cena_povodna": "620 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
-    "datum_str": "12.09.2026",
-    "datum_iso": "2026-09-12",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
-  },
-  "bazos_195463708": {
-    "id": "bazos_195463708",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom ateliér Staré mesto",
-    "odkaz": "https://reality.bazos.sk/inzerat/195463708/na-prenajom-atelier-stare-mesto.php",
-    "cena_povodna": "450 €",
-    "spolu_cena": "450 €",
-    "efektivna_cena": 450,
-    "datum_str": "12.09.2026",
-    "datum_iso": "2026-09-12",
-    "lokalita": "Obchodná (Staré Mesto)",
-    "lat": 48.148083409897,
-    "lng": 17.111552376965,
-    "farba": "green"
   },
   "bazos_195478439": {
     "id": "bazos_195478439",
@@ -144,10 +99,10 @@
     "efektivna_cena": 550,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_195531273": {
     "id": "bazos_195531273",
@@ -189,10 +144,10 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Kladnianska (Ružinov)",
-    "lat": 48.145752962768,
-    "lng": 17.163175561007,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195540080": {
     "id": "bazos_195540080",
@@ -249,10 +204,10 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Kladnianska (Ružinov)",
-    "lat": 48.145752962768,
-    "lng": 17.163175561007,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195535665": {
     "id": "bazos_195535665",
@@ -294,10 +249,10 @@
     "efektivna_cena": 550,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_195545025": {
     "id": "bazos_195545025",
@@ -339,10 +294,10 @@
     "efektivna_cena": 650,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_195567489": {
     "id": "bazos_195567489",
@@ -354,7 +309,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Solivarská (Ružinov)",
+    "lokalita": "Solivarská",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
     "farba": "green"
@@ -369,10 +324,10 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Kladnianska (Ružinov)",
-    "lat": 48.145752962768,
-    "lng": 17.163175561007,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195564811": {
     "id": "bazos_195564811",
@@ -654,10 +609,10 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Kladnianska (Ružinov)",
-    "lat": 48.145752962768,
-    "lng": 17.163175561007,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195641420": {
     "id": "bazos_195641420",
@@ -759,9 +714,9 @@
     "efektivna_cena": 630,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "Košická (Ružinov)",
-    "lat": 48.15023094578,
-    "lng": 17.134728629397,
+    "lokalita": "Košická",
+    "lat": 48.143070837772,
+    "lng": 17.130534006421,
     "farba": "green"
   },
   "bazos_195656779": {
@@ -838,5 +793,20 @@
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
+  },
+  "bazos_195681764": {
+    "id": "bazos_195681764",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom kompletne zrekonštruovaná a zariadená garsónka s",
+    "odkaz": "https://reality.bazos.sk/inzerat/195681764/na-prenajom-kompletne-zrekonstruovana-a-zariadena-garsonka-s.php",
+    "cena_povodna": "490 €",
+    "spolu_cena": "490 €",
+    "efektivna_cena": 490,
+    "datum_str": "19.09.2026",
+    "datum_iso": "2026-09-19",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   }
 }
