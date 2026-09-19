@@ -144,10 +144,10 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "82m2 (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195540080": {
     "id": "bazos_195540080",
@@ -189,9 +189,9 @@
     "efektivna_cena": 390,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Kladnianska (Ružinov)",
-    "lat": 48.145752962768,
-    "lng": 17.163175561007,
+    "lokalita": "Rezedová (Ružinov)",
+    "lat": 48.150937350118,
+    "lng": 17.163303712157,
     "farba": "green"
   },
   "bazos_195535774": {
@@ -204,10 +204,10 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "82m2 (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
+    "farba": "green"
   },
   "bazos_195535665": {
     "id": "bazos_195535665",
@@ -309,7 +309,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Solivarská",
+    "lokalita": "Solivarská (Ružinov)",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
     "farba": "green"
@@ -324,10 +324,10 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Rezedová (Ružinov)",
+    "lat": 48.150937350118,
+    "lng": 17.163303712157,
+    "farba": "green"
   },
   "bazos_195564811": {
     "id": "bazos_195564811",
@@ -579,10 +579,10 @@
     "efektivna_cena": 400,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Zuzany Chalupovej. BA (Petržalka)",
+    "lat": 48.093699612055,
+    "lng": 17.115446368023,
+    "farba": "green"
   },
   "bazos_195629895": {
     "id": "bazos_195629895",
@@ -609,10 +609,10 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Rezedová (Ružinov)",
+    "lat": 48.150937350118,
+    "lng": 17.163303712157,
+    "farba": "green"
   },
   "bazos_195641420": {
     "id": "bazos_195641420",
@@ -714,9 +714,9 @@
     "efektivna_cena": 630,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "Košická",
-    "lat": 48.143070837772,
-    "lng": 17.130534006421,
+    "lokalita": "Košická (Ružinov)",
+    "lat": 48.15023094578,
+    "lng": 17.134728629397,
     "farba": "green"
   },
   "bazos_195656779": {
@@ -789,10 +789,10 @@
     "efektivna_cena": 550,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Rezedová (Ružinov)",
+    "lat": 48.150937350118,
+    "lng": 17.163303712157,
+    "farba": "green"
   },
   "bazos_195681764": {
     "id": "bazos_195681764",
@@ -807,6 +807,36 @@
     "lokalita": "prostredí pri Malom Dunaji",
     "lat": 48.154419507,
     "lng": 17.119406427,
+    "farba": "green"
+  },
+  "bazos_195686570": {
+    "id": "bazos_195686570",
+    "zdroj": "Bazoš",
+    "titulok": "prenajmem 1-izbovy byt, Svidnicka ul., Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/195686570/prenajmem-1-izbovy-byt-svidnicka-ul-bratislava.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "19.09.2026",
+    "datum_iso": "2026-09-19",
+    "lokalita": "Svidnicka (Ružinov)",
+    "lat": 48.15925455482,
+    "lng": 17.151765198343,
+    "farba": "green"
+  },
+  "bazos_195684905": {
+    "id": "bazos_195684905",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom krásneho, kompletne zariadeného bytu v skvelej loka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195684905/prenajom-krasneho-kompletne-zariadeneho-bytu-v-skvelej-loka.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "19.09.2026",
+    "datum_iso": "2026-09-19",
+    "lokalita": "82m2 (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   }
 }
