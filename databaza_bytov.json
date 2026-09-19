@@ -579,10 +579,10 @@
     "efektivna_cena": 400,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Zuzany Chalupovej. BA (Petržalka)",
-    "lat": 48.093699612055,
-    "lng": 17.115446368023,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195629895": {
     "id": "bazos_195629895",
