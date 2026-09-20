@@ -114,9 +114,9 @@
     "efektivna_cena": 679,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_195540080": {
@@ -174,9 +174,9 @@
     "efektivna_cena": 690,
     "datum_str": "14.09.2026",
     "datum_iso": "2026-09-14",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_195535665": {
@@ -279,7 +279,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Solivarská (Nové Mesto)",
+    "lokalita": "Solivarská (Ružinov)",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
     "farba": "green"
@@ -294,9 +294,9 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_195564811": {
@@ -309,7 +309,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "hraničiarov (Petržalka)",
+    "lokalita": "hraničiarov",
     "lat": 48.123231095814,
     "lng": 17.112549143309,
     "farba": "green"
@@ -549,10 +549,10 @@
     "efektivna_cena": 400,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Zuzany Chalupovej. BA (Petržalka)",
-    "lat": 48.093699612055,
-    "lng": 17.115446368023,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195629895": {
     "id": "bazos_195629895",
@@ -579,9 +579,9 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_195641420": {
@@ -684,9 +684,9 @@
     "efektivna_cena": 630,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "Košická (Nové Mesto)",
-    "lat": 48.143160643249,
-    "lng": 17.130591124195,
+    "lokalita": "Košická (Ružinov)",
+    "lat": 48.15023094578,
+    "lng": 17.134728629397,
     "farba": "green"
   },
   "bazos_195656779": {
@@ -759,9 +759,9 @@
     "efektivna_cena": 550,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_195681764": {
@@ -804,9 +804,9 @@
     "efektivna_cena": 650,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_195700866": {
@@ -819,7 +819,7 @@
     "efektivna_cena": 660,
     "datum_str": "20.09.2026",
     "datum_iso": "2026-09-20",
-    "lokalita": "82m2 (Ružinov)",
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
     "lat": 48.15715266,
     "lng": 17.149965411,
     "farba": "green"
@@ -852,6 +852,51 @@
     "lokalita": "PSČ: 821 04 (Trnávka)",
     "lat": 48.1880333,
     "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_195724582": {
+    "id": "bazos_195724582",
+    "zdroj": "Bazoš",
+    "titulok": "- NOVO VYMALOVANY - NOVO ZARIADENY - 1,5-izbovy - Súmračná -",
+    "odkaz": "https://reality.bazos.sk/inzerat/195724582/novo-vymalovany-novo-zariadeny-15-izbovy-sumracna.php",
+    "cena_povodna": "390 €",
+    "spolu_cena": "390 €",
+    "efektivna_cena": 390,
+    "datum_str": "20.09.2026",
+    "datum_iso": "2026-09-20",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195724859": {
+    "id": "bazos_195724859",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195724859/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "20.09.2026",
+    "datum_iso": "2026-09-20",
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_195724328": {
+    "id": "bazos_195724328",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195724328/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "20.09.2026",
+    "datum_iso": "2026-09-20",
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
     "farba": "orange"
   }
 }
