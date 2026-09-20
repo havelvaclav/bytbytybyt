@@ -309,7 +309,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "hraničiarov",
+    "lokalita": "hraničiarov (Petržalka)",
     "lat": 48.123231095814,
     "lng": 17.112549143309,
     "farba": "green"
@@ -429,10 +429,10 @@
     "efektivna_cena": 550,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "Líščie údolie (Karlova Ves)",
-    "lat": 48.158329969892,
-    "lng": 17.057052063318,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_195604760": {
     "id": "bazos_195604760",
@@ -444,7 +444,7 @@
     "efektivna_cena": 700,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -549,10 +549,10 @@
     "efektivna_cena": 400,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Zuzany Chalupovej. BA (Petržalka)",
+    "lat": 48.093699612055,
+    "lng": 17.115446368023,
+    "farba": "green"
   },
   "bazos_195629895": {
     "id": "bazos_195629895",
@@ -594,9 +594,9 @@
     "efektivna_cena": 590,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Karloveská (Karlova Ves)",
-    "lat": 48.157865790134,
-    "lng": 17.052398812612,
+    "lokalita": "Karloveská",
+    "lat": 48.169894860205,
+    "lng": 17.049492582236,
     "farba": "green"
   },
   "bazos_195648276": {
@@ -823,5 +823,35 @@
     "lat": 48.15715266,
     "lng": 17.149965411,
     "farba": "green"
+  },
+  "bazos_195718114": {
+    "id": "bazos_195718114",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM ZARIADENEJ GARSÓNKY BRATISLAVA – STARÉ MESTO",
+    "odkaz": "https://reality.bazos.sk/inzerat/195718114/prenajom-zariadenej-garsonky-bratislava-stare-mesto.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "20.09.2026",
+    "datum_iso": "2026-09-20",
+    "lokalita": "PSČ: 811 05 (Staré Mesto)",
+    "lat": 48.15687,
+    "lng": 17.1137209,
+    "farba": "orange"
+  },
+  "bazos_195712090": {
+    "id": "bazos_195712090",
+    "zdroj": "Bazoš",
+    "titulok": "Prenajmem apartmán 1 izba - Bratislava - Trnávka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195712090/prenajmem-apartman-1-izba-bratislava-trnavka.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "20.09.2026",
+    "datum_iso": "2026-09-20",
+    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   }
 }
