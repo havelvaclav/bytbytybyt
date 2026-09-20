@@ -849,7 +849,7 @@
     "efektivna_cena": 520,
     "datum_str": "20.09.2026",
     "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -897,6 +897,21 @@
     "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_195737882": {
+    "id": "bazos_195737882",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájmem 2 izbový byt  Bratislave Dúbravka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195737882/prenajmem-2-izbovy-byt-bratislave-dubravka.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "20.09.2026",
+    "datum_iso": "2026-09-20",
+    "lokalita": "PSČ: 840 02 (Dúbravka)",
+    "lat": 48.2003454,
+    "lng": 17.0523651,
     "farba": "orange"
   }
 }
