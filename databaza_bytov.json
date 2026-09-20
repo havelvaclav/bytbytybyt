@@ -59,36 +59,6 @@
     "lng": 17.135269981552,
     "farba": "green"
   },
-  "bazos_195490325": {
-    "id": "bazos_195490325",
-    "zdroj": "Bazoš",
-    "titulok": "Exkluzívne 2-izb. byt so samost. kuchyňou a loggiou, BA II",
-    "odkaz": "https://reality.bazos.sk/inzerat/195490325/exkluzivne-2-izb-byt-so-samost-kuchynou-a-loggiou-ba-ii.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "13.09.2026",
-    "datum_iso": "2026-09-13",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
-  },
-  "bazos_195504195": {
-    "id": "bazos_195504195",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájem 1‑izbový byt na Lužnej ulici v Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/195504195/prenajem-1izbovy-byt-na-luznej-ulici-v-bratislava.php",
-    "cena_povodna": "480 €",
-    "spolu_cena": "480 €",
-    "efektivna_cena": 480,
-    "datum_str": "13.09.2026",
-    "datum_iso": "2026-09-13",
-    "lokalita": "BORIA vedľa Štrkoveckého jazera (Štrkovec)",
-    "lat": 48.158265421,
-    "lng": 17.155931953,
-    "farba": "green"
-  },
   "bazos_195510172": {
     "id": "bazos_195510172",
     "zdroj": "Bazoš",
