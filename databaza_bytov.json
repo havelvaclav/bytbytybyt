@@ -159,7 +159,7 @@
     "efektivna_cena": 650,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 841 01 (Dlhé diely)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -429,7 +429,7 @@
     "efektivna_cena": 700,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 831 06",
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -444,7 +444,7 @@
     "efektivna_cena": 530,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 831 06",
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -534,7 +534,7 @@
     "efektivna_cena": 600,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 831 06 (Rača)",
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -579,10 +579,10 @@
     "efektivna_cena": 550,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Herlianska (Ružinov)",
+    "lat": 48.158367931636,
+    "lng": 17.157014908484,
+    "farba": "green"
   },
   "bazos_195681764": {
     "id": "bazos_195681764",
@@ -594,10 +594,10 @@
     "efektivna_cena": 490,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_195686570": {
     "id": "bazos_195686570",
@@ -624,10 +624,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Herlianska (Ružinov)",
+    "lat": 48.158367931636,
+    "lng": 17.157014908484,
+    "farba": "green"
   },
   "bazos_195700866": {
     "id": "bazos_195700866",
@@ -639,10 +639,10 @@
     "efektivna_cena": 660,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Herlianska (Ružinov)",
+    "lat": 48.158367931636,
+    "lng": 17.157014908484,
+    "farba": "green"
   },
   "bazos_195718114": {
     "id": "bazos_195718114",
@@ -684,10 +684,10 @@
     "efektivna_cena": 390,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Svidnícka (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
+    "farba": "green"
   },
   "bazos_195724859": {
     "id": "bazos_195724859",
@@ -774,9 +774,54 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
+    "lokalita": "Herlianska (Ružinov)",
+    "lat": 48.158367931636,
+    "lng": 17.157014908484,
+    "farba": "green"
+  },
+  "bazos_195766551": {
+    "id": "bazos_195766551",
+    "zdroj": "Bazoš",
+    "titulok": "Accommodation for rent",
+    "odkaz": "https://reality.bazos.sk/inzerat/195766551/accommodation-for-rent.php",
+    "cena_povodna": "270 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "21.09.2026",
+    "datum_iso": "2026-09-21",
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_195764459": {
+    "id": "bazos_195764459",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/195764459/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "21.09.2026",
+    "datum_iso": "2026-09-21",
+    "lokalita": "Herlianska (Ružinov)",
+    "lat": 48.158367931636,
+    "lng": 17.157014908484,
+    "farba": "green"
+  },
+  "bazos_195762473": {
+    "id": "bazos_195762473",
+    "zdroj": "Bazoš",
+    "titulok": "Zrekonštruovaná veľká garsónka s balkónom",
+    "odkaz": "https://reality.bazos.sk/inzerat/195762473/zrekonstruovana-velka-garsonka-s-balkonom.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "21.09.2026",
+    "datum_iso": "2026-09-21",
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
     "farba": "orange"
   }
 }
