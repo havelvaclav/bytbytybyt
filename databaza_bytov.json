@@ -99,7 +99,7 @@
     "efektivna_cena": 650,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "Solivarská",
+    "lokalita": "Solivarská (Ružinov)",
     "lat": 48.16164153454,
     "lng": 17.154027961131,
     "farba": "green"
@@ -114,7 +114,7 @@
     "efektivna_cena": 600,
     "datum_str": "15.09.2026",
     "datum_iso": "2026-09-15",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -399,7 +399,7 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -579,10 +579,10 @@
     "efektivna_cena": 550,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "Herlianska (Ružinov)",
-    "lat": 48.158367931636,
-    "lng": 17.157014908484,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195681764": {
     "id": "bazos_195681764",
@@ -624,10 +624,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "Herlianska (Ružinov)",
-    "lat": 48.158367931636,
-    "lng": 17.157014908484,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195700866": {
     "id": "bazos_195700866",
@@ -639,10 +639,10 @@
     "efektivna_cena": 660,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Herlianska (Ružinov)",
-    "lat": 48.158367931636,
-    "lng": 17.157014908484,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195718114": {
     "id": "bazos_195718114",
@@ -684,10 +684,10 @@
     "efektivna_cena": 390,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Svidnícka (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195724859": {
     "id": "bazos_195724859",
@@ -774,10 +774,10 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Herlianska (Ružinov)",
-    "lat": 48.158367931636,
-    "lng": 17.157014908484,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195766551": {
     "id": "bazos_195766551",
@@ -804,10 +804,10 @@
     "efektivna_cena": 570,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Herlianska (Ružinov)",
-    "lat": 48.158367931636,
-    "lng": 17.157014908484,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195762473": {
     "id": "bazos_195762473",
