@@ -69,7 +69,7 @@
     "efektivna_cena": 550,
     "datum_str": "20.09.2026",
     "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 841 08",
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
     "lat": 48.2059525,
     "lng": 16.9785455,
     "farba": "orange"
@@ -114,7 +114,7 @@
     "efektivna_cena": 510,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -219,9 +219,9 @@
     "efektivna_cena": 550,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "Kadnárova (Rača)",
-    "lat": 48.205538823268,
-    "lng": 17.148330255905,
+    "lokalita": "prostredí pri Malom Dunaji (Rača)",
+    "lat": 48.211068929,
+    "lng": 17.15497545,
     "farba": "green"
   },
   "bazos_195618512": {
@@ -279,7 +279,7 @@
     "efektivna_cena": 600,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 830 00",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -294,7 +294,7 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -489,7 +489,7 @@
     "efektivna_cena": 490,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "PSČ: 841 08",
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
     "lat": 48.2059525,
     "lng": 16.9785455,
     "farba": "orange"
@@ -519,7 +519,7 @@
     "efektivna_cena": 650,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -534,7 +534,7 @@
     "efektivna_cena": 660,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -579,7 +579,7 @@
     "efektivna_cena": 390,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -639,10 +639,10 @@
     "efektivna_cena": 600,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Bratislave m.č. Vrakuňa (Vrakuňa)",
-    "lat": 48.1383,
-    "lng": 17.20866,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195756464": {
     "id": "bazos_195756464",
@@ -669,7 +669,7 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -714,7 +714,7 @@
     "efektivna_cena": 620,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 841 08",
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
     "lat": 48.2059525,
     "lng": 16.9785455,
     "farba": "orange"
@@ -810,10 +810,10 @@
     "efektivna_cena": 400,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 851 04 (Petržalka)",
-    "lat": 48.1273452,
-    "lng": 17.1278204,
-    "farba": "orange"
+    "lokalita": "Bratislave (Petržalka)",
+    "lat": 48.11618,
+    "lng": 17.10781,
+    "farba": "green"
   },
   "bazos_195640073": {
     "id": "bazos_195640073",
