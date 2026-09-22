@@ -69,7 +69,7 @@
     "efektivna_cena": 550,
     "datum_str": "20.09.2026",
     "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lokalita": "PSČ: 841 08",
     "lat": 48.2059525,
     "lng": 16.9785455,
     "farba": "orange"
@@ -84,10 +84,10 @@
     "efektivna_cena": 680,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_195573804": {
     "id": "bazos_195573804",
@@ -204,7 +204,7 @@
     "efektivna_cena": 680,
     "datum_str": "16.09.2026",
     "datum_iso": "2026-09-16",
-    "lokalita": "Geologicka",
+    "lokalita": "Geologicka (Podunajské Biskupice)",
     "lat": 48.139416988262,
     "lng": 17.195618700793,
     "farba": "green"
@@ -294,7 +294,7 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -324,10 +324,10 @@
     "efektivna_cena": 700,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   },
   "bazos_195645664": {
     "id": "bazos_195645664",
@@ -339,10 +339,10 @@
     "efektivna_cena": 530,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   },
   "bazos_195651142": {
     "id": "bazos_195651142",
@@ -414,7 +414,7 @@
     "efektivna_cena": 700,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lokalita": "PSČ: 841 03 (Bory)",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -429,10 +429,10 @@
     "efektivna_cena": 600,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   },
   "bazos_195665182": {
     "id": "bazos_195665182",
@@ -489,7 +489,7 @@
     "efektivna_cena": 490,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lokalita": "PSČ: 841 08",
     "lat": 48.2059525,
     "lng": 16.9785455,
     "farba": "orange"
@@ -519,7 +519,7 @@
     "efektivna_cena": 650,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -534,7 +534,7 @@
     "efektivna_cena": 660,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -609,10 +609,10 @@
     "efektivna_cena": 700,
     "datum_str": "20.09.2026",
     "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Vilová",
+    "lat": 48.124110575775,
+    "lng": 17.097046377311,
+    "farba": "green"
   },
   "bazos_195737882": {
     "id": "bazos_195737882",
@@ -654,10 +654,10 @@
     "efektivna_cena": 520,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Vilová",
+    "lat": 48.124110575775,
+    "lng": 17.097046377311,
+    "farba": "green"
   },
   "bazos_195755202": {
     "id": "bazos_195755202",
@@ -669,7 +669,7 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -714,9 +714,120 @@
     "efektivna_cena": 620,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lokalita": "PSČ: 841 08",
     "lat": 48.2059525,
     "lng": 16.9785455,
+    "farba": "orange"
+  },
+  "bazos_195412363": {
+    "id": "bazos_195412363",
+    "zdroj": "Bazoš",
+    "titulok": "Sekule - prenájom 2i bytu",
+    "odkaz": "https://reality.bazos.sk/inzerat/195412363/sekule-prenajom-2i-bytu.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "22.09.2026",
+    "datum_iso": "2026-09-22",
+    "lokalita": "PSČ: 908 80",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_195795254": {
+    "id": "bazos_195795254",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195795254/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "22.09.2026",
+    "datum_iso": "2026-09-22",
+    "lokalita": "PSČ: 851 02",
+    "lat": 48.115408,
+    "lng": 17.1170814,
+    "farba": "orange"
+  },
+  "bazos_195793923": {
+    "id": "bazos_195793923",
+    "zdroj": "Bazoš",
+    "titulok": "Krátkodobý prenájom 2 iz. byt, Závodná ul., Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/195793923/kratkodoby-prenajom-2-iz-byt-zavodna-ul-bratislava.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "22.09.2026",
+    "datum_iso": "2026-09-22",
+    "lokalita": "Závodná",
+    "lat": 48.134123464907,
+    "lng": 17.188341387649,
+    "farba": "green"
+  },
+  "bazos_195792970": {
+    "id": "bazos_195792970",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1i bytu s balkónom v URBAN RESIDENCE, Račianska, BA",
+    "odkaz": "https://reality.bazos.sk/inzerat/195792970/prenajom-1i-bytu-s-balkonom-v-urban-residence-racianska-ba.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "22.09.2026",
+    "datum_iso": "2026-09-22",
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_195786059": {
+    "id": "bazos_195786059",
+    "zdroj": "Bazoš",
+    "titulok": "Prenajmem apartmán 1 izba - Bratislava - Trnávka -",
+    "odkaz": "https://reality.bazos.sk/inzerat/195786059/prenajmem-apartman-1-izba-bratislava-trnavka.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "22.09.2026",
+    "datum_iso": "2026-09-22",
+    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/195712090/prenajmem-apartman-1-izba-bratislava-trnavka.php"
+      }
+    ]
+  },
+  "bazos_195782533": {
+    "id": "bazos_195782533",
+    "zdroj": "Bazoš",
+    "titulok": "2 IZB. BYT S LOGGIOU - PETRŽALKA - A. GWERKOVEJ",
+    "odkaz": "https://reality.bazos.sk/inzerat/195782533/2-izb-byt-s-loggiou-petrzalka-a-gwerkovej.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "22.09.2026",
+    "datum_iso": "2026-09-22",
+    "lokalita": "PSČ: 851 04 (Petržalka)",
+    "lat": 48.1273452,
+    "lng": 17.1278204,
+    "farba": "orange"
+  },
+  "bazos_195640073": {
+    "id": "bazos_195640073",
+    "zdroj": "Bazoš",
+    "titulok": "Priestranný a prijemný 3-izbový byt s balkónom, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/195640073/prenajom-priestranny-a-prijemny-3-izbovy-byt-s-balkonom.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "17.09.2026",
+    "datum_iso": "2026-09-17",
+    "lokalita": "PSČ: 851 02",
+    "lat": 48.115408,
+    "lng": 17.1170814,
     "farba": "orange"
   }
 }
