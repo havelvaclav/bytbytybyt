@@ -309,9 +309,9 @@
     "efektivna_cena": 590,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Karloveská",
-    "lat": 48.169894860205,
-    "lng": 17.049492582236,
+    "lokalita": "Karloveská (Karlova Ves)",
+    "lat": 48.157865790134,
+    "lng": 17.052398812612,
     "farba": "green"
   },
   "bazos_195648276": {
@@ -324,10 +324,10 @@
     "efektivna_cena": 700,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195645664": {
     "id": "bazos_195645664",
@@ -335,14 +335,14 @@
     "titulok": "PRENÁJOM | 1 IZBOVÝ BYT S KLIMATIZÁCIOU BRATISLAVA-RENDEZ",
     "odkaz": "https://reality.bazos.sk/inzerat/195645664/prenajom-1-izbovy-byt-s-klimatizaciou-bratislava-rendez.php",
     "cena_povodna": "530 €",
-    "spolu_cena": "530 €",
-    "efektivna_cena": 530,
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195651142": {
     "id": "bazos_195651142",
@@ -425,14 +425,14 @@
     "titulok": "Zariadená garsónka s balkónom na prenájom, Rača, od 1.11.",
     "odkaz": "https://reality.bazos.sk/inzerat/195668684/zariadena-garsonka-s-balkonom-na-prenajom-raca-od-111.php",
     "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195665182": {
     "id": "bazos_195665182",
@@ -609,10 +609,10 @@
     "efektivna_cena": 700,
     "datum_str": "20.09.2026",
     "datum_iso": "2026-09-20",
-    "lokalita": "Vilová",
-    "lat": 48.124110575775,
-    "lng": 17.097046377311,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195737882": {
     "id": "bazos_195737882",
@@ -654,10 +654,10 @@
     "efektivna_cena": 520,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Vilová",
-    "lat": 48.124110575775,
-    "lng": 17.097046377311,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195755202": {
     "id": "bazos_195755202",
@@ -770,8 +770,8 @@
     "titulok": "Prenájom 1i bytu s balkónom v URBAN RESIDENCE, Račianska, BA",
     "odkaz": "https://reality.bazos.sk/inzerat/195792970/prenajom-1i-bytu-s-balkonom-v-urban-residence-racianska-ba.php",
     "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
     "lokalita": "PSČ: 831 06",
