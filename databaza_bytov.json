@@ -84,9 +84,9 @@
     "efektivna_cena": 680,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "Zadunajská (Petržalka)",
+    "lat": 48.130559019338,
+    "lng": 17.102103784817,
     "farba": "green"
   },
   "bazos_195573804": {
@@ -189,7 +189,7 @@
     "efektivna_cena": 630,
     "datum_str": "17.09.2026",
     "datum_iso": "2026-09-17",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -309,7 +309,7 @@
     "efektivna_cena": 700,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 841 03 (Bory)",
+    "lokalita": "PSČ: 841 03 (Lamač)",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -414,7 +414,7 @@
     "efektivna_cena": 650,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -429,7 +429,7 @@
     "efektivna_cena": 660,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -474,7 +474,7 @@
     "efektivna_cena": 390,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -564,7 +564,7 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -639,10 +639,10 @@
     "efektivna_cena": 550,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 851 02",
-    "lat": 48.115408,
-    "lng": 17.1170814,
-    "farba": "orange"
+    "lokalita": "GESSAYOVÁ",
+    "lat": 48.120176607612,
+    "lng": 17.113199951434,
+    "farba": "green"
   },
   "bazos_195793923": {
     "id": "bazos_195793923",
@@ -724,5 +724,65 @@
     "lat": 48.115408,
     "lng": 17.1170814,
     "farba": "orange"
+  },
+  "bazos_195828583": {
+    "id": "bazos_195828583",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekný 1 izbový byt, Miletičova ulica, Bratislava II",
+    "odkaz": "https://reality.bazos.sk/inzerat/195828583/prenajom-pekny-1-izbovy-byt-mileticova-ulica-bratislava-ii.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "23.09.2026",
+    "datum_iso": "2026-09-23",
+    "lokalita": "Miletičova (Ružinov)",
+    "lat": 48.156456161688,
+    "lng": 17.13215886068,
+    "farba": "green"
+  },
+  "bazos_195827732": {
+    "id": "bazos_195827732",
+    "zdroj": "Bazoš",
+    "titulok": "SVETLÝ ZARIADENÝ 2I BYT S LODŽIOU S VÝHĽADOM NA HRAD | NIVY",
+    "odkaz": "https://reality.bazos.sk/inzerat/195827732/svetly-zariadeny-2i-byt-s-lodziou-s-vyhladom-na-hrad-nivy.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "23.09.2026",
+    "datum_iso": "2026-09-23",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_195826383": {
+    "id": "bazos_195826383",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 1-izbový byt, 40 m², Medzilaborecká ul., Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/195826383/na-prenajom-1-izbovy-byt-40-m-medzilaborecka-ul-ruzinov.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "23.09.2026",
+    "datum_iso": "2026-09-23",
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
+    "farba": "green"
+  },
+  "bazos_195825830": {
+    "id": "bazos_195825830",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka na prenájom, Námestie hraničiarov, Bratislava Petrž",
+    "odkaz": "https://reality.bazos.sk/inzerat/195825830/garsonka-na-prenajom-namestie-hraniciarov-bratislava-petrz.php",
+    "cena_povodna": "460 €",
+    "spolu_cena": "460 €",
+    "efektivna_cena": 460,
+    "datum_str": "23.09.2026",
+    "datum_iso": "2026-09-23",
+    "lokalita": "hraničiarov (Petržalka)",
+    "lat": 48.123231095814,
+    "lng": 17.112549143309,
+    "farba": "green"
   }
 }
