@@ -24,10 +24,10 @@
     "efektivna_cena": 380,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "pri autobuske",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -39,10 +39,10 @@
     "efektivna_cena": 360,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "pri autobuske",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195319995": {
     "id": "bazos_195319995",
@@ -99,7 +99,7 @@
     "efektivna_cena": 650,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 841 01",
+    "lokalita": "PSČ: 841 01 (Karlova Ves)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -114,10 +114,10 @@
     "efektivna_cena": 510,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "OVRUČSKÁ (Nové Mesto)",
+    "lat": 48.165485293328,
+    "lng": 17.123523031408,
+    "farba": "green"
   },
   "bazos_195648276": {
     "id": "bazos_195648276",
@@ -204,7 +204,7 @@
     "efektivna_cena": 700,
     "datum_str": "18.09.2026",
     "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lokalita": "PSČ: 841 03 (Bory)",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -354,7 +354,7 @@
     "efektivna_cena": 390,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -414,10 +414,10 @@
     "efektivna_cena": 600,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Bratislave m.č. Vrakuňa (Vrakuňa)",
-    "lat": 48.1383,
-    "lng": 17.20866,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195756464": {
     "id": "bazos_195756464",
@@ -564,10 +564,10 @@
     "efektivna_cena": 520,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange",
+    "lokalita": "Miletičova (Ružinov)",
+    "lat": 48.156456161688,
+    "lng": 17.13215886068,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -645,7 +645,7 @@
     "efektivna_cena": 460,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "hraničiarov (Petržalka)",
+    "lokalita": "hraničiarov",
     "lat": 48.123231095814,
     "lng": 17.112549143309,
     "farba": "green"
@@ -705,7 +705,7 @@
     "efektivna_cena": 390,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lokalita": "PSČ: 841 03",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -720,10 +720,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "OVRUČSKÁ (Nové Mesto)",
+    "lat": 48.165485293328,
+    "lng": 17.123523031408,
+    "farba": "green"
   },
   "bazos_195859283": {
     "id": "bazos_195859283",
@@ -738,6 +738,111 @@
     "lokalita": "PSČ: 821 05",
     "lat": 48.144834,
     "lng": 17.1686815,
+    "farba": "orange"
+  },
+  "bazos_195869743": {
+    "id": "bazos_195869743",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový zariadený byt na prenájom v Petržalke",
+    "odkaz": "https://reality.bazos.sk/inzerat/195869743/1-izbovy-zariadeny-byt-na-prenajom-v-petrzalke.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
+  },
+  "bazos_195874761": {
+    "id": "bazos_195874761",
+    "zdroj": "Bazoš",
+    "titulok": "pekný zrekonštruovaný 1 izb. byt, BA Rača -Krasňany",
+    "odkaz": "https://reality.bazos.sk/inzerat/195874761/pekny-zrekonstruovany-1-izb-byt-ba-raca-krasnany.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "prostredí pri Malom Dunaji (Rača)",
+    "lat": 48.211068929,
+    "lng": 17.15497545,
+    "farba": "green"
+  },
+  "bazos_195873300": {
+    "id": "bazos_195873300",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom štýlový 2 izbový byt, Ovručská ul., Bratislava III",
+    "odkaz": "https://reality.bazos.sk/inzerat/195873300/prenajom-stylovy-2-izbovy-byt-ovrucska-ul-bratislava-iii.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "Ovručská",
+    "lat": 48.165485293328,
+    "lng": 17.123523031408,
+    "farba": "green"
+  },
+  "bazos_195871547": {
+    "id": "bazos_195871547",
+    "zdroj": "Bazoš",
+    "titulok": "1izbový byt na prenájom, Bratislava IV.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195871547/1izbovy-byt-na-prenajom-bratislava-iv.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
+  },
+  "bazos_195871222": {
+    "id": "bazos_195871222",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195871222/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "PSČ: 841 01",
+    "lat": 48.1845444,
+    "lng": 17.0151322,
+    "farba": "orange"
+  },
+  "bazos_195870821": {
+    "id": "bazos_195870821",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195870821/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_195870642": {
+    "id": "bazos_195870642",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM miesta v IZBE v BYTE GORKÉHO BRATISLAVA",
+    "odkaz": "https://reality.bazos.sk/inzerat/195870642/prenajom-miesta-v-izbe-v-byte-gorkeho-bratislava.php",
+    "cena_povodna": "285 €",
+    "spolu_cena": "285 €",
+    "efektivna_cena": 285,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
     "farba": "orange"
   }
 }
