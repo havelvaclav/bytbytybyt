@@ -24,7 +24,7 @@
     "efektivna_cena": 380,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "Juh",
+    "lokalita": "pri autobuske",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -39,7 +39,7 @@
     "efektivna_cena": 360,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "Juh",
+    "lokalita": "pri autobuske",
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
@@ -84,9 +84,9 @@
     "efektivna_cena": 680,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Zadunajská (Petržalka)",
-    "lat": 48.130559019338,
-    "lng": 17.102103784817,
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
     "farba": "green"
   },
   "bazos_195573804": {
@@ -114,7 +114,7 @@
     "efektivna_cena": 510,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -129,7 +129,7 @@
     "efektivna_cena": 700,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 831 06",
+    "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -294,7 +294,7 @@
     "efektivna_cena": 650,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -414,10 +414,10 @@
     "efektivna_cena": 600,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Bratislave m.č. Vrakuňa (Vrakuňa)",
+    "lat": 48.1383,
+    "lng": 17.20866,
+    "farba": "green"
   },
   "bazos_195756464": {
     "id": "bazos_195756464",
@@ -429,7 +429,7 @@
     "efektivna_cena": 520,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -444,7 +444,7 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -549,7 +549,7 @@
     "efektivna_cena": 600,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 831 06",
+    "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -564,10 +564,10 @@
     "efektivna_cena": 520,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "Miletičova (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green",
+    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -585,9 +585,9 @@
     "efektivna_cena": 400,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "Bratislave (Petržalka)",
-    "lat": 48.11618,
-    "lng": 17.10781,
+    "lokalita": "GESSAYOVÁ (Petržalka)",
+    "lat": 48.120176607612,
+    "lng": 17.113199951434,
     "farba": "green"
   },
   "bazos_195828583": {
@@ -600,7 +600,7 @@
     "efektivna_cena": 500,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "Miletičova",
+    "lokalita": "Miletičova (Ružinov)",
     "lat": 48.156456161688,
     "lng": 17.13215886068,
     "farba": "green"
@@ -615,7 +615,7 @@
     "efektivna_cena": 590,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -720,9 +720,24 @@
     "efektivna_cena": 650,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_195859283": {
+    "id": "bazos_195859283",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1-izbový byt na Hraničnej ul. Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/195859283/prenajom-1-izbovy-byt-na-hranicnej-ul-bratislava.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "PSČ: 821 05",
+    "lat": 48.144834,
+    "lng": 17.1686815,
     "farba": "orange"
   }
 }
