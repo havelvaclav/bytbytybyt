@@ -24,10 +24,10 @@
     "efektivna_cena": 380,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Juh",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -39,10 +39,10 @@
     "efektivna_cena": 360,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Juh",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195319995": {
     "id": "bazos_195319995",
@@ -129,10 +129,10 @@
     "efektivna_cena": 700,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195651142": {
     "id": "bazos_195651142",
@@ -219,10 +219,10 @@
     "efektivna_cena": 600,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195665182": {
     "id": "bazos_195665182",
@@ -708,6 +708,21 @@
     "lokalita": "PSČ: 841 03 (Lamač)",
     "lat": 48.1941432,
     "lng": 17.0468593,
+    "farba": "orange"
+  },
+  "bazos_195858542": {
+    "id": "bazos_195858542",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | Pekný 2-izbový byt s KLIMATIZÁCIOU a SÚKROMNOU Z",
+    "odkaz": "https://reality.bazos.sk/inzerat/195858542/axis-real-pekny-2-izbovy-byt-s-klimatizaciou-a-sukromnou-z.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "24.09.2026",
+    "datum_iso": "2026-09-24",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
     "farba": "orange"
   }
 }
