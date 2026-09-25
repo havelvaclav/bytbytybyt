@@ -44,21 +44,6 @@
     "lng": 17.076725032113,
     "farba": "orange"
   },
-  "bazos_195319995": {
-    "id": "bazos_195319995",
-    "zdroj": "Bazoš",
-    "titulok": "NA PRENÁJOM: Moderný 1 izbový byt s balkónom v bytovom dome",
-    "odkaz": "https://reality.bazos.sk/inzerat/195319995/na-prenajom-moderny-1-izbovy-byt-s-balkonom-v-bytovom-dome.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "18.09.2026",
-    "datum_iso": "2026-09-18",
-    "lokalita": "PAVLOVSKÁ",
-    "lat": 48.172776589113,
-    "lng": 17.135269981552,
-    "farba": "green"
-  },
   "bazos_195510172": {
     "id": "bazos_195510172",
     "zdroj": "Bazoš",
@@ -134,36 +119,6 @@
     "lng": 17.1541005,
     "farba": "orange"
   },
-  "bazos_195651142": {
-    "id": "bazos_195651142",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom ubytovania Banská Bystrica",
-    "odkaz": "https://reality.bazos.sk/inzerat/195651142/prenajom-ubytovania-banska-bystrica.php",
-    "cena_povodna": "300 €",
-    "spolu_cena": "300 €",
-    "efektivna_cena": 300,
-    "datum_str": "18.09.2026",
-    "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 974 05",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "orange"
-  },
-  "bazos_195650950": {
-    "id": "bazos_195650950",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom 1-izbový byt, 40 m², Medzilaborecká ul., Ružinov",
-    "odkaz": "https://reality.bazos.sk/inzerat/195650950/na-prenajom-1-izbovy-byt-40-m-medzilaborecka-ul-ruzinov.php",
-    "cena_povodna": "670 €",
-    "spolu_cena": "670 €",
-    "efektivna_cena": 670,
-    "datum_str": "18.09.2026",
-    "datum_iso": "2026-09-18",
-    "lokalita": "Medzilaborecká (Ružinov)",
-    "lat": 48.159786915351,
-    "lng": 17.159065582246,
-    "farba": "green"
-  },
   "bazos_195659795": {
     "id": "bazos_195659795",
     "zdroj": "Bazoš",
@@ -179,36 +134,6 @@
     "lng": 17.1137209,
     "farba": "orange"
   },
-  "bazos_195658982": {
-    "id": "bazos_195658982",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 1,5 izbového bytu, Košická ulica, Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/195658982/prenajom-15-izboveho-bytu-kosicka-ulica-bratislava.php",
-    "cena_povodna": "630 €",
-    "spolu_cena": "630 €",
-    "efektivna_cena": 630,
-    "datum_str": "18.09.2026",
-    "datum_iso": "2026-09-18",
-    "lokalita": "Košická",
-    "lat": 48.143070837772,
-    "lng": 17.130534006421,
-    "farba": "green"
-  },
-  "bazos_195656779": {
-    "id": "bazos_195656779",
-    "zdroj": "Bazoš",
-    "titulok": "Moderný 2-izbový byt s 11 m² loggiou a parkovaním – BORY",
-    "odkaz": "https://reality.bazos.sk/inzerat/195656779/moderny-2-izbovy-byt-s-11-m-loggiou-a-parkovanim-bory.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "18.09.2026",
-    "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 841 03 (Lamač)",
-    "lat": 48.1941432,
-    "lng": 17.0468593,
-    "farba": "orange"
-  },
   "bazos_195668684": {
     "id": "bazos_195668684",
     "zdroj": "Bazoš",
@@ -222,36 +147,6 @@
     "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
-    "farba": "orange"
-  },
-  "bazos_195665182": {
-    "id": "bazos_195665182",
-    "zdroj": "Bazoš",
-    "titulok": "Ponúkame na prenájom 1-izbový byt , kompletne zariadený zrek",
-    "odkaz": "https://reality.bazos.sk/inzerat/195665182/ponukame-na-prenajom-1-izbovy-byt-kompletne-zariadeny-zrek.php",
-    "cena_povodna": "570 €",
-    "spolu_cena": "570 €",
-    "efektivna_cena": 570,
-    "datum_str": "18.09.2026",
-    "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 821 08",
-    "lat": 48.1582055,
-    "lng": 17.1398196,
-    "farba": "orange"
-  },
-  "bazos_195673895": {
-    "id": "bazos_195673895",
-    "zdroj": "Bazoš",
-    "titulok": "Exkluzívne 2-izb. byt so samost. kuchyňou a loggiou, BA II",
-    "odkaz": "https://reality.bazos.sk/inzerat/195673895/exkluzivne-2-izb-byt-so-samost-kuchynou-a-loggiou-ba-ii.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "18.09.2026",
-    "datum_iso": "2026-09-18",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
     "farba": "orange"
   },
   "bazos_195681764": {
