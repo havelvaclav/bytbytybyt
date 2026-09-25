@@ -99,10 +99,10 @@
     "efektivna_cena": 510,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "napovedá",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_195648276": {
     "id": "bazos_195648276",
@@ -189,7 +189,7 @@
     "efektivna_cena": 650,
     "datum_str": "19.09.2026",
     "datum_iso": "2026-09-19",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -249,10 +249,10 @@
     "efektivna_cena": 390,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
+    "farba": "green"
   },
   "bazos_195724859": {
     "id": "bazos_195724859",
@@ -309,7 +309,7 @@
     "efektivna_cena": 600,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07 (Ružinov)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -339,7 +339,7 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -455,11 +455,11 @@
     "titulok": "Prenajmem apartmán 1 izba - Bratislava - Trnávka -",
     "odkaz": "https://reality.bazos.sk/inzerat/195786059/prenajmem-apartman-1-izba-bratislava-trnavka.php",
     "cena_povodna": "520 €",
-    "spolu_cena": "500 €",
-    "efektivna_cena": 500,
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange",
@@ -510,7 +510,7 @@
     "efektivna_cena": 590,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -615,10 +615,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "napovedá",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_195859283": {
     "id": "bazos_195859283",
@@ -814,5 +814,50 @@
     "lat": 48.117814376,
     "lng": 17.109072238,
     "farba": "green"
+  },
+  "bazos_195900167": {
+    "id": "bazos_195900167",
+    "zdroj": "Bazoš",
+    "titulok": "Prenajmem 1 izbový byt v Nových Zámkoch",
+    "odkaz": "https://reality.bazos.sk/inzerat/195900167/prenajmem-1-izbovy-byt-v-novych-zamkoch.php",
+    "cena_povodna": "430 €",
+    "spolu_cena": "430 €",
+    "efektivna_cena": 430,
+    "datum_str": "25.09.2026",
+    "datum_iso": "2026-09-25",
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
+  },
+  "bazos_195899019": {
+    "id": "bazos_195899019",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195899019/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "25.09.2026",
+    "datum_iso": "2026-09-25",
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_195894915": {
+    "id": "bazos_195894915",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1-izbový byt + kuchyňa, BA – Ružinov.",
+    "odkaz": "https://reality.bazos.sk/inzerat/195894915/prenajom-1-izbovy-byt-kuchyna-ba-ruzinov.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "25.09.2026",
+    "datum_iso": "2026-09-25",
+    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   }
 }
