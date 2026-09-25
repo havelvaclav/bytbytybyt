@@ -82,8 +82,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "22.09.2026",
-    "datum_iso": "2026-09-22",
+    "datum_str": "25.09.2026",
+    "datum_iso": "2026-09-25",
     "lokalita": "PSČ: 841 01 (Karlova Ves)",
     "lat": 48.1845444,
     "lng": 17.0151322,
@@ -99,10 +99,10 @@
     "efektivna_cena": 510,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "napovedá",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195648276": {
     "id": "bazos_195648276",
@@ -455,14 +455,14 @@
     "titulok": "Prenajmem apartmán 1 izba - Bratislava - Trnávka -",
     "odkaz": "https://reality.bazos.sk/inzerat/195786059/prenajmem-apartman-1-izba-bratislava-trnavka.php",
     "cena_povodna": "520 €",
-    "spolu_cena": "520 €",
-    "efektivna_cena": 520,
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "Miletičova (Ružinov)",
-    "lat": 48.156456161688,
-    "lng": 17.13215886068,
-    "farba": "green",
+    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -600,10 +600,10 @@
     "efektivna_cena": 390,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 841 03 (Lamač)",
-    "lat": 48.1941432,
-    "lng": 17.0468593,
-    "farba": "orange"
+    "lokalita": "Jána Langoša (Lamač)",
+    "lat": 48.194562951,
+    "lng": 17.049236057,
+    "farba": "green"
   },
   "bazos_195858542": {
     "id": "bazos_195858542",
@@ -615,10 +615,10 @@
     "efektivna_cena": 650,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "napovedá",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   },
   "bazos_195859283": {
     "id": "bazos_195859283",
@@ -754,5 +754,65 @@
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
+  },
+  "bazos_195888585": {
+    "id": "bazos_195888585",
+    "zdroj": "Bazoš",
+    "titulok": "Podnajom 1 Izba+balkón+parkovanie",
+    "odkaz": "https://reality.bazos.sk/inzerat/195888585/podnajom-1-izbabalkonparkovanie.php",
+    "cena_povodna": "390 €",
+    "spolu_cena": "390 €",
+    "efektivna_cena": 390,
+    "datum_str": "25.09.2026",
+    "datum_iso": "2026-09-25",
+    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lat": 48.1550801,
+    "lng": 17.0463776,
+    "farba": "orange"
+  },
+  "bazos_195890069": {
+    "id": "bazos_195890069",
+    "zdroj": "Bazoš",
+    "titulok": "Prenajmem dvojizbový byt na Medenej ulici, BA1",
+    "odkaz": "https://reality.bazos.sk/inzerat/195890069/prenajmem-dvojizbovy-byt-na-medenej-ulici-ba1.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "25.09.2026",
+    "datum_iso": "2026-09-25",
+    "lokalita": "PSČ: 811 05",
+    "lat": 48.15687,
+    "lng": 17.1137209,
+    "farba": "orange"
+  },
+  "bazos_195890291": {
+    "id": "bazos_195890291",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekná garsónka, Horná ulica, Bratislava III. Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/195890291/prenajom-pekna-garsonka-horna-ulica-bratislava-iii-raca.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "25.09.2026",
+    "datum_iso": "2026-09-25",
+    "lokalita": "Horná (Rača)",
+    "lat": 48.196269518941,
+    "lng": 17.138272203965,
+    "farba": "green"
+  },
+  "bazos_195882495": {
+    "id": "bazos_195882495",
+    "zdroj": "Bazoš",
+    "titulok": "Short-Term Rental Apartment + free parking",
+    "odkaz": "https://reality.bazos.sk/inzerat/195882495/short-term-rental-apartment-parking.php",
+    "cena_povodna": "55 €",
+    "spolu_cena": null,
+    "efektivna_cena": null,
+    "datum_str": "25.09.2026",
+    "datum_iso": "2026-09-25",
+    "lokalita": "Závodu 22 (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
+    "farba": "green"
   }
 }
