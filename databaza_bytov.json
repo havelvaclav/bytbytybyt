@@ -189,10 +189,10 @@
     "efektivna_cena": 390,
     "datum_str": "26.09.2026",
     "datum_iso": "2026-09-26",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_195724859": {
     "id": "bazos_195724859",
@@ -279,10 +279,10 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_195766551": {
     "id": "bazos_195766551",
@@ -309,10 +309,10 @@
     "efektivna_cena": 570,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_195762473": {
     "id": "bazos_195762473",
@@ -450,10 +450,10 @@
     "efektivna_cena": 590,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "PSČ: 821 01 (Nivy)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Astrova (Ružinov)",
+    "lat": 48.15554774588,
+    "lng": 17.159077032125,
+    "farba": "green"
   },
   "bazos_195826383": {
     "id": "bazos_195826383",
@@ -585,10 +585,10 @@
     "efektivna_cena": 680,
     "datum_str": "26.09.2026",
     "datum_iso": "2026-09-26",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
   },
   "bazos_195874761": {
     "id": "bazos_195874761",
@@ -799,5 +799,20 @@
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
+  },
+  "bazos_195916268": {
+    "id": "bazos_195916268",
+    "zdroj": "Bazoš",
+    "titulok": "pekný zrekonštruovaný 1 izb. byt, BA Rača -Krasňany",
+    "odkaz": "https://reality.bazos.sk/inzerat/195916268/pekny-zrekonstruovany-1-izb-byt-ba-raca-krasnany.php",
+    "cena_povodna": "599 €",
+    "spolu_cena": "599 €",
+    "efektivna_cena": 599,
+    "datum_str": "26.09.2026",
+    "datum_iso": "2026-09-26",
+    "lokalita": "prostredí pri Malom Dunaji (Rača)",
+    "lat": 48.211068929,
+    "lng": 17.15497545,
+    "farba": "green"
   }
 }
