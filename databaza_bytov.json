@@ -264,7 +264,7 @@
     "efektivna_cena": 650,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -279,10 +279,10 @@
     "efektivna_cena": 640,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Astrova (Ružinov)",
-    "lat": 48.15554774588,
-    "lng": 17.159077032125,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195766551": {
     "id": "bazos_195766551",
@@ -309,10 +309,10 @@
     "efektivna_cena": 570,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "Astrova (Ružinov)",
-    "lat": 48.15554774588,
-    "lng": 17.159077032125,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195762473": {
     "id": "bazos_195762473",
@@ -450,10 +450,10 @@
     "efektivna_cena": 590,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "Astrova (Ružinov)",
-    "lat": 48.15554774588,
-    "lng": 17.159077032125,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195826383": {
     "id": "bazos_195826383",
@@ -780,7 +780,7 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
