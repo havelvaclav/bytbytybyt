@@ -29,21 +29,6 @@
     "lng": 17.076725032113,
     "farba": "orange"
   },
-  "bazos_195510172": {
-    "id": "bazos_195510172",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom,1-izb.byt,40M2, Bratislava IV-DNV,Novostavba",
-    "odkaz": "https://reality.bazos.sk/inzerat/195510172/prenajom1-izbbyt40m2-bratislava-iv-dnvnovostavba.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "20.09.2026",
-    "datum_iso": "2026-09-20",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
-    "farba": "green"
-  },
   "bazos_195545025": {
     "id": "bazos_195545025",
     "zdroj": "Bazoš",
@@ -149,36 +134,6 @@
     "lng": 17.1566781,
     "farba": "orange"
   },
-  "bazos_195718114": {
-    "id": "bazos_195718114",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM ZARIADENEJ GARSÓNKY BRATISLAVA – STARÉ MESTO",
-    "odkaz": "https://reality.bazos.sk/inzerat/195718114/prenajom-zariadenej-garsonky-bratislava-stare-mesto.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "20.09.2026",
-    "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 811 05 (Staré Mesto)",
-    "lat": 48.15687,
-    "lng": 17.1137209,
-    "farba": "orange"
-  },
-  "bazos_195712090": {
-    "id": "bazos_195712090",
-    "zdroj": "Bazoš",
-    "titulok": "Prenajmem apartmán 1 izba - Bratislava - Trnávka",
-    "odkaz": "https://reality.bazos.sk/inzerat/195712090/prenajmem-apartman-1-izba-bratislava-trnavka.php",
-    "cena_povodna": "520 €",
-    "spolu_cena": "520 €",
-    "efektivna_cena": 520,
-    "datum_str": "20.09.2026",
-    "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
-  },
   "bazos_195724582": {
     "id": "bazos_195724582",
     "zdroj": "Bazoš",
@@ -193,51 +148,6 @@
     "lat": 48.15554774588,
     "lng": 17.159077032125,
     "farba": "green"
-  },
-  "bazos_195724859": {
-    "id": "bazos_195724859",
-    "zdroj": "Bazoš",
-    "titulok": "Realitná kancelária Realadr s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/195724859/realitna-kancelaria-realadr-sro.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "20.09.2026",
-    "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
-  },
-  "bazos_195724328": {
-    "id": "bazos_195724328",
-    "zdroj": "Bazoš",
-    "titulok": "Realitný kancelária REALADR s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/195724328/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "20.09.2026",
-    "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
-  },
-  "bazos_195737882": {
-    "id": "bazos_195737882",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájmem 2 izbový byt  Bratislave Dúbravka",
-    "odkaz": "https://reality.bazos.sk/inzerat/195737882/prenajmem-2-izbovy-byt-bratislave-dubravka.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "20.09.2026",
-    "datum_iso": "2026-09-20",
-    "lokalita": "PSČ: 840 02 (Dúbravka)",
-    "lat": 48.2003454,
-    "lng": 17.0523651,
-    "farba": "orange"
   },
   "bazos_195760290": {
     "id": "bazos_195760290",
@@ -402,13 +312,7 @@
     "lokalita": "PSČ: 821 04 (Trnávka)",
     "lat": 48.1880333,
     "lng": 17.1853566,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/195712090/prenajmem-apartman-1-izba-bratislava-trnavka.php"
-      }
-    ]
+    "farba": "orange"
   },
   "bazos_195782533": {
     "id": "bazos_195782533",
