@@ -69,7 +69,7 @@
     "efektivna_cena": 510,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 830 00 (Ružinov)",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -309,7 +309,7 @@
     "efektivna_cena": 520,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -444,10 +444,10 @@
     "efektivna_cena": 390,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "Jána Langoša (Lamač)",
-    "lat": 48.194562951,
-    "lng": 17.049236057,
-    "farba": "green"
+    "lokalita": "PSČ: 841 03",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
   },
   "bazos_195858542": {
     "id": "bazos_195858542",
@@ -459,7 +459,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 830 00 (Ružinov)",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -639,9 +639,9 @@
     "efektivna_cena": 650,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "Horná (Ružinov)",
-    "lat": 48.15715266,
-    "lng": 17.149965411,
+    "lokalita": "Horná (Nové Mesto)",
+    "lat": 48.196269518941,
+    "lng": 17.138272203965,
     "farba": "green"
   },
   "bazos_195882495": {
