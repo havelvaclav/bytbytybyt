@@ -54,7 +54,7 @@
     "efektivna_cena": 650,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 841 01 (Karlova Ves)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -69,7 +69,7 @@
     "efektivna_cena": 510,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 830 00 (Kramáre)",
+    "lokalita": "PSČ: 830 00 (Ružinov)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -84,10 +84,10 @@
     "efektivna_cena": 700,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 831 06 (Rača)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "KARPATSKÉ (Rača)",
+    "lat": 48.216174547437,
+    "lng": 17.164451424181,
+    "farba": "green"
   },
   "bazos_195659795": {
     "id": "bazos_195659795",
@@ -114,10 +114,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 831 06 (Rača)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "KARPATSKÉ (Rača)",
+    "lat": 48.216174547437,
+    "lng": 17.164451424181,
+    "farba": "green"
   },
   "bazos_195700866": {
     "id": "bazos_195700866",
@@ -174,7 +174,7 @@
     "efektivna_cena": 650,
     "datum_str": "21.09.2026",
     "datum_iso": "2026-09-21",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -294,10 +294,10 @@
     "efektivna_cena": 600,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 831 06 (Rača)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "KARPATSKÉ (Rača)",
+    "lat": 48.216174547437,
+    "lng": 17.164451424181,
+    "farba": "green"
   },
   "bazos_195786059": {
     "id": "bazos_195786059",
@@ -324,9 +324,9 @@
     "efektivna_cena": 400,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "GESSAYOVÁ (Petržalka)",
-    "lat": 48.120176607612,
-    "lng": 17.113199951434,
+    "lokalita": "prostredí pri Malom Dunaji (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_195828583": {
@@ -459,7 +459,7 @@
     "efektivna_cena": 650,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 830 00 (Kramáre)",
+    "lokalita": "PSČ: 830 00 (Ružinov)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -489,9 +489,9 @@
     "efektivna_cena": 680,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   },
   "bazos_195874761": {
@@ -639,9 +639,9 @@
     "efektivna_cena": 650,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "Horná (Rača)",
-    "lat": 48.196269518941,
-    "lng": 17.138272203965,
+    "lokalita": "Horná (Ružinov)",
+    "lat": 48.15715266,
+    "lng": 17.149965411,
     "farba": "green"
   },
   "bazos_195882495": {
@@ -684,7 +684,7 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -718,5 +718,20 @@
     "lat": 48.211068929,
     "lng": 17.15497545,
     "farba": "green"
+  },
+  "bazos_195947905": {
+    "id": "bazos_195947905",
+    "zdroj": "Bazoš",
+    "titulok": "Novy 1-Izbovy byt na Lermontovovej, Staré Mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/195947905/novy-1-izbovy-byt-na-lermontovovej-stare-mesto.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "27.09.2026",
+    "datum_iso": "2026-09-27",
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   }
 }
