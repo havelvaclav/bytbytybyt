@@ -9,10 +9,10 @@
     "efektivna_cena": 380,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "T. G. Masaryka",
+    "lat": 48.1402116,
+    "lng": 17.1125684,
+    "farba": "green"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -24,10 +24,10 @@
     "efektivna_cena": 360,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "T. G. Masaryka",
+    "lat": 48.1402116,
+    "lng": 17.1125684,
+    "farba": "green"
   },
   "bazos_195573804": {
     "id": "bazos_195573804",
@@ -39,7 +39,7 @@
     "efektivna_cena": 650,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 841 01",
+    "lokalita": "PSČ: 841 01 (Dúbravka)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -69,10 +69,10 @@
     "efektivna_cena": 700,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "KARPATSKÉ (Rača)",
-    "lat": 48.216174547437,
-    "lng": 17.164451424181,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195659795": {
     "id": "bazos_195659795",
@@ -129,17 +129,17 @@
     "efektivna_cena": 390,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "Svidnícka (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195766551": {
     "id": "bazos_195766551",
     "zdroj": "Bazoš",
     "titulok": "Accommodation for rent",
     "odkaz": "https://reality.bazos.sk/inzerat/195766551/accommodation-for-rent.php",
-    "cena_povodna": "270 €",
+    "cena_povodna": "240 €",
     "spolu_cena": "270 €",
     "efektivna_cena": 270,
     "datum_str": "28.09.2026",
@@ -215,8 +215,8 @@
     "titulok": "Prenajmem apartmán 1 izba - Bratislava - Trnávka -",
     "odkaz": "https://reality.bazos.sk/inzerat/195786059/prenajmem-apartman-1-izba-bratislava-trnavka.php",
     "cena_povodna": "520 €",
-    "spolu_cena": "500 €",
-    "efektivna_cena": 500,
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
     "lokalita": "PSČ: 821 04 (Trnávka)",
@@ -234,10 +234,10 @@
     "efektivna_cena": 400,
     "datum_str": "22.09.2026",
     "datum_iso": "2026-09-22",
-    "lokalita": "PSČ: 851 04 (Petržalka)",
-    "lat": 48.1273452,
-    "lng": 17.1278204,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
+    "farba": "green"
   },
   "bazos_195828583": {
     "id": "bazos_195828583",
@@ -279,9 +279,9 @@
     "efektivna_cena": 670,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "Medzilaborecká (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
+    "lokalita": "Medzilaborecká (Ružinov)",
+    "lat": 48.159786915351,
+    "lng": 17.159065582246,
     "farba": "green"
   },
   "bazos_195825830": {
@@ -354,7 +354,7 @@
     "efektivna_cena": 390,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 841 03",
+    "lokalita": "PSČ: 841 03 (Lamač)",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -399,9 +399,9 @@
     "efektivna_cena": 680,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_195874761": {
@@ -459,7 +459,7 @@
     "efektivna_cena": 700,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 841 01",
+    "lokalita": "PSČ: 841 01 (Dúbravka)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -579,10 +579,10 @@
     "efektivna_cena": 430,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "T. G. Masaryka",
+    "lat": 48.1402116,
+    "lng": 17.1125684,
+    "farba": "green"
   },
   "bazos_195899019": {
     "id": "bazos_195899019",
@@ -654,9 +654,9 @@
     "efektivna_cena": 650,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "Garsónka (Petržalka)",
+    "lat": 48.117814376,
+    "lng": 17.109072238,
     "farba": "green"
   },
   "bazos_195985523": {
@@ -702,6 +702,66 @@
     "lokalita": "PSČ: 841 05 (Dlhé diely)",
     "lat": 48.1550801,
     "lng": 17.0463776,
+    "farba": "orange"
+  },
+  "bazos_196001135": {
+    "id": "bazos_196001135",
+    "zdroj": "Bazoš",
+    "titulok": "1 izbový byt Bratislava Staré mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/196001135/1-izbovy-byt-bratislava-stare-mesto.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "28.09.2026",
+    "datum_iso": "2026-09-28",
+    "lokalita": "GESSAYOVÁ (Staré Mesto)",
+    "lat": 48.120176607612,
+    "lng": 17.113199951434,
+    "farba": "green"
+  },
+  "bazos_195997365": {
+    "id": "bazos_195997365",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom pekný zariadený byt - garsonka",
+    "odkaz": "https://reality.bazos.sk/inzerat/195997365/na-prenajom-pekny-zariadeny-byt-garsonka.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "28.09.2026",
+    "datum_iso": "2026-09-28",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_195993760": {
+    "id": "bazos_195993760",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom nový, zariadený 1 izbový byt - Slnečnice POP",
+    "odkaz": "https://reality.bazos.sk/inzerat/195993760/prenajom-novy-zariadeny-1-izbovy-byt-slnecnice-pop.php",
+    "cena_povodna": "640 €",
+    "spolu_cena": "640 €",
+    "efektivna_cena": 640,
+    "datum_str": "28.09.2026",
+    "datum_iso": "2026-09-28",
+    "lokalita": "Vranovská (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
+    "farba": "green"
+  },
+  "bazos_195989251": {
+    "id": "bazos_195989251",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | ZARIADENÝ 2-IZBOVÝ BYT S BALKÓNOM A KLIMATIZÁCIOU",
+    "odkaz": "https://reality.bazos.sk/inzerat/195989251/prenajom-zariadeny-2-izbovy-byt-s-balkonom-a-klimatizaciou.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "28.09.2026",
+    "datum_iso": "2026-09-28",
+    "lokalita": "PSČ: 841 02 (Dúbravka)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
     "farba": "orange"
   }
 }
