@@ -9,10 +9,10 @@
     "efektivna_cena": 380,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "T. G. Masaryka",
-    "lat": 48.1402116,
-    "lng": 17.1125684,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -24,10 +24,10 @@
     "efektivna_cena": 360,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "T. G. Masaryka",
-    "lat": 48.1402116,
-    "lng": 17.1125684,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195573804": {
     "id": "bazos_195573804",
@@ -84,10 +84,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "KARPATSKÉ (Rača)",
-    "lat": 48.216174547437,
-    "lng": 17.164451424181,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195700866": {
     "id": "bazos_195700866",
@@ -114,10 +114,10 @@
     "efektivna_cena": 390,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Hrachová (Ružinov)",
+    "lat": 48.154529553444,
+    "lng": 17.162387556006,
+    "farba": "green"
   },
   "bazos_195766551": {
     "id": "bazos_195766551",
@@ -204,7 +204,7 @@
     "efektivna_cena": 460,
     "datum_str": "23.09.2026",
     "datum_iso": "2026-09-23",
-    "lokalita": "hraničiarov (Slnečnice)",
+    "lokalita": "hraničiarov (Petržalka)",
     "lat": 48.123231095814,
     "lng": 17.112549143309,
     "farba": "green"
@@ -264,7 +264,7 @@
     "efektivna_cena": 390,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lokalita": "PSČ: 841 03",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -309,10 +309,10 @@
     "efektivna_cena": 680,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "Garsónka (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195874761": {
     "id": "bazos_195874761",
@@ -414,10 +414,10 @@
     "efektivna_cena": 620,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "Fialová (Petržalka)",
-    "lat": 48.089351342897,
-    "lng": 17.123227558208,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_195888585": {
     "id": "bazos_195888585",
@@ -489,10 +489,10 @@
     "efektivna_cena": 430,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "T. G. Masaryka",
-    "lat": 48.1402116,
-    "lng": 17.1125684,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195899019": {
     "id": "bazos_195899019",
@@ -519,10 +519,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "Hradská (Ružinov)",
-    "lat": 48.159499833435,
-    "lng": 17.186697380239,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195916268": {
     "id": "bazos_195916268",
@@ -564,10 +564,10 @@
     "efektivna_cena": 650,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "Garsónka (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195985523": {
     "id": "bazos_195985523",
@@ -594,7 +594,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Bosákova (Slnečnice)",
+    "lokalita": "Bosákova (Petržalka)",
     "lat": 48.127882377114,
     "lng": 17.118771966787,
     "farba": "green"
@@ -639,10 +639,10 @@
     "efektivna_cena": 550,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Hradská (Vrakuňa)",
-    "lat": 48.139538451937,
-    "lng": 17.202807212118,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195993760": {
     "id": "bazos_195993760",
@@ -654,10 +654,10 @@
     "efektivna_cena": 640,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Vranovská (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_195989251": {
     "id": "bazos_195989251",
@@ -703,5 +703,95 @@
     "lat": 48.1251898,
     "lng": 17.2111499,
     "farba": "orange"
+  },
+  "bazos_196017655": {
+    "id": "bazos_196017655",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196017655/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_196016626": {
+    "id": "bazos_196016626",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196016626/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_196018972": {
+    "id": "bazos_196018972",
+    "zdroj": "Bazoš",
+    "titulok": "2-izbový zariadený byt s balkónom v novostavbe",
+    "odkaz": "https://reality.bazos.sk/inzerat/196018972/2-izbovy-zariadeny-byt-s-balkonom-v-novostavbe.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 908 80",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_196021384": {
+    "id": "bazos_196021384",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom svetlý a zariadený 1 izbový byt o celkovej výmer",
+    "odkaz": "https://reality.bazos.sk/inzerat/196021384/na-prenajom-svetly-a-zariadeny-1-izbovy-byt-o-celkovej-vymer.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 917 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
+  },
+  "bazos_196013871": {
+    "id": "bazos_196013871",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekného 2 izboveho bytu vo Vlčkovciach pri Trnave",
+    "odkaz": "https://reality.bazos.sk/inzerat/196013871/prenajom-pekneho-2-izboveho-bytu-vo-vlckovciach-pri-trnave.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 919 23",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_196011782": {
+    "id": "bazos_196011782",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom,KRÁSNY 1-izb.byt,40M2, Bratislava IV-DNV,Novostavba",
+    "odkaz": "https://reality.bazos.sk/inzerat/196011782/prenajomkrasny-1-izbbyt40m2-bratislava-iv-dnvnovostavba.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "green"
   }
 }
