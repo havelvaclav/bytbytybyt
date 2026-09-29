@@ -69,7 +69,7 @@
     "efektivna_cena": 650,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 811 05",
+    "lokalita": "PSČ: 811 05 (Staré Mesto)",
     "lat": 48.15687,
     "lng": 17.1137209,
     "farba": "orange"
@@ -114,9 +114,9 @@
     "efektivna_cena": 390,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "Hrachová (Ružinov)",
-    "lat": 48.154529553444,
-    "lng": 17.162387556006,
+    "lokalita": "Sartorisova (Ružinov)",
+    "lat": 48.156754441276,
+    "lng": 17.142246072765,
     "farba": "green"
   },
   "bazos_195766551": {
@@ -429,7 +429,7 @@
     "efektivna_cena": 390,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lokalita": "PSČ: 841 05",
     "lat": 48.1550801,
     "lng": 17.0463776,
     "farba": "orange"
@@ -444,7 +444,7 @@
     "efektivna_cena": 700,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "PSČ: 811 05",
+    "lokalita": "PSČ: 811 05 (Staré Mesto)",
     "lat": 48.15687,
     "lng": 17.1137209,
     "farba": "orange"
@@ -579,10 +579,10 @@
     "efektivna_cena": 570,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Hraničná (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
+    "farba": "green"
   },
   "bazos_195982482": {
     "id": "bazos_195982482",
@@ -594,7 +594,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Bosákova (Petržalka)",
+    "lokalita": "Bosákova",
     "lat": 48.127882377114,
     "lng": 17.118771966787,
     "farba": "green"
@@ -609,7 +609,7 @@
     "efektivna_cena": 360,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lokalita": "PSČ: 841 05",
     "lat": 48.1550801,
     "lng": 17.0463776,
     "farba": "orange"
@@ -714,7 +714,7 @@
     "efektivna_cena": 550,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -793,5 +793,65 @@
     "lat": 48.154419507,
     "lng": 17.119406427,
     "farba": "green"
+  },
+  "bazos_196032851": {
+    "id": "bazos_196032851",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM: Kompletne zariadený, krásny 2-izbový byt s doko",
+    "odkaz": "https://reality.bazos.sk/inzerat/196032851/na-prenajom-kompletne-zariadeny-krasny-2-izbovy-byt-s-doko.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 841 04 (Dúbravka)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_196025630": {
+    "id": "bazos_196025630",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbového bytu v Dunajskej Strede",
+    "odkaz": "https://reality.bazos.sk/inzerat/196025630/prenajom-2-izboveho-bytu-v-dunajskej-strede.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 929 01",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_196024738": {
+    "id": "bazos_196024738",
+    "zdroj": "Bazoš",
+    "titulok": "2-izbový byt na prenájom na 2 mesiace – Dunajská Streda, Záh",
+    "odkaz": "https://reality.bazos.sk/inzerat/196024738/2-izbovy-byt-na-prenajom-na-2-mesiace-dunajska-streda-zah.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 929 01",
+    "lat": 48.154419507,
+    "lng": 17.119406427,
+    "farba": "orange"
+  },
+  "bazos_196022188": {
+    "id": "bazos_196022188",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový byt v novostavbe na Jašíkovej ulici, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196022188/1-izbovy-byt-v-novostavbe-na-jasikovej-ulici-ruzinov.php",
+    "cena_povodna": "480 €",
+    "spolu_cena": "480 €",
+    "efektivna_cena": 480,
+    "datum_str": "29.09.2026",
+    "datum_iso": "2026-09-29",
+    "lokalita": "PSČ: 821 05 (Ružinov)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
   }
 }
