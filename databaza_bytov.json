@@ -9,10 +9,10 @@
     "efektivna_cena": 380,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Cyrilometódska",
-    "lat": 48.1425154,
-    "lng": 17.1050239,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -24,10 +24,10 @@
     "efektivna_cena": 360,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Cyrilometódska",
-    "lat": 48.1425154,
-    "lng": 17.1050239,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195573804": {
     "id": "bazos_195573804",
@@ -84,9 +84,9 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "Alstrova (Rača)",
-    "lat": 48.209940227594,
-    "lng": 17.145415828789,
+    "lokalita": "kompletne zariadený  Kafendova (Rača)",
+    "lat": 48.209888241835,
+    "lng": 17.150967983501,
     "farba": "green"
   },
   "bazos_195700866": {
@@ -114,10 +114,10 @@
     "efektivna_cena": 390,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "Svidnícka (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_195766551": {
     "id": "bazos_195766551",
@@ -384,10 +384,10 @@
     "efektivna_cena": 430,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "Cyrilometódska",
-    "lat": 48.1425154,
-    "lng": 17.1050239,
-    "farba": "green"
+    "lokalita": "PSČ: 940 02",
+    "lat": 48.152388204809,
+    "lng": 17.076725032113,
+    "farba": "orange"
   },
   "bazos_195899019": {
     "id": "bazos_195899019",
@@ -414,10 +414,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 821 07 (Ružinov)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Slatinská (Ružinov)",
+    "lat": 48.169478061988,
+    "lng": 17.160730892506,
+    "farba": "green"
   },
   "bazos_195916268": {
     "id": "bazos_195916268",
@@ -534,10 +534,10 @@
     "efektivna_cena": 550,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Slatinská (Vrakuňa)",
+    "lat": 48.140642153262,
+    "lng": 17.214431257325,
+    "farba": "green"
   },
   "bazos_195993760": {
     "id": "bazos_195993760",
@@ -594,10 +594,10 @@
     "efektivna_cena": 640,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
-    "lat": 48.1251898,
-    "lng": 17.2111499,
-    "farba": "orange"
+    "lokalita": "Kazanská (Podunajské Biskupice)",
+    "lat": 48.130773087354,
+    "lng": 17.194544467034,
+    "farba": "green"
   },
   "bazos_196017655": {
     "id": "bazos_196017655",
@@ -774,9 +774,105 @@
     "efektivna_cena": 570,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Hraničná (Ružinov)",
-    "lat": 48.1434705,
-    "lng": 17.1604383,
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_196053234": {
+    "id": "bazos_196053234",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM: Kompletne zariadený, krásny 2-izbový byt s doko",
+    "odkaz": "https://reality.bazos.sk/inzerat/196053234/na-prenajom-kompletne-zariadeny-krasny-2-izbovy-byt-s-doko.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "30.09.2026",
+    "datum_iso": "2026-09-30",
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_196052613": {
+    "id": "bazos_196052613",
+    "zdroj": "Bazoš",
+    "titulok": "Nájom 1i byt, Slatinská, Bratislava, výťah, zariadený",
+    "odkaz": "https://reality.bazos.sk/inzerat/196052613/najom-1i-byt-slatinska-bratislava-vytah-zariadeny.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "30.09.2026",
+    "datum_iso": "2026-09-30",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_196049980": {
+    "id": "bazos_196049980",
+    "zdroj": "Bazoš",
+    "titulok": "Apartmán na prenájomna na Radiovej ulici v mestskej časti Br",
+    "odkaz": "https://reality.bazos.sk/inzerat/196049980/apartman-na-prenajomna-na-radiovej-ulici-v-mestskej-casti-br.php",
+    "cena_povodna": "675 €",
+    "spolu_cena": "675 €",
+    "efektivna_cena": 675,
+    "datum_str": "30.09.2026",
+    "datum_iso": "2026-09-30",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196049702/prizemny-apartman-na-prenajomna-na-radiovej-ulici-v-mestskej.php"
+      }
+    ]
+  },
+  "bazos_196049191": {
+    "id": "bazos_196049191",
+    "zdroj": "Bazoš",
+    "titulok": "REB.SK Prenájom zariadeného 2-izbového bytu Bratislava II",
+    "odkaz": "https://reality.bazos.sk/inzerat/196049191/rebsk-prenajom-zariadeneho-2-izboveho-bytu-bratislava-ii.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "30.09.2026",
+    "datum_iso": "2026-09-30",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_196048399": {
+    "id": "bazos_196048399",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekný 2 izbový byt, Repašského ulica, Bratislava IV",
+    "odkaz": "https://reality.bazos.sk/inzerat/196048399/prenajom-pekny-2-izbovy-byt-repasskeho-ulica-bratislava-iv.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "30.09.2026",
+    "datum_iso": "2026-09-30",
+    "lokalita": "Repašského",
+    "lat": 48.190027597493,
+    "lng": 17.033988830845,
     "farba": "green"
+  },
+  "bazos_196048389": {
+    "id": "bazos_196048389",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom bytu bez depozitu Bratislava staré mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/196048389/prenajom-bytu-bez-depozitu-bratislava-stare-mesto.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "30.09.2026",
+    "datum_iso": "2026-09-30",
+    "lokalita": "PSČ: 811 06 (Staré Mesto)",
+    "lat": 48.1486616,
+    "lng": 17.108133,
+    "farba": "orange"
   }
 }
