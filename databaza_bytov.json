@@ -9,10 +9,10 @@
     "efektivna_cena": 380,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Cyrilometódska",
+    "lat": 48.1425154,
+    "lng": 17.1050239,
+    "farba": "green"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -24,10 +24,10 @@
     "efektivna_cena": 360,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Cyrilometódska",
+    "lat": 48.1425154,
+    "lng": 17.1050239,
+    "farba": "green"
   },
   "bazos_195573804": {
     "id": "bazos_195573804",
@@ -39,7 +39,7 @@
     "efektivna_cena": 650,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 841 01 (Dúbravka)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -84,10 +84,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 831 06 (Rača)",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange"
+    "lokalita": "Alstrova (Rača)",
+    "lat": 48.209940227594,
+    "lng": 17.145415828789,
+    "farba": "green"
   },
   "bazos_195700866": {
     "id": "bazos_195700866",
@@ -114,9 +114,9 @@
     "efektivna_cena": 390,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "Sartorisova (Ružinov)",
-    "lat": 48.156754441276,
-    "lng": 17.142246072765,
+    "lokalita": "Svidnícka (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green"
   },
   "bazos_195766551": {
@@ -145,8 +145,8 @@
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
     "lokalita": "PSČ: 908 80",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "orange"
   },
   "bazos_195848210": {
@@ -264,7 +264,7 @@
     "efektivna_cena": 700,
     "datum_str": "24.09.2026",
     "datum_iso": "2026-09-24",
-    "lokalita": "PSČ: 841 01 (Dúbravka)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -370,8 +370,8 @@
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
     "lokalita": "Závodu 22 (Petržalka)",
-    "lat": 48.117814376,
-    "lng": 17.109072238,
+    "lat": 48.118283215,
+    "lng": 17.11036176,
     "farba": "green"
   },
   "bazos_195900167": {
@@ -384,10 +384,10 @@
     "efektivna_cena": 430,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Cyrilometódska",
+    "lat": 48.1425154,
+    "lng": 17.1050239,
+    "farba": "green"
   },
   "bazos_195899019": {
     "id": "bazos_195899019",
@@ -430,8 +430,8 @@
     "datum_str": "26.09.2026",
     "datum_iso": "2026-09-26",
     "lokalita": "tichom prostredí plnom zelene (Rača)",
-    "lat": 48.211068929,
-    "lng": 17.15497545,
+    "lat": 48.211546415,
+    "lng": 17.156279329,
     "farba": "green"
   },
   "bazos_195947905": {
@@ -534,7 +534,7 @@
     "efektivna_cena": 550,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -594,7 +594,7 @@
     "efektivna_cena": 640,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 821 06",
+    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
     "lat": 48.1251898,
     "lng": 17.2111499,
     "farba": "orange"
@@ -640,8 +640,8 @@
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
     "lokalita": "PSČ: 908 80",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "orange"
   },
   "bazos_196021384": {
@@ -670,8 +670,8 @@
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
     "lokalita": "PSČ: 919 23",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "orange"
   },
   "bazos_196011782": {
@@ -685,8 +685,8 @@
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
     "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "green"
   },
   "bazos_196032851": {
@@ -715,8 +715,8 @@
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
     "lokalita": "PSČ: 929 01",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "orange"
   },
   "bazos_196024738": {
@@ -730,8 +730,8 @@
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
     "lokalita": "PSČ: 929 01",
-    "lat": 48.154419507,
-    "lng": 17.119406427,
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "orange"
   },
   "bazos_196022188": {
@@ -748,5 +748,35 @@
     "lat": 48.144834,
     "lng": 17.1686815,
     "farba": "orange"
+  },
+  "bazos_196045258": {
+    "id": "bazos_196045258",
+    "zdroj": "Bazoš",
+    "titulok": "Obrovský 1 izbový byt s lodžiou, Kresánkova ulica, BA IV. Dl",
+    "odkaz": "https://reality.bazos.sk/inzerat/196045258/obrovsky-1-izbovy-byt-s-lodziou-kresankova-ulica-ba-iv-dl.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "30.09.2026",
+    "datum_iso": "2026-09-30",
+    "lokalita": "Kresánkova",
+    "lat": 48.150230528499,
+    "lng": 17.050168622002,
+    "farba": "green"
+  },
+  "bazos_196043783": {
+    "id": "bazos_196043783",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196043783/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "30.09.2026",
+    "datum_iso": "2026-09-30",
+    "lokalita": "Hraničná (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
+    "farba": "green"
   }
 }
