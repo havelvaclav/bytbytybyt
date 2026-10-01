@@ -54,7 +54,7 @@
     "efektivna_cena": 650,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "PSČ: 811 05 (Staré Mesto)",
+    "lokalita": "PSČ: 811 05",
     "lat": 48.15687,
     "lng": 17.1137209,
     "farba": "orange"
@@ -69,10 +69,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "kompletne zariadený  Kafendova (Rača)",
-    "lat": 48.209888241835,
-    "lng": 17.150967983501,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_195724582": {
     "id": "bazos_195724582",
@@ -174,7 +174,7 @@
     "efektivna_cena": 599,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "Horná (Nové Mesto)",
+    "lokalita": "Horná (Rača)",
     "lat": 48.196269518941,
     "lng": 17.138272203965,
     "farba": "green"
@@ -234,10 +234,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "Slatinská (Ružinov)",
-    "lat": 48.169478061988,
-    "lng": 17.160730892506,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195916268": {
     "id": "bazos_195916268",
@@ -354,10 +354,10 @@
     "efektivna_cena": 550,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Slatinská (Vrakuňa)",
-    "lat": 48.140642153262,
-    "lng": 17.214431257325,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_195993760": {
     "id": "bazos_195993760",
@@ -579,7 +579,7 @@
     "efektivna_cena": 600,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Kresánkova",
+    "lokalita": "Kresánkova (Dlhé diely)",
     "lat": 48.150230528499,
     "lng": 17.050168622002,
     "farba": "green"
@@ -609,7 +609,7 @@
     "efektivna_cena": 690,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 841 04",
+    "lokalita": "PSČ: 841 04 (Dlhé diely)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -624,7 +624,7 @@
     "efektivna_cena": 690,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -694,5 +694,50 @@
     "lat": 48.1486616,
     "lng": 17.108133,
     "farba": "orange"
+  },
+  "bazos_196083924": {
+    "id": "bazos_196083924",
+    "zdroj": "Bazoš",
+    "titulok": "2i byt svetlý byt _ Prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/196083924/2i-byt-svetly-byt-prenajom.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "01.10.2026",
+    "datum_iso": "2026-10-01",
+    "lokalita": "Slatinská (Vrakuňa)",
+    "lat": 48.140642153262,
+    "lng": 17.214431257325,
+    "farba": "green"
+  },
+  "bazos_196083697": {
+    "id": "bazos_196083697",
+    "zdroj": "Bazoš",
+    "titulok": "Zariadený 1-izb. byt, Nuppu | Klíma | Lodžia | Parking | Kob",
+    "odkaz": "https://reality.bazos.sk/inzerat/196083697/zariadeny-1-izb-byt-nuppu-klima-lodzia-parking-kob.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "01.10.2026",
+    "datum_iso": "2026-10-01",
+    "lokalita": "PSČ: 821 05 (Ružinov)",
+    "lat": 48.144834,
+    "lng": 17.1686815,
+    "farba": "orange"
+  },
+  "bazos_196077860": {
+    "id": "bazos_196077860",
+    "zdroj": "Bazoš",
+    "titulok": "2 IZB. BYT S LOGGIOU - PETRŽALKA - A. GWERKOVEJ",
+    "odkaz": "https://reality.bazos.sk/inzerat/196077860/2-izb-byt-s-loggiou-petrzalka-a-gwerkovej.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "01.10.2026",
+    "datum_iso": "2026-10-01",
+    "lokalita": "Bratislave (Petržalka)",
+    "lat": 48.11618,
+    "lng": 17.10781,
+    "farba": "green"
   }
 }
