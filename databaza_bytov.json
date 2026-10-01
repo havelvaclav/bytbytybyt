@@ -84,10 +84,10 @@
     "efektivna_cena": 390,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Meteorova (Ružinov)",
+    "lat": 48.164624881863,
+    "lng": 17.164255056595,
+    "farba": "green"
   },
   "bazos_195766551": {
     "id": "bazos_195766551",
@@ -95,8 +95,8 @@
     "titulok": "Accommodation for rent",
     "odkaz": "https://reality.bazos.sk/inzerat/195766551/accommodation-for-rent.php",
     "cena_povodna": "240 €",
-    "spolu_cena": "270 €",
-    "efektivna_cena": 270,
+    "spolu_cena": "240 €",
+    "efektivna_cena": 240,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
     "lokalita": "PSČ: 831 06 (Rača)",
@@ -174,7 +174,7 @@
     "efektivna_cena": 599,
     "datum_str": "25.09.2026",
     "datum_iso": "2026-09-25",
-    "lokalita": "Horná (Rača)",
+    "lokalita": "Horná (Nové Mesto)",
     "lat": 48.196269518941,
     "lng": 17.138272203965,
     "farba": "green"
@@ -309,7 +309,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Bosákova",
+    "lokalita": "Bosákova (Petržalka)",
     "lat": 48.127882377114,
     "lng": 17.118771966787,
     "farba": "green"
@@ -354,7 +354,7 @@
     "efektivna_cena": 550,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -384,10 +384,10 @@
     "efektivna_cena": 700,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 841 02",
-    "lat": 48.1949026,
-    "lng": 17.0334999,
-    "farba": "orange"
+    "lokalita": "Bazovského (Dúbravka)",
+    "lat": 48.184135803776,
+    "lng": 17.04105170704,
+    "farba": "green"
   },
   "bazos_196002520": {
     "id": "bazos_196002520",
@@ -414,10 +414,10 @@
     "efektivna_cena": 640,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Kazanská (Podunajské Biskupice)",
-    "lat": 48.130773087354,
-    "lng": 17.194544467034,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06 (Staré Mesto)",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_196017655": {
     "id": "bazos_196017655",
@@ -429,7 +429,7 @@
     "efektivna_cena": 550,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -579,7 +579,7 @@
     "efektivna_cena": 600,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Kresánkova (Dlhé diely)",
+    "lokalita": "Kresánkova (Karlova Ves)",
     "lat": 48.150230528499,
     "lng": 17.050168622002,
     "farba": "green"
@@ -594,10 +594,10 @@
     "efektivna_cena": 570,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Tomášikova (Ružinov)",
-    "lat": 48.161774098549,
-    "lng": 17.159777391988,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196053234": {
     "id": "bazos_196053234",
@@ -609,10 +609,10 @@
     "efektivna_cena": 690,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 841 04 (Dlhé diely)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
+    "lokalita": "Sekulská (Karlova Ves)",
+    "lat": 48.162503872294,
+    "lng": 17.046821749857,
+    "farba": "green"
   },
   "bazos_196052613": {
     "id": "bazos_196052613",
@@ -624,7 +624,7 @@
     "efektivna_cena": 690,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -660,10 +660,10 @@
     "efektivna_cena": 700,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Tomášikova",
-    "lat": 48.161774098549,
-    "lng": 17.159777391988,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196048399": {
     "id": "bazos_196048399",
@@ -675,7 +675,7 @@
     "efektivna_cena": 650,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Repašského",
+    "lokalita": "Repašského (Dúbravka)",
     "lat": 48.190027597493,
     "lng": 17.033988830845,
     "farba": "green"
@@ -705,10 +705,10 @@
     "efektivna_cena": 600,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "Slatinská (Vrakuňa)",
-    "lat": 48.140642153262,
-    "lng": 17.214431257325,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_196083697": {
     "id": "bazos_196083697",
@@ -739,5 +739,35 @@
     "lat": 48.11618,
     "lng": 17.10781,
     "farba": "green"
+  },
+  "bazos_196088421": {
+    "id": "bazos_196088421",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom NOVOSTAVBA 1 izbový byt, Na pasekách, Bratislava II",
+    "odkaz": "https://reality.bazos.sk/inzerat/196088421/prenajom-novostavba-1-izbovy-byt-na-pasekach-bratislava-ii.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "01.10.2026",
+    "datum_iso": "2026-10-01",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_196086929": {
+    "id": "bazos_196086929",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 2-izbový byt, 47 m², klimatizovaný, Odborárska u",
+    "odkaz": "https://reality.bazos.sk/inzerat/196086929/na-prenajom-2-izbovy-byt-47-m-klimatizovany-odborarska-u.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "01.10.2026",
+    "datum_iso": "2026-10-01",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   }
 }
