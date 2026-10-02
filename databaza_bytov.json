@@ -54,9 +54,9 @@
     "efektivna_cena": 390,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "Meteorova (Ružinov)",
-    "lat": 48.164624881863,
-    "lng": 17.164255056595,
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
     "farba": "green"
   },
   "bazos_195766551": {
@@ -204,7 +204,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Bosákova",
+    "lokalita": "Bosákova (Petržalka)",
     "lat": 48.127882377114,
     "lng": 17.118771966787,
     "farba": "green"
@@ -489,10 +489,10 @@
     "efektivna_cena": 570,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
   },
   "bazos_196053234": {
     "id": "bazos_196053234",
@@ -555,10 +555,10 @@
     "efektivna_cena": 700,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "6.posch./6. Výťah (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
   },
   "bazos_196048399": {
     "id": "bazos_196048399",
@@ -664,5 +664,50 @@
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
+  },
+  "bazos_196094425": {
+    "id": "bazos_196094425",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2izb. byt Pod Kolibou Bratislava.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196094425/prenajom-2izb-byt-pod-kolibou-bratislava.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "02.10.2026",
+    "datum_iso": "2026-10-02",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_196105244": {
+    "id": "bazos_196105244",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 2i byt BORY HOME-veľká loggia, parkovacie státie",
+    "odkaz": "https://reality.bazos.sk/inzerat/196105244/na-prenajom-2i-byt-bory-home-velka-loggia-parkovacie-statie.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "02.10.2026",
+    "datum_iso": "2026-10-02",
+    "lokalita": "PSČ: 841 03 (Bory)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
+  },
+  "bazos_196103092": {
+    "id": "bazos_196103092",
+    "zdroj": "Bazoš",
+    "titulok": "- NOVO ZARIADENY - samostatná spálňa - 1,5 izbovy - Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196103092/novo-zariadeny-samostatna-spalna-15-izbovy-ruzinov.php",
+    "cena_povodna": "390 €",
+    "spolu_cena": "390 €",
+    "efektivna_cena": 390,
+    "datum_str": "02.10.2026",
+    "datum_iso": "2026-10-02",
+    "lokalita": "Meteorova (Ružinov)",
+    "lat": 48.164624881863,
+    "lng": 17.164255056595,
+    "farba": "green"
   }
 }
