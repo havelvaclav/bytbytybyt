@@ -54,7 +54,7 @@
     "efektivna_cena": 390,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -204,7 +204,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Bosákova",
+    "lokalita": "Bosákova (Petržalka)",
     "lat": 48.127882377114,
     "lng": 17.118771966787,
     "farba": "green"
@@ -339,10 +339,10 @@
     "efektivna_cena": 600,
     "datum_str": "02.10.2026",
     "datum_iso": "2026-10-02",
-    "lokalita": "PSČ: 821 04 (Ružinov)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
+    "lokalita": "II Ružinov - Trnávka. Doležalova (Ružinov)",
+    "lat": 48.169992154715,
+    "lng": 17.161690104092,
+    "farba": "green"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -534,10 +534,10 @@
     "efektivna_cena": 675,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 04 (Ružinov)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange",
+    "lokalita": "II Ružinov - Trnávka. Doležalova (Ružinov)",
+    "lat": 48.169992154715,
+    "lng": 17.161690104092,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -555,7 +555,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -768,6 +768,21 @@
     "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_196125648": {
+    "id": "bazos_196125648",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom jednoizbového bytu Bratislava - Ružinov-Trnávka",
+    "odkaz": "https://reality.bazos.sk/inzerat/196125648/prenajom-jednoizboveho-bytu-bratislava-ruzinov-trnavka.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "02.10.2026",
+    "datum_iso": "2026-10-02",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
     "farba": "orange"
   }
 }
