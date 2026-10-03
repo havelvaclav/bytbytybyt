@@ -144,10 +144,10 @@
     "efektivna_cena": 670,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "KMEŤOVO (Staré Mesto)",
+    "lat": 48.15498355923,
+    "lng": 17.12141287379,
+    "farba": "green"
   },
   "bazos_194878663": {
     "id": "bazos_194878663",
@@ -294,10 +294,10 @@
     "efektivna_cena": 640,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 821 06 (Staré Mesto)",
-    "lat": 48.1251898,
-    "lng": 17.2111499,
-    "farba": "orange"
+    "lokalita": "Majerská (Vrakuňa)",
+    "lat": 48.155052434845,
+    "lng": 17.20895623045,
+    "farba": "green"
   },
   "bazos_196017655": {
     "id": "bazos_196017655",
@@ -384,10 +384,10 @@
     "efektivna_cena": 550,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_196032851": {
     "id": "bazos_196032851",
@@ -720,10 +720,10 @@
     "efektivna_cena": 580,
     "datum_str": "02.10.2026",
     "datum_iso": "2026-10-02",
-    "lokalita": "Rínok Rača (Rača)",
-    "lat": 48.211546415,
-    "lng": 17.156279329,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_196114913": {
     "id": "bazos_196114913",
@@ -769,5 +769,35 @@
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
+  },
+  "bazos_196140545": {
+    "id": "bazos_196140545",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | 1-IZBOVÝ BYT | STARÉ MESTO – KMEŤOVO NÁMESTIE",
+    "odkaz": "https://reality.bazos.sk/inzerat/196140545/prenajom-1-izbovy-byt-stare-mesto-kmetovo-namestie.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "03.10.2026",
+    "datum_iso": "2026-10-03",
+    "lokalita": "KMEŤOVO (Staré Mesto)",
+    "lat": 48.15498355923,
+    "lng": 17.12141287379,
+    "farba": "green"
+  },
+  "bazos_196142517": {
+    "id": "bazos_196142517",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196142517/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "460 €",
+    "spolu_cena": "460 €",
+    "efektivna_cena": 460,
+    "datum_str": "03.10.2026",
+    "datum_iso": "2026-10-03",
+    "lokalita": "Kazanská (Podunajské Biskupice)",
+    "lat": 48.130773087354,
+    "lng": 17.194544467034,
+    "farba": "green"
   }
 }
