@@ -144,10 +144,10 @@
     "efektivna_cena": 670,
     "datum_str": "27.09.2026",
     "datum_iso": "2026-09-27",
-    "lokalita": "KMEŤOVO (Staré Mesto)",
-    "lat": 48.15498355923,
-    "lng": 17.12141287379,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_194878663": {
     "id": "bazos_194878663",
@@ -324,10 +324,10 @@
     "efektivna_cena": 600,
     "datum_str": "03.10.2026",
     "datum_iso": "2026-10-03",
-    "lokalita": "II Ružinov - Trnávka. Doležalova (Ružinov)",
-    "lat": 48.169992154715,
-    "lng": 17.161690104092,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -519,10 +519,10 @@
     "efektivna_cena": 675,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "II Ružinov - Trnávka. Doležalova (Ružinov)",
-    "lat": 48.169992154715,
-    "lng": 17.161690104092,
-    "farba": "green",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -645,10 +645,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_196094425": {
     "id": "bazos_196094425",
@@ -660,10 +660,10 @@
     "efektivna_cena": 680,
     "datum_str": "03.10.2026",
     "datum_iso": "2026-10-03",
-    "lokalita": "Račianska (Nové Mesto)",
-    "lat": 48.172618620038,
-    "lng": 17.127011468374,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_196105244": {
     "id": "bazos_196105244",
@@ -814,5 +814,20 @@
     "lat": 48.15687,
     "lng": 17.1137209,
     "farba": "orange"
+  },
+  "bazos_196149716": {
+    "id": "bazos_196149716",
+    "zdroj": "Bazoš",
+    "titulok": "🏠 IZBA NA PRENÁJOM – J. Hagaru, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/196149716/izba-na-prenajom-j-hagaru-bratislava.php",
+    "cena_povodna": "360 €",
+    "spolu_cena": "360 €",
+    "efektivna_cena": 360,
+    "datum_str": "03.10.2026",
+    "datum_iso": "2026-10-03",
+    "lokalita": "širšom centra Starého Meste",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   }
 }
