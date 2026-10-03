@@ -234,10 +234,10 @@
     "efektivna_cena": 550,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "HRANIČNÁ (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
+    "farba": "green"
   },
   "bazos_195993760": {
     "id": "bazos_195993760",
@@ -444,10 +444,10 @@
     "efektivna_cena": 480,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "PSČ: 821 05 (Ružinov)",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "tichom prostredí plnom zelene (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
   },
   "bazos_196045258": {
     "id": "bazos_196045258",
@@ -504,10 +504,10 @@
     "efektivna_cena": 690,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "HRANIČNÁ (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
+    "farba": "green"
   },
   "bazos_196049980": {
     "id": "bazos_196049980",
@@ -585,10 +585,10 @@
     "efektivna_cena": 600,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "HRANIČNÁ (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
+    "farba": "green"
   },
   "bazos_196083697": {
     "id": "bazos_196083697",
@@ -600,10 +600,10 @@
     "efektivna_cena": 680,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "PSČ: 821 05",
-    "lat": 48.144834,
-    "lng": 17.1686815,
-    "farba": "orange"
+    "lokalita": "tichom prostredí plnom zelene (Rača)",
+    "lat": 48.211546415,
+    "lng": 17.156279329,
+    "farba": "green"
   },
   "bazos_196077860": {
     "id": "bazos_196077860",
@@ -799,5 +799,20 @@
     "lat": 48.130773087354,
     "lng": 17.194544467034,
     "farba": "green"
+  },
+  "bazos_196148575": {
+    "id": "bazos_196148575",
+    "zdroj": "Bazoš",
+    "titulok": "🏠 Prenájom izby – Jelenia, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/196148575/prenajom-izby-jelenia-bratislava.php",
+    "cena_povodna": "390 €",
+    "spolu_cena": "390 €",
+    "efektivna_cena": 390,
+    "datum_str": "03.10.2026",
+    "datum_iso": "2026-10-03",
+    "lokalita": "PSČ: 811 05 (Staré Mesto)",
+    "lat": 48.15687,
+    "lng": 17.1137209,
+    "farba": "orange"
   }
 }
