@@ -44,21 +44,6 @@
     "lng": 17.0151322,
     "farba": "orange"
   },
-  "bazos_195724582": {
-    "id": "bazos_195724582",
-    "zdroj": "Bazoš",
-    "titulok": "- NOVO VYMALOVANY - NOVO ZARIADENY - 1,5-izbovy - Súmračná -",
-    "odkaz": "https://reality.bazos.sk/inzerat/195724582/novo-vymalovany-novo-zariadeny-15-izbovy-sumracna.php",
-    "cena_povodna": "390 €",
-    "spolu_cena": "390 €",
-    "efektivna_cena": 390,
-    "datum_str": "27.09.2026",
-    "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
-  },
   "bazos_195766551": {
     "id": "bazos_195766551",
     "zdroj": "Bazoš",
@@ -134,21 +119,6 @@
     "lng": 17.1137209,
     "farba": "orange"
   },
-  "bazos_195947905": {
-    "id": "bazos_195947905",
-    "zdroj": "Bazoš",
-    "titulok": "Novy 1-Izbovy byt na Lermontovovej, Staré Mesto",
-    "odkaz": "https://reality.bazos.sk/inzerat/195947905/novy-1-izbovy-byt-na-lermontovovej-stare-mesto.php",
-    "cena_povodna": "670 €",
-    "spolu_cena": "670 €",
-    "efektivna_cena": 670,
-    "datum_str": "27.09.2026",
-    "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
-  },
   "bazos_194878663": {
     "id": "bazos_194878663",
     "zdroj": "Bazoš",
@@ -193,21 +163,6 @@
     "lat": 48.127882377114,
     "lng": 17.118771966787,
     "farba": "green"
-  },
-  "bazos_195960335": {
-    "id": "bazos_195960335",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom veľká izba žena/študentka krásny výhľad Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/195960335/prenajom-velka-izba-zenastudentka-krasny-vyhlad.php",
-    "cena_povodna": "360 €",
-    "spolu_cena": "360 €",
-    "efektivna_cena": 360,
-    "datum_str": "27.09.2026",
-    "datum_iso": "2026-09-27",
-    "lokalita": "PSČ: 841 05",
-    "lat": 48.1550801,
-    "lng": 17.0463776,
-    "farba": "orange"
   },
   "bazos_196001135": {
     "id": "bazos_196001135",
@@ -294,9 +249,9 @@
     "efektivna_cena": 640,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Majerská (Vrakuňa)",
-    "lat": 48.155052434845,
-    "lng": 17.20895623045,
+    "lokalita": "Podzáhradná (Podunajské Biskupice)",
+    "lat": 48.134894052198,
+    "lng": 17.203647148433,
     "farba": "green"
   },
   "bazos_196017655": {
