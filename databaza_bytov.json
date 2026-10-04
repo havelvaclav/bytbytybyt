@@ -99,10 +99,10 @@
     "efektivna_cena": 390,
     "datum_str": "04.10.2026",
     "datum_iso": "2026-10-04",
-    "lokalita": "PSČ: 841 05",
-    "lat": 48.1550801,
-    "lng": 17.0463776,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   },
   "bazos_195890069": {
     "id": "bazos_195890069",
@@ -249,10 +249,10 @@
     "efektivna_cena": 640,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "Podzáhradná (Podunajské Biskupice)",
-    "lat": 48.134894052198,
-    "lng": 17.203647148433,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_196017655": {
     "id": "bazos_196017655",
@@ -399,9 +399,9 @@
     "efektivna_cena": 480,
     "datum_str": "29.09.2026",
     "datum_iso": "2026-09-29",
-    "lokalita": "tichom prostredí plnom zelene (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
+    "lokalita": "HRANIČNÁ (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
     "farba": "green"
   },
   "bazos_196045258": {
@@ -495,7 +495,7 @@
     "efektivna_cena": 700,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -555,9 +555,9 @@
     "efektivna_cena": 680,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "tichom prostredí plnom zelene (Rača)",
-    "lat": 48.211546415,
-    "lng": 17.156279329,
+    "lokalita": "HRANIČNÁ (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
     "farba": "green"
   },
   "bazos_196077860": {
@@ -600,10 +600,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   },
   "bazos_196094425": {
     "id": "bazos_196094425",
@@ -615,10 +615,10 @@
     "efektivna_cena": 680,
     "datum_str": "04.10.2026",
     "datum_iso": "2026-10-04",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   },
   "bazos_196105244": {
     "id": "bazos_196105244",
