@@ -84,10 +84,10 @@
     "efektivna_cena": 680,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
+    "farba": "green"
   },
   "bazos_195888585": {
     "id": "bazos_195888585",
@@ -129,10 +129,10 @@
     "efektivna_cena": 650,
     "datum_str": "04.10.2026",
     "datum_iso": "2026-10-04",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
+    "farba": "green"
   },
   "bazos_195985523": {
     "id": "bazos_195985523",
@@ -204,10 +204,10 @@
     "efektivna_cena": 640,
     "datum_str": "28.09.2026",
     "datum_iso": "2026-09-28",
-    "lokalita": "PSČ: 850 00 (Slnečnice)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
+    "farba": "green"
   },
   "bazos_195989251": {
     "id": "bazos_195989251",
@@ -600,9 +600,9 @@
     "efektivna_cena": 700,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_196094425": {
@@ -615,9 +615,9 @@
     "efektivna_cena": 680,
     "datum_str": "04.10.2026",
     "datum_iso": "2026-10-04",
-    "lokalita": "NOVEJ NOVOSTAVBE OLÍVIA",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
     "farba": "green"
   },
   "bazos_196105244": {
@@ -630,10 +630,10 @@
     "efektivna_cena": 650,
     "datum_str": "02.10.2026",
     "datum_iso": "2026-10-02",
-    "lokalita": "Studenohorská (Lamač)",
-    "lat": 48.193395050247,
-    "lng": 17.052029114928,
-    "farba": "green"
+    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
   },
   "bazos_196103092": {
     "id": "bazos_196103092",
@@ -690,10 +690,10 @@
     "efektivna_cena": 580,
     "datum_str": "02.10.2026",
     "datum_iso": "2026-10-02",
-    "lokalita": "Studenohorská (Lamač)",
-    "lat": 48.193395050247,
-    "lng": 17.052029114928,
-    "farba": "green"
+    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
   },
   "bazos_196114755": {
     "id": "bazos_196114755",
@@ -784,5 +784,20 @@
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "green"
+  },
+  "bazos_196177186": {
+    "id": "bazos_196177186",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 3 izbového bytu v Dúbravke",
+    "odkaz": "https://reality.bazos.sk/inzerat/196177186/prenajom-3-izboveho-bytu-v-dubravke.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "04.10.2026",
+    "datum_iso": "2026-10-04",
+    "lokalita": "PSČ: 841 01",
+    "lat": 48.1845444,
+    "lng": 17.0151322,
+    "farba": "orange"
   }
 }
