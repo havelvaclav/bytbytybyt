@@ -144,7 +144,7 @@
     "efektivna_cena": 600,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Trnávka)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -189,10 +189,10 @@
     "efektivna_cena": 570,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégeho (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_196053234": {
     "id": "bazos_196053234",
@@ -204,9 +204,9 @@
     "efektivna_cena": 690,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Ľudovíta Fullu (Karlova Ves)",
-    "lat": 48.155137240671,
-    "lng": 17.049257856644,
+    "lokalita": "Tilgnerova (Karlova Ves)",
+    "lat": 48.155824236466,
+    "lng": 17.055447987811,
     "farba": "green"
   },
   "bazos_196052613": {
@@ -219,7 +219,7 @@
     "efektivna_cena": 690,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -234,7 +234,7 @@
     "efektivna_cena": 675,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Trnávka)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange",
@@ -255,10 +255,10 @@
     "efektivna_cena": 700,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégeho (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_196048399": {
     "id": "bazos_196048399",
@@ -270,7 +270,7 @@
     "efektivna_cena": 650,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Repašského (Dúbravka)",
+    "lokalita": "Repašského",
     "lat": 48.190027597493,
     "lng": 17.033988830845,
     "farba": "green"
@@ -345,7 +345,7 @@
     "efektivna_cena": 450,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "PSČ: 831 06 (Rača)",
+    "lokalita": "PSČ: 831 06",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -390,7 +390,7 @@
     "efektivna_cena": 650,
     "datum_str": "02.10.2026",
     "datum_iso": "2026-10-02",
-    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lokalita": "PSČ: 841 03 (Bory)",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -435,7 +435,7 @@
     "efektivna_cena": 580,
     "datum_str": "02.10.2026",
     "datum_iso": "2026-10-02",
-    "lokalita": "PSČ: 831 06 (Rača)",
+    "lokalita": "PSČ: 831 06",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -600,10 +600,10 @@
     "efektivna_cena": 390,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jégeho (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
   },
   "bazos_196204469": {
     "id": "bazos_196204469",
@@ -645,7 +645,7 @@
     "efektivna_cena": 520,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -705,10 +705,10 @@
     "efektivna_cena": 700,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 841 04 (Dlhé diely)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
+    "lokalita": "Tilgnerova (Karlova Ves)",
+    "lat": 48.155824236466,
+    "lng": 17.055447987811,
+    "farba": "green"
   },
   "bazos_196211213": {
     "id": "bazos_196211213",
@@ -730,5 +730,80 @@
         "odkaz": "https://reality.bazos.sk/inzerat/196210806/realitna-kancelaria-realadr-sro.php"
       }
     ]
+  },
+  "bazos_196241601": {
+    "id": "bazos_196241601",
+    "zdroj": "Bazoš",
+    "titulok": "Kompletne zariadený 2-izbový byt s veľkou loggiou v novostav",
+    "odkaz": "https://reality.bazos.sk/inzerat/196241601/kompletne-zariadeny-2-izbovy-byt-s-velkou-loggiou-v-novostav.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "Hraničná (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
+    "farba": "green"
+  },
+  "bazos_196241436": {
+    "id": "bazos_196241436",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový byt na prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/196241436/1-izbovy-byt-na-prenajom.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_196238301": {
+    "id": "bazos_196238301",
+    "zdroj": "Bazoš",
+    "titulok": "TICHÝ, PRÍJEMNÝ 1I BYT PRI LÍŠČOM ÚDOLÍ",
+    "odkaz": "https://reality.bazos.sk/inzerat/196238301/tichy-prijemny-1i-byt-pri-liscom-udoli.php",
+    "cena_povodna": "440 €",
+    "spolu_cena": "440 €",
+    "efektivna_cena": 440,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_196234209": {
+    "id": "bazos_196234209",
+    "zdroj": "Bazoš",
+    "titulok": "HALO reality - Prenájom, jednoizbový byt Bratislava Ružinov,",
+    "odkaz": "https://reality.bazos.sk/inzerat/196234209/halo-reality-prenajom-jednoizbovy-byt-bratislava-ruzinov.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "Jégeho (Ružinov)",
+    "lat": 48.157514482581,
+    "lng": 17.136007725436,
+    "farba": "green"
+  },
+  "bazos_196229598": {
+    "id": "bazos_196229598",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby",
+    "odkaz": "https://reality.bazos.sk/inzerat/196229598/prenajom-izby.php",
+    "cena_povodna": "290 €",
+    "spolu_cena": "290 €",
+    "efektivna_cena": 290,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "PSČ: 841 07 (Devínska Nová Ves)",
+    "lat": 48.207205,
+    "lng": 16.9747093,
+    "farba": "orange"
   }
 }
