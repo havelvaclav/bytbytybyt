@@ -9,10 +9,10 @@
     "efektivna_cena": 380,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Garsónka",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   },
   "bazos_195478346": {
     "id": "bazos_195478346",
@@ -24,10 +24,10 @@
     "efektivna_cena": 360,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange"
+    "lokalita": "Garsónka",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   },
   "bazos_195573804": {
     "id": "bazos_195573804",
@@ -62,7 +62,7 @@
   "bazos_195869743": {
     "id": "bazos_195869743",
     "zdroj": "Bazoš",
-    "titulok": "1-izbový zariadený byt na prenájom v Petržalke",
+    "titulok": "= REZERVOVANÝ = 1-izbový zariadený byt na prenájom v Petržal",
     "odkaz": "https://reality.bazos.sk/inzerat/195869743/1-izbovy-zariadeny-byt-na-prenajom-v-petrzalke.php",
     "cena_povodna": "680 €",
     "spolu_cena": "680 €",
@@ -84,10 +84,10 @@
     "efektivna_cena": 390,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Ľudovíta Fullu (Karlova Ves)",
-    "lat": 48.155137240671,
-    "lng": 17.049257856644,
-    "farba": "green"
+    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lat": 48.1550801,
+    "lng": 17.0463776,
+    "farba": "orange"
   },
   "bazos_195890069": {
     "id": "bazos_195890069",
@@ -144,7 +144,7 @@
     "efektivna_cena": 600,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lokalita": "PSČ: 821 04",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -189,10 +189,10 @@
     "efektivna_cena": 570,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Jégeho (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196053234": {
     "id": "bazos_196053234",
@@ -234,7 +234,7 @@
     "efektivna_cena": 675,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lokalita": "PSČ: 821 04",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange",
@@ -255,10 +255,10 @@
     "efektivna_cena": 700,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Jégeho (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ostredky)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196048399": {
     "id": "bazos_196048399",
@@ -270,7 +270,7 @@
     "efektivna_cena": 650,
     "datum_str": "30.09.2026",
     "datum_iso": "2026-09-30",
-    "lokalita": "Repašského",
+    "lokalita": "Repašského (Dúbravka)",
     "lat": 48.190027597493,
     "lng": 17.033988830845,
     "farba": "green"
@@ -360,10 +360,10 @@
     "efektivna_cena": 700,
     "datum_str": "01.10.2026",
     "datum_iso": "2026-10-01",
-    "lokalita": "Šancova (Nové Mesto)",
-    "lat": 48.157548546789,
-    "lng": 17.118400589338,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_196094425": {
     "id": "bazos_196094425",
@@ -375,10 +375,10 @@
     "efektivna_cena": 680,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Šancova (Nové Mesto)",
-    "lat": 48.157548546789,
-    "lng": 17.118400589338,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_196105244": {
     "id": "bazos_196105244",
@@ -390,10 +390,10 @@
     "efektivna_cena": 650,
     "datum_str": "02.10.2026",
     "datum_iso": "2026-10-02",
-    "lokalita": "PSČ: 841 03 (Bory)",
-    "lat": 48.1941432,
-    "lng": 17.0468593,
-    "farba": "orange"
+    "lokalita": "Zlatohorska (Lamač)",
+    "lat": 48.192327764139,
+    "lng": 17.047997633031,
+    "farba": "green"
   },
   "bazos_196103092": {
     "id": "bazos_196103092",
@@ -555,7 +555,7 @@
     "efektivna_cena": 700,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 841 01",
+    "lokalita": "PSČ: 841 01 (Karlova Ves)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -600,10 +600,10 @@
     "efektivna_cena": 390,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "Jégeho (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196204469": {
     "id": "bazos_196204469",
@@ -660,10 +660,10 @@
     "efektivna_cena": 400,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "green"
+    "lokalita": "PSČ: 841 05 (Dlhé diely)",
+    "lat": 48.1550801,
+    "lng": 17.0463776,
+    "farba": "orange"
   },
   "bazos_196202612": {
     "id": "bazos_196202612",
@@ -705,10 +705,10 @@
     "efektivna_cena": 700,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "Tilgnerova (Karlova Ves)",
-    "lat": 48.155824236466,
-    "lng": 17.055447987811,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196211213": {
     "id": "bazos_196211213",
@@ -741,10 +741,10 @@
     "efektivna_cena": 580,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Hraničná (Ružinov)",
-    "lat": 48.1434705,
-    "lng": 17.1604383,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ostredky)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196241436": {
     "id": "bazos_196241436",
@@ -771,7 +771,7 @@
     "efektivna_cena": 440,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 841 04",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -786,10 +786,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Jégeho (Ružinov)",
-    "lat": 48.157514482581,
-    "lng": 17.136007725436,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196229598": {
     "id": "bazos_196229598",
@@ -804,6 +804,81 @@
     "lokalita": "PSČ: 841 07 (Devínska Nová Ves)",
     "lat": 48.207205,
     "lng": 16.9747093,
+    "farba": "orange"
+  },
+  "bazos_196250791": {
+    "id": "bazos_196250791",
+    "zdroj": "Bazoš",
+    "titulok": "2-gar. s Tersou a parkovacim miestom Pod. gaštanmi 3",
+    "odkaz": "https://reality.bazos.sk/inzerat/196250791/2-gar-s-tersou-a-parkovacim-miestom-pod-gastanmi-3.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "PSČ: 821 03",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
+    "farba": "orange"
+  },
+  "bazos_196250669": {
+    "id": "bazos_196250669",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM: Kompletne zariadený, krásny 2-izbový byt s doko",
+    "odkaz": "https://reality.bazos.sk/inzerat/196250669/na-prenajom-kompletne-zariadeny-krasny-2-izbovy-byt-s-doko.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "Tilgnerova (Karlova Ves)",
+    "lat": 48.155824236466,
+    "lng": 17.055447987811,
+    "farba": "green"
+  },
+  "bazos_196248100": {
+    "id": "bazos_196248100",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196248100/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "PSČ: 841 01",
+    "lat": 48.1845444,
+    "lng": 17.0151322,
+    "farba": "orange"
+  },
+  "bazos_196247125": {
+    "id": "bazos_196247125",
+    "zdroj": "Bazoš",
+    "titulok": "NOVOSTAVBA _ 1 izbový byt _ Ovocné sady",
+    "odkaz": "https://reality.bazos.sk/inzerat/196247125/novostavba-1-izbovy-byt-ovocne-sady.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_196243017": {
+    "id": "bazos_196243017",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby – Lamač, Zlatohorská 🏠✨",
+    "odkaz": "https://reality.bazos.sk/inzerat/196243017/prenajom-izby-lamac-zlatohorska.php",
+    "cena_povodna": "425 €",
+    "spolu_cena": "425 €",
+    "efektivna_cena": 425,
+    "datum_str": "06.10.2026",
+    "datum_iso": "2026-10-06",
+    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
     "farba": "orange"
   }
 }
