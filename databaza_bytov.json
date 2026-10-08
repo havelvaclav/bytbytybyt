@@ -39,10 +39,10 @@
     "efektivna_cena": 650,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "Medveďovej (Petržalka)",
-    "lat": 48.123031098998,
-    "lng": 17.131897232261,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_196017655": {
     "id": "bazos_196017655",
@@ -64,9 +64,9 @@
     "zdroj": "Bazoš",
     "titulok": "Realitný kancelária REALADR s.r.o.",
     "odkaz": "https://reality.bazos.sk/inzerat/196016626/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
     "lokalita": "PSČ: 821 04 (Ružinov)",
@@ -99,10 +99,10 @@
     "efektivna_cena": 680,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_196105244": {
     "id": "bazos_196105244",
@@ -309,10 +309,10 @@
     "efektivna_cena": 650,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Jedlíkova (Staré Mesto)",
+    "lat": 48.146574910243,
+    "lng": 17.110420676924,
+    "farba": "green"
   },
   "bazos_196205102": {
     "id": "bazos_196205102",
@@ -465,7 +465,7 @@
     "efektivna_cena": 580,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -480,7 +480,7 @@
     "efektivna_cena": 650,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -495,10 +495,10 @@
     "efektivna_cena": 440,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Beniakova (Karlova Ves)",
-    "lat": 48.157548195025,
-    "lng": 17.04634597239,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196234209": {
     "id": "bazos_196234209",
@@ -555,10 +555,10 @@
     "efektivna_cena": 690,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Karloveská (Karlova Ves)",
-    "lat": 48.157865790134,
-    "lng": 17.052398812612,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196248100": {
     "id": "bazos_196248100",
@@ -675,10 +675,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "Medveďovej (Petržalka)",
-    "lat": 48.123031098998,
-    "lng": 17.131897232261,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_196281177": {
     "id": "bazos_196281177",
@@ -700,9 +700,9 @@
     "zdroj": "Bazoš",
     "titulok": "Na prenájom posteľ v priechodné izbe",
     "odkaz": "https://reality.bazos.sk/inzerat/196279439/na-prenajom-postel-v-priechodne-izbe.php",
-    "cena_povodna": "265 €",
-    "spolu_cena": "265 €",
-    "efektivna_cena": 265,
+    "cena_povodna": "255 €",
+    "spolu_cena": "255 €",
+    "efektivna_cena": 255,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
     "lokalita": "PSČ: 841 04",
@@ -720,7 +720,7 @@
     "efektivna_cena": 400,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "PSČ: 831 01 (Kramáre)",
+    "lokalita": "PSČ: 831 01 (Rača)",
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
@@ -765,10 +765,10 @@
     "efektivna_cena": 480,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Ostredková (Ružinov)",
-    "lat": 48.161137257871,
-    "lng": 17.169957685388,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196302210": {
     "id": "bazos_196302210",
@@ -780,7 +780,7 @@
     "efektivna_cena": 590,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 841 03 (Karlova Ves)",
+    "lokalita": "PSČ: 841 03 (Lamač)",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -795,7 +795,7 @@
     "efektivna_cena": 700,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Ostredková (Ružinov)",
+    "lokalita": "Ostredková",
     "lat": 48.161137257871,
     "lng": 17.169957685388,
     "farba": "green"
@@ -843,6 +843,132 @@
     "lokalita": "PSČ: 901 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_196315219": {
+    "id": "bazos_196315219",
+    "zdroj": "Bazoš",
+    "titulok": "2i byt Prenájom _ Podunajské Biskupice",
+    "odkaz": "https://reality.bazos.sk/inzerat/196315219/2i-byt-prenajom-podunajske-biskupice.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_196313255": {
+    "id": "bazos_196313255",
+    "zdroj": "Bazoš",
+    "titulok": "- NOVO ZARIADENY - samostatná spálňa - 1,5 izbovy - Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196313255/novo-zariadeny-samostatna-spalna-15-izbovy-ruzinov.php",
+    "cena_povodna": "430 €",
+    "spolu_cena": "430 €",
+    "efektivna_cena": 430,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "Zariadený (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
+  },
+  "bazos_196311401": {
+    "id": "bazos_196311401",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196311401/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 831 01 (Nové Mesto)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196311369/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
+  },
+  "bazos_196308876": {
+    "id": "bazos_196308876",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Moderný 2 izbový byt s loggiou a parkovaním – Geolog",
+    "odkaz": "https://reality.bazos.sk/inzerat/196308876/bosen-moderny-2-izbovy-byt-s-loggiou-a-parkovanim-geolog.php",
+    "cena_povodna": "569 €",
+    "spolu_cena": "569 €",
+    "efektivna_cena": 569,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
+  },
+  "bazos_196308809": {
+    "id": "bazos_196308809",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | 2-izbový byt, BA II. LODŽIA, P. Biskupice, Bielo",
+    "odkaz": "https://reality.bazos.sk/inzerat/196308809/axis-real-2-izbovy-byt-ba-ii-lodzia-p-biskupice-bielo.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
+  },
+  "bazos_196305707": {
+    "id": "bazos_196305707",
+    "zdroj": "Bazoš",
+    "titulok": "TOP novostavba BOOMERANG: Prémiové bývanie s loggiou a krytý",
+    "odkaz": "https://reality.bazos.sk/inzerat/196305707/top-novostavba-boomerang-premiove-byvanie-s-loggiou-a-kryty.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_196303340": {
+    "id": "bazos_196303340",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | 2-IZBOVÝ BYT 44 m² S BALKÓNOM | STARÉ GRUNTY",
+    "odkaz": "https://reality.bazos.sk/inzerat/196303340/prenajom-2-izbovy-byt-44-m-s-balkonom-stare-grunty.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_196303262": {
+    "id": "bazos_196303262",
+    "zdroj": "Bazoš",
+    "titulok": "NANDU - prenájom 1i bytu s balkónom v URBAN RESIDENCE, Račia",
+    "odkaz": "https://reality.bazos.sk/inzerat/196303262/nandu-prenajom-1i-bytu-s-balkonom-v-urban-residence-racia.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 831 02",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
     "farba": "orange"
   }
 }
