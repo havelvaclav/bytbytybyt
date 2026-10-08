@@ -39,9 +39,9 @@
     "efektivna_cena": 650,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "Piflfova (Petržalka)",
-    "lat": 48.127220521225,
-    "lng": 17.107801682162,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green"
   },
   "bazos_196017655": {
@@ -99,10 +99,10 @@
     "efektivna_cena": 680,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Vlárska (Nové Mesto)",
-    "lat": 48.169775121307,
-    "lng": 17.091140193192,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_196105244": {
     "id": "bazos_196105244",
@@ -114,7 +114,7 @@
     "efektivna_cena": 650,
     "datum_str": "02.10.2026",
     "datum_iso": "2026-10-02",
-    "lokalita": "PSČ: 841 03 (Karlova Ves)",
+    "lokalita": "PSČ: 841 03 (Lamač)",
     "lat": 48.1941432,
     "lng": 17.0468593,
     "farba": "orange"
@@ -279,7 +279,7 @@
     "efektivna_cena": 700,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 841 01 (Dúbravka)",
+    "lokalita": "PSČ: 841 01 (Karlova Ves)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -339,7 +339,7 @@
     "efektivna_cena": 525,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 851 01 (Slnečnice)",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -465,10 +465,10 @@
     "efektivna_cena": 580,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Exnárova (Ružinov)",
-    "lat": 48.15720950711,
-    "lng": 17.173401999749,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196241436": {
     "id": "bazos_196241436",
@@ -480,10 +480,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "VRAKUŇA (Vrakuňa)",
-    "lat": 48.146214642,
-    "lng": 17.207109944,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_196238301": {
     "id": "bazos_196238301",
@@ -510,10 +510,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Exnárova (Ružinov)",
-    "lat": 48.15720950711,
-    "lng": 17.173401999749,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196229598": {
     "id": "bazos_196229598",
@@ -675,10 +675,10 @@
     "efektivna_cena": 700,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "PSČ: 850 00 (Petržalka)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
+    "farba": "green"
   },
   "bazos_196281177": {
     "id": "bazos_196281177",
@@ -690,10 +690,10 @@
     "efektivna_cena": 400,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Jakubovo (Staré Mesto)",
+    "lat": 48.143356247308,
+    "lng": 17.120245993702,
+    "farba": "green"
   },
   "bazos_196279439": {
     "id": "bazos_196279439",
@@ -754,5 +754,95 @@
     "lat": 48.152388204809,
     "lng": 17.076725032113,
     "farba": "green"
+  },
+  "bazos_196302248": {
+    "id": "bazos_196302248",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | Krásny 2i byt, LODŽIA, AVION, BA II. Ružinov, Me",
+    "odkaz": "https://reality.bazos.sk/inzerat/196302248/axis-real-krasny-2i-byt-lodzia-avion-ba-ii-ruzinov-me.php",
+    "cena_povodna": "480 €",
+    "spolu_cena": "480 €",
+    "efektivna_cena": 480,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "Ostredková (Ružinov)",
+    "lat": 48.161137257871,
+    "lng": 17.169957685388,
+    "farba": "green"
+  },
+  "bazos_196302210": {
+    "id": "bazos_196302210",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | 1izb. byt, TEHLA, Internet, BA Lamač, Malokarpat",
+    "odkaz": "https://reality.bazos.sk/inzerat/196302210/axis-real-1izb-byt-tehla-internet-ba-lamac-malokarpat.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 841 03 (Karlova Ves)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
+  },
+  "bazos_196301716": {
+    "id": "bazos_196301716",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekný 1,5 izbový byt, Ostredková ulica, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/196301716/prenajom-pekny-15-izbovy-byt-ostredkova-ulica-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "Ostredková (Ružinov)",
+    "lat": 48.161137257871,
+    "lng": 17.169957685388,
+    "farba": "green"
+  },
+  "bazos_196300009": {
+    "id": "bazos_196300009",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1-izbový byt + kuchyňa 44 m2, BA – Ružinov.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196300009/prenajom-1-izbovy-byt-kuchyna-44-m2-ba-ruzinov.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_196299270": {
+    "id": "bazos_196299270",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196299270/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_196298385": {
+    "id": "bazos_196298385",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Na prenájom 2i byt s klimatizáciou Malacky centrum",
+    "odkaz": "https://reality.bazos.sk/inzerat/196298385/bosen-na-prenajom-2i-byt-s-klimatizaciou-malacky-centrum.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "PSČ: 901 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
   }
 }
