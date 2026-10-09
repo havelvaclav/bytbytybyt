@@ -54,10 +54,10 @@
     "efektivna_cena": 700,
     "datum_str": "09.10.2026",
     "datum_iso": "2026-10-09",
-    "lokalita": "A.Mráza (Ružinov)",
-    "lat": 48.155430932906,
-    "lng": 17.169688811903,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -84,10 +84,10 @@
     "efektivna_cena": 680,
     "datum_str": "09.10.2026",
     "datum_iso": "2026-10-09",
-    "lokalita": "Bajkalská",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_196140545": {
     "id": "bazos_196140545",
@@ -189,10 +189,10 @@
     "efektivna_cena": 650,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "Jedlíkova (Staré Mesto)",
-    "lat": 48.146574910243,
-    "lng": 17.110420676924,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_196205102": {
     "id": "bazos_196205102",
@@ -390,10 +390,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Hraničná (Ružinov)",
+    "lat": 48.1434705,
+    "lng": 17.1604383,
+    "farba": "green"
   },
   "bazos_196229598": {
     "id": "bazos_196229598",
@@ -465,10 +465,10 @@
     "efektivna_cena": 600,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "A.Mráza (Ružinov)",
-    "lat": 48.155430932906,
-    "lng": 17.169688811903,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "bazos_196243017": {
     "id": "bazos_196243017",
@@ -675,7 +675,7 @@
     "efektivna_cena": 700,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Ostredková",
+    "lokalita": "Ostredková (Ružinov)",
     "lat": 48.161137257871,
     "lng": 17.169957685388,
     "farba": "green"
@@ -765,10 +765,10 @@
     "efektivna_cena": 679,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 831 01 (Nové Mesto)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange",
+    "lokalita": "Bajkalská (Nové Mesto)",
+    "lat": 48.163396589759,
+    "lng": 17.138817952977,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -786,10 +786,10 @@
     "efektivna_cena": 569,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Špaldová (Podunajské Biskupice)",
-    "lat": 48.137809971686,
-    "lng": 17.192126050137,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_196308809": {
     "id": "bazos_196308809",
@@ -801,10 +801,10 @@
     "efektivna_cena": 450,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Špaldová (Podunajské Biskupice)",
-    "lat": 48.137809971686,
-    "lng": 17.192126050137,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_196305707": {
     "id": "bazos_196305707",
@@ -879,6 +879,51 @@
     "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_196342490": {
+    "id": "bazos_196342490",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM: MODERNÝ PRIESTOR S PARKOVANÍM, BRATISLAVA-N.MESTO",
+    "odkaz": "https://reality.bazos.sk/inzerat/196342490/prenajom-moderny-priestor-s-parkovanim-bratislava-nmesto.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "09.10.2026",
+    "datum_iso": "2026-10-09",
+    "lokalita": "Bajkalská",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
+  },
+  "bazos_196337692": {
+    "id": "bazos_196337692",
+    "zdroj": "Bazoš",
+    "titulok": "1,5-izbový byt na prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/196337692/15-izbovy-byt-na-prenajom.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "09.10.2026",
+    "datum_iso": "2026-10-09",
+    "lokalita": "PSČ: 851 06",
+    "lat": 48.1012697,
+    "lng": 17.1078028,
+    "farba": "orange"
+  },
+  "bazos_196335504": {
+    "id": "bazos_196335504",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
+    "odkaz": "https://reality.bazos.sk/inzerat/196335504/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "09.10.2026",
+    "datum_iso": "2026-10-09",
+    "lokalita": "PSČ: 900 41",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "orange"
   }
 }
