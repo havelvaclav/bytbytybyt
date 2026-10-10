@@ -174,7 +174,7 @@
     "efektivna_cena": 525,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -234,10 +234,10 @@
     "efektivna_cena": 700,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 811 06 (Staré Mesto)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
+    "lokalita": "1. mája (Staré Mesto)",
+    "lat": 48.149953072021,
+    "lng": 17.110730342667,
+    "farba": "green"
   },
   "bazos_196220575": {
     "id": "bazos_196220575",
@@ -315,7 +315,7 @@
     "efektivna_cena": 650,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -390,7 +390,7 @@
     "efektivna_cena": 690,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 841 04 (Dlhé diely)",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -495,10 +495,10 @@
     "efektivna_cena": 650,
     "datum_str": "10.10.2026",
     "datum_iso": "2026-10-10",
-    "lokalita": "PSČ: 811 06 (Staré Mesto)",
-    "lat": 48.1486616,
-    "lng": 17.108133,
-    "farba": "orange"
+    "lokalita": "1. mája (Staré Mesto)",
+    "lat": 48.149953072021,
+    "lng": 17.110730342667,
+    "farba": "green"
   },
   "bazos_196283956": {
     "id": "bazos_196283956",
@@ -690,7 +690,7 @@
     "efektivna_cena": 600,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lokalita": "PSČ: 821 07 (Podunajské Biskupice)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -771,7 +771,7 @@
     "efektivna_cena": 650,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 841 04 (Dlhé diely)",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -786,7 +786,7 @@
     "efektivna_cena": 670,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 841 04 (Dlhé diely)",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -801,10 +801,10 @@
     "efektivna_cena": 550,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 831 02",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Bajkalská (Ružinov)",
+    "lat": 48.15369764353,
+    "lng": 17.146863325345,
+    "farba": "green"
   },
   "bazos_196316490": {
     "id": "bazos_196316490",
