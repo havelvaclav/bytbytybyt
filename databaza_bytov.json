@@ -49,14 +49,14 @@
     "zdroj": "Bazoš",
     "titulok": "Realitný kancelária REALADR s.r.o.",
     "odkaz": "https://reality.bazos.sk/inzerat/196016626/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 821 04 (Ružinov)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
     "farba": "orange"
   },
   "bazos_196018972": {
@@ -84,7 +84,7 @@
     "efektivna_cena": 680,
     "datum_str": "09.10.2026",
     "datum_iso": "2026-10-09",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -144,10 +144,10 @@
     "efektivna_cena": 650,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "Kozia (Staré Mesto)",
-    "lat": 48.146895989264,
-    "lng": 17.102409317165,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_196205102": {
     "id": "bazos_196205102",
@@ -174,7 +174,7 @@
     "efektivna_cena": 525,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lokalita": "PSČ: 851 01",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -420,10 +420,10 @@
     "efektivna_cena": 600,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 04 (Ružinov)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
+    "lokalita": "Exnárova (Ružinov)",
+    "lat": 48.15720950711,
+    "lng": 17.173401999749,
+    "farba": "green"
   },
   "bazos_196243017": {
     "id": "bazos_196243017",
@@ -555,10 +555,10 @@
     "efektivna_cena": 400,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "PSČ: 831 01 (Rača)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
+    "lokalita": "Športová (Nové Mesto)",
+    "lat": 48.160845821405,
+    "lng": 17.132819681979,
+    "farba": "green"
   },
   "bazos_196276018": {
     "id": "bazos_196276018",
@@ -675,10 +675,10 @@
     "efektivna_cena": 600,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 901 01",
+    "lokalita": "Pavla Hallona",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "orange"
+    "farba": "green"
   },
   "bazos_196315219": {
     "id": "bazos_196315219",
@@ -741,7 +741,7 @@
     "efektivna_cena": 569,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lokalita": "PSČ: 821 06 (Prievoz)",
     "lat": 48.1251898,
     "lng": 17.2111499,
     "farba": "orange"
@@ -756,7 +756,7 @@
     "efektivna_cena": 450,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lokalita": "PSČ: 821 06 (Prievoz)",
     "lat": 48.1251898,
     "lng": 17.2111499,
     "farba": "orange"
@@ -846,10 +846,10 @@
     "efektivna_cena": 650,
     "datum_str": "09.10.2026",
     "datum_iso": "2026-10-09",
-    "lokalita": "Bajkalská",
-    "lat": 48.15369764353,
-    "lng": 17.146863325345,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_196337692": {
     "id": "bazos_196337692",
@@ -906,9 +906,9 @@
     "efektivna_cena": 679,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "Bajkalská (Nové Mesto)",
-    "lat": 48.163396589759,
-    "lng": 17.138817952977,
+    "lokalita": "Športová (Nové Mesto)",
+    "lat": 48.160845821405,
+    "lng": 17.132819681979,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -916,5 +916,80 @@
         "odkaz": "https://reality.bazos.sk/inzerat/196311369/realitny-kancelaria-realadr-sro.php"
       }
     ]
+  },
+  "bazos_196402528": {
+    "id": "bazos_196402528",
+    "zdroj": "Bazoš",
+    "titulok": "Garzonka 520€ vrátané energií",
+    "odkaz": "https://reality.bazos.sk/inzerat/196402528/garzonka-520e-vratane-energii.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "11.10.2026",
+    "datum_iso": "2026-10-11",
+    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
+  },
+  "bazos_196400261": {
+    "id": "bazos_196400261",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby v 4-izbovom dome – Bratislava Lamač",
+    "odkaz": "https://reality.bazos.sk/inzerat/196400261/prenajom-izby-v-4-izbovom-dome-bratislava-lamac.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "11.10.2026",
+    "datum_iso": "2026-10-11",
+    "lokalita": "PSČ: 841 03 (Lamač)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
+    "farba": "orange"
+  },
+  "bazos_196400053": {
+    "id": "bazos_196400053",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196400053/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "11.10.2026",
+    "datum_iso": "2026-10-11",
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_196399133": {
+    "id": "bazos_196399133",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196399133/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "11.10.2026",
+    "datum_iso": "2026-10-11",
+    "lokalita": "PSČ: 831 01 (Kramáre)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
+  },
+  "bazos_195665430": {
+    "id": "bazos_195665430",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom pekný 3-izbový byt Kuklovská ulica, pri lese",
+    "odkaz": "https://reality.bazos.sk/inzerat/195665430/pekny-3i-byt-na-prenajom-na-kuklovskej-ulici-pri-lese.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "08.10.2026",
+    "datum_iso": "2026-10-08",
+    "lokalita": "pri lese (Karlova Ves)",
+    "lat": 48.155154322,
+    "lng": 17.055170079,
+    "farba": "green"
   }
 }
