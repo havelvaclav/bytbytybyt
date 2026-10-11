@@ -54,7 +54,7 @@
     "efektivna_cena": 700,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -144,10 +144,10 @@
     "efektivna_cena": 650,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "Kozia (Staré Mesto)",
+    "lat": 48.146895989264,
+    "lng": 17.102409317165,
+    "farba": "green"
   },
   "bazos_196205102": {
     "id": "bazos_196205102",
@@ -174,7 +174,7 @@
     "efektivna_cena": 525,
     "datum_str": "05.10.2026",
     "datum_iso": "2026-10-05",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -300,7 +300,7 @@
     "efektivna_cena": 580,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -345,10 +345,10 @@
     "efektivna_cena": 650,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Hraničná (Ružinov)",
-    "lat": 48.1434705,
-    "lng": 17.1604383,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196229598": {
     "id": "bazos_196229598",
@@ -420,7 +420,7 @@
     "efektivna_cena": 600,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -555,7 +555,7 @@
     "efektivna_cena": 400,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "PSČ: 831 01",
+    "lokalita": "PSČ: 831 01 (Rača)",
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
@@ -741,10 +741,10 @@
     "efektivna_cena": 569,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Špaldová (Podunajské Biskupice)",
-    "lat": 48.137809971686,
-    "lng": 17.192126050137,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_196308809": {
     "id": "bazos_196308809",
@@ -756,10 +756,10 @@
     "efektivna_cena": 450,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Závodná",
-    "lat": 48.134123464907,
-    "lng": 17.188341387649,
-    "farba": "green"
+    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
   },
   "bazos_196305707": {
     "id": "bazos_196305707",
@@ -895,5 +895,26 @@
     "lat": 48.0995306,
     "lng": 17.1308633,
     "farba": "orange"
+  },
+  "bazos_196395836": {
+    "id": "bazos_196395836",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196395836/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "11.10.2026",
+    "datum_iso": "2026-10-11",
+    "lokalita": "Bajkalská (Nové Mesto)",
+    "lat": 48.163396589759,
+    "lng": 17.138817952977,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196311369/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
   }
 }
