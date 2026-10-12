@@ -39,10 +39,10 @@
     "efektivna_cena": 520,
     "datum_str": "12.10.2026",
     "datum_iso": "2026-10-12",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Vyšehradská (Petržalka)",
+    "lat": 48.097064913802,
+    "lng": 17.102789995248,
+    "farba": "green"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -84,7 +84,7 @@
     "efektivna_cena": 700,
     "datum_str": "12.10.2026",
     "datum_iso": "2026-10-12",
-    "lokalita": "PSČ: 841 01 (Karlova Ves)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -99,10 +99,10 @@
     "efektivna_cena": 580,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Čapkova (Staré Mesto)",
+    "lat": 48.15692093803,
+    "lng": 17.102577000236,
+    "farba": "green"
   },
   "bazos_196241436": {
     "id": "bazos_196241436",
@@ -114,7 +114,7 @@
     "efektivna_cena": 650,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Ružinov)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -189,10 +189,10 @@
     "efektivna_cena": 690,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Púpavová (Karlova Ves)",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196248100": {
     "id": "bazos_196248100",
@@ -219,10 +219,10 @@
     "efektivna_cena": 600,
     "datum_str": "06.10.2026",
     "datum_iso": "2026-10-06",
-    "lokalita": "Exnárova (Ružinov)",
-    "lat": 48.15720950711,
-    "lng": 17.173401999749,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04 (Vrakuňa)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "bazos_196243017": {
     "id": "bazos_196243017",
@@ -294,10 +294,10 @@
     "efektivna_cena": 650,
     "datum_str": "12.10.2026",
     "datum_iso": "2026-10-12",
-    "lokalita": "1. mája (Staré Mesto)",
-    "lat": 48.149953072021,
-    "lng": 17.110730342667,
-    "farba": "green"
+    "lokalita": "PSČ: 811 06 (Staré Mesto)",
+    "lat": 48.1486616,
+    "lng": 17.108133,
+    "farba": "orange"
   },
   "bazos_196283956": {
     "id": "bazos_196283956",
@@ -339,7 +339,7 @@
     "efektivna_cena": 255,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "PSČ: 841 04",
+    "lokalita": "PSČ: 841 04 (Lamač)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -354,10 +354,10 @@
     "efektivna_cena": 400,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "Športová (Nové Mesto)",
-    "lat": 48.160845821405,
-    "lng": 17.132819681979,
-    "farba": "green"
+    "lokalita": "PSČ: 831 01 (Lamač)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
   },
   "bazos_196276018": {
     "id": "bazos_196276018",
@@ -384,9 +384,9 @@
     "efektivna_cena": 650,
     "datum_str": "07.10.2026",
     "datum_iso": "2026-10-07",
-    "lokalita": "veľkého 2-izb. bytu - Drobného (Karlova Ves)",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
+    "lokalita": "veľkého 2-izb. bytu - Drobného (Dúbravka)",
+    "lat": 48.192354949215,
+    "lng": 17.041376315138,
     "farba": "green"
   },
   "bazos_196302248": {
@@ -429,9 +429,9 @@
     "efektivna_cena": 700,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Ostredková (Ružinov)",
-    "lat": 48.161137257871,
-    "lng": 17.169957685388,
+    "lokalita": "Ostredková (Dúbravka)",
+    "lat": 48.180915699,
+    "lng": 17.044989933,
     "farba": "green"
   },
   "bazos_196300009": {
@@ -474,9 +474,9 @@
     "efektivna_cena": 600,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Pavla Hallona",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
+    "lokalita": "Slávičie údolie 104 (Staré Mesto)",
+    "lat": 48.153756888655,
+    "lng": 17.078494009133,
     "farba": "green"
   },
   "bazos_196315219": {
@@ -540,10 +540,10 @@
     "efektivna_cena": 569,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 821 06 (Prievoz)",
-    "lat": 48.1251898,
-    "lng": 17.2111499,
-    "farba": "orange"
+    "lokalita": "Zuzany Chalupovej (Petržalka)",
+    "lat": 48.093699612055,
+    "lng": 17.115446368023,
+    "farba": "green"
   },
   "bazos_196308809": {
     "id": "bazos_196308809",
@@ -555,7 +555,7 @@
     "efektivna_cena": 450,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 821 06 (Prievoz)",
+    "lokalita": "PSČ: 821 06 (Nové Mesto)",
     "lat": 48.1251898,
     "lng": 17.2111499,
     "farba": "orange"
@@ -570,10 +570,10 @@
     "efektivna_cena": 650,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Púpavová (Karlova Ves)",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196303340": {
     "id": "bazos_196303340",
@@ -585,10 +585,10 @@
     "efektivna_cena": 670,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "Púpavová (Karlova Ves)",
-    "lat": 48.165348687527,
-    "lng": 17.049450390173,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Staré Mesto)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196303262": {
     "id": "bazos_196303262",
@@ -600,7 +600,7 @@
     "efektivna_cena": 550,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 831 02",
+    "lokalita": "PSČ: 831 02 (Staré Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -615,7 +615,7 @@
     "efektivna_cena": 255,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 811 01",
+    "lokalita": "PSČ: 811 01 (Lamač)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -630,7 +630,7 @@
     "efektivna_cena": 245,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "PSČ: 831 06 (Rača)",
+    "lokalita": "PSČ: 831 06 (Lamač)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -705,9 +705,9 @@
     "efektivna_cena": 679,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "Športová (Nové Mesto)",
-    "lat": 48.160845821405,
-    "lng": 17.132819681979,
+    "lokalita": "Vyšehradská (Petržalka)",
+    "lat": 48.097064913802,
+    "lng": 17.102789995248,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -726,7 +726,7 @@
     "efektivna_cena": 520,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 821 06 (Podunajské Biskupice)",
+    "lokalita": "PSČ: 821 06 (Prievoz)",
     "lat": 48.1251898,
     "lng": 17.2111499,
     "farba": "orange"
@@ -741,10 +741,10 @@
     "efektivna_cena": 400,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 841 03 (Lamač)",
-    "lat": 48.1941432,
-    "lng": 17.0468593,
-    "farba": "orange"
+    "lokalita": "Jelenia (Staré Mesto)",
+    "lat": 48.157144423691,
+    "lng": 17.111169517839,
+    "farba": "green"
   },
   "bazos_196400053": {
     "id": "bazos_196400053",
@@ -756,10 +756,10 @@
     "efektivna_cena": 600,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 851 01",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Lachova (Petržalka)",
+    "lat": 48.12454985994,
+    "lng": 17.11799029509,
+    "farba": "green"
   },
   "bazos_196399133": {
     "id": "bazos_196399133",
@@ -771,10 +771,10 @@
     "efektivna_cena": 500,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 831 01 (Kramáre)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
+    "lokalita": "Vyšehradská (Petržalka)",
+    "lat": 48.097064913802,
+    "lng": 17.102789995248,
+    "farba": "green"
   },
   "bazos_195665430": {
     "id": "bazos_195665430",
@@ -786,9 +786,84 @@
     "efektivna_cena": 620,
     "datum_str": "08.10.2026",
     "datum_iso": "2026-10-08",
-    "lokalita": "pri lese (Karlova Ves)",
-    "lat": 48.155154322,
-    "lng": 17.055170079,
+    "lokalita": "pri lese (Dúbravka)",
+    "lat": 48.180915699,
+    "lng": 17.044989933,
+    "farba": "green"
+  },
+  "bazos_196429571": {
+    "id": "bazos_196429571",
+    "zdroj": "Bazoš",
+    "titulok": "Krátkodobý prenájom 2 iz. byt, Závodná ul., Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/196429571/kratkodoby-prenajom-2-iz-byt-zavodna-ul-bratislava.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "12.10.2026",
+    "datum_iso": "2026-10-12",
+    "lokalita": "Závodná",
+    "lat": 48.134123464907,
+    "lng": 17.188341387649,
+    "farba": "green"
+  },
+  "bazos_196429272": {
+    "id": "bazos_196429272",
+    "zdroj": "Bazoš",
+    "titulok": "Veľký 1i byt v BA – Ružinov, Vlčie Hrdlo, lodžia, klíma",
+    "odkaz": "https://reality.bazos.sk/inzerat/196429272/velky-1i-byt-v-ba-ruzinov-vlcie-hrdlo-lodzia-klima.php",
+    "cena_povodna": "420 €",
+    "spolu_cena": "420 €",
+    "efektivna_cena": 420,
+    "datum_str": "12.10.2026",
+    "datum_iso": "2026-10-12",
+    "lokalita": "Bratislavská (Ružinov)",
+    "lat": 48.14783,
+    "lng": 17.17344,
+    "farba": "green"
+  },
+  "bazos_196428897": {
+    "id": "bazos_196428897",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom kancelárie / 23 m2 / po rek. v Hoteli Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/196428897/prenajom-kancelarie-23-m2-po-rek-v-hoteli-bratislava.php",
+    "cena_povodna": "390 €",
+    "spolu_cena": "390 €",
+    "efektivna_cena": 390,
+    "datum_str": "12.10.2026",
+    "datum_iso": "2026-10-12",
+    "lokalita": "PSČ: 821 03",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
+    "farba": "orange"
+  },
+  "bazos_196428603": {
+    "id": "bazos_196428603",
+    "zdroj": "Bazoš",
+    "titulok": "TICHÝ, PRÍJEMNÝ 1I BYT PRI LÍŠČOM ÚDOLÍ",
+    "odkaz": "https://reality.bazos.sk/inzerat/196428603/tichy-prijemny-1i-byt-pri-liscom-udoli.php",
+    "cena_povodna": "440 €",
+    "spolu_cena": "440 €",
+    "efektivna_cena": 440,
+    "datum_str": "12.10.2026",
+    "datum_iso": "2026-10-12",
+    "lokalita": "Homolova (Dúbravka)",
+    "lat": 48.195028109868,
+    "lng": 17.027344876468,
+    "farba": "green"
+  },
+  "bazos_196424566": {
+    "id": "bazos_196424566",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196424566/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "12.10.2026",
+    "datum_iso": "2026-10-12",
+    "lokalita": "Juraja Kréna (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green"
   }
 }
