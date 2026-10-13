@@ -257,7 +257,7 @@
   "bazos_196302210": {
     "id": "bazos_196302210",
     "zdroj": "Bazoš",
-    "titulok": "AXIS REAL | 1izb. byt, TEHLA, Internet, BA Lamač, Malokarpat",
+    "titulok": "AXIS REAL | 1izbový byt, tehla, internet, BA Lamač, Malokarp",
     "odkaz": "https://reality.bazos.sk/inzerat/196302210/axis-real-1izb-byt-tehla-internet-ba-lamac-malokarpat.php",
     "cena_povodna": "590 €",
     "spolu_cena": "590 €",
@@ -704,7 +704,7 @@
   "bazos_196424566": {
     "id": "bazos_196424566",
     "zdroj": "Bazoš",
-    "titulok": "Prenájom 2-izbový byt, Svidnícka-Ružinov",
+    "titulok": "REZERVOVANÉ  2-izbový byt, Svidnícka-Ružinov",
     "odkaz": "https://reality.bazos.sk/inzerat/196424566/prenajom-2-izbovy-byt-svidnicka-ruzinov.php",
     "cena_povodna": "570 €",
     "spolu_cena": "570 €",
@@ -741,7 +741,7 @@
     "efektivna_cena": 550,
     "datum_str": "12.10.2026",
     "datum_iso": "2026-10-12",
-    "lokalita": "PSČ: 841 07 (Ružinov)",
+    "lokalita": "PSČ: 841 07",
     "lat": 48.207205,
     "lng": 16.9747093,
     "farba": "orange"
@@ -865,5 +865,50 @@
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
+  },
+  "bazos_196469687": {
+    "id": "bazos_196469687",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Klimatizovaný 2kk byt v novostavbe Slnečnice - Mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/196469687/bosen-klimatizovany-2kk-byt-v-novostavbe-slnecnice-mesto.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "13.10.2026",
+    "datum_iso": "2026-10-13",
+    "lokalita": "Geologická (Podunajské Biskupice)",
+    "lat": 48.139416988262,
+    "lng": 17.195618700793,
+    "farba": "green"
+  },
+  "bazos_196469108": {
+    "id": "bazos_196469108",
+    "zdroj": "Bazoš",
+    "titulok": "Hľadá sa spolubývajúca (dievča) do izby - Bratislava Ružino",
+    "odkaz": "https://reality.bazos.sk/inzerat/196469108/hlada-sa-spolubyvajuca-dievca-do-izby-bratislava-ruzino.php",
+    "cena_povodna": "300 €",
+    "spolu_cena": "300 €",
+    "efektivna_cena": 300,
+    "datum_str": "13.10.2026",
+    "datum_iso": "2026-10-13",
+    "lokalita": "PSČ: 821 03 (Ružinov)",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
+    "farba": "orange"
+  },
+  "bazos_196438992": {
+    "id": "bazos_196438992",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbového bytu s lodžiou – Ružinov, ulica Polárna",
+    "odkaz": "https://reality.bazos.sk/inzerat/196438992/prenajom-2-izboveho-bytu-s-lodziou-ruzinov-ulica-polarna.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "12.10.2026",
+    "datum_iso": "2026-10-12",
+    "lokalita": "Polárna (Ružinov)",
+    "lat": 48.159822737048,
+    "lng": 17.172274681068,
+    "farba": "green"
   }
 }
