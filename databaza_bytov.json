@@ -39,10 +39,10 @@
     "efektivna_cena": 520,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "Lachova (Petržalka)",
-    "lat": 48.12454985994,
-    "lng": 17.11799029509,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Staré Mesto)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -84,7 +84,7 @@
     "efektivna_cena": 700,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "PSČ: 841 01 (Dúbravka)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -420,10 +420,10 @@
     "efektivna_cena": 679,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "Lachova (Petržalka)",
-    "lat": 48.12454985994,
-    "lng": 17.11799029509,
-    "farba": "green",
+    "lokalita": "PSČ: 831 01 (Staré Mesto)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -471,10 +471,10 @@
     "efektivna_cena": 600,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "Lachova (Petržalka)",
-    "lat": 48.12454985994,
-    "lng": 17.11799029509,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Staré Mesto)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_196399133": {
     "id": "bazos_196399133",
@@ -591,7 +591,7 @@
     "efektivna_cena": 700,
     "datum_str": "12.10.2026",
     "datum_iso": "2026-10-12",
-    "lokalita": "PSČ: 821 01 (Ostredky)",
+    "lokalita": "PSČ: 821 01 (Nové Mesto)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -666,9 +666,9 @@
     "efektivna_cena": 670,
     "datum_str": "10.10.2026",
     "datum_iso": "2026-10-10",
-    "lokalita": "Tilgnerova (Karlova Ves)",
-    "lat": 48.155824236466,
-    "lng": 17.055447987811,
+    "lokalita": "Garsónka (Karlova Ves)",
+    "lat": 48.155154322,
+    "lng": 17.055170079,
     "farba": "green"
   },
   "bazos_196449881": {
@@ -834,6 +834,72 @@
     "lokalita": "PSČ: 841 01 (Karlova Ves)",
     "lat": 48.1845444,
     "lng": 17.0151322,
+    "farba": "orange"
+  },
+  "bazos_196502603": {
+    "id": "bazos_196502603",
+    "zdroj": "Bazoš",
+    "titulok": "PRÍJEMNÝ 1i BYT PRI LÍŠČOM ÚDOLÍ – KARLOVA VES",
+    "odkaz": "https://reality.bazos.sk/inzerat/196502603/prijemny-1i-byt-pri-liscom-udoli-karlova-ves.php",
+    "cena_povodna": "440 €",
+    "spolu_cena": "440 €",
+    "efektivna_cena": 440,
+    "datum_str": "14.10.2026",
+    "datum_iso": "2026-10-14",
+    "lokalita": "Tilgnerova (Karlova Ves)",
+    "lat": 48.155824236466,
+    "lng": 17.055447987811,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196502544/prijemny-1i-byt-pri-liscom-udoli-karlova-ves.php"
+      }
+    ]
+  },
+  "bazos_196498060": {
+    "id": "bazos_196498060",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekný 2 izbový byt, A. Gwerkovej, Bratislava V. Pet",
+    "odkaz": "https://reality.bazos.sk/inzerat/196498060/prenajom-pekny-2-izbovy-byt-a-gwerkovej-bratislava-v-pet.php",
+    "cena_povodna": "525 €",
+    "spolu_cena": "525 €",
+    "efektivna_cena": 525,
+    "datum_str": "14.10.2026",
+    "datum_iso": "2026-10-14",
+    "lokalita": "HÚŠČAVOVA (Dúbravka)",
+    "lat": 48.179421423825,
+    "lng": 17.05284176068,
+    "farba": "green"
+  },
+  "bazos_196498032": {
+    "id": "bazos_196498032",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekný 1,5 izbový byt, Ostredková ulica, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/196498032/prenajom-pekny-15-izbovy-byt-ostredkova-ulica-bratislava.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "14.10.2026",
+    "datum_iso": "2026-10-14",
+    "lokalita": "Ostredková (Dúbravka)",
+    "lat": 48.180915699,
+    "lng": 17.044989933,
+    "farba": "green"
+  },
+  "bazos_196496504": {
+    "id": "bazos_196496504",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196496504/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "14.10.2026",
+    "datum_iso": "2026-10-14",
+    "lokalita": "PSČ: 831 04 (Staré Mesto)",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
     "farba": "orange"
   }
 }
