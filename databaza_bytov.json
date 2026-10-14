@@ -591,7 +591,7 @@
     "efektivna_cena": 700,
     "datum_str": "12.10.2026",
     "datum_iso": "2026-10-12",
-    "lokalita": "PSČ: 821 01 (Nové Mesto)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -666,10 +666,10 @@
     "efektivna_cena": 670,
     "datum_str": "10.10.2026",
     "datum_iso": "2026-10-10",
-    "lokalita": "Garsónka (Karlova Ves)",
-    "lat": 48.155154322,
-    "lng": 17.055170079,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196449881": {
     "id": "bazos_196449881",
@@ -846,9 +846,9 @@
     "efektivna_cena": 440,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "Tilgnerova (Karlova Ves)",
-    "lat": 48.155824236466,
-    "lng": 17.055447987811,
+    "lokalita": "Rusovská cesta (Petržalka)",
+    "lat": 48.12414170279,
+    "lng": 17.101402956814,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -900,6 +900,36 @@
     "lokalita": "PSČ: 831 04 (Staré Mesto)",
     "lat": 48.1712321,
     "lng": 17.1499302,
+    "farba": "orange"
+  },
+  "bazos_196509193": {
+    "id": "bazos_196509193",
+    "zdroj": "Bazoš",
+    "titulok": "PRIESTRANNÝ 2I BYT (65 m²) S BALKÓNOM A VÝHĽADOM DO PARKU NA",
+    "odkaz": "https://reality.bazos.sk/inzerat/196509193/priestranny-2i-byt-65-m-s-balkonom-a-vyhladom-do-parku-na.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "14.10.2026",
+    "datum_iso": "2026-10-14",
+    "lokalita": "Garsónka (Karlova Ves)",
+    "lat": 48.155154322,
+    "lng": 17.055170079,
+    "farba": "green"
+  },
+  "bazos_196508877": {
+    "id": "bazos_196508877",
+    "zdroj": "Bazoš",
+    "titulok": "Dvojizbový byt v zelenej časti širšieho centra/A two-room ap",
+    "odkaz": "https://reality.bazos.sk/inzerat/196508877/dvojizbovy-byt-v-zelenej-casti-sirsieho-centraa-two-room-ap.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "14.10.2026",
+    "datum_iso": "2026-10-14",
+    "lokalita": "PSČ: 831 01",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
     "farba": "orange"
   }
 }
