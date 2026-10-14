@@ -39,10 +39,10 @@
     "efektivna_cena": 520,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "PSČ: 821 07 (Staré Mesto)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Lachova (Petržalka)",
+    "lat": 48.12454985994,
+    "lng": 17.11799029509,
+    "farba": "green"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -84,7 +84,7 @@
     "efektivna_cena": 700,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "PSČ: 841 01",
+    "lokalita": "PSČ: 841 01 (Dúbravka)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -420,10 +420,10 @@
     "efektivna_cena": 679,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 831 01 (Staré Mesto)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange",
+    "lokalita": "Lachova (Petržalka)",
+    "lat": 48.12454985994,
+    "lng": 17.11799029509,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -471,10 +471,10 @@
     "efektivna_cena": 600,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 851 01 (Staré Mesto)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Lachova (Petržalka)",
+    "lat": 48.12454985994,
+    "lng": 17.11799029509,
+    "farba": "green"
   },
   "bazos_196399133": {
     "id": "bazos_196399133",
@@ -486,10 +486,10 @@
     "efektivna_cena": 500,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 831 01 (Staré Mesto)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
+    "lokalita": "Lachova (Petržalka)",
+    "lat": 48.12454985994,
+    "lng": 17.11799029509,
+    "farba": "green"
   },
   "bazos_195665430": {
     "id": "bazos_195665430",
@@ -591,7 +591,7 @@
     "efektivna_cena": 700,
     "datum_str": "12.10.2026",
     "datum_iso": "2026-10-12",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Ostredky)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -621,10 +621,10 @@
     "efektivna_cena": 650,
     "datum_str": "12.10.2026",
     "datum_iso": "2026-10-12",
-    "lokalita": "PSČ: 831 04 (Staré Mesto)",
-    "lat": 48.1712321,
-    "lng": 17.1499302,
-    "farba": "orange"
+    "lokalita": "Lachova (Petržalka)",
+    "lat": 48.12454985994,
+    "lng": 17.11799029509,
+    "farba": "green"
   },
   "bazos_196436402": {
     "id": "bazos_196436402",
@@ -786,7 +786,7 @@
     "efektivna_cena": 700,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "PSČ: 841 02",
+    "lokalita": "PSČ: 841 02 (Staré Mesto)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -805,5 +805,35 @@
     "lat": 48.169478061988,
     "lng": 17.160730892506,
     "farba": "green"
+  },
+  "bazos_196490076": {
+    "id": "bazos_196490076",
+    "zdroj": "Bazoš",
+    "titulok": "1-izb Zariadený byt v novostavbe Bystrická ul",
+    "odkaz": "https://reality.bazos.sk/inzerat/196490076/1-izb-zariadeny-byt-v-novostavbe-bystricka-ul.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "14.10.2026",
+    "datum_iso": "2026-10-14",
+    "lokalita": "novostavbe Bystrická (Devínska Nová Ves)",
+    "lat": 48.224362605108,
+    "lng": 16.979844151716,
+    "farba": "green"
+  },
+  "bazos_196488140": {
+    "id": "bazos_196488140",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM: Kompletne zariadený 1-izbový byt s veľkou loggi",
+    "odkaz": "https://reality.bazos.sk/inzerat/196488140/na-prenajom-kompletne-zariadeny-1-izbovy-byt-s-velkou-loggi.php",
+    "cena_povodna": "540 €",
+    "spolu_cena": "540 €",
+    "efektivna_cena": 540,
+    "datum_str": "14.10.2026",
+    "datum_iso": "2026-10-14",
+    "lokalita": "PSČ: 841 01 (Karlova Ves)",
+    "lat": 48.1845444,
+    "lng": 17.0151322,
+    "farba": "orange"
   }
 }
