@@ -679,5 +679,20 @@
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
+  },
+  "bazos_196521574": {
+    "id": "bazos_196521574",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka na prenájom, Bratislava-Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/196521574/garsonka-na-prenajom-bratislava-raca.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "15.10.2026",
+    "datum_iso": "2026-10-15",
+    "lokalita": "PSČ: 831 52 (Rača)",
+    "lat": 48.1960694,
+    "lng": 17.1407711,
+    "farba": "orange"
   }
 }
