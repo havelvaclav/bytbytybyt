@@ -39,10 +39,10 @@
     "efektivna_cena": 520,
     "datum_str": "15.10.2026",
     "datum_iso": "2026-10-15",
-    "lokalita": "PSČ: 821 07 (Staré Mesto)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Závadská (Rača)",
+    "lat": 48.212081971546,
+    "lng": 17.158607069064,
+    "farba": "green"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -174,10 +174,10 @@
     "efektivna_cena": 679,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 831 01 (Staré Mesto)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
+    "lokalita": "Závadská (Rača)",
+    "lat": 48.212081971546,
+    "lng": 17.158607069064,
+    "farba": "green"
   },
   "bazos_196402528": {
     "id": "bazos_196402528",
@@ -219,10 +219,10 @@
     "efektivna_cena": 600,
     "datum_str": "11.10.2026",
     "datum_iso": "2026-10-11",
-    "lokalita": "PSČ: 851 01 (Staré Mesto)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "Závadská (Rača)",
+    "lat": 48.212081971546,
+    "lng": 17.158607069064,
+    "farba": "green"
   },
   "bazos_196399133": {
     "id": "bazos_196399133",
@@ -414,10 +414,10 @@
     "efektivna_cena": 670,
     "datum_str": "10.10.2026",
     "datum_iso": "2026-10-10",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
+    "lokalita": "Garsónka (Karlova Ves)",
+    "lat": 48.155154322,
+    "lng": 17.055170079,
+    "farba": "green"
   },
   "bazos_196449881": {
     "id": "bazos_196449881",
@@ -489,10 +489,10 @@
     "efektivna_cena": 590,
     "datum_str": "13.10.2026",
     "datum_iso": "2026-10-13",
-    "lokalita": "Geologická (Podunajské Biskupice)",
-    "lat": 48.139416988262,
-    "lng": 17.195618700793,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Ružinov)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_196469108": {
     "id": "bazos_196469108",
@@ -694,5 +694,50 @@
     "lat": 48.1960694,
     "lng": 17.1407711,
     "farba": "orange"
+  },
+  "bazos_196534460": {
+    "id": "bazos_196534460",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196534460/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "15.10.2026",
+    "datum_iso": "2026-10-15",
+    "lokalita": "HANULOVA (Dúbravka)",
+    "lat": 48.179012665736,
+    "lng": 17.04245968153,
+    "farba": "green"
+  },
+  "bazos_196530693": {
+    "id": "bazos_196530693",
+    "zdroj": "Bazoš",
+    "titulok": "Izba na prenájom v 2 izbovom byte Trnávka",
+    "odkaz": "https://reality.bazos.sk/inzerat/196530693/izba-na-prenajom-v-2-izbovom-byte-trnavka.php",
+    "cena_povodna": "320 €",
+    "spolu_cena": "320 €",
+    "efektivna_cena": 320,
+    "datum_str": "15.10.2026",
+    "datum_iso": "2026-10-15",
+    "lokalita": "Obchodná (Staré Mesto)",
+    "lat": 48.148083409897,
+    "lng": 17.111552376965,
+    "farba": "green"
+  },
+  "bazos_196529014": {
+    "id": "bazos_196529014",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196529014/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "15.10.2026",
+    "datum_iso": "2026-10-15",
+    "lokalita": "Závadská (Rača)",
+    "lat": 48.212081971546,
+    "lng": 17.158607069064,
+    "farba": "green"
   }
 }
