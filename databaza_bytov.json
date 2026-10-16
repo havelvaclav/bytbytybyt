@@ -444,7 +444,7 @@
     "efektivna_cena": 300,
     "datum_str": "13.10.2026",
     "datum_iso": "2026-10-13",
-    "lokalita": "PSČ: 821 03 (Ružinov)",
+    "lokalita": "PSČ: 821 03",
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange"
@@ -754,5 +754,20 @@
     "lat": 48.186511858086,
     "lng": 17.131554656491,
     "farba": "green"
+  },
+  "bazos_196554860": {
+    "id": "bazos_196554860",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájmem pekný 2-izbový byt",
+    "odkaz": "https://reality.bazos.sk/inzerat/196554860/prenajmem-pekny-2-izbovy-byt.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "16.10.2026",
+    "datum_iso": "2026-10-16",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   }
 }
