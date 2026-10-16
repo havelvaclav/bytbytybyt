@@ -59,21 +59,6 @@
     "lng": 17.120700574,
     "farba": "orange"
   },
-  "bazos_196094425": {
-    "id": "bazos_196094425",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 2izb. byt Pod Kolibou Bratislava.",
-    "odkaz": "https://reality.bazos.sk/inzerat/196094425/prenajom-2izb-byt-pod-kolibou-bratislava.php",
-    "cena_povodna": "680 €",
-    "spolu_cena": "680 €",
-    "efektivna_cena": 680,
-    "datum_str": "09.10.2026",
-    "datum_iso": "2026-10-09",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
-  },
   "bazos_196177186": {
     "id": "bazos_196177186",
     "zdroj": "Bazoš",
@@ -102,51 +87,6 @@
     "lokalita": "PSČ: 811 06 (Staré Mesto)",
     "lat": 48.1486616,
     "lng": 17.108133,
-    "farba": "orange"
-  },
-  "bazos_196342490": {
-    "id": "bazos_196342490",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM: MODERNÝ PRIESTOR S PARKOVANÍM, BRATISLAVA-N.MESTO",
-    "odkaz": "https://reality.bazos.sk/inzerat/196342490/prenajom-moderny-priestor-s-parkovanim-bratislava-nmesto.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "09.10.2026",
-    "datum_iso": "2026-10-09",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
-  },
-  "bazos_196337692": {
-    "id": "bazos_196337692",
-    "zdroj": "Bazoš",
-    "titulok": "1,5-izbový byt na prenájom",
-    "odkaz": "https://reality.bazos.sk/inzerat/196337692/15-izbovy-byt-na-prenajom.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "09.10.2026",
-    "datum_iso": "2026-10-09",
-    "lokalita": "PSČ: 851 06",
-    "lat": 48.1012697,
-    "lng": 17.1078028,
-    "farba": "orange"
-  },
-  "bazos_196335504": {
-    "id": "bazos_196335504",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
-    "odkaz": "https://reality.bazos.sk/inzerat/196335504/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
-    "cena_povodna": "450 €",
-    "spolu_cena": "450 €",
-    "efektivna_cena": 450,
-    "datum_str": "09.10.2026",
-    "datum_iso": "2026-10-09",
-    "lokalita": "PSČ: 900 41",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
     "farba": "orange"
   },
   "bazos_196367700": {
