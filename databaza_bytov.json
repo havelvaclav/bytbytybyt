@@ -39,10 +39,10 @@
     "efektivna_cena": 520,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 821 07 (Petržalka)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "Jedlíkova (Staré Mesto)",
+    "lat": 48.146574910243,
+    "lng": 17.110420676924,
+    "farba": "green"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -69,10 +69,10 @@
     "efektivna_cena": 700,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "HANULOVA (Dúbravka)",
-    "lat": 48.179012665736,
-    "lng": 17.04245968153,
-    "farba": "green"
+    "lokalita": "PSČ: 841 01 (Karlova Ves)",
+    "lat": 48.1845444,
+    "lng": 17.0151322,
+    "farba": "orange"
   },
   "bazos_196273399": {
     "id": "bazos_196273399",
@@ -615,7 +615,7 @@
     "efektivna_cena": 700,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "PSČ: 831 01",
+    "lokalita": "PSČ: 831 01 (Nové Mesto)",
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
@@ -780,10 +780,10 @@
     "efektivna_cena": 650,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 831 04 (Petržalka)",
-    "lat": 48.1712321,
-    "lng": 17.1499302,
-    "farba": "orange"
+    "lokalita": "Jedlíkova (Staré Mesto)",
+    "lat": 48.146574910243,
+    "lng": 17.110420676924,
+    "farba": "green"
   },
   "bazos_196563625": {
     "id": "bazos_196563625",
@@ -795,10 +795,10 @@
     "efektivna_cena": 501,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 841 01 (Petržalka)",
-    "lat": 48.1845444,
-    "lng": 17.0151322,
-    "farba": "orange"
+    "lokalita": "Jedlíkova (Staré Mesto)",
+    "lat": 48.146574910243,
+    "lng": 17.110420676924,
+    "farba": "green"
   },
   "bazos_196563615": {
     "id": "bazos_196563615",
@@ -919,5 +919,50 @@
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
+  },
+  "bazos_196568002": {
+    "id": "bazos_196568002",
+    "zdroj": "Bazoš",
+    "titulok": "Štýlový a bezpečný 2-i byt na prenájom na Stavbarskej ul",
+    "odkaz": "https://reality.bazos.sk/inzerat/196568002/stylovy-a-bezpecny-2-i-byt-na-prenajom-na-stavbarskej-ul.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "16.10.2026",
+    "datum_iso": "2026-10-16",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_196565636": {
+    "id": "bazos_196565636",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196565636/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "16.10.2026",
+    "datum_iso": "2026-10-16",
+    "lokalita": "Jedlíkova (Staré Mesto)",
+    "lat": 48.146574910243,
+    "lng": 17.110420676924,
+    "farba": "green"
+  },
+  "bazos_196565550": {
+    "id": "bazos_196565550",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196565550/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "16.10.2026",
+    "datum_iso": "2026-10-16",
+    "lokalita": "Jedlíkova (Staré Mesto)",
+    "lat": 48.146574910243,
+    "lng": 17.110420676924,
+    "farba": "green"
   }
 }
