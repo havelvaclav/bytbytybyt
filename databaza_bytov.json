@@ -39,10 +39,10 @@
     "efektivna_cena": 520,
     "datum_str": "17.10.2026",
     "datum_iso": "2026-10-17",
-    "lokalita": "Jedlíkova (Staré Mesto)",
-    "lat": 48.146574910243,
-    "lng": 17.110420676924,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Petržalka)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -600,10 +600,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "PSČ: 831 01 (Nové Mesto)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
+    "lokalita": "Podkolibská (Koliba)",
+    "lat": 48.162779053468,
+    "lng": 17.11556443517,
+    "farba": "green"
   },
   "bazos_196521574": {
     "id": "bazos_196521574",
@@ -930,10 +930,10 @@
     "efektivna_cena": 679,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "Jedlíkova (Staré Mesto)",
-    "lat": 48.146574910243,
-    "lng": 17.110420676924,
-    "farba": "green"
+    "lokalita": "PSČ: 831 01 (Petržalka)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
   },
   "bazos_196565550": {
     "id": "bazos_196565550",
@@ -945,10 +945,10 @@
     "efektivna_cena": 600,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "Jedlíkova (Staré Mesto)",
-    "lat": 48.146574910243,
-    "lng": 17.110420676924,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_196571123": {
     "id": "bazos_196571123",
@@ -1008,6 +1008,51 @@
     "lokalita": "PSČ: 821 03",
     "lat": 48.1548806,
     "lng": 17.1672305,
+    "farba": "orange"
+  },
+  "bazos_196596867": {
+    "id": "bazos_196596867",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka Nivy do marca",
+    "odkaz": "https://reality.bazos.sk/inzerat/196596867/garsonka-nivy-do-marca.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "17.10.2026",
+    "datum_iso": "2026-10-17",
+    "lokalita": "PSČ: 821 08 (Nivy)",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
+  },
+  "bazos_196589052": {
+    "id": "bazos_196589052",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196589052/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "17.10.2026",
+    "datum_iso": "2026-10-17",
+    "lokalita": "PSČ: 831 04 (Petržalka)",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
+    "farba": "orange"
+  },
+  "bazos_196587712": {
+    "id": "bazos_196587712",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196587712/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "501 €",
+    "spolu_cena": "501 €",
+    "efektivna_cena": 501,
+    "datum_str": "17.10.2026",
+    "datum_iso": "2026-10-17",
+    "lokalita": "PSČ: 841 03 (Petržalka)",
+    "lat": 48.1941432,
+    "lng": 17.0468593,
     "farba": "orange"
   }
 }
