@@ -344,21 +344,6 @@
     "lng": 17.133772501035,
     "farba": "green"
   },
-  "bazos_196370133": {
-    "id": "bazos_196370133",
-    "zdroj": "Bazoš",
-    "titulok": "RentHub I útulný 1izb. byt I lodžia I Karlova Ves",
-    "odkaz": "https://reality.bazos.sk/inzerat/196370133/renthub-i-utulny-1izb-byt-i-lodzia-i-pripravujeme.php",
-    "cena_povodna": "670 €",
-    "spolu_cena": "670 €",
-    "efektivna_cena": 670,
-    "datum_str": "10.10.2026",
-    "datum_iso": "2026-10-10",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
-  },
   "bazos_196449881": {
     "id": "bazos_196449881",
     "zdroj": "Bazoš",
