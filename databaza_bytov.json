@@ -369,7 +369,7 @@
     "efektivna_cena": 380,
     "datum_str": "13.10.2026",
     "datum_iso": "2026-10-13",
-    "lokalita": "PSČ: 811 01 (Dúbravka)",
+    "lokalita": "PSČ: 811 01 (Karlova Ves)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -384,7 +384,7 @@
     "efektivna_cena": 425,
     "datum_str": "13.10.2026",
     "datum_iso": "2026-10-13",
-    "lokalita": "PSČ: 811 01 (Dúbravka)",
+    "lokalita": "PSČ: 811 01 (Karlova Ves)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -399,7 +399,7 @@
     "efektivna_cena": 550,
     "datum_str": "13.10.2026",
     "datum_iso": "2026-10-13",
-    "lokalita": "PSČ: 811 01 (Dúbravka)",
+    "lokalita": "PSČ: 811 01 (Karlova Ves)",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
@@ -429,7 +429,7 @@
     "efektivna_cena": 300,
     "datum_str": "13.10.2026",
     "datum_iso": "2026-10-13",
-    "lokalita": "PSČ: 821 03",
+    "lokalita": "PSČ: 821 03 (Prievoz)",
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange"
@@ -900,7 +900,7 @@
     "efektivna_cena": 360,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 841 02 (Staré Mesto)",
+    "lokalita": "PSČ: 841 02 (Karlova Ves)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -963,6 +963,51 @@
     "lokalita": "PSČ: 831 06",
     "lat": 48.2114337,
     "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_196588520": {
+    "id": "bazos_196588520",
+    "zdroj": "Bazoš",
+    "titulok": "🏡 PRENÁJOM IZBY – BRATISLAVA, KARLOVA VES",
+    "odkaz": "https://reality.bazos.sk/inzerat/196588520/prenajom-izby-bratislava-karlova-ves.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "17.10.2026",
+    "datum_iso": "2026-10-17",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_196584907": {
+    "id": "bazos_196584907",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby v 2-izbovom byte – Bratislava, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196584907/prenajom-izby-v-2-izbovom-byte-bratislava-ruzinov.php",
+    "cena_povodna": "399 €",
+    "spolu_cena": "399 €",
+    "efektivna_cena": 399,
+    "datum_str": "17.10.2026",
+    "datum_iso": "2026-10-17",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_196549148": {
+    "id": "bazos_196549148",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom velkej izby (22m) v Bratislave",
+    "odkaz": "https://reality.bazos.sk/inzerat/196549148/prenajom-velkej-izby-22m-v-bratislave.php",
+    "cena_povodna": "375 €",
+    "spolu_cena": "375 €",
+    "efektivna_cena": 375,
+    "datum_str": "16.10.2026",
+    "datum_iso": "2026-10-16",
+    "lokalita": "PSČ: 821 03",
+    "lat": 48.1548806,
+    "lng": 17.1672305,
     "farba": "orange"
   }
 }
