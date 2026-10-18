@@ -705,10 +705,10 @@
     "efektivna_cena": 600,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "Bardošova (Nové Mesto)",
-    "lat": 48.167384249195,
-    "lng": 17.098136816168,
-    "farba": "green"
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   },
   "bazos_196563472": {
     "id": "bazos_196563472",
