@@ -900,10 +900,10 @@
     "efektivna_cena": 399,
     "datum_str": "17.10.2026",
     "datum_iso": "2026-10-17",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Trebišovská (Ružinov)",
+    "lat": 48.160700283739,
+    "lng": 17.160762714551,
+    "farba": "green"
   },
   "bazos_196549148": {
     "id": "bazos_196549148",
@@ -978,6 +978,21 @@
     "lokalita": "PSČ: 902 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_196604326": {
+    "id": "bazos_196604326",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom bytu v Bratislave",
+    "odkaz": "https://reality.bazos.sk/inzerat/196604326/prenajom-bytu-v-bratislave.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "18.10.2026",
+    "datum_iso": "2026-10-18",
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
     "farba": "orange"
   }
 }
