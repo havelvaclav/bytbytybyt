@@ -1039,5 +1039,20 @@
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
+  },
+  "bazos_196627070": {
+    "id": "bazos_196627070",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom – útulný, plne zariadený 2-izbový byt",
+    "odkaz": "https://reality.bazos.sk/inzerat/196627070/na-prenajom-utulny-plne-zariadeny-2-izbovy-byt-s-prostran.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "18.10.2026",
+    "datum_iso": "2026-10-18",
+    "lokalita": "PSČ: 831 54",
+    "lat": 48.1916448,
+    "lng": 17.1348157,
+    "farba": "orange"
   }
 }
