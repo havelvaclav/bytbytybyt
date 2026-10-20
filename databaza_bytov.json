@@ -255,10 +255,10 @@
     "efektivna_cena": 560,
     "datum_str": "15.10.2026",
     "datum_iso": "2026-10-15",
-    "lokalita": "PSČ: 831 52 (Rača)",
-    "lat": 48.1960694,
-    "lng": 17.1407711,
-    "farba": "orange"
+    "lokalita": "prostredí pri Malom Dunaji (Rača)",
+    "lat": 48.211546415,
+    "lng": 17.156279329,
+    "farba": "green"
   },
   "bazos_196534460": {
     "id": "bazos_196534460",
@@ -1054,5 +1054,20 @@
     "lat": 48.093699612055,
     "lng": 17.115446368023,
     "farba": "green"
+  },
+  "bazos_196670067": {
+    "id": "bazos_196670067",
+    "zdroj": "Bazoš",
+    "titulok": "HALO reality - Prenájom, trojizbový byt Bratislava Rača, Sad",
+    "odkaz": "https://reality.bazos.sk/inzerat/196670067/halo-reality-prenajom-trojizbovy-byt-bratislava-raca-sad.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "20.10.2026",
+    "datum_iso": "2026-10-20",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   }
 }
