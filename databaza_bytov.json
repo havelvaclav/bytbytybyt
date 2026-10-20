@@ -24,10 +24,10 @@
     "efektivna_cena": 520,
     "datum_str": "20.10.2026",
     "datum_iso": "2026-10-20",
-    "lokalita": "Ostredková (Ružinov)",
-    "lat": 48.161137257871,
-    "lng": 17.169957685388,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Petržalka)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -54,7 +54,7 @@
     "efektivna_cena": 700,
     "datum_str": "17.10.2026",
     "datum_iso": "2026-10-17",
-    "lokalita": "PSČ: 841 01 (Bory)",
+    "lokalita": "PSČ: 841 01 (Karlova Ves)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -240,10 +240,10 @@
     "efektivna_cena": 700,
     "datum_str": "14.10.2026",
     "datum_iso": "2026-10-14",
-    "lokalita": "PSČ: 831 01",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
+    "lokalita": "Podkolibská (Koliba)",
+    "lat": 48.162779053468,
+    "lng": 17.11556443517,
+    "farba": "green"
   },
   "bazos_196521574": {
     "id": "bazos_196521574",
@@ -360,10 +360,10 @@
     "efektivna_cena": 700,
     "datum_str": "15.10.2026",
     "datum_iso": "2026-10-15",
-    "lokalita": "Lermontovova (Staré Mesto)",
-    "lat": 48.151138841062,
-    "lng": 17.104754238281,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196536424": {
     "id": "bazos_196536424",
@@ -435,7 +435,7 @@
     "efektivna_cena": 600,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lokalita": "PSČ: 830 00 (Rača)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -465,7 +465,7 @@
     "efektivna_cena": 450,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 900 41",
+    "lokalita": "PSČ: 900 41 (Petržalka)",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange"
@@ -570,10 +570,10 @@
     "efektivna_cena": 679,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "Ostredková (Ružinov)",
-    "lat": 48.161137257871,
-    "lng": 17.169957685388,
-    "farba": "green"
+    "lokalita": "PSČ: 831 01 (Petržalka)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
   },
   "bazos_196565550": {
     "id": "bazos_196565550",
@@ -585,10 +585,10 @@
     "efektivna_cena": 600,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "Ostredková (Ružinov)",
-    "lat": 48.161137257871,
-    "lng": 17.169957685388,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_196571123": {
     "id": "bazos_196571123",
@@ -675,10 +675,10 @@
     "efektivna_cena": 650,
     "datum_str": "17.10.2026",
     "datum_iso": "2026-10-17",
-    "lokalita": "Ostredková (Ružinov)",
-    "lat": 48.161137257871,
-    "lng": 17.169957685388,
-    "farba": "green"
+    "lokalita": "PSČ: 831 04 (Petržalka)",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
+    "farba": "orange"
   },
   "bazos_196587712": {
     "id": "bazos_196587712",
@@ -840,10 +840,10 @@
     "efektivna_cena": 640,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "Repašského (Dúbravka)",
-    "lat": 48.190027597493,
-    "lng": 17.033988830845,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "bazos_196647128": {
     "id": "bazos_196647128",
@@ -983,7 +983,7 @@
   "bazos_196657470": {
     "id": "bazos_196657470",
     "zdroj": "Bazoš",
-    "titulok": "Exkluzívny 2 izbový byt Zlaté krídlo, Smart home, Rača, Brat",
+    "titulok": "Exkluzívny 2 izbový byt, 55 m2, Zlaté krídlo, Rača, Bratisla",
     "odkaz": "https://reality.bazos.sk/inzerat/196657470/exkluzivny-2i-byt-zlate-kridlo-smart-home-raca-bratislava.php",
     "cena_povodna": "690 €",
     "spolu_cena": "690 €",
@@ -1068,6 +1068,51 @@
     "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_196683256": {
+    "id": "bazos_196683256",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196683256/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "501 €",
+    "spolu_cena": "501 €",
+    "efektivna_cena": 501,
+    "datum_str": "20.10.2026",
+    "datum_iso": "2026-10-20",
+    "lokalita": "PSČ: 841 04 (Petržalka)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_196685388": {
+    "id": "bazos_196685388",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM:1izb.byt,klimatizacia,balkón,Kominárska, BA",
+    "odkaz": "https://reality.bazos.sk/inzerat/196685388/prenajom1izbbytklimatizaciabalkonkominarska-ba.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "20.10.2026",
+    "datum_iso": "2026-10-20",
+    "lokalita": "PSČ: 831 04",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
+    "farba": "orange"
+  },
+  "bazos_196682643": {
+    "id": "bazos_196682643",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka na prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/196682643/garsonka-na-prenajom.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "20.10.2026",
+    "datum_iso": "2026-10-20",
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
     "farba": "orange"
   }
 }
