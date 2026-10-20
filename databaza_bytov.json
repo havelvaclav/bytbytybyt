@@ -54,7 +54,7 @@
     "efektivna_cena": 700,
     "datum_str": "17.10.2026",
     "datum_iso": "2026-10-17",
-    "lokalita": "PSČ: 841 01 (Karlova Ves)",
+    "lokalita": "PSČ: 841 01",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange"
@@ -465,7 +465,7 @@
     "efektivna_cena": 450,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 900 41 (Petržalka)",
+    "lokalita": "PSČ: 900 41",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange"
