@@ -24,10 +24,10 @@
     "efektivna_cena": 520,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "VRAKUŇA (Vrakuňa)",
-    "lat": 48.146214642,
-    "lng": 17.207109944,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Nové Mesto)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -279,7 +279,7 @@
     "efektivna_cena": 600,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 830 00 (Rača)",
+    "lokalita": "PSČ: 830 00 (Dlhé diely)",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
@@ -384,7 +384,7 @@
     "efektivna_cena": 360,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 841 02 (Karlova Ves)",
+    "lokalita": "PSČ: 841 02 (Petržalka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
@@ -459,7 +459,7 @@
     "efektivna_cena": 400,
     "datum_str": "17.10.2026",
     "datum_iso": "2026-10-17",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lokalita": "PSČ: 841 04 (Petržalka)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -684,7 +684,7 @@
     "efektivna_cena": 640,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "PSČ: 821 04",
+    "lokalita": "PSČ: 821 04 (Trnávka)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -804,7 +804,7 @@
     "efektivna_cena": 380,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lokalita": "PSČ: 841 04 (Petržalka)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -894,9 +894,9 @@
     "efektivna_cena": 430,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "Zuzany Chalupovej. BA (Ružinov)",
-    "lat": 48.093699612055,
-    "lng": 17.115446368023,
+    "lokalita": "EUROVEA (Ružinov)",
+    "lat": 48.1405,
+    "lng": 17.12117,
     "farba": "green"
   },
   "bazos_196670067": {
@@ -924,10 +924,10 @@
     "efektivna_cena": 501,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "VRAKUŇA (Vrakuňa)",
-    "lat": 48.146214642,
-    "lng": 17.207109944,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Nové Mesto)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196685388": {
     "id": "bazos_196685388",
@@ -969,7 +969,7 @@
     "efektivna_cena": 550,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -984,10 +984,10 @@
     "efektivna_cena": 519,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "Kozia (Staré Mesto)",
-    "lat": 48.146895989264,
-    "lng": 17.102409317165,
-    "farba": "green"
+    "lokalita": "PSČ: 821 07 (Nové Mesto)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   },
   "bazos_196717331": {
     "id": "bazos_196717331",
@@ -1014,9 +1014,9 @@
     "efektivna_cena": 660,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "Kazanská (Podunajské Biskupice)",
-    "lat": 48.130773087354,
-    "lng": 17.194544467034,
+    "lokalita": "Ondavská (Ružinov)",
+    "lat": 48.159708089816,
+    "lng": 17.140012631645,
     "farba": "green"
   },
   "bazos_196713621": {
@@ -1048,5 +1048,86 @@
     "lat": 48.15039,
     "lng": 17.09002,
     "farba": "green"
+  },
+  "bazos_196722964": {
+    "id": "bazos_196722964",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
+    "odkaz": "https://reality.bazos.sk/inzerat/196722964/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "PSČ: 900 41 (Petržalka)",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_196722714": {
+    "id": "bazos_196722714",
+    "zdroj": "Bazoš",
+    "titulok": "🏡 Prenájom lôžka v izbe – Bratislava, Petržalka, Ševčenkova",
+    "odkaz": "https://reality.bazos.sk/inzerat/196722714/prenajom-lozka-v-izbe-bratislava-petrzalka-sevcenkova.php",
+    "cena_povodna": "250 €",
+    "spolu_cena": "250 €",
+    "efektivna_cena": 250,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "PSČ: 850 00 (Petržalka)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
+  },
+  "bazos_196722570": {
+    "id": "bazos_196722570",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196722570/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "PSČ: 851 01 (Nové Mesto)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_196721876": {
+    "id": "bazos_196721876",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196721876/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_196719557": {
+    "id": "bazos_196719557",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196719557/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "PSČ: 851 01 (Nové Mesto)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196565636/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
   }
 }
