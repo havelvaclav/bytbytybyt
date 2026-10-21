@@ -24,10 +24,10 @@
     "efektivna_cena": 520,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 821 07 (Petržalka)",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "VRAKUŇA (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -234,10 +234,10 @@
     "efektivna_cena": 600,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "VRAKUŇA (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green"
   },
   "bazos_196564423": {
     "id": "bazos_196564423",
@@ -399,10 +399,10 @@
     "efektivna_cena": 650,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange"
+    "lokalita": "VRAKUŇA (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green"
   },
   "bazos_196565636": {
     "id": "bazos_196565636",
@@ -414,10 +414,10 @@
     "efektivna_cena": 679,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 831 01 (Petržalka)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
+    "lokalita": "VRAKUŇA (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green"
   },
   "bazos_196565550": {
     "id": "bazos_196565550",
@@ -429,10 +429,10 @@
     "efektivna_cena": 600,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange"
+    "lokalita": "VRAKUŇA (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green"
   },
   "bazos_196571123": {
     "id": "bazos_196571123",
@@ -519,10 +519,10 @@
     "efektivna_cena": 650,
     "datum_str": "17.10.2026",
     "datum_iso": "2026-10-17",
-    "lokalita": "PSČ: 831 04 (Petržalka)",
-    "lat": 48.1712321,
-    "lng": 17.1499302,
-    "farba": "orange"
+    "lokalita": "VRAKUŇA (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green"
   },
   "bazos_196587712": {
     "id": "bazos_196587712",
@@ -699,9 +699,9 @@
     "efektivna_cena": 540,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "Novohorská (Dúbravka)",
-    "lat": 48.190031499842,
-    "lng": 17.029055929265,
+    "lokalita": "Novohorská (Kramáre)",
+    "lat": 48.209146855597,
+    "lng": 17.146098196131,
     "farba": "green"
   },
   "bazos_196647018": {
@@ -729,9 +729,9 @@
     "efektivna_cena": 620,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "Vyšehradská (Dúbravka)",
-    "lat": 48.180915699,
-    "lng": 17.044989933,
+    "lokalita": "Vyšehradská (Kramáre)",
+    "lat": 48.097064913802,
+    "lng": 17.102789995248,
     "farba": "green"
   },
   "bazos_196641573": {
@@ -774,9 +774,9 @@
     "efektivna_cena": 599,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "Repašského (Petržalka)",
-    "lat": 48.118283215,
-    "lng": 17.11036176,
+    "lokalita": "Repašského (Kramáre)",
+    "lat": 48.190027597493,
+    "lng": 17.033988830845,
     "farba": "green"
   },
   "bazos_196660255": {
@@ -864,10 +864,10 @@
     "efektivna_cena": 699,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "PSČ: 821 04 (Petržalka)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
+    "lokalita": "VRAKUŇA (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green"
   },
   "bazos_196666397": {
     "id": "bazos_196666397",
@@ -924,10 +924,10 @@
     "efektivna_cena": 501,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 841 04 (Petržalka)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
+    "lokalita": "VRAKUŇA (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green"
   },
   "bazos_196685388": {
     "id": "bazos_196685388",
@@ -958,5 +958,95 @@
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
+  },
+  "bazos_196718752": {
+    "id": "bazos_196718752",
+    "zdroj": "Bazoš",
+    "titulok": "Zrekonštruovaný 2i byt s balkónom a klimatizáciou v Ružinove",
+    "odkaz": "https://reality.bazos.sk/inzerat/196718752/zrekonstruovany-2i-byt-s-balkonom-a-klimatizaciou-v-ruzinove.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_196718674": {
+    "id": "bazos_196718674",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM | ZARIADENÁ GARSÓNKA V NOVOSTAVBE | MAJERSKÁ – B",
+    "odkaz": "https://reality.bazos.sk/inzerat/196718674/na-prenajom-zariadena-garsonka-v-novostavbe-majerska-b.php",
+    "cena_povodna": "519 €",
+    "spolu_cena": "519 €",
+    "efektivna_cena": 519,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "Kozia (Staré Mesto)",
+    "lat": 48.146895989264,
+    "lng": 17.102409317165,
+    "farba": "green"
+  },
+  "bazos_196717331": {
+    "id": "bazos_196717331",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 3i byt v obľúbenej časti Bratislavy – Nové mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/196717331/na-prenajom-3i-byt-v-oblubenej-casti-bratislavy-nove-mesto.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_196717004": {
+    "id": "bazos_196717004",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | 1-izbový byt s veľkou loggiou | SLNEČNICE",
+    "odkaz": "https://reality.bazos.sk/inzerat/196717004/prenajom-1-izbovy-byt-s-velkou-loggiou-slnecnice.php",
+    "cena_povodna": "660 €",
+    "spolu_cena": "660 €",
+    "efektivna_cena": 660,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "Kazanská (Podunajské Biskupice)",
+    "lat": 48.130773087354,
+    "lng": 17.194544467034,
+    "farba": "green"
+  },
+  "bazos_196713621": {
+    "id": "bazos_196713621",
+    "zdroj": "Bazoš",
+    "titulok": "1 izb. Repašského v Dúbravke- zariadený",
+    "odkaz": "https://reality.bazos.sk/inzerat/196713621/1-izb-repasskeho-v-dubravke-zariadeny.php",
+    "cena_povodna": "599 €",
+    "spolu_cena": "599 €",
+    "efektivna_cena": 599,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "Tammi pri Hrubej Lúke (Dúbravka)",
+    "lat": 48.198421064051,
+    "lng": 17.035757929538,
+    "farba": "green"
+  },
+  "bazos_196711894": {
+    "id": "bazos_196711894",
+    "zdroj": "Bazoš",
+    "titulok": "EXKLUZÍVNE Byty na prenájom Nové Mesto nad Váhom",
+    "odkaz": "https://reality.bazos.sk/inzerat/196711894/exkluzivne-byty-na-prenajom-nove-mesto-nad-vahom.php",
+    "cena_povodna": "434 €",
+    "spolu_cena": "434 €",
+    "efektivna_cena": 434,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "Juraja Kréna (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
+    "farba": "green"
   }
 }
