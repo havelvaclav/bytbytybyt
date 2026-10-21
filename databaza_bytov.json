@@ -1129,5 +1129,20 @@
         "odkaz": "https://reality.bazos.sk/inzerat/196565636/realitny-kancelaria-realadr-sro.php"
       }
     ]
+  },
+  "bazos_196727910": {
+    "id": "bazos_196727910",
+    "zdroj": "Bazoš",
+    "titulok": "REB.SK Prenájom útulný 2-izbový byt Bratislava - Nivy / Mile",
+    "odkaz": "https://reality.bazos.sk/inzerat/196727910/rebsk-prenajom-utulny-2-izbovy-byt-bratislava-nivy-mile.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "21.10.2026",
+    "datum_iso": "2026-10-21",
+    "lokalita": "PSČ: 821 01 (Dúbravka)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   }
 }
