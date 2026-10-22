@@ -24,7 +24,7 @@
     "efektivna_cena": 520,
     "datum_str": "22.10.2026",
     "datum_iso": "2026-10-22",
-    "lokalita": "PSČ: 821 07 (Nové Mesto)",
+    "lokalita": "PSČ: 821 07 (Rača)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -249,10 +249,10 @@
     "efektivna_cena": 360,
     "datum_str": "16.10.2026",
     "datum_iso": "2026-10-16",
-    "lokalita": "Obchodná",
-    "lat": 48.148083409897,
-    "lng": 17.111552376965,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02 (Ružinov)",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_196568002": {
     "id": "bazos_196568002",
@@ -549,7 +549,7 @@
     "efektivna_cena": 640,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lokalita": "PSČ: 821 04 (Vrakuňa)",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -622,8 +622,8 @@
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
     "efektivna_cena": 700,
-    "datum_str": "19.10.2026",
-    "datum_iso": "2026-10-19",
+    "datum_str": "22.10.2026",
+    "datum_iso": "2026-10-22",
     "lokalita": "Gessayová",
     "lat": 48.120176607612,
     "lng": 17.113199951434,
@@ -669,10 +669,10 @@
     "efektivna_cena": 380,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "Obchodná (Karlova Ves)",
-    "lat": 48.155154322,
-    "lng": 17.055170079,
-    "farba": "green"
+    "lokalita": "PSČ: 841 04 (Ružinov)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_196658392": {
     "id": "bazos_196658392",
@@ -789,7 +789,7 @@
     "efektivna_cena": 501,
     "datum_str": "22.10.2026",
     "datum_iso": "2026-10-22",
-    "lokalita": "PSČ: 841 04 (Nové Mesto)",
+    "lokalita": "PSČ: 841 04 (Rača)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -849,7 +849,7 @@
     "efektivna_cena": 519,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 821 07 (Nové Mesto)",
+    "lokalita": "PSČ: 821 07 (Rača)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -939,10 +939,10 @@
     "efektivna_cena": 250,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "Obchodná (Petržalka)",
-    "lat": 48.148083409897,
-    "lng": 17.111552376965,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Ružinov)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_196722570": {
     "id": "bazos_196722570",
@@ -969,7 +969,7 @@
     "efektivna_cena": 650,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lokalita": "PSČ: 831 02 (Rača)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -1105,5 +1105,50 @@
         "odkaz": "https://reality.bazos.sk/inzerat/196663112/prenajom-pekna-garsonka-repasskeho-ulica-bratislava-iv-du.php"
       }
     ]
+  },
+  "bazos_196754134": {
+    "id": "bazos_196754134",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196754134/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "22.10.2026",
+    "datum_iso": "2026-10-22",
+    "lokalita": "PSČ: 831 04 (Nové Mesto)",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
+    "farba": "orange"
+  },
+  "bazos_196753593": {
+    "id": "bazos_196753593",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM útulný 2-izbový byt s loggiou, Svidnícka, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196753593/prenajom-utulny-2-izbovy-byt-s-loggiou-svidnicka-ruzinov.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "22.10.2026",
+    "datum_iso": "2026-10-22",
+    "lokalita": "Hrobákova (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
+  },
+  "bazos_196752272": {
+    "id": "bazos_196752272",
+    "zdroj": "Bazoš",
+    "titulok": "🏡 Prenájom izby – Bratislava, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196752272/prenajom-izby-bratislava-ruzinov.php",
+    "cena_povodna": "380 €",
+    "spolu_cena": "380 €",
+    "efektivna_cena": 380,
+    "datum_str": "22.10.2026",
+    "datum_iso": "2026-10-22",
+    "lokalita": "Obchodná (Ružinov)",
+    "lat": 48.148083409897,
+    "lng": 17.111552376965,
+    "farba": "green"
   }
 }
