@@ -699,10 +699,10 @@
     "efektivna_cena": 450,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 900 41 (Petržalka)",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange"
+    "lokalita": "Saratovská",
+    "lat": 48.200750539789,
+    "lng": 17.031817931395,
+    "farba": "green"
   },
   "bazos_196722714": {
     "id": "bazos_196722714",
@@ -810,9 +810,9 @@
     "efektivna_cena": 450,
     "datum_str": "22.10.2026",
     "datum_iso": "2026-10-22",
-    "lokalita": "Vranovska (Petržalka)",
-    "lat": 48.12420437834,
-    "lng": 17.093662299696,
+    "lokalita": "Zadunajská cesta (Petržalka)",
+    "lat": 48.130559019338,
+    "lng": 17.102103784817,
     "farba": "green"
   },
   "bazos_196748321": {
@@ -961,5 +961,50 @@
         "odkaz": "https://reality.bazos.sk/inzerat/196727910/rebsk-prenajom-utulny-2-izbovy-byt-bratislava-nivy-mile.php"
       }
     ]
+  },
+  "bazos_196797011": {
+    "id": "bazos_196797011",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM útulný 2-izbový byt s loggiou, Svidnícka, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196797011/prenajom-utulny-2-izbovy-byt-s-loggiou-svidnicka-ruzinov.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "23.10.2026",
+    "datum_iso": "2026-10-23",
+    "lokalita": "Hrobákova (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
+  },
+  "bazos_196792267": {
+    "id": "bazos_196792267",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom garsónka Trenčianska ul. Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196792267/prenajom-garsonka-trencianska-ul-ruzinov.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "23.10.2026",
+    "datum_iso": "2026-10-23",
+    "lokalita": "PSČ: 821 09 (Ružinov)",
+    "lat": 48.1398151,
+    "lng": 17.1441354,
+    "farba": "orange"
+  },
+  "bazos_196791548": {
+    "id": "bazos_196791548",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1izb byt - Bratislava - Dúbravka - od 1.11.2026",
+    "odkaz": "https://reality.bazos.sk/inzerat/196791548/prenajom-1izb-byt-bratislava-dubravka-od-1112026.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "01.11.2026",
+    "datum_iso": "2026-11-01",
+    "lokalita": "PSČ: 841 01 (Dúbravka)",
+    "lat": 48.1845444,
+    "lng": 17.0151322,
+    "farba": "orange"
   }
 }
