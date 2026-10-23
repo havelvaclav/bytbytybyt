@@ -287,14 +287,14 @@
   "bazos_196652762": {
     "id": "bazos_196652762",
     "zdroj": "Bazoš",
-    "titulok": "Prenájom garzonky v Ružinove - Pošeň,  Bratislava II.",
+    "titulok": "PRENAJATÉ.,Prenájom garzonky v Ružinove ,Bratislava II.",
     "odkaz": "https://reality.bazos.sk/inzerat/196652762/prenajom-garzonky-v-ruzinove-posen-bratislava-ii.php",
-    "cena_povodna": "440 €",
-    "spolu_cena": "440 €",
-    "efektivna_cena": 440,
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "PSČ: 821 03 (Pošeň)",
+    "lokalita": "PSČ: 821 03",
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange"
@@ -324,7 +324,7 @@
     "efektivna_cena": 640,
     "datum_str": "19.10.2026",
     "datum_iso": "2026-10-19",
-    "lokalita": "PSČ: 821 04 (Vrakuňa)",
+    "lokalita": "PSČ: 821 04",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
@@ -609,7 +609,7 @@
     "efektivna_cena": 550,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 821 01 (Nivy)",
+    "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -669,10 +669,10 @@
     "efektivna_cena": 599,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "Palackého (Staré Mesto)",
-    "lat": 48.141668408717,
-    "lng": 17.111297418603,
-    "farba": "green"
+    "lokalita": "PSČ: 841 02",
+    "lat": 48.1949026,
+    "lng": 17.0334999,
+    "farba": "orange"
   },
   "bazos_196711894": {
     "id": "bazos_196711894",
@@ -940,5 +940,26 @@
     "lat": 48.145367063381,
     "lng": 17.126505039591,
     "farba": "green"
+  },
+  "bazos_196788803": {
+    "id": "bazos_196788803",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom | 2-izbový byt | Miletičova | Bratislava-Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196788803/prenajom-2-izbovy-byt-mileticova-bratislava-ruzinov.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "23.10.2026",
+    "datum_iso": "2026-10-23",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196727910/rebsk-prenajom-utulny-2-izbovy-byt-bratislava-nivy-mile.php"
+      }
+    ]
   }
 }
