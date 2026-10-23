@@ -564,10 +564,10 @@
     "efektivna_cena": 501,
     "datum_str": "23.10.2026",
     "datum_iso": "2026-10-23",
-    "lokalita": "PSČ: 841 04 (Rača)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange"
+    "lokalita": "Hviezdoslavovo (Staré Mesto)",
+    "lat": 48.141711348601,
+    "lng": 17.107558074855,
+    "farba": "green"
   },
   "bazos_196685388": {
     "id": "bazos_196685388",
@@ -609,7 +609,7 @@
     "efektivna_cena": 550,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Nivy)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -684,9 +684,9 @@
     "efektivna_cena": 434,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "Juraja Kréna (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
+    "lokalita": "Stromová (Staré Mesto)",
+    "lat": 48.162105677233,
+    "lng": 17.097674620506,
     "farba": "green"
   },
   "bazos_196722964": {
@@ -744,10 +744,10 @@
     "efektivna_cena": 650,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 831 02 (Rača)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange"
+    "lokalita": "Hviezdoslavovo (Staré Mesto)",
+    "lat": 48.141711348601,
+    "lng": 17.107558074855,
+    "farba": "green"
   },
   "bazos_196719557": {
     "id": "bazos_196719557",
@@ -810,9 +810,9 @@
     "efektivna_cena": 450,
     "datum_str": "22.10.2026",
     "datum_iso": "2026-10-22",
-    "lokalita": "Medveďovej (Petržalka)",
-    "lat": 48.123031098998,
-    "lng": 17.131897232261,
+    "lokalita": "Vranovska (Petržalka)",
+    "lat": 48.12420437834,
+    "lng": 17.093662299696,
     "farba": "green"
   },
   "bazos_196748321": {
@@ -855,9 +855,9 @@
     "efektivna_cena": 700,
     "datum_str": "22.10.2026",
     "datum_iso": "2026-10-22",
-    "lokalita": "Rodinný dom (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
+    "lokalita": "Lietavská (Ružinov)",
+    "lat": 48.148071632969,
+    "lng": 17.139781224512,
     "farba": "green"
   },
   "bazos_196743813": {
@@ -891,10 +891,10 @@
     "efektivna_cena": 679,
     "datum_str": "22.10.2026",
     "datum_iso": "2026-10-22",
-    "lokalita": "PSČ: 831 04 (Nové Mesto)",
-    "lat": 48.1712321,
-    "lng": 17.1499302,
-    "farba": "orange"
+    "lokalita": "Hviezdoslavovo (Staré Mesto)",
+    "lat": 48.141711348601,
+    "lng": 17.107558074855,
+    "farba": "green"
   },
   "bazos_196753593": {
     "id": "bazos_196753593",
@@ -924,6 +924,21 @@
     "lokalita": "Obchodná (Ružinov)",
     "lat": 48.148083409897,
     "lng": 17.111552376965,
+    "farba": "green"
+  },
+  "bazos_196779244": {
+    "id": "bazos_196779244",
+    "zdroj": "Bazoš",
+    "titulok": "AVENUE | slnečný a priestranný 2i byt v ideálnej lokalite pr",
+    "odkaz": "https://reality.bazos.sk/inzerat/196779244/avenue-slnecny-a-priestranny-2i-byt-v-idealnej-lokalite-pr.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "23.10.2026",
+    "datum_iso": "2026-10-23",
+    "lokalita": "Továrenská (Staré Mesto)",
+    "lat": 48.145367063381,
+    "lng": 17.126505039591,
     "farba": "green"
   }
 }
