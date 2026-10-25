@@ -841,5 +841,20 @@
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
+  },
+  "bazos_196848089": {
+    "id": "bazos_196848089",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby",
+    "odkaz": "https://reality.bazos.sk/inzerat/196848089/prenajom-izby.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "25.10.2026",
+    "datum_iso": "2026-10-25",
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   }
 }
