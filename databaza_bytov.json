@@ -334,9 +334,9 @@
     "zdroj": "Bazoš",
     "titulok": "HALO reality - Prenájom, trojizbový byt Bratislava Rača, Sad",
     "odkaz": "https://reality.bazos.sk/inzerat/196670067/halo-reality-prenajom-trojizbovy-byt-bratislava-raca-sad.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
     "datum_str": "20.10.2026",
     "datum_iso": "2026-10-20",
     "lokalita": "PSČ: 831 06 (Rača)",
@@ -825,6 +825,21 @@
     "lokalita": "PSČ: 831 52 (Rača)",
     "lat": 48.1960694,
     "lng": 17.1407711,
+    "farba": "orange"
+  },
+  "bazos_196833355": {
+    "id": "bazos_196833355",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Zariadený 2 izbový byt s balkónom, 51 m2",
+    "odkaz": "https://reality.bazos.sk/inzerat/196833355/bosen-zariadeny-2-izbovy-byt-s-balkonom-51-m2.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "25.10.2026",
+    "datum_iso": "2026-10-25",
+    "lokalita": "PSČ: 841 04 (Dúbravka)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
     "farba": "orange"
   }
 }
