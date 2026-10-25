@@ -54,7 +54,7 @@
     "efektivna_cena": 650,
     "datum_str": "25.10.2026",
     "datum_iso": "2026-10-25",
-    "lokalita": "PSČ: 821 07 (Vrakuňa)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -856,5 +856,20 @@
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "green"
+  },
+  "bazos_196858840": {
+    "id": "bazos_196858840",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbového bytu – Bratislava, Stavbárska",
+    "odkaz": "https://reality.bazos.sk/inzerat/196858840/prenajom-2-izboveho-bytu-bratislava-stavbarska.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "25.10.2026",
+    "datum_iso": "2026-10-25",
+    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   }
 }
