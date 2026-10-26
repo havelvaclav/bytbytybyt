@@ -715,5 +715,50 @@
     "lat": 48.1960694,
     "lng": 17.1407711,
     "farba": "orange"
+  },
+  "bazos_196900044": {
+    "id": "bazos_196900044",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby v ubytovacom zariadení pri Jazere",
+    "odkaz": "https://reality.bazos.sk/inzerat/196900044/prenajom-izby-v-ubytovacom-zariadeni-pri-jazere.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "26.10.2026",
+    "datum_iso": "2026-10-26",
+    "lokalita": "PSČ: 851 05",
+    "lat": 48.1060532,
+    "lng": 17.1075321,
+    "farba": "orange"
+  },
+  "bazos_195566717": {
+    "id": "bazos_195566717",
+    "zdroj": "Bazoš",
+    "titulok": "Bez provízie | Na prenájom útulná garsónka na Trnavskom mýte",
+    "odkaz": "https://reality.bazos.sk/inzerat/195566717/bez-provizie-na-prenajom-utulna-garsonka-na-trnavskom-myte.php",
+    "cena_povodna": "510 €",
+    "spolu_cena": "510 €",
+    "efektivna_cena": 510,
+    "datum_str": "26.10.2026",
+    "datum_iso": "2026-10-26",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_196890868": {
+    "id": "bazos_196890868",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | Zariadený 2-izbový byt - Miletičova ulica",
+    "odkaz": "https://reality.bazos.sk/inzerat/196890868/prenajom-zariadeny-2-izbovy-byt-mileticova-ulica.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "26.10.2026",
+    "datum_iso": "2026-10-26",
+    "lokalita": "Račianska (Nové Mesto)",
+    "lat": 48.172618620038,
+    "lng": 17.127011468374,
+    "farba": "green"
   }
 }
