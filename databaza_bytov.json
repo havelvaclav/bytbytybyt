@@ -39,7 +39,7 @@
     "efektivna_cena": 650,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "PSČ: 821 07",
+    "lokalita": "PSČ: 821 07 (Vrakuňa)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -609,6 +609,21 @@
     "lokalita": "PSČ: 821 07 (Ružinov)",
     "lat": 48.1453315,
     "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_196868122": {
+    "id": "bazos_196868122",
+    "zdroj": "Bazoš",
+    "titulok": "REZERVOVANÉ Na prenájom garsónka v Nitre na Chrenovej, Za hu",
+    "odkaz": "https://reality.bazos.sk/inzerat/196868122/rezervovane-na-prenajom-garsonka-v-nitre-na-chrenovej-za-hu.php",
+    "cena_povodna": "480 €",
+    "spolu_cena": "480 €",
+    "efektivna_cena": 480,
+    "datum_str": "26.10.2026",
+    "datum_iso": "2026-10-26",
+    "lokalita": "PSČ: 949 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "orange"
   }
 }
