@@ -99,7 +99,7 @@
     "efektivna_cena": 550,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 821 01",
+    "lokalita": "PSČ: 821 01 (Petržalka)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
@@ -300,10 +300,10 @@
     "efektivna_cena": 450,
     "datum_str": "22.10.2026",
     "datum_iso": "2026-10-22",
-    "lokalita": "PSČ: 850 00 (Slnečnice)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange"
+    "lokalita": "Fialová (Petržalka)",
+    "lat": 48.089351342897,
+    "lng": 17.123227558208,
+    "farba": "green"
   },
   "bazos_196748321": {
     "id": "bazos_196748321",
@@ -636,9 +636,9 @@
     "efektivna_cena": 690,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "Kozia (Staré Mesto)",
-    "lat": 48.146895989264,
-    "lng": 17.102409317165,
+    "lokalita": "Šancová (Staré Mesto)",
+    "lat": 48.155196228503,
+    "lng": 17.106109956113,
     "farba": "green"
   },
   "bazos_196880808": {
@@ -849,6 +849,51 @@
     "lokalita": "PSČ: 831 01 (Ružinov)",
     "lat": 48.1698869,
     "lng": 17.1082667,
+    "farba": "orange"
+  },
+  "bazos_196933881": {
+    "id": "bazos_196933881",
+    "zdroj": "Bazoš",
+    "titulok": "RENÁJOM moderného 2 izbový tehlového bytu - Hviezdoslavov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196933881/renajom-moderneho-2-izbovy-tehloveho-bytu-hviezdoslavov.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "27.10.2026",
+    "datum_iso": "2026-10-27",
+    "lokalita": "PSČ: 930 41 (Petržalka)",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_196934002": {
+    "id": "bazos_196934002",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom garsónka 28m2 , Staré Mesto, Šancova ulica",
+    "odkaz": "https://reality.bazos.sk/inzerat/196934002/na-prenajom-garsonka-28m2-stare-mesto-sancova-ulica.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "27.10.2026",
+    "datum_iso": "2026-10-27",
+    "lokalita": "Šancova (Staré Mesto)",
+    "lat": 48.155196228503,
+    "lng": 17.106109956113,
+    "farba": "green"
+  },
+  "bazos_196932246": {
+    "id": "bazos_196932246",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | ÚTUĽNÁ GARSÓNKA V NOVOSTAVBE - BRATISLAVA",
+    "odkaz": "https://reality.bazos.sk/inzerat/196932246/prenajom-utulna-garsonka-v-novostavbe-bratislava.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "27.10.2026",
+    "datum_iso": "2026-10-27",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
