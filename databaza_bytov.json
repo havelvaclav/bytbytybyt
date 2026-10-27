@@ -234,7 +234,7 @@
     "efektivna_cena": 650,
     "datum_str": "21.10.2026",
     "datum_iso": "2026-10-21",
-    "lokalita": "PSČ: 831 02 (Petržalka)",
+    "lokalita": "PSČ: 831 02 (Ružinov)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -300,10 +300,10 @@
     "efektivna_cena": 450,
     "datum_str": "22.10.2026",
     "datum_iso": "2026-10-22",
-    "lokalita": "Fialová (Petržalka)",
-    "lat": 48.089351342897,
-    "lng": 17.123227558208,
-    "farba": "green"
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   },
   "bazos_196748321": {
     "id": "bazos_196748321",
@@ -591,7 +591,7 @@
     "efektivna_cena": 700,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "PSČ: 831 01 (Koliba)",
+    "lokalita": "PSČ: 831 01 (Rača)",
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
@@ -636,9 +636,9 @@
     "efektivna_cena": 690,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "Hviezdoslavovo (Staré Mesto)",
-    "lat": 48.141711348601,
-    "lng": 17.107558074855,
+    "lokalita": "Kozia (Staré Mesto)",
+    "lat": 48.146895989264,
+    "lng": 17.102409317165,
     "farba": "green"
   },
   "bazos_196880808": {
@@ -801,9 +801,54 @@
     "efektivna_cena": 399,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "PSČ: 841 08",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
+    "lokalita": "Petržalka (Petržalka)",
+    "lat": 48.118283215,
+    "lng": 17.11036176,
+    "farba": "green"
+  },
+  "bazos_196927715": {
+    "id": "bazos_196927715",
+    "zdroj": "Bazoš",
+    "titulok": "🏡 Spolubývanie pre dievča – Bratislava, Ružinov, Galvaniho",
+    "odkaz": "https://reality.bazos.sk/inzerat/196927715/spolubyvanie-pre-dievca-bratislava-ruzinov-galvaniho.php",
+    "cena_povodna": "325 €",
+    "spolu_cena": "325 €",
+    "efektivna_cena": 325,
+    "datum_str": "27.10.2026",
+    "datum_iso": "2026-10-27",
+    "lokalita": "PSČ: 821 04 (Ružinov)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_196923548": {
+    "id": "bazos_196923548",
+    "zdroj": "Bazoš",
+    "titulok": "ATRAKTÍVNY - 2-izbový byt | 58 m² | Račianska | Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/196923548/atraktivny-2-izbovy-byt-58-m-racianska-bratislava.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "27.10.2026",
+    "datum_iso": "2026-10-27",
+    "lokalita": "PSČ: 831 02",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_196920672": {
+    "id": "bazos_196920672",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196920672/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "27.10.2026",
+    "datum_iso": "2026-10-27",
+    "lokalita": "PSČ: 831 01 (Ružinov)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
     "farba": "orange"
   }
 }
