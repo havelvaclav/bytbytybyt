@@ -429,9 +429,9 @@
     "efektivna_cena": 690,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "Leškova (Staré Mesto)",
-    "lat": 48.154365062021,
-    "lng": 17.108035416374,
+    "lokalita": "výťahom (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green"
   },
   "bazos_196880808": {
@@ -534,7 +534,7 @@
     "efektivna_cena": 450,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "PSČ: 900 41",
+    "lokalita": "PSČ: 900 41 (Petržalka)",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange"
@@ -594,10 +594,10 @@
     "efektivna_cena": 399,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "Petržalka (Petržalka)",
-    "lat": 48.118283215,
-    "lng": 17.11036176,
-    "farba": "green"
+    "lokalita": "PSČ: 841 08 (Petržalka)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
   },
   "bazos_196927715": {
     "id": "bazos_196927715",
@@ -718,5 +718,80 @@
     "lat": 48.153438026964,
     "lng": 17.167137975914,
     "farba": "green"
+  },
+  "bazos_196960909": {
+    "id": "bazos_196960909",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM – 1-izbový byt, 29 m², Šamorín – Gazdovský rad",
+    "odkaz": "https://reality.bazos.sk/inzerat/196960909/prenajom-1-izbovy-byt-29-m-samorin-gazdovsky-rad.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "28.10.2026",
+    "datum_iso": "2026-10-28",
+    "lokalita": "PSČ: 931 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_196960146": {
+    "id": "bazos_196960146",
+    "zdroj": "Bazoš",
+    "titulok": "- NOVO ZARIADENY - samostatná spálňa - 1,5 izbovy - Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196960146/novo-zariadeny-samostatna-spalna-15-izbovy-ruzinov.php",
+    "cena_povodna": "430 €",
+    "spolu_cena": "430 €",
+    "efektivna_cena": 430,
+    "datum_str": "28.10.2026",
+    "datum_iso": "2026-10-28",
+    "lokalita": "Zariadený (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
+  },
+  "bazos_196955851": {
+    "id": "bazos_196955851",
+    "zdroj": "Bazoš",
+    "titulok": "Byt v historickom centre s tichou loggiou",
+    "odkaz": "https://reality.bazos.sk/inzerat/196955851/byt-v-historickom-centre-s-tichou-loggiou.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "28.10.2026",
+    "datum_iso": "2026-10-28",
+    "lokalita": "PSČ: 811 09",
+    "lat": 48.1433615,
+    "lng": 17.1221656,
+    "farba": "orange"
+  },
+  "bazos_196955425": {
+    "id": "bazos_196955425",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby – Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/196955425/prenajom-izby-bratislava.php",
+    "cena_povodna": "400 €",
+    "spolu_cena": "400 €",
+    "efektivna_cena": 400,
+    "datum_str": "28.10.2026",
+    "datum_iso": "2026-10-28",
+    "lokalita": "Petržalka (Petržalka)",
+    "lat": 48.118283215,
+    "lng": 17.11036176,
+    "farba": "green"
+  },
+  "bazos_196955268": {
+    "id": "bazos_196955268",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | Novostavba GUTHAUS slnečný zariadený 1-izb. byt,",
+    "odkaz": "https://reality.bazos.sk/inzerat/196955268/axis-real-novostavba-guthaus-slnecny-zariadeny-1-izb-byt.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "28.10.2026",
+    "datum_iso": "2026-10-28",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   }
 }
