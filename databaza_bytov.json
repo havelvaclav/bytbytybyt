@@ -429,9 +429,9 @@
     "efektivna_cena": 690,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "Šancová (Staré Mesto)",
-    "lat": 48.155196228503,
-    "lng": 17.106109956113,
+    "lokalita": "Leškova (Staré Mesto)",
+    "lat": 48.154365062021,
+    "lng": 17.108035416374,
     "farba": "green"
   },
   "bazos_196880808": {
@@ -688,5 +688,35 @@
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange"
+  },
+  "bazos_196944695": {
+    "id": "bazos_196944695",
+    "zdroj": "Bazoš",
+    "titulok": "Zariadený 2i byt s parkovaním pri vinohradoch - Nové Mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/196944695/zariadeny-2i-byt-s-parkovanim-pri-vinohradoch-nove-mesto.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "28.10.2026",
+    "datum_iso": "2026-10-28",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_196941962": {
+    "id": "bazos_196941962",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1,5 i byt + loggia; Bratislava - Ružinov (Ostredky)",
+    "odkaz": "https://reality.bazos.sk/inzerat/196941962/prenajom-15-i-byt-loggia-bratislava-ruzinov-ostredky.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "28.10.2026",
+    "datum_iso": "2026-10-28",
+    "lokalita": "Seberíniho (Ružinov)",
+    "lat": 48.153438026964,
+    "lng": 17.167137975914,
+    "farba": "green"
   }
 }
