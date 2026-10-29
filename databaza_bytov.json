@@ -549,9 +549,9 @@
     "efektivna_cena": 580,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "Narcisová (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
+    "lokalita": "Havrania (Staré Mesto)",
+    "lat": 48.155333409643,
+    "lng": 17.101692300602,
     "farba": "green"
   },
   "bazos_196932246": {
@@ -579,7 +579,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "PSČ: 831 02 (Staré Mesto)",
+    "lokalita": "PSČ: 831 02 (Nové Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -617,7 +617,7 @@
   "bazos_196960146": {
     "id": "bazos_196960146",
     "zdroj": "Bazoš",
-    "titulok": "- NOVO ZARIADENY - samostatná spálňa - 1,5 izbovy - Ružinov",
+    "titulok": "-REZERVOVANY- samostatná spálňa - 1,5 izbovy - Ružinov",
     "odkaz": "https://reality.bazos.sk/inzerat/196960146/novo-zariadeny-samostatna-spalna-15-izbovy-ruzinov.php",
     "cena_povodna": "430 €",
     "spolu_cena": "430 €",
@@ -748,5 +748,20 @@
     "lat": 48.202983512638,
     "lng": 17.149732474773,
     "farba": "green"
+  },
+  "bazos_196990973": {
+    "id": "bazos_196990973",
+    "zdroj": "Bazoš",
+    "titulok": "Prenajom 2 izb.komplet zariadeny+Garaž. Novostavba FIM P.B.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196990973/prenajom-2-izbkomplet-zariadenygaraz-novostavba-fim-pb.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "29.10.2026",
+    "datum_iso": "2026-10-29",
+    "lokalita": "PSČ: 017 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
   }
 }
