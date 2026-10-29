@@ -264,7 +264,7 @@
     "efektivna_cena": 700,
     "datum_str": "29.10.2026",
     "datum_iso": "2026-10-29",
-    "lokalita": "PSČ: 831 01 (Rača)",
+    "lokalita": "PSČ: 831 01 (Kramáre)",
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
@@ -309,10 +309,10 @@
     "efektivna_cena": 690,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "Hviezdoslavovo (Staré Mesto)",
-    "lat": 48.141711348601,
-    "lng": 17.107558074855,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_196880808": {
     "id": "bazos_196880808",
@@ -519,10 +519,10 @@
     "efektivna_cena": 679,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "Hviezdoslavovo (Staré Mesto)",
-    "lat": 48.141711348601,
-    "lng": 17.107558074855,
-    "farba": "green"
+    "lokalita": "PSČ: 831 01 (Staré Mesto)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
   },
   "bazos_196933881": {
     "id": "bazos_196933881",
@@ -542,16 +542,16 @@
   "bazos_196934002": {
     "id": "bazos_196934002",
     "zdroj": "Bazoš",
-    "titulok": "Na prenájom garsónka 28m2 , Staré Mesto, Šancova ulica",
+    "titulok": "Na prenájom garsónka 28 m2, Bratislava, Staré Mesto, Šancova",
     "odkaz": "https://reality.bazos.sk/inzerat/196934002/na-prenajom-garsonka-28m2-stare-mesto-sancova-ulica.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "Šancova (Staré Mesto)",
-    "lat": 48.155196228503,
-    "lng": 17.106109956113,
+    "lokalita": "Narcisová (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green"
   },
   "bazos_196932246": {
@@ -579,7 +579,7 @@
     "efektivna_cena": 700,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
+    "lokalita": "PSČ: 831 02 (Staré Mesto)",
     "lat": 48.1754087,
     "lng": 17.1158206,
     "farba": "orange"
@@ -594,9 +594,9 @@
     "efektivna_cena": 700,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "Seberíniho (Ružinov)",
-    "lat": 48.153438026964,
-    "lng": 17.167137975914,
+    "lokalita": "NOVOSTAVBE (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
     "farba": "green"
   },
   "bazos_196960909": {
@@ -639,10 +639,10 @@
     "efektivna_cena": 690,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "PSČ: 811 09",
-    "lat": 48.1433615,
-    "lng": 17.1221656,
-    "farba": "orange"
+    "lokalita": "Bottova (Staré Mesto)",
+    "lat": 48.143971713715,
+    "lng": 17.127942142029,
+    "farba": "green"
   },
   "bazos_196955425": {
     "id": "bazos_196955425",
@@ -654,10 +654,10 @@
     "efektivna_cena": 400,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "Petržalka (Petržalka)",
-    "lat": 48.118283215,
-    "lng": 17.11036176,
-    "farba": "green"
+    "lokalita": "PSČ: 851 04",
+    "lat": 48.1273452,
+    "lng": 17.1278204,
+    "farba": "orange"
   },
   "bazos_196955268": {
     "id": "bazos_196955268",
@@ -673,5 +673,80 @@
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange"
+  },
+  "bazos_196988247": {
+    "id": "bazos_196988247",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby – Bratislava, Milana Marečka 3 v Bratislave",
+    "odkaz": "https://reality.bazos.sk/inzerat/196988247/prenajom-izby-bratislava-milana-marecka-3-v-bratislave.php",
+    "cena_povodna": "399 €",
+    "spolu_cena": "399 €",
+    "efektivna_cena": 399,
+    "datum_str": "29.10.2026",
+    "datum_iso": "2026-10-29",
+    "lokalita": "PSČ: 811 01 (Petržalka)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
+  },
+  "bazos_196986290": {
+    "id": "bazos_196986290",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom garsónky pri OC Nivy Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/196986290/prenajom-garsonky-pri-oc-nivy-ruzinov.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "29.10.2026",
+    "datum_iso": "2026-10-29",
+    "lokalita": "PSČ: 821 09 (Ružinov)",
+    "lat": 48.1398151,
+    "lng": 17.1441354,
+    "farba": "orange"
+  },
+  "bazos_196986008": {
+    "id": "bazos_196986008",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1i byt, loggia Rustaveliho Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/196986008/prenajom-1i-byt-loggia-rustaveliho-raca.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "29.10.2026",
+    "datum_iso": "2026-10-29",
+    "lokalita": "pri OC Nivy - Dulovo (Ružinov)",
+    "lat": 48.14455,
+    "lng": 17.13703,
+    "farba": "green"
+  },
+  "bazos_196980000": {
+    "id": "bazos_196980000",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom štýlový 1 izbový byt, Nejedlého ul., Bratislava IV.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196980000/prenajom-stylovy-1-izbovy-byt-nejedleho-ul-bratislava-iv.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "29.10.2026",
+    "datum_iso": "2026-10-29",
+    "lokalita": "Nejedlého (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
+  },
+  "bazos_196979169": {
+    "id": "bazos_196979169",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt v obľúbenej lokalite Rača, Hečkova ul.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196979169/prenajom-2-izbovy-byt-v-oblubenej-lokalite-raca-heckova-ul.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "29.10.2026",
+    "datum_iso": "2026-10-29",
+    "lokalita": "Hečkova (Rača)",
+    "lat": 48.202983512638,
+    "lng": 17.149732474773,
+    "farba": "green"
   }
 }
