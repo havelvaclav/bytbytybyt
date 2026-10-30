@@ -144,7 +144,7 @@
     "efektivna_cena": 450,
     "datum_str": "25.10.2026",
     "datum_iso": "2026-10-25",
-    "lokalita": "PSČ: 821 07 (Ružinov)",
+    "lokalita": "PSČ: 821 07 (Bory)",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange"
@@ -429,10 +429,10 @@
     "efektivna_cena": 679,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "PSČ: 831 01 (Staré Mesto)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
+    "lokalita": "Hviezdoslavovo (Staré Mesto)",
+    "lat": 48.141711348601,
+    "lng": 17.107558074855,
+    "farba": "green"
   },
   "bazos_196933881": {
     "id": "bazos_196933881",
@@ -549,9 +549,9 @@
     "efektivna_cena": 690,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "prostredí pri Malom Dunaji",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
+    "lokalita": "Levárska",
+    "lat": 48.161625803405,
+    "lng": 17.047024992333,
     "farba": "green"
   },
   "bazos_196955425": {
@@ -699,10 +699,10 @@
     "efektivna_cena": 450,
     "datum_str": "30.10.2026",
     "datum_iso": "2026-10-30",
-    "lokalita": "Krásnohorská (Petržalka)",
-    "lat": 48.098280241252,
-    "lng": 17.11276425731,
-    "farba": "green"
+    "lokalita": "PSČ: 851 01",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   },
   "bazos_197002138": {
     "id": "bazos_197002138",
@@ -717,6 +717,51 @@
     "lokalita": "PSČ: 831 06",
     "lat": 48.2114337,
     "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_196683256": {
+    "id": "bazos_196683256",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/196683256/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "30.10.2026",
+    "datum_iso": "2026-10-30",
+    "lokalita": "Hviezdoslavovo (Staré Mesto)",
+    "lat": 48.141711348601,
+    "lng": 17.107558074855,
+    "farba": "green"
+  },
+  "bazos_197015264": {
+    "id": "bazos_197015264",
+    "zdroj": "Bazoš",
+    "titulok": "3-izbový byt s veľkou loggiou  Bratislava – Karlova Ves",
+    "odkaz": "https://reality.bazos.sk/inzerat/197015264/3-izbovy-byt-s-velkou-loggiou-bratislava-karlova-ves.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "30.10.2026",
+    "datum_iso": "2026-10-30",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_197013077": {
+    "id": "bazos_197013077",
+    "zdroj": "Bazoš",
+    "titulok": "ATRAKTÍVNY - 2-izbový byt | 58 m² | Račianska | Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/197013077/atraktivny-2-izbovy-byt-58-m-racianska-bratislava.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "30.10.2026",
+    "datum_iso": "2026-10-30",
+    "lokalita": "PSČ: 831 02",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
     "farba": "orange"
   }
 }
