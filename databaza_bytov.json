@@ -549,9 +549,9 @@
     "efektivna_cena": 690,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "Bottova (Staré Mesto)",
-    "lat": 48.143971713715,
-    "lng": 17.127942142029,
+    "lokalita": "prostredí pri Malom Dunaji",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "green"
   },
   "bazos_196955425": {
@@ -654,9 +654,9 @@
     "efektivna_cena": 700,
     "datum_str": "29.10.2026",
     "datum_iso": "2026-10-29",
-    "lokalita": "Hečkova (Rača)",
-    "lat": 48.202983512638,
-    "lng": 17.149732474773,
+    "lokalita": "Hečkova (Dúbravka)",
+    "lat": 48.180915699,
+    "lng": 17.044989933,
     "farba": "green"
   },
   "bazos_196990973": {
@@ -672,6 +672,51 @@
     "lokalita": "PSČ: 017 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197006662": {
+    "id": "bazos_197006662",
+    "zdroj": "Bazoš",
+    "titulok": "AVENUE I NÁJOM, štýlový 1i byt v novostavbe s loggiou v Ruži",
+    "odkaz": "https://reality.bazos.sk/inzerat/197006662/avenue-i-najom-stylovy-1i-byt-v-novostavbe-s-loggiou-v-ruzi.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "30.10.2026",
+    "datum_iso": "2026-10-30",
+    "lokalita": "Továrenská (Staré Mesto)",
+    "lat": 48.145367063381,
+    "lng": 17.126505039591,
+    "farba": "green"
+  },
+  "bazos_197006032": {
+    "id": "bazos_197006032",
+    "zdroj": "Bazoš",
+    "titulok": "Zariadená garzónka v Petržalke – voľná ihneď",
+    "odkaz": "https://reality.bazos.sk/inzerat/197006032/zariadena-garzonka-v-petrzalke-volna-ihned.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "30.10.2026",
+    "datum_iso": "2026-10-30",
+    "lokalita": "Krásnohorská (Petržalka)",
+    "lat": 48.098280241252,
+    "lng": 17.11276425731,
+    "farba": "green"
+  },
+  "bazos_197002138": {
+    "id": "bazos_197002138",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | Priestranný 2-izbový byt, 63 m² – Bratislava, Rač",
+    "odkaz": "https://reality.bazos.sk/inzerat/197002138/prenajom-priestranny-2-izbovy-byt-63-m-bratislava-rac.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "30.10.2026",
+    "datum_iso": "2026-10-30",
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
     "farba": "orange"
   }
 }
