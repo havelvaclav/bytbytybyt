@@ -189,10 +189,10 @@
     "efektivna_cena": 690,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "PSČ: 811 01 (Staré Mesto)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange"
+    "lokalita": "pri Hviezdoslavovom (Staré Mesto)",
+    "lat": 48.141711348601,
+    "lng": 17.107558074855,
+    "farba": "green"
   },
   "bazos_196880808": {
     "id": "bazos_196880808",
@@ -294,7 +294,7 @@
     "efektivna_cena": 450,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "PSČ: 900 41 (Petržalka)",
+    "lokalita": "PSČ: 900 41",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange"
@@ -474,9 +474,9 @@
     "efektivna_cena": 700,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "NOVOSTAVBE (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
+    "lokalita": "Seberíniho (Ružinov)",
+    "lat": 48.153438026964,
+    "lng": 17.167137975914,
     "farba": "green"
   },
   "bazos_196960909": {
