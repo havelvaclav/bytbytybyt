@@ -144,7 +144,7 @@
     "efektivna_cena": 690,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "pri Hviezdoslavovom (Staré Mesto)",
+    "lokalita": "Hviezdoslavovo (Staré Mesto)",
     "lat": 48.141711348601,
     "lng": 17.107558074855,
     "farba": "green"
@@ -264,10 +264,10 @@
     "efektivna_cena": 425,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "Legionárska (Ružinov)",
-    "lat": 48.156515540325,
-    "lng": 17.122595011818,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_196916362": {
     "id": "bazos_196916362",
@@ -354,10 +354,10 @@
     "efektivna_cena": 679,
     "datum_str": "27.10.2026",
     "datum_iso": "2026-10-27",
-    "lokalita": "Hviezdoslavovo (Staré Mesto)",
-    "lat": 48.141711348601,
-    "lng": 17.107558074855,
-    "farba": "green"
+    "lokalita": "PSČ: 831 01 (Kramáre)",
+    "lat": 48.1698869,
+    "lng": 17.1082667,
+    "farba": "orange"
   },
   "bazos_196933881": {
     "id": "bazos_196933881",
@@ -654,10 +654,10 @@
     "efektivna_cena": 570,
     "datum_str": "01.11.2026",
     "datum_iso": "2026-11-01",
-    "lokalita": "Hviezdoslavovo (Staré Mesto)",
-    "lat": 48.141711348601,
-    "lng": 17.107558074855,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01 (Kramáre)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
   },
   "bazos_197015264": {
     "id": "bazos_197015264",
@@ -687,6 +687,51 @@
     "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_197068088": {
+    "id": "bazos_197068088",
+    "zdroj": "Bazoš",
+    "titulok": "2izb byt k dispozícii €620 s energiami",
+    "odkaz": "https://reality.bazos.sk/inzerat/197068088/2izb-byt-k-dispozicii-e620-s-energiami.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "01.11.2026",
+    "datum_iso": "2026-11-01",
+    "lokalita": "PSČ: 929 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197066508": {
+    "id": "bazos_197066508",
+    "zdroj": "Bazoš",
+    "titulok": "HALO reality - Prenájom, dvojizbový byt Bratislava Ružinov,",
+    "odkaz": "https://reality.bazos.sk/inzerat/197066508/halo-reality-prenajom-dvojizbovy-byt-bratislava-ruzinov.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "01.11.2026",
+    "datum_iso": "2026-11-01",
+    "lokalita": "PSČ: 821 08 (Ružinov)",
+    "lat": 48.1582055,
+    "lng": 17.1398196,
+    "farba": "orange"
+  },
+  "bazos_197059256": {
+    "id": "bazos_197059256",
+    "zdroj": "Bazoš",
+    "titulok": "🏡 Prenájom lôžka v byte – Galvaniho, Bratislava – Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/197059256/prenajom-lozka-v-byte-galvaniho-bratislava-ruzinov.php",
+    "cena_povodna": "325 €",
+    "spolu_cena": "325 €",
+    "efektivna_cena": 325,
+    "datum_str": "01.11.2026",
+    "datum_iso": "2026-11-01",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
     "farba": "orange"
   }
 }
