@@ -144,10 +144,10 @@
     "efektivna_cena": 690,
     "datum_str": "26.10.2026",
     "datum_iso": "2026-10-26",
-    "lokalita": "Hviezdoslavovo (Staré Mesto)",
-    "lat": 48.141711348601,
-    "lng": 17.107558074855,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_196880808": {
     "id": "bazos_196880808",
@@ -732,6 +732,66 @@
     "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_197079263": {
+    "id": "bazos_197079263",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt | Bratislava – Devínska Nová Ves",
+    "odkaz": "https://reality.bazos.sk/inzerat/197079263/prenajom-2-izbovy-byt-bratislava-devinska-nova-ves.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "01.11.2026",
+    "datum_iso": "2026-11-01",
+    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
+    "lat": 48.2059525,
+    "lng": 16.9785455,
+    "farba": "orange"
+  },
+  "bazos_197076946": {
+    "id": "bazos_197076946",
+    "zdroj": "Bazoš",
+    "titulok": "AFYREAL prenájom apartmán Priečna, samostatný vstup, pri pol",
+    "odkaz": "https://reality.bazos.sk/inzerat/197076946/afyreal-prenajom-apartman-priecna-samostatny-vstup-pri-pol.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "01.11.2026",
+    "datum_iso": "2026-11-01",
+    "lokalita": "Komerčný objekt (Nové Mesto)",
+    "lat": 48.174022044,
+    "lng": 17.135894731,
+    "farba": "green"
+  },
+  "bazos_197072878": {
+    "id": "bazos_197072878",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbového bytu – Bratislava, Stavbárska",
+    "odkaz": "https://reality.bazos.sk/inzerat/197072878/prenajom-2-izboveho-bytu-bratislava-stavbarska.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "01.11.2026",
+    "datum_iso": "2026-11-01",
+    "lokalita": "PSČ: 821 07 (Bory)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_197016990": {
+    "id": "bazos_197016990",
+    "zdroj": "Bazoš",
+    "titulok": "Byvaj a pracuj na Zamockej ulici 74m2",
+    "odkaz": "https://reality.bazos.sk/inzerat/197016990/byvaj-a-pracuj-na-zamockej-ulici-74m2.php",
+    "cena_povodna": "640 €",
+    "spolu_cena": "640 €",
+    "efektivna_cena": 640,
+    "datum_str": "30.10.2026",
+    "datum_iso": "2026-10-30",
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
     "farba": "orange"
   }
 }
