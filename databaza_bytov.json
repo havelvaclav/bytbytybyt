@@ -459,9 +459,9 @@
     "efektivna_cena": 650,
     "datum_str": "29.10.2026",
     "datum_iso": "2026-10-29",
-    "lokalita": "Nejedlého (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
+    "lokalita": "Nejedlého (Petržalka)",
+    "lat": 48.118283215,
+    "lng": 17.11036176,
     "farba": "green"
   },
   "bazos_196979169": {
@@ -654,9 +654,9 @@
     "efektivna_cena": 550,
     "datum_str": "01.11.2026",
     "datum_iso": "2026-11-01",
-    "lokalita": "Komerčný objekt (Nové Mesto)",
-    "lat": 48.174022044,
-    "lng": 17.135894731,
+    "lokalita": "Rodinný dom",
+    "lat": 48.23979289189,
+    "lng": 17.037986911385,
     "farba": "green"
   },
   "bazos_197072878": {
@@ -718,5 +718,50 @@
     "lat": 48.108204572617,
     "lng": 17.105936588021,
     "farba": "green"
+  },
+  "bazos_197100781": {
+    "id": "bazos_197100781",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
+    "odkaz": "https://reality.bazos.sk/inzerat/197100781/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "02.11.2026",
+    "datum_iso": "2026-11-02",
+    "lokalita": "PSČ: 900 41",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197097438": {
+    "id": "bazos_197097438",
+    "zdroj": "Bazoš",
+    "titulok": "2-izb. byt - Geologická ul. (zariadený)",
+    "odkaz": "https://reality.bazos.sk/inzerat/197097438/2-izb-byt-geologicka-ul-zariadeny.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "02.11.2026",
+    "datum_iso": "2026-11-02",
+    "lokalita": "Údernícka (Petržalka)",
+    "lat": 48.123141472818,
+    "lng": 17.091607390556,
+    "farba": "green"
+  },
+  "bazos_197089002": {
+    "id": "bazos_197089002",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový byt na prenájom v Ružinove – možnosť dokončenia pod",
+    "odkaz": "https://reality.bazos.sk/inzerat/197089002/1-izbovy-byt-na-prenajom-v-ruzinove-moznost-dokoncenia-pod.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "02.11.2026",
+    "datum_iso": "2026-11-02",
+    "lokalita": "PSČ: 821 02",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   }
 }
