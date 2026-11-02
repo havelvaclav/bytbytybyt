@@ -84,7 +84,7 @@
     "efektivna_cena": 700,
     "datum_str": "02.11.2026",
     "datum_iso": "2026-11-02",
-    "lokalita": "PSČ: 831 01 (Kramáre)",
+    "lokalita": "PSČ: 831 01",
     "lat": 48.1698869,
     "lng": 17.1082667,
     "farba": "orange"
@@ -347,17 +347,17 @@
   "bazos_196960146": {
     "id": "bazos_196960146",
     "zdroj": "Bazoš",
-    "titulok": "-REZERVOVANY- samostatná spálňa - 1,5 izbovy - Ružinov",
+    "titulok": "-OBSADENY- samostatná spálňa - 1,5 izbovy - Ružinov",
     "odkaz": "https://reality.bazos.sk/inzerat/196960146/novo-zariadeny-samostatna-spalna-15-izbovy-ruzinov.php",
     "cena_povodna": "430 €",
     "spolu_cena": "430 €",
     "efektivna_cena": 430,
     "datum_str": "28.10.2026",
     "datum_iso": "2026-10-28",
-    "lokalita": "Zariadený (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
-    "farba": "green"
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
   },
   "bazos_196955851": {
     "id": "bazos_196955851",
@@ -474,9 +474,9 @@
     "efektivna_cena": 700,
     "datum_str": "29.10.2026",
     "datum_iso": "2026-10-29",
-    "lokalita": "Hečkova (Dúbravka)",
-    "lat": 48.180915699,
-    "lng": 17.044989933,
+    "lokalita": "Hečkova (Rača)",
+    "lat": 48.202983512638,
+    "lng": 17.149732474773,
     "farba": "green"
   },
   "bazos_196990973": {
@@ -594,10 +594,10 @@
     "efektivna_cena": 620,
     "datum_str": "01.11.2026",
     "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 929 01",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange"
+    "lokalita": "Hlavná",
+    "lat": 48.169352303612,
+    "lng": 17.109829184402,
+    "farba": "green"
   },
   "bazos_197066508": {
     "id": "bazos_197066508",
@@ -729,10 +729,10 @@
     "efektivna_cena": 450,
     "datum_str": "02.11.2026",
     "datum_iso": "2026-11-02",
-    "lokalita": "PSČ: 900 41",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange"
+    "lokalita": "Saratovská",
+    "lat": 48.200750539789,
+    "lng": 17.031817931395,
+    "farba": "green"
   },
   "bazos_197097438": {
     "id": "bazos_197097438",
@@ -763,5 +763,65 @@
     "lat": 48.1582936,
     "lng": 17.1633484,
     "farba": "orange"
+  },
+  "bazos_197113811": {
+    "id": "bazos_197113811",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | 1-IZBOVÝ BYT | TERASA 30 m², BRATISLAVA-PETRŽALKA",
+    "odkaz": "https://reality.bazos.sk/inzerat/197113811/prenajom-1-izbovy-byt-terasa-30-m-bratislava-petrzalka.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "02.11.2026",
+    "datum_iso": "2026-11-02",
+    "lokalita": "PSČ: 851 07 (Petržalka)",
+    "lat": 48.0995306,
+    "lng": 17.1308633,
+    "farba": "orange"
+  },
+  "bazos_197112514": {
+    "id": "bazos_197112514",
+    "zdroj": "Bazoš",
+    "titulok": "DULOVO NÁM.  - Garsónka",
+    "odkaz": "https://reality.bazos.sk/inzerat/197112514/dulovo-namestie-garsonka-na-trencianskej-ul.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "02.11.2026",
+    "datum_iso": "2026-11-02",
+    "lokalita": "DULOVO",
+    "lat": 48.1491475,
+    "lng": 17.1349026,
+    "farba": "green"
+  },
+  "bazos_197110933": {
+    "id": "bazos_197110933",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 3i byt v obľúbenej časti Bratislavy – Nové mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/197110933/na-prenajom-3i-byt-v-oblubenej-casti-bratislavy-nove-mesto.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "02.11.2026",
+    "datum_iso": "2026-11-02",
+    "lokalita": "PSČ: 830 00 (Nové Mesto)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_197105565": {
+    "id": "bazos_197105565",
+    "zdroj": "Bazoš",
+    "titulok": "🏡 PRÍJEMNÁ IZBA NA PRENÁJOM – BRATISLAVA, MILANA MAREČKA 3",
+    "odkaz": "https://reality.bazos.sk/inzerat/197105565/prijemna-izba-na-prenajom-bratislava-milana-marecka-3.php",
+    "cena_povodna": "399 €",
+    "spolu_cena": "399 €",
+    "efektivna_cena": 399,
+    "datum_str": "02.11.2026",
+    "datum_iso": "2026-11-02",
+    "lokalita": "Jelenia/ Staré Mesto (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
+    "farba": "green"
   }
 }
