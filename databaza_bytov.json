@@ -414,10 +414,10 @@
     "efektivna_cena": 620,
     "datum_str": "01.11.2026",
     "datum_iso": "2026-11-01",
-    "lokalita": "Hlavná",
-    "lat": 48.169352303612,
-    "lng": 17.109829184402,
-    "farba": "green"
+    "lokalita": "PSČ: 929 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
   },
   "bazos_197066508": {
     "id": "bazos_197066508",
@@ -444,10 +444,10 @@
     "efektivna_cena": 325,
     "datum_str": "01.11.2026",
     "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Legionárska (Ružinov)",
+    "lat": 48.156515540325,
+    "lng": 17.122595011818,
+    "farba": "green"
   },
   "bazos_197079263": {
     "id": "bazos_197079263",
@@ -549,10 +549,10 @@
     "efektivna_cena": 450,
     "datum_str": "02.11.2026",
     "datum_iso": "2026-11-02",
-    "lokalita": "Saratovská",
-    "lat": 48.200750539789,
-    "lng": 17.031817931395,
-    "farba": "green"
+    "lokalita": "PSČ: 900 41",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
   },
   "bazos_197097438": {
     "id": "bazos_197097438",
@@ -639,9 +639,39 @@
     "efektivna_cena": 399,
     "datum_str": "02.11.2026",
     "datum_iso": "2026-11-02",
-    "lokalita": "Jelenia/ Staré Mesto (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
+  },
+  "bazos_197143834": {
+    "id": "bazos_197143834",
+    "zdroj": "Bazoš",
+    "titulok": "GRAVITAS | Prenájom 2i bytu Račianska ulica, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/197143834/gravitas-prenajom-2i-bytu-racianska-ulica-bratislava.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "03.11.2026",
+    "datum_iso": "2026-11-03",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_197143551": {
+    "id": "bazos_197143551",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1KK,balkón,klimatizáca,garáž - Kramáre,BEZ PROVÍZIE",
+    "odkaz": "https://reality.bazos.sk/inzerat/197143551/prenajom-1kkbalkonklimatizacagaraz-kramarebez-provizie.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "03.11.2026",
+    "datum_iso": "2026-11-03",
+    "lokalita": "PSČ: 830 00 (Vrakuňa)",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   }
 }
