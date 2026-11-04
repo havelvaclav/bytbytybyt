@@ -369,10 +369,10 @@
     "efektivna_cena": 620,
     "datum_str": "01.11.2026",
     "datum_iso": "2026-11-01",
-    "lokalita": "Vámbéry Ármin",
+    "lokalita": "PSČ: 929 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "green",
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -435,7 +435,13 @@
     "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
     "lat": 48.2059525,
     "lng": 16.9785455,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197079263/prenajom-2-izbovy-byt-bratislava-devinska-nova-ves.php"
+      }
+    ]
   },
   "bazos_197076946": {
     "id": "bazos_197076946",
@@ -567,7 +573,13 @@
     "lokalita": "PSČ: 821 02",
     "lat": 48.1582936,
     "lng": 17.1633484,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197089002/1-izbovy-byt-na-prenajom-v-ruzinove-moznost-dokoncenia-pod.php"
+      }
+    ]
   },
   "bazos_197113811": {
     "id": "bazos_197113811",
@@ -609,10 +621,10 @@
     "efektivna_cena": 700,
     "datum_str": "02.11.2026",
     "datum_iso": "2026-11-02",
-    "lokalita": "PSČ: 830 00 (Nové Mesto)",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange"
+    "lokalita": "Rodinný dom (Nové Mesto)",
+    "lat": 48.174022044,
+    "lng": 17.135894731,
+    "farba": "green"
   },
   "bazos_197105565": {
     "id": "bazos_197105565",
@@ -702,6 +714,36 @@
     "lokalita": "PSČ: 830 00 (Nové Mesto)",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_197175201": {
+    "id": "bazos_197175201",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1 izbový byt v Petržalke na ulici Holíčska",
+    "odkaz": "https://reality.bazos.sk/inzerat/197175201/prenajom-1-izbovy-byt-v-petrzalke-na-ulici-holicska.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "04.11.2026",
+    "datum_iso": "2026-11-04",
+    "lokalita": "PSČ: 851 05",
+    "lat": 48.1060532,
+    "lng": 17.1075321,
+    "farba": "orange"
+  },
+  "bazos_197174008": {
+    "id": "bazos_197174008",
+    "zdroj": "Bazoš",
+    "titulok": "NOVOSTAVBA 1. IZB. BYT LODŽIA INTERNET RAČA",
+    "odkaz": "https://reality.bazos.sk/inzerat/197174008/novostavba-1-izb-byt-lodzia-internet-raca.php",
+    "cena_povodna": "555 €",
+    "spolu_cena": "555 €",
+    "efektivna_cena": 555,
+    "datum_str": "04.11.2026",
+    "datum_iso": "2026-11-04",
+    "lokalita": "PSČ: 831 02 (Rača)",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
     "farba": "orange"
   }
 }
