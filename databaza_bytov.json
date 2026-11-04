@@ -58,8 +58,8 @@
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
     "efektivna_cena": 700,
-    "datum_str": "03.11.2026",
-    "datum_iso": "2026-11-03",
+    "datum_str": "04.11.2026",
+    "datum_iso": "2026-11-04",
     "lokalita": "PSČ: 831 01",
     "lat": 48.1698869,
     "lng": 17.1082667,
@@ -124,147 +124,6 @@
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange"
-  },
-  "bazos_196944695": {
-    "id": "bazos_196944695",
-    "zdroj": "Bazoš",
-    "titulok": "Zariadený 2i byt s parkovaním pri vinohradoch - Nové Mesto",
-    "odkaz": "https://reality.bazos.sk/inzerat/196944695/zariadeny-2i-byt-s-parkovanim-pri-vinohradoch-nove-mesto.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "28.10.2026",
-    "datum_iso": "2026-10-28",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196944695/zariadeny-2i-byt-s-parkovanim-pri-vinohradoch-nove-mesto.php"
-      }
-    ]
-  },
-  "bazos_196941962": {
-    "id": "bazos_196941962",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 1,5 i byt + loggia; Bratislava - Ružinov (Ostredky)",
-    "odkaz": "https://reality.bazos.sk/inzerat/196941962/prenajom-15-i-byt-loggia-bratislava-ruzinov-ostredky.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "28.10.2026",
-    "datum_iso": "2026-10-28",
-    "lokalita": "prostredí (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196941962/prenajom-15-i-byt-loggia-bratislava-ruzinov-ostredky.php"
-      }
-    ]
-  },
-  "bazos_196960909": {
-    "id": "bazos_196960909",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM – 1-izbový byt, 29 m², Šamorín – Gazdovský rad",
-    "odkaz": "https://reality.bazos.sk/inzerat/196960909/prenajom-1-izbovy-byt-29-m-samorin-gazdovsky-rad.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "28.10.2026",
-    "datum_iso": "2026-10-28",
-    "lokalita": "PSČ: 931 01",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196960909/prenajom-1-izbovy-byt-29-m-samorin-gazdovsky-rad.php"
-      }
-    ]
-  },
-  "bazos_196960146": {
-    "id": "bazos_196960146",
-    "zdroj": "Bazoš",
-    "titulok": "-OBSADENY- samostatná spálňa - 1,5 izbovy - Ružinov",
-    "odkaz": "https://reality.bazos.sk/inzerat/196960146/novo-zariadeny-samostatna-spalna-15-izbovy-ruzinov.php",
-    "cena_povodna": "430 €",
-    "spolu_cena": "430 €",
-    "efektivna_cena": 430,
-    "datum_str": "28.10.2026",
-    "datum_iso": "2026-10-28",
-    "lokalita": "PSČ: 821 02 (Ružinov)",
-    "lat": 48.1582936,
-    "lng": 17.1633484,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196960146/novo-zariadeny-samostatna-spalna-15-izbovy-ruzinov.php"
-      }
-    ]
-  },
-  "bazos_196955851": {
-    "id": "bazos_196955851",
-    "zdroj": "Bazoš",
-    "titulok": "Byt v historickom centre s tichou loggiou",
-    "odkaz": "https://reality.bazos.sk/inzerat/196955851/byt-v-historickom-centre-s-tichou-loggiou.php",
-    "cena_povodna": "690 €",
-    "spolu_cena": "690 €",
-    "efektivna_cena": 690,
-    "datum_str": "28.10.2026",
-    "datum_iso": "2026-10-28",
-    "lokalita": "Levárska",
-    "lat": 48.161625803405,
-    "lng": 17.047024992333,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196955851/byt-v-historickom-centre-s-tichou-loggiou.php"
-      }
-    ]
-  },
-  "bazos_196955425": {
-    "id": "bazos_196955425",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom izby – Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/196955425/prenajom-izby-bratislava.php",
-    "cena_povodna": "400 €",
-    "spolu_cena": "400 €",
-    "efektivna_cena": 400,
-    "datum_str": "28.10.2026",
-    "datum_iso": "2026-10-28",
-    "lokalita": "PSČ: 851 04",
-    "lat": 48.1273452,
-    "lng": 17.1278204,
-    "farba": "orange"
-  },
-  "bazos_196955268": {
-    "id": "bazos_196955268",
-    "zdroj": "Bazoš",
-    "titulok": "AXIS REAL | Novostavba GUTHAUS slnečný zariadený 1-izb. byt,",
-    "odkaz": "https://reality.bazos.sk/inzerat/196955268/axis-real-novostavba-guthaus-slnecny-zariadeny-1-izb-byt.php",
-    "cena_povodna": "580 €",
-    "spolu_cena": "580 €",
-    "efektivna_cena": 580,
-    "datum_str": "28.10.2026",
-    "datum_iso": "2026-10-28",
-    "lokalita": "PSČ: 830 00",
-    "lat": 48.1896401,
-    "lng": 17.1228167,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196955268/axis-real-novostavba-guthaus-slnecny-zariadeny-1-izb-byt.php"
-      }
-    ]
   },
   "bazos_196988247": {
     "id": "bazos_196988247",
@@ -451,8 +310,8 @@
     "cena_povodna": "570 €",
     "spolu_cena": "570 €",
     "efektivna_cena": 570,
-    "datum_str": "03.11.2026",
-    "datum_iso": "2026-11-03",
+    "datum_str": "04.11.2026",
+    "datum_iso": "2026-11-04",
     "lokalita": "PSČ: 821 01 (Kramáre)",
     "lat": 48.1536448,
     "lng": 17.1566781,
@@ -643,8 +502,8 @@
     "cena_povodna": "510 €",
     "spolu_cena": "510 €",
     "efektivna_cena": 510,
-    "datum_str": "03.11.2026",
-    "datum_iso": "2026-11-03",
+    "datum_str": "04.11.2026",
+    "datum_iso": "2026-11-04",
     "lokalita": "Vyšehradská (Petržalka)",
     "lat": 48.097064913802,
     "lng": 17.102789995248,
@@ -658,8 +517,8 @@
     "cena_povodna": "530 €",
     "spolu_cena": "530 €",
     "efektivna_cena": 530,
-    "datum_str": "03.11.2026",
-    "datum_iso": "2026-11-03",
+    "datum_str": "04.11.2026",
+    "datum_iso": "2026-11-04",
     "lokalita": "Vyšehradská (Petržalka)",
     "lat": 48.097064913802,
     "lng": 17.102789995248,
@@ -718,8 +577,8 @@
     "cena_povodna": "630 €",
     "spolu_cena": "630 €",
     "efektivna_cena": 630,
-    "datum_str": "03.11.2026",
-    "datum_iso": "2026-11-03",
+    "datum_str": "04.11.2026",
+    "datum_iso": "2026-11-04",
     "lokalita": "PSČ: 851 07 (Petržalka)",
     "lat": 48.0995306,
     "lng": 17.1308633,
