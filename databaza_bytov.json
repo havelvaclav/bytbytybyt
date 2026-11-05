@@ -117,7 +117,7 @@
     "efektivna_cena": 700,
     "datum_str": "03.11.2026",
     "datum_iso": "2026-11-03",
-    "lokalita": "PSČ: 930 41 (Petržalka)",
+    "lokalita": "PSČ: 930 41",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange",
@@ -195,18 +195,18 @@
     "efektivna_cena": 570,
     "datum_str": "05.11.2026",
     "datum_iso": "2026-11-05",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lokalita": "PSČ: 821 01 (Petržalka)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197206746/realitny-kancelaria-realadr-sro.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197207866/realitny-kancelaria-realadr-sro.php"
       },
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197177864/realitny-kancelaria-realadr-sro.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197206746/realitny-kancelaria-realadr-sro.php"
       }
     ]
   },
@@ -325,10 +325,10 @@
     "efektivna_cena": 680,
     "datum_str": "01.11.2026",
     "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 841 08 (Devínska Nová Ves)",
-    "lat": 48.2059525,
-    "lng": 16.9785455,
-    "farba": "orange",
+    "lokalita": "Vyšehradská (Petržalka)",
+    "lat": 48.097064913802,
+    "lng": 17.102789995248,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -361,7 +361,7 @@
     "efektivna_cena": 450,
     "datum_str": "01.11.2026",
     "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 821 07 (Bory)",
+    "lokalita": "PSČ: 821 07",
     "lat": 48.1453315,
     "lng": 17.2073352,
     "farba": "orange",
@@ -475,7 +475,7 @@
     "efektivna_cena": 600,
     "datum_str": "02.11.2026",
     "datum_iso": "2026-11-02",
-    "lokalita": "PSČ: 821 02",
+    "lokalita": "PSČ: 821 02 (Ružinov)",
     "lat": 48.1582936,
     "lng": 17.1633484,
     "farba": "orange",
@@ -661,10 +661,16 @@
     "efektivna_cena": 550,
     "datum_str": "04.11.2026",
     "datum_iso": "2026-11-04",
-    "lokalita": "Karloveská",
-    "lat": 48.169894860205,
-    "lng": 17.049492582236,
-    "farba": "green"
+    "lokalita": "Vajnorská (Nové Mesto)",
+    "lat": 48.182132808926,
+    "lng": 17.149529404215,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197175201/prenajom-1-izbovy-byt-v-petrzalke-na-ulici-holicska.php"
+      }
+    ]
   },
   "bazos_197174008": {
     "id": "bazos_197174008",
@@ -679,7 +685,13 @@
     "lokalita": "PSČ: 831 02 (Rača)",
     "lat": 48.1754087,
     "lng": 17.1158206,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197174008/novostavba-1-izb-byt-lodzia-internet-raca.php"
+      }
+    ]
   },
   "bazos_197189163": {
     "id": "bazos_197189163",
@@ -721,10 +733,16 @@
     "efektivna_cena": 700,
     "datum_str": "04.11.2026",
     "datum_iso": "2026-11-04",
-    "lokalita": "Karloveská (Rača)",
-    "lat": 48.169894860205,
-    "lng": 17.049492582236,
-    "farba": "green"
+    "lokalita": "Vajnorská (Nové Mesto)",
+    "lat": 48.182132808926,
+    "lng": 17.149529404215,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197186316/prenajom-1-izboveho-bytu-v-bratislava-raca-rustaveliho-uli.php"
+      }
+    ]
   },
   "bazos_197180130": {
     "id": "bazos_197180130",
@@ -739,7 +757,13 @@
     "lokalita": "Budovateľská (Nivy)",
     "lat": 48.149359388832,
     "lng": 17.12667358191,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197180130/rebsk-utulny-1-iz-byt-36-m-na-prenajom-holicska-petr.php"
+      }
+    ]
   },
   "bazos_197179934": {
     "id": "bazos_197179934",
@@ -754,7 +778,13 @@
     "lokalita": "PSČ: 930 41",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197179934/novostavba-2-izbovy-tehlovy-byt-s-balkonom-v-rezidencnom-p.php"
+      }
+    ]
   },
   "bazos_197179678": {
     "id": "bazos_197179678",
@@ -769,7 +799,13 @@
     "lokalita": "Tomášikova (Nové Mesto)",
     "lat": 48.169953947668,
     "lng": 17.147168163888,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197179678/prenajom-2-izbovy-byt-bagarova-bratislava-dubravka.php"
+      }
+    ]
   },
   "bazos_197179382": {
     "id": "bazos_197179382",
@@ -792,6 +828,10 @@
       },
       {
         "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197179382/prijemna-izba-na-prenajom-bratislava.php"
+      },
+      {
+        "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197105565/prijemna-izba-na-prenajom-bratislava-milana-marecka-3.php"
       }
     ]
@@ -809,7 +849,13 @@
     "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197178471/prenajom-2-izb-byt-centrum-laurinska-ulica-bratislava-i-s.php"
+      }
+    ]
   },
   "bazos_197099055": {
     "id": "bazos_197099055",
@@ -842,7 +888,7 @@
     "efektivna_cena": 590,
     "datum_str": "05.11.2026",
     "datum_iso": "2026-11-05",
-    "lokalita": "Karloveská (Rača)",
+    "lokalita": "Karloveská (Nové Mesto)",
     "lat": 48.169894860205,
     "lng": 17.049492582236,
     "farba": "green"
@@ -857,7 +903,7 @@
     "efektivna_cena": 550,
     "datum_str": "05.11.2026",
     "datum_iso": "2026-11-05",
-    "lokalita": "PSČ: 811 03 (Ružinov)",
+    "lokalita": "PSČ: 811 03 (Petržalka)",
     "lat": 48.1464009,
     "lng": 17.1068781,
     "farba": "orange"
@@ -876,5 +922,125 @@
     "lat": 48.118283215,
     "lng": 17.11036176,
     "farba": "green"
+  },
+  "bazos_196018972": {
+    "id": "bazos_196018972",
+    "zdroj": "Bazoš",
+    "titulok": "2-izbový zariadený byt s balkónom v novostavbe",
+    "odkaz": "https://reality.bazos.sk/inzerat/196018972/2-izbovy-zariadeny-byt-s-balkonom-v-novostavbe.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "PSČ: 908 80",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197221771": {
+    "id": "bazos_197221771",
+    "zdroj": "Bazoš",
+    "titulok": "MODERNÝ 2-IZBOVÝ BYT S LODŽIOU PRI DRAŽDIAKU - PETRŽALKA",
+    "odkaz": "https://reality.bazos.sk/inzerat/197221771/moderny-2-izbovy-byt-s-lodziou-pri-drazdiaku-petrzalka.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "Budatínska (Petržalka)",
+    "lat": 48.109083924342,
+    "lng": 17.098447581979,
+    "farba": "green"
+  },
+  "bazos_197220188": {
+    "id": "bazos_197220188",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom | kompletne prerobený 2-izbový byt | Ďatelinová",
+    "odkaz": "https://reality.bazos.sk/inzerat/197220188/prenajom-kompletne-prerobeny-2-izbovy-byt-datelinova.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_197219868": {
+    "id": "bazos_197219868",
+    "zdroj": "Bazoš",
+    "titulok": "📍PRENÁJOM 2-IZBOVÝ BYT S TERASOU V SRDCI STARÉHO MESTA",
+    "odkaz": "https://reality.bazos.sk/inzerat/197219868/prenajom-2-izbovy-byt-s-terasou-v-srdci-stareho-mesta.php",
+    "cena_povodna": "599 €",
+    "spolu_cena": "599 €",
+    "efektivna_cena": 599,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "Topoľčianska (Petržalka)",
+    "lat": 48.107547297878,
+    "lng": 17.109396252679,
+    "farba": "green"
+  },
+  "bazos_197219221": {
+    "id": "bazos_197219221",
+    "zdroj": "Bazoš",
+    "titulok": "REB.SK Prenájom garsónky Bratislava I",
+    "odkaz": "https://reality.bazos.sk/inzerat/197219221/rebsk-exkluzivne-prenajom-garsonky-bratislava-i.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "CINTORÍNSKA",
+    "lat": 48.146700622192,
+    "lng": 17.117844136244,
+    "farba": "green"
+  },
+  "bazos_197216889": {
+    "id": "bazos_197216889",
+    "zdroj": "Bazoš",
+    "titulok": "3-izbový byt s veľkou loggiou  Bratislava – Karlova Ves",
+    "odkaz": "https://reality.bazos.sk/inzerat/197216889/3-izbovy-byt-s-velkou-loggiou-bratislava-karlova-ves.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_197214295": {
+    "id": "bazos_197214295",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 3-izb byt 75m2, Mlynarovičová ul.- Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/197214295/prenajom-3-izb-byt-75m2-mlynarovicova-ul-petrzalka.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "Mlynarovičová (Petržalka)",
+    "lat": 48.126679931172,
+    "lng": 17.120589473309,
+    "farba": "green"
+  },
+  "bazos_197210649": {
+    "id": "bazos_197210649",
+    "zdroj": "Bazoš",
+    "titulok": "A PRENÁJOM | 2-izbový byt s balkónom – Vyšehradská, Bratisla",
+    "odkaz": "https://reality.bazos.sk/inzerat/197210649/a-prenajom-2-izbovy-byt-s-balkonom-vysehradska-bratisla.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "PSČ: 850 00",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
   }
 }
