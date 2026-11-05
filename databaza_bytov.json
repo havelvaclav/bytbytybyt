@@ -120,7 +120,13 @@
     "lokalita": "PSČ: 930 41 (Petržalka)",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196933881/renajom-moderneho-2-izbovy-tehloveho-bytu-hviezdoslavov.php"
+      }
+    ]
   },
   "bazos_197006662": {
     "id": "bazos_197006662",
@@ -189,11 +195,15 @@
     "efektivna_cena": 570,
     "datum_str": "05.11.2026",
     "datum_iso": "2026-11-05",
-    "lokalita": "PSČ: 821 01 (Staré Mesto)",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange",
     "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197206746/realitny-kancelaria-realadr-sro.php"
+      },
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197177864/realitny-kancelaria-realadr-sro.php"
@@ -547,9 +557,9 @@
     "zdroj": "Bazoš",
     "titulok": "GRAVITAS | Prenájom 2i bytu Račianska ulica, Bratislava",
     "odkaz": "https://reality.bazos.sk/inzerat/197143834/gravitas-prenajom-2i-bytu-racianska-ulica-bratislava.php",
-    "cena_povodna": "680 €",
-    "spolu_cena": "680 €",
-    "efektivna_cena": 680,
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
     "datum_str": "03.11.2026",
     "datum_iso": "2026-11-03",
     "lokalita": "PSČ: 830 00",
@@ -597,7 +607,13 @@
     "lokalita": "Kalinčiakova",
     "lat": 48.160668582768,
     "lng": 17.133913945437,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197159125/1-izbovy-byt-na-prenajom-bratislava-kalinciakova-ulica.php"
+      }
+    ]
   },
   "bazos_197146956": {
     "id": "bazos_197146956",
@@ -609,10 +625,16 @@
     "efektivna_cena": 390,
     "datum_str": "03.11.2026",
     "datum_iso": "2026-11-03",
-    "lokalita": "PSČ: 841 04 (Nové Mesto)",
+    "lokalita": "PSČ: 841 04 (Ružinov)",
     "lat": 48.1502245,
     "lng": 17.0621226,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197146956/na-prenajom-zariadena-izba-bratislava-karlova-ves.php"
+      }
+    ]
   },
   "bazos_197146769": {
     "id": "bazos_197146769",
@@ -639,9 +661,9 @@
     "efektivna_cena": 550,
     "datum_str": "04.11.2026",
     "datum_iso": "2026-11-04",
-    "lokalita": "Rustaveliho (Rača)",
-    "lat": 48.213781229621,
-    "lng": 17.157143052594,
+    "lokalita": "Karloveská",
+    "lat": 48.169894860205,
+    "lng": 17.049492582236,
     "farba": "green"
   },
   "bazos_197174008": {
@@ -669,9 +691,9 @@
     "efektivna_cena": 550,
     "datum_str": "04.11.2026",
     "datum_iso": "2026-11-04",
-    "lokalita": "Holíčska (Dúbravka)",
-    "lat": 48.180915699,
-    "lng": 17.044989933,
+    "lokalita": "Holíčska",
+    "lat": 48.108204572617,
+    "lng": 17.105936588021,
     "farba": "green"
   },
   "bazos_197188349": {
@@ -699,9 +721,9 @@
     "efektivna_cena": 700,
     "datum_str": "04.11.2026",
     "datum_iso": "2026-11-04",
-    "lokalita": "Holíčska (Rača)",
-    "lat": 48.108204572617,
-    "lng": 17.105936588021,
+    "lokalita": "Karloveská (Rača)",
+    "lat": 48.169894860205,
+    "lng": 17.049492582236,
     "farba": "green"
   },
   "bazos_197180130": {
@@ -784,10 +806,10 @@
     "efektivna_cena": 600,
     "datum_str": "04.11.2026",
     "datum_iso": "2026-11-04",
-    "lokalita": "Holíčska (Petržalka)",
-    "lat": 48.108204572617,
-    "lng": 17.105936588021,
-    "farba": "green"
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   },
   "bazos_197099055": {
     "id": "bazos_197099055",
@@ -799,7 +821,7 @@
     "efektivna_cena": 700,
     "datum_str": "02.11.2026",
     "datum_iso": "2026-11-02",
-    "lokalita": "Hrobákova (Petržalka)",
+    "lokalita": "Hrobákova",
     "lat": 48.117022630831,
     "lng": 17.116133988768,
     "farba": "green",
@@ -809,5 +831,50 @@
         "odkaz": "https://reality.bazos.sk/inzerat/197099055/prenajom-pekny-3-izbovy-byt-hrobakova-ulica-bratislava-v.php"
       }
     ]
+  },
+  "bazos_197206756": {
+    "id": "bazos_197206756",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1-izbového bytu – Karloveská ulica,",
+    "odkaz": "https://reality.bazos.sk/inzerat/197206756/prenajom-1-izboveho-bytu-karloveska-ulica.php",
+    "cena_povodna": "590 €",
+    "spolu_cena": "590 €",
+    "efektivna_cena": 590,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "Karloveská (Rača)",
+    "lat": 48.169894860205,
+    "lng": 17.049492582236,
+    "farba": "green"
+  },
+  "bazos_197205558": {
+    "id": "bazos_197205558",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197205558/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "PSČ: 811 03 (Ružinov)",
+    "lat": 48.1464009,
+    "lng": 17.1068781,
+    "farba": "orange"
+  },
+  "bazos_197203760": {
+    "id": "bazos_197203760",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1izbový byt NOVOSTAVBA,Rustaveliho ulica,Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/197203760/prenajom-1izbovy-byt-novostavbarustaveliho-ulicabratislava.php",
+    "cena_povodna": "555 €",
+    "spolu_cena": "555 €",
+    "efektivna_cena": 555,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "Rustaveliho (Petržalka)",
+    "lat": 48.118283215,
+    "lng": 17.11036176,
+    "farba": "green"
   }
 }
