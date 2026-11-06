@@ -123,7 +123,7 @@
     "efektivna_cena": 570,
     "datum_str": "06.11.2026",
     "datum_iso": "2026-11-06",
-    "lokalita": "PSČ: 821 01 (Petržalka)",
+    "lokalita": "PSČ: 821 01 (Staré Mesto)",
     "lat": 48.1536448,
     "lng": 17.1566781,
     "farba": "orange",
@@ -131,6 +131,10 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197207866/realitny-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197206746/realitny-kancelaria-realadr-sro.php"
       },
       {
         "zdroj": "Bazoš",
@@ -485,15 +489,15 @@
     "zdroj": "Bazoš",
     "titulok": "🏡 NA PRENÁJOM – ZARIADENÁ IZBA, BRATISLAVA – KARLOVA VES",
     "odkaz": "https://reality.bazos.sk/inzerat/197146956/na-prenajom-zariadena-izba-bratislava-karlova-ves.php",
-    "cena_povodna": "390 €",
-    "spolu_cena": "390 €",
-    "efektivna_cena": 390,
+    "cena_povodna": "375 €",
+    "spolu_cena": "375 €",
+    "efektivna_cena": 375,
     "datum_str": "03.11.2026",
     "datum_iso": "2026-11-03",
-    "lokalita": "PSČ: 841 04 (Ružinov)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange",
+    "lokalita": "Legionárska (Nové Mesto)",
+    "lat": 48.156568296855,
+    "lng": 17.122645794487,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -798,7 +802,13 @@
     "lokalita": "Rustaveliho (Petržalka)",
     "lat": 48.118283215,
     "lng": 17.11036176,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197203760/prenajom-1izbovy-byt-novostavbarustaveliho-ulicabratislava.php"
+      }
+    ]
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -949,5 +959,50 @@
     "lat": 48.154191662046,
     "lng": 17.106125547036,
     "farba": "green"
+  },
+  "bazos_196402528": {
+    "id": "bazos_196402528",
+    "zdroj": "Bazoš",
+    "titulok": "Garzonka 520€ vrátané energií",
+    "odkaz": "https://reality.bazos.sk/inzerat/196402528/garzonka-520e-vratane-energii.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "06.11.2026",
+    "datum_iso": "2026-11-06",
+    "lokalita": "PSČ: 821 06",
+    "lat": 48.1251898,
+    "lng": 17.2111499,
+    "farba": "orange"
+  },
+  "bazos_197236743": {
+    "id": "bazos_197236743",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197236743/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "06.11.2026",
+    "datum_iso": "2026-11-06",
+    "lokalita": "PSČ: 811 03 (Staré Mesto)",
+    "lat": 48.1464009,
+    "lng": 17.1068781,
+    "farba": "orange"
+  },
+  "bazos_197222749": {
+    "id": "bazos_197222749",
+    "zdroj": "Bazoš",
+    "titulok": "HLADÁM PRENAJOM",
+    "odkaz": "https://reality.bazos.sk/inzerat/197222749/hladam-prenajom.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "05.11.2026",
+    "datum_iso": "2026-11-05",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   }
 }
