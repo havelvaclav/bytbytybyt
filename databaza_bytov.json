@@ -1201,5 +1201,20 @@
     "lat": 48.17469160035,
     "lng": 17.167587782499,
     "farba": "green"
+  },
+  "bazos_197258572": {
+    "id": "bazos_197258572",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom štýlový, kompletne zrekonštruovaný a zariadený 2",
+    "odkaz": "https://reality.bazos.sk/inzerat/197258572/na-prenajom-stylovy-kompletne-zrekonstruovany-a-zariadeny-2.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "07.11.2026",
+    "datum_iso": "2026-11-07",
+    "lokalita": "PSČ: 811 01 (Ružinov)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
   }
 }
