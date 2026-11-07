@@ -1227,9 +1227,9 @@
     "efektivna_cena": 600,
     "datum_str": "07.11.2026",
     "datum_iso": "2026-11-07",
-    "lokalita": "Jána Sambucusa",
+    "lokalita": "PSČ: 917 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "green"
+    "farba": "orange"
   }
 }
