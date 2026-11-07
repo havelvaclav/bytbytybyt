@@ -323,9 +323,9 @@
     "efektivna_cena": 700,
     "datum_str": "02.11.2026",
     "datum_iso": "2026-11-02",
-    "lokalita": "Údernícka (Petržalka)",
-    "lat": 48.123141472818,
-    "lng": 17.091607390556,
+    "lokalita": "Medveďovej (Petržalka)",
+    "lat": 48.123031098998,
+    "lng": 17.131897232261,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -635,7 +635,7 @@
     "efektivna_cena": 550,
     "datum_str": "04.11.2026",
     "datum_iso": "2026-11-04",
-    "lokalita": "PSČ: 851 01",
+    "lokalita": "PSČ: 851 01 (Slnečnice)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange",
@@ -1216,5 +1216,20 @@
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
+  },
+  "bazos_197270595": {
+    "id": "bazos_197270595",
+    "zdroj": "Bazoš",
+    "titulok": "Hľadáme si prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/197270595/hladame-si-prenajom.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "07.11.2026",
+    "datum_iso": "2026-11-07",
+    "lokalita": "Jána Sambucusa",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   }
 }
