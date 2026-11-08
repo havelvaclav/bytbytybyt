@@ -1,40 +1,4 @@
 {
-  "bazos_196438992": {
-    "id": "bazos_196438992",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 2-izbového bytu s lodžiou – Ružinov, ulica Polárna",
-    "odkaz": "https://reality.bazos.sk/inzerat/196438992/prenajom-2-izboveho-bytu-s-lodziou-ruzinov-ulica-polarna.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "01.11.2026",
-    "datum_iso": "2026-11-01",
-    "lokalita": "Polárna (Ružinov)",
-    "lat": 48.159822737048,
-    "lng": 17.172274681068,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196438992/prenajom-2-izboveho-bytu-s-lodziou-ruzinov-ulica-polarna.php"
-      }
-    ]
-  },
-  "bazos_196791548": {
-    "id": "bazos_196791548",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 1izb byt - Bratislava - Dúbravka - od 1.11.2026",
-    "odkaz": "https://reality.bazos.sk/inzerat/196791548/prenajom-1izb-byt-bratislava-dubravka-od-1112026.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "01.11.2026",
-    "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 841 01 (Dúbravka)",
-    "lat": 48.1845444,
-    "lng": 17.0151322,
-    "farba": "orange"
-  },
   "bazos_196508877": {
     "id": "bazos_196508877",
     "zdroj": "Bazoš",
@@ -142,126 +106,6 @@
       }
     ]
   },
-  "bazos_197068088": {
-    "id": "bazos_197068088",
-    "zdroj": "Bazoš",
-    "titulok": "2izb byt k dispozícii €620 s energiami",
-    "odkaz": "https://reality.bazos.sk/inzerat/197068088/2izb-byt-k-dispozicii-e620-s-energiami.php",
-    "cena_povodna": "620 €",
-    "spolu_cena": "620 €",
-    "efektivna_cena": 620,
-    "datum_str": "01.11.2026",
-    "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 929 01",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197068088/2izb-byt-k-dispozicii-e620-s-energiami.php"
-      }
-    ]
-  },
-  "bazos_197066508": {
-    "id": "bazos_197066508",
-    "zdroj": "Bazoš",
-    "titulok": "HALO reality - Prenájom, dvojizbový byt Bratislava Ružinov,",
-    "odkaz": "https://reality.bazos.sk/inzerat/197066508/halo-reality-prenajom-dvojizbovy-byt-bratislava-ruzinov.php",
-    "cena_povodna": "690 €",
-    "spolu_cena": "690 €",
-    "efektivna_cena": 690,
-    "datum_str": "01.11.2026",
-    "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 821 08 (Ružinov)",
-    "lat": 48.1582055,
-    "lng": 17.1398196,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197066508/halo-reality-prenajom-dvojizbovy-byt-bratislava-ruzinov.php"
-      }
-    ]
-  },
-  "bazos_197059256": {
-    "id": "bazos_197059256",
-    "zdroj": "Bazoš",
-    "titulok": "🏡 Prenájom lôžka v byte – Galvaniho, Bratislava – Ružinov",
-    "odkaz": "https://reality.bazos.sk/inzerat/197059256/prenajom-lozka-v-byte-galvaniho-bratislava-ruzinov.php",
-    "cena_povodna": "325 €",
-    "spolu_cena": "325 €",
-    "efektivna_cena": 325,
-    "datum_str": "01.11.2026",
-    "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 821 01 (Ružinov)",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197059256/prenajom-lozka-v-byte-galvaniho-bratislava-ruzinov.php"
-      }
-    ]
-  },
-  "bazos_197079263": {
-    "id": "bazos_197079263",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 2-izbový byt | Bratislava – Devínska Nová Ves",
-    "odkaz": "https://reality.bazos.sk/inzerat/197079263/prenajom-2-izbovy-byt-bratislava-devinska-nova-ves.php",
-    "cena_povodna": "680 €",
-    "spolu_cena": "680 €",
-    "efektivna_cena": 680,
-    "datum_str": "01.11.2026",
-    "datum_iso": "2026-11-01",
-    "lokalita": "Vyšehradská (Petržalka)",
-    "lat": 48.097064913802,
-    "lng": 17.102789995248,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197079263/prenajom-2-izbovy-byt-bratislava-devinska-nova-ves.php"
-      }
-    ]
-  },
-  "bazos_197076946": {
-    "id": "bazos_197076946",
-    "zdroj": "Bazoš",
-    "titulok": "AFYREAL prenájom apartmán Priečna, samostatný vstup, pri pol",
-    "odkaz": "https://reality.bazos.sk/inzerat/197076946/afyreal-prenajom-apartman-priecna-samostatny-vstup-pri-pol.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "01.11.2026",
-    "datum_iso": "2026-11-01",
-    "lokalita": "Rodinný dom",
-    "lat": 48.23979289189,
-    "lng": 17.037986911385,
-    "farba": "green"
-  },
-  "bazos_197072878": {
-    "id": "bazos_197072878",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 2-izbového bytu – Bratislava, Stavbárska",
-    "odkaz": "https://reality.bazos.sk/inzerat/197072878/prenajom-2-izboveho-bytu-bratislava-stavbarska.php",
-    "cena_povodna": "450 €",
-    "spolu_cena": "450 €",
-    "efektivna_cena": 450,
-    "datum_str": "01.11.2026",
-    "datum_iso": "2026-11-01",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197072878/prenajom-2-izboveho-bytu-bratislava-stavbarska.php"
-      }
-    ]
-  },
   "bazos_197088326": {
     "id": "bazos_197088326",
     "zdroj": "Bazoš",
@@ -270,8 +114,8 @@
     "cena_povodna": "510 €",
     "spolu_cena": "510 €",
     "efektivna_cena": 510,
-    "datum_str": "07.11.2026",
-    "datum_iso": "2026-11-07",
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
     "lokalita": "Vyšehradská (Petržalka)",
     "lat": 48.097064913802,
     "lng": 17.102789995248,
@@ -285,8 +129,8 @@
     "cena_povodna": "530 €",
     "spolu_cena": "530 €",
     "efektivna_cena": 530,
-    "datum_str": "07.11.2026",
-    "datum_iso": "2026-11-07",
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
     "lokalita": "Vyšehradská (Petržalka)",
     "lat": 48.097064913802,
     "lng": 17.102789995248,
@@ -363,8 +207,8 @@
     "cena_povodna": "630 €",
     "spolu_cena": "630 €",
     "efektivna_cena": 630,
-    "datum_str": "07.11.2026",
-    "datum_iso": "2026-11-07",
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
     "lokalita": "PSČ: 851 07 (Petržalka)",
     "lat": 48.0995306,
     "lng": 17.1308633,
@@ -378,8 +222,8 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "07.11.2026",
-    "datum_iso": "2026-11-07",
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
     "lokalita": "DULOVO",
     "lat": 48.1491475,
     "lng": 17.1349026,
@@ -696,8 +540,8 @@
     "cena_povodna": "400 €",
     "spolu_cena": "400 €",
     "efektivna_cena": 400,
-    "datum_str": "07.11.2026",
-    "datum_iso": "2026-11-07",
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
     "lokalita": "PSČ: 851 04",
     "lat": 48.1273452,
     "lng": 17.1278204,
@@ -820,8 +664,8 @@
     "cena_povodna": "550 €",
     "spolu_cena": "550 €",
     "efektivna_cena": 550,
-    "datum_str": "07.11.2026",
-    "datum_iso": "2026-11-07",
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
     "lokalita": "PSČ: 908 80",
     "lat": 48.154892047,
     "lng": 17.120700574,
@@ -1024,8 +868,8 @@
     "cena_povodna": "520 €",
     "spolu_cena": "520 €",
     "efektivna_cena": 520,
-    "datum_str": "07.11.2026",
-    "datum_iso": "2026-11-07",
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
     "lokalita": "PSČ: 821 06",
     "lat": 48.1251898,
     "lng": 17.2111499,
