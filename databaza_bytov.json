@@ -765,7 +765,7 @@
     "efektivna_cena": 670,
     "datum_str": "05.11.2026",
     "datum_iso": "2026-11-05",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lokalita": "PSČ: 841 04 (Ružinov)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange",
@@ -1029,7 +1029,13 @@
     "lokalita": "Hrobákova (Ružinov)",
     "lat": 48.157624283,
     "lng": 17.151263798,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197246180/prenajom-utulny-2-izbovy-byt-s-loggiou-svidnicka-ruzinov.php"
+      }
+    ]
   },
   "bazos_197242132": {
     "id": "bazos_197242132",
@@ -1044,7 +1050,13 @@
     "lokalita": "Banšelova (Ružinov)",
     "lat": 48.17469160035,
     "lng": 17.167587782499,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197242132/prenajom-priestranny-1-izbovy-byt-s-velkou-loggiou-banselo.php"
+      }
+    ]
   },
   "bazos_197258572": {
     "id": "bazos_197258572",
@@ -1072,6 +1084,66 @@
     "datum_str": "07.11.2026",
     "datum_iso": "2026-11-07",
     "lokalita": "PSČ: 917 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197297396": {
+    "id": "bazos_197297396",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom garsónky Bratislava Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/197297396/prenajom-garsonky-bratislava-petrzalka.php",
+    "cena_povodna": "420 €",
+    "spolu_cena": "420 €",
+    "efektivna_cena": 420,
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
+    "lokalita": "PSČ: 851 04 (Petržalka)",
+    "lat": 48.1273452,
+    "lng": 17.1278204,
+    "farba": "orange"
+  },
+  "bazos_197303943": {
+    "id": "bazos_197303943",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
+    "odkaz": "https://reality.bazos.sk/inzerat/197303943/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
+    "lokalita": "PSČ: 900 41",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197291545": {
+    "id": "bazos_197291545",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 1 izbový byt, 36 m2, Bratislava, Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/197291545/na-prenajom-1-izbovy-byt-36-m2-bratislava-petrzalka-holi.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
+    "lokalita": "PSČ: 851 07 (Petržalka)",
+    "lat": 48.0995306,
+    "lng": 17.1308633,
+    "farba": "orange"
+  },
+  "bazos_197291141": {
+    "id": "bazos_197291141",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenajom zariadeny 2 izbovy byt v Dun.Strede",
+    "odkaz": "https://reality.bazos.sk/inzerat/197291141/na-prenajom-zariadeny-2-izbovy-byt-v-dunstrede.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
+    "lokalita": "PSČ: 929 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange"
