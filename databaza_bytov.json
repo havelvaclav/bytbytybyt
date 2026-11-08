@@ -22,18 +22,12 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "02.11.2026",
-    "datum_iso": "2026-11-02",
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
     "lokalita": "PSČ: 851 05",
     "lat": 48.1060532,
     "lng": 17.1075321,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196900044/prenajom-izby-v-ubytovacom-zariadeni-pri-jazere.php"
-      }
-    ]
+    "farba": "orange"
   },
   "bazos_196908847": {
     "id": "bazos_196908847",
@@ -969,7 +963,13 @@
     "lokalita": "PSČ: 841 01 (Ružinov)",
     "lat": 48.1845444,
     "lng": 17.0151322,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197248930/do-prenajmu-prijemny-a-prakticky-rieseny-3-izbovy-byt-brati.php"
+      }
+    ]
   },
   "bazos_197248159": {
     "id": "bazos_197248159",
@@ -984,7 +984,13 @@
     "lokalita": "pri OC Nivy - Dulovo (Ružinov)",
     "lat": 48.14455,
     "lng": 17.13703,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197248159/prenajom-1i-byt-loggia-rustaveliho-raca.php"
+      }
+    ]
   },
   "bazos_197247172": {
     "id": "bazos_197247172",
@@ -1014,7 +1020,13 @@
     "lokalita": "PSČ: 821 09 (Ružinov)",
     "lat": 48.1398151,
     "lng": 17.1441354,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197247158/prenajom-garsonky-pri-oc-nivy-ruzinov.php"
+      }
+    ]
   },
   "bazos_197246180": {
     "id": "bazos_197246180",
@@ -1146,6 +1158,51 @@
     "lokalita": "PSČ: 929 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197315673": {
+    "id": "bazos_197315673",
+    "zdroj": "Bazoš",
+    "titulok": "NOVOSTAVBA- ZARIADENÝ 2 IZB.BYT S LOGGIOU - TOPOĽČIANSKA UL.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197315673/novostavba-zariadeny-2-izbbyt-s-loggiou-topolcianska-ul.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
+    "lokalita": "LOGGIOU - TOPOĽČIANSKA",
+    "lat": 48.107547297878,
+    "lng": 17.109396252679,
+    "farba": "green"
+  },
+  "bazos_197315607": {
+    "id": "bazos_197315607",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
+    "odkaz": "https://reality.bazos.sk/inzerat/197315607/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
+    "lokalita": "PSČ: 900 41",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197314992": {
+    "id": "bazos_197314992",
+    "zdroj": "Bazoš",
+    "titulok": "3 IZBOVÝ BYT S VEĽKÝM BALKÓNOM | BRATISLAVA RAČA",
+    "odkaz": "https://reality.bazos.sk/inzerat/197314992/3-izbovy-byt-s-velkym-balkonom-bratislava-raca.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "08.11.2026",
+    "datum_iso": "2026-11-08",
+    "lokalita": "PSČ: 831 06 (Staré Mesto)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
     "farba": "orange"
   }
 }
