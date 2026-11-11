@@ -1,19 +1,4 @@
 {
-  "bazos_196508877": {
-    "id": "bazos_196508877",
-    "zdroj": "Bazoš",
-    "titulok": "Dvojizbový byt v zelenej časti širšieho centra/A two-room ap",
-    "odkaz": "https://reality.bazos.sk/inzerat/196508877/dvojizbovy-byt-v-zelenej-casti-sirsieho-centraa-two-room-ap.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "PSČ: 831 01 (Kramáre)",
-    "lat": 48.1698869,
-    "lng": 17.1082667,
-    "farba": "orange"
-  },
   "bazos_196900044": {
     "id": "bazos_196900044",
     "zdroj": "Bazoš",
@@ -22,8 +7,8 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
+    "datum_str": "11.11.2026",
+    "datum_iso": "2026-11-11",
     "lokalita": "PSČ: 851 05",
     "lat": 48.1060532,
     "lng": 17.1075321,
@@ -119,180 +104,12 @@
     "cena_povodna": "600 €",
     "spolu_cena": "600 €",
     "efektivna_cena": 600,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
+    "datum_str": "11.11.2026",
+    "datum_iso": "2026-11-11",
     "lokalita": "DULOVO",
     "lat": 48.1491475,
     "lng": 17.1349026,
     "farba": "green"
-  },
-  "bazos_197175201": {
-    "id": "bazos_197175201",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 1 izbový byt v Petržalke na ulici Holíčska",
-    "odkaz": "https://reality.bazos.sk/inzerat/197175201/prenajom-1-izbovy-byt-v-petrzalke-na-ulici-holicska.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "570 €",
-    "efektivna_cena": 570,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "Holíčska",
-    "lat": 48.108204572617,
-    "lng": 17.105936588021,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197175201/prenajom-1-izbovy-byt-v-petrzalke-na-ulici-holicska.php"
-      }
-    ]
-  },
-  "bazos_197174008": {
-    "id": "bazos_197174008",
-    "zdroj": "Bazoš",
-    "titulok": "NOVOSTAVBA 1. IZB. BYT LODŽIA INTERNET RAČA",
-    "odkaz": "https://reality.bazos.sk/inzerat/197174008/novostavba-1-izb-byt-lodzia-internet-raca.php",
-    "cena_povodna": "555 €",
-    "spolu_cena": "555 €",
-    "efektivna_cena": 555,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "RUSTAVELIHO (Rača)",
-    "lat": 48.213781229621,
-    "lng": 17.157143052594,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197174008/novostavba-1-izb-byt-lodzia-internet-raca.php"
-      }
-    ]
-  },
-  "bazos_197189163": {
-    "id": "bazos_197189163",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom pekný 1 izbový byt, Holíčska ulica, Bratislava V. P",
-    "odkaz": "https://reality.bazos.sk/inzerat/197189163/prenajom-pekny-1-izbovy-byt-holicska-ulica-bratislava-v-p.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "Holíčska (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197189163/prenajom-pekny-1-izbovy-byt-holicska-ulica-bratislava-v-p.php"
-      }
-    ]
-  },
-  "bazos_197188349": {
-    "id": "bazos_197188349",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom garsónky pri OC Nivy Ružinov",
-    "odkaz": "https://reality.bazos.sk/inzerat/197188349/prenajom-garsonky-pri-oc-nivy-ruzinov.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "PSČ: 821 09 (Ružinov)",
-    "lat": 48.1398151,
-    "lng": 17.1441354,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197188349/prenajom-garsonky-pri-oc-nivy-ruzinov.php"
-      }
-    ]
-  },
-  "bazos_197186316": {
-    "id": "bazos_197186316",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 1-izbového bytu v Bratislava, Rača, Rustaveliho uli",
-    "odkaz": "https://reality.bazos.sk/inzerat/197186316/prenajom-1-izboveho-bytu-v-bratislava-raca-rustaveliho-uli.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "Rustaveliho (Rača)",
-    "lat": 48.213781229621,
-    "lng": 17.157143052594,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197186316/prenajom-1-izboveho-bytu-v-bratislava-raca-rustaveliho-uli.php"
-      }
-    ]
-  },
-  "bazos_197180130": {
-    "id": "bazos_197180130",
-    "zdroj": "Bazoš",
-    "titulok": "REB.SK – Útulný 1-iz byt, 36 m², na prenájom, Holíčska, Petr",
-    "odkaz": "https://reality.bazos.sk/inzerat/197180130/rebsk-utulny-1-iz-byt-36-m-na-prenajom-holicska-petr.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "Holíčska (Petržalka)",
-    "lat": 48.108204572617,
-    "lng": 17.105936588021,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197180130/rebsk-utulny-1-iz-byt-36-m-na-prenajom-holicska-petr.php"
-      }
-    ]
-  },
-  "bazos_197179934": {
-    "id": "bazos_197179934",
-    "zdroj": "Bazoš",
-    "titulok": "Novostavba - 2-izbový tehlový byt s balkónom v rezidenčnom p",
-    "odkaz": "https://reality.bazos.sk/inzerat/197179934/novostavba-2-izbovy-tehlovy-byt-s-balkonom-v-rezidencnom-p.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "PSČ: 930 41",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197179934/novostavba-2-izbovy-tehlovy-byt-s-balkonom-v-rezidencnom-p.php"
-      }
-    ]
-  },
-  "bazos_197179678": {
-    "id": "bazos_197179678",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM | 2-izbový byt Bagarova | BRATISLAVA – DÚBRAVKA",
-    "odkaz": "https://reality.bazos.sk/inzerat/197179678/prenajom-2-izbovy-byt-bagarova-bratislava-dubravka.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "Bagarova (Dúbravka)",
-    "lat": 48.183318768592,
-    "lng": 17.04628251733,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197179678/prenajom-2-izbovy-byt-bagarova-bratislava-dubravka.php"
-      }
-    ]
   },
   "bazos_197179382": {
     "id": "bazos_197179382",
@@ -302,33 +119,12 @@
     "cena_povodna": "400 €",
     "spolu_cena": "400 €",
     "efektivna_cena": 400,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
+    "datum_str": "11.11.2026",
+    "datum_iso": "2026-11-11",
     "lokalita": "PSČ: 851 04",
     "lat": 48.1273452,
     "lng": 17.1278204,
     "farba": "orange"
-  },
-  "bazos_197178471": {
-    "id": "bazos_197178471",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 2 izb. byt CENTRUM Laurinská ulica, Bratislava I. S",
-    "odkaz": "https://reality.bazos.sk/inzerat/197178471/prenajom-2-izb-byt-centrum-laurinska-ulica-bratislava-i-s.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "04.11.2026",
-    "datum_iso": "2026-11-04",
-    "lokalita": "PSČ: 811 01 (Ružinov)",
-    "lat": 48.1423729,
-    "lng": 17.099143,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197178471/prenajom-2-izb-byt-centrum-laurinska-ulica-bratislava-i-s.php"
-      }
-    ]
   },
   "bazos_197206756": {
     "id": "bazos_197206756",
@@ -383,15 +179,7 @@
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197186316/prenajom-1-izboveho-bytu-v-bratislava-raca-rustaveliho-uli.php"
-      },
-      {
-        "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197203760/prenajom-1izbovy-byt-novostavbarustaveliho-ulicabratislava.php"
-      },
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197186316/prenajom-1-izboveho-bytu-v-bratislava-raca-rustaveliho-uli.php"
       }
     ]
   },
@@ -546,10 +334,10 @@
     "efektivna_cena": 620,
     "datum_str": "05.11.2026",
     "datum_iso": "2026-11-05",
-    "lokalita": "PSČ: 850 00",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange",
+    "lokalita": "Vyšehradská (Petržalka)",
+    "lat": 48.097064913802,
+    "lng": 17.102789995248,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -607,8 +395,8 @@
     "cena_povodna": "520 €",
     "spolu_cena": "520 €",
     "efektivna_cena": 520,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
+    "datum_str": "11.11.2026",
+    "datum_iso": "2026-11-11",
     "lokalita": "PSČ: 821 06",
     "lat": 48.1251898,
     "lng": 17.2111499,
@@ -685,8 +473,8 @@
     "cena_povodna": "630 €",
     "spolu_cena": "630 €",
     "efektivna_cena": 630,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
+    "datum_str": "11.11.2026",
+    "datum_iso": "2026-11-11",
     "lokalita": "tichom prostredí",
     "lat": 48.154892047,
     "lng": 17.120700574,
@@ -744,10 +532,10 @@
     "efektivna_cena": 700,
     "datum_str": "06.11.2026",
     "datum_iso": "2026-11-06",
-    "lokalita": "pri OC Nivy - Dulovo (Ružinov)",
-    "lat": 48.14455,
-    "lng": 17.13703,
-    "farba": "green",
+    "lokalita": "PSČ: 831 06 (Ružinov)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -883,8 +671,8 @@
     "cena_povodna": "420 €",
     "spolu_cena": "420 €",
     "efektivna_cena": 420,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
+    "datum_str": "11.11.2026",
+    "datum_iso": "2026-11-11",
     "lokalita": "PSČ: 851 04 (Petržalka)",
     "lat": 48.1273452,
     "lng": 17.1278204,
@@ -1027,8 +815,8 @@
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
     "efektivna_cena": 700,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
+    "datum_str": "11.11.2026",
+    "datum_iso": "2026-11-11",
     "lokalita": "PSČ: 821 02 (Ružinov)",
     "lat": 48.1582936,
     "lng": 17.1633484,
@@ -1088,14 +876,6 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197334673/prenajom-stylovy-2-izb-byt-sibirska-ulica-bratislava-iii-n.php"
-      },
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197189163/prenajom-pekny-1-izbovy-byt-holicska-ulica-bratislava-v-p.php"
-      },
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197189163/prenajom-pekny-1-izbovy-byt-holicska-ulica-bratislava-v-p.php"
       }
     ]
   },
@@ -1232,7 +1012,13 @@
     "lokalita": "Ivana Bukovčana (Devínska Nová Ves)",
     "lat": 48.207799125569,
     "lng": 16.979068978737,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197357323/loyalters-3-izbovy-byt-82-m-v-zeleni-dubravky-s-garazou.php"
+      }
+    ]
   },
   "bazos_197356377": {
     "id": "bazos_197356377",
@@ -1308,11 +1094,11 @@
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197291545/na-prenajom-1-izbovy-byt-36-m2-bratislava-petrzalka-holi.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197348470/prenajom-1-izbovy-byt-jankolova-petrzalka.php"
       },
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197348470/prenajom-1-izbovy-byt-jankolova-petrzalka.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197291545/na-prenajom-1-izbovy-byt-36-m2-bratislava-petrzalka-holi.php"
       },
       {
         "zdroj": "Bazoš",
@@ -1538,8 +1324,8 @@
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
     "efektivna_cena": 700,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
+    "datum_str": "11.11.2026",
+    "datum_iso": "2026-11-11",
     "lokalita": "PSČ: 930 41",
     "lat": 48.154892047,
     "lng": 17.120700574,
@@ -1559,5 +1345,20 @@
     "lat": 48.1398151,
     "lng": 17.1441354,
     "farba": "orange"
+  },
+  "bazos_197391740": {
+    "id": "bazos_197391740",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom garsónky Záhradnícka ul.93 pri Miletičke Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/197391740/prenajom-garsonky-zahradnicka-ul93-pri-mileticke-ruzinov.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "10.11.2026",
+    "datum_iso": "2026-11-10",
+    "lokalita": "93 pri Miletičke Ružinov (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
   }
 }
