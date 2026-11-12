@@ -121,7 +121,7 @@
     "efektivna_cena": 400,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "PSČ: 851 04 (Petržalka)",
+    "lokalita": "PSČ: 851 04",
     "lat": 48.1273452,
     "lng": 17.1278204,
     "farba": "orange"
@@ -193,9 +193,9 @@
     "efektivna_cena": 690,
     "datum_str": "06.11.2026",
     "datum_iso": "2026-11-06",
-    "lokalita": "Čapkova (Staré Mesto)",
-    "lat": 48.15692093803,
-    "lng": 17.102577000236,
+    "lokalita": "Zadunajská cesta (Petržalka)",
+    "lat": 48.130559019338,
+    "lng": 17.102103784817,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -250,7 +250,7 @@
     "efektivna_cena": 700,
     "datum_str": "06.11.2026",
     "datum_iso": "2026-11-06",
-    "lokalita": "PSČ: 841 01 (Rača)",
+    "lokalita": "PSČ: 841 01 (Dúbravka)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange",
@@ -370,7 +370,7 @@
     "efektivna_cena": 600,
     "datum_str": "07.11.2026",
     "datum_iso": "2026-11-07",
-    "lokalita": "PSČ: 811 01 (Rača)",
+    "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange",
@@ -391,10 +391,10 @@
     "efektivna_cena": 600,
     "datum_str": "07.11.2026",
     "datum_iso": "2026-11-07",
-    "lokalita": "PSČ: 917 01",
+    "lokalita": "nemá",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "orange",
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -571,9 +571,9 @@
     "efektivna_cena": 690,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "Trnavská (Karlova Ves)",
-    "lat": 48.155154322,
-    "lng": 17.055170079,
+    "lokalita": "Trnavská",
+    "lat": 48.158287058564,
+    "lng": 17.133347902862,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -607,7 +607,7 @@
     "efektivna_cena": 690,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "PSČ: 830 00 (Karlova Ves)",
+    "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
     "farba": "orange",
@@ -670,7 +670,7 @@
     "efektivna_cena": 700,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "PSČ: 821 02 (Rača)",
+    "lokalita": "PSČ: 821 02",
     "lat": 48.1582936,
     "lng": 17.1633484,
     "farba": "orange",
@@ -691,7 +691,7 @@
     "efektivna_cena": 650,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "PSČ: 821 03 (Rača)",
+    "lokalita": "PSČ: 821 03",
     "lat": 48.1548806,
     "lng": 17.1672305,
     "farba": "orange",
@@ -712,7 +712,7 @@
     "efektivna_cena": 680,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "PSČ: 821 08 (Rača)",
+    "lokalita": "PSČ: 821 08",
     "lat": 48.1582055,
     "lng": 17.1398196,
     "farba": "orange",
@@ -832,18 +832,18 @@
     "efektivna_cena": 600,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "PSČ: 850 00 (Staré Mesto)",
-    "lat": 48.123911,
-    "lng": 17.11186,
-    "farba": "orange",
+    "lokalita": "Školská (Staré Mesto)",
+    "lat": 48.152726922756,
+    "lng": 17.11624990985,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197348470/prenajom-1-izbovy-byt-jankolova-petrzalka.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197291545/na-prenajom-1-izbovy-byt-36-m2-bratislava-petrzalka-holi.php"
       },
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197291545/na-prenajom-1-izbovy-byt-36-m2-bratislava-petrzalka-holi.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197348470/prenajom-1-izbovy-byt-jankolova-petrzalka.php"
       },
       {
         "zdroj": "Bazoš",
@@ -882,9 +882,9 @@
     "efektivna_cena": 700,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "Medveďovej (Petržalka)",
-    "lat": 48.123031098998,
-    "lng": 17.131897232261,
+    "lokalita": "29. augusta (Staré Mesto)",
+    "lat": 48.149661762562,
+    "lng": 17.1158370588,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -903,7 +903,7 @@
     "efektivna_cena": 600,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "PSČ: 851 07 (Rača)",
+    "lokalita": "PSČ: 851 07",
     "lat": 48.0995306,
     "lng": 17.1308633,
     "farba": "orange",
@@ -981,9 +981,9 @@
     "efektivna_cena": 680,
     "datum_str": "10.11.2026",
     "datum_iso": "2026-11-10",
-    "lokalita": "Osadná (Petržalka)",
-    "lat": 48.118283215,
-    "lng": 17.11036176,
+    "lokalita": "Osadná (Nové Mesto)",
+    "lat": 48.162947562359,
+    "lng": 17.130861479604,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -1065,10 +1065,10 @@
     "efektivna_cena": 550,
     "datum_str": "10.11.2026",
     "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 831 02 (Petržalka)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange",
+    "lokalita": "Saratovská",
+    "lat": 48.200750539789,
+    "lng": 17.031817931395,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -1167,7 +1167,13 @@
     "lokalita": "LOGGIOU - TOPOĽČIANSKA",
     "lat": 48.107547297878,
     "lng": 17.109396252679,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197412103/novostavba-zariadeny-2-izbbyt-s-loggiou-topolcianska-ul.php"
+      }
+    ]
   },
   "bazos_197411528": {
     "id": "bazos_197411528",
@@ -1212,7 +1218,13 @@
     "lokalita": "Jasovská",
     "lat": 48.094742649008,
     "lng": 17.112822646256,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197409683/prenajom-slnecny-1-izbovy-byt-jasovska-ulica-bratislava.php"
+      }
+    ]
   },
   "bazos_197407847": {
     "id": "bazos_197407847",
@@ -1224,7 +1236,7 @@
     "efektivna_cena": 600,
     "datum_str": "11.11.2026",
     "datum_iso": "2026-11-11",
-    "lokalita": "PSČ: 831 53 (Nové Mesto)",
+    "lokalita": "PSČ: 831 53 (Rača)",
     "lat": 48.1994269,
     "lng": 17.1455462,
     "farba": "orange",
@@ -1287,10 +1299,10 @@
     "efektivna_cena": 550,
     "datum_str": "10.11.2026",
     "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange",
+    "lokalita": "MAJERSKÁ",
+    "lat": 48.155052434845,
+    "lng": 17.20895623045,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -1333,9 +1345,9 @@
     "zdroj": "Bazoš",
     "titulok": "Prenájom izby s vlastnou kúpeľňou, Lacné bývanie - Rusovce",
     "odkaz": "https://reality.bazos.sk/inzerat/197423661/prenajom-izby-s-vlastnou-kupelnou-lacne-byvanie-rusovce.php",
-    "cena_povodna": "275 €",
-    "spolu_cena": "275 €",
-    "efektivna_cena": 275,
+    "cena_povodna": "300 €",
+    "spolu_cena": "300 €",
+    "efektivna_cena": 300,
     "datum_str": "11.11.2026",
     "datum_iso": "2026-11-11",
     "lokalita": "PSČ: 850 09 (Rusovce)",
@@ -1401,7 +1413,13 @@
     "lokalita": "Šuštekova (Petržalka)",
     "lat": 48.128974204293,
     "lng": 17.124670906598,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197420319/prenajmem-izbu-petrzalka-sustekova-ulica.php"
+      }
+    ]
   },
   "bazos_197416600": {
     "id": "bazos_197416600",
@@ -1416,6 +1434,117 @@
     "lokalita": "PSČ: 929 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197416600/prenajom-noveho-2-izboveho-bytu-v-dunajskej-strede.php"
+      }
+    ]
+  },
+  "bazos_197445363": {
+    "id": "bazos_197445363",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197445363/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "12.11.2026",
+    "datum_iso": "2026-11-12",
+    "lokalita": "Kozia (Staré Mesto)",
+    "lat": 48.146895989264,
+    "lng": 17.102409317165,
+    "farba": "green"
+  },
+  "bazos_197444667": {
+    "id": "bazos_197444667",
+    "zdroj": "Bazoš",
+    "titulok": "Novostavba - 2-izbový tehlový byt s balkónom v rezidenčnom p",
+    "odkaz": "https://reality.bazos.sk/inzerat/197444667/novostavba-2-izbovy-tehlovy-byt-s-balkonom-v-rezidencnom-p.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "12.11.2026",
+    "datum_iso": "2026-11-12",
+    "lokalita": "PSČ: 900 42 (Staré Mesto)",
+    "lat": 48.0849246,
+    "lng": 17.2590955,
     "farba": "orange"
+  },
+  "bazos_197440852": {
+    "id": "bazos_197440852",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197440852/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "12.11.2026",
+    "datum_iso": "2026-11-12",
+    "lokalita": "Kozia (Staré Mesto)",
+    "lat": 48.146895989264,
+    "lng": 17.102409317165,
+    "farba": "green"
+  },
+  "bazos_197440849": {
+    "id": "bazos_197440849",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
+    "odkaz": "https://reality.bazos.sk/inzerat/197440849/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "12.11.2026",
+    "datum_iso": "2026-11-12",
+    "lokalita": "Saratovská",
+    "lat": 48.200750539789,
+    "lng": 17.031817931395,
+    "farba": "green"
+  },
+  "bazos_197440513": {
+    "id": "bazos_197440513",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom izby pre ženu pri OC Korzo, Ikea, Avion",
+    "odkaz": "https://reality.bazos.sk/inzerat/197440513/prenajom-izby-pre-zenu-pri-oc-korzo-ikea-avion.php",
+    "cena_povodna": "320 €",
+    "spolu_cena": "320 €",
+    "efektivna_cena": 320,
+    "datum_str": "12.11.2026",
+    "datum_iso": "2026-11-12",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_197439045": {
+    "id": "bazos_197439045",
+    "zdroj": "Bazoš",
+    "titulok": "Garsonka 30m2 Bratislava Trnavka pre 1 osobu",
+    "odkaz": "https://reality.bazos.sk/inzerat/197439045/garsonka-30m2-bratislava-trnavka-pre-1-osobu.php",
+    "cena_povodna": "460 €",
+    "spolu_cena": "460 €",
+    "efektivna_cena": 460,
+    "datum_str": "12.11.2026",
+    "datum_iso": "2026-11-12",
+    "lokalita": "tichom prostredí",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
+  },
+  "bazos_197434871": {
+    "id": "bazos_197434871",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM priestranný 2-i byt v Ružinove s VLASTNÝM PARKOV",
+    "odkaz": "https://reality.bazos.sk/inzerat/197434871/na-prenajom-priestranny-2-i-byt-v-ruzinove-s-vlastnym-parkov.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "12.11.2026",
+    "datum_iso": "2026-11-12",
+    "lokalita": "Rodinný dom",
+    "lat": 48.23979289189,
+    "lng": 17.037986911385,
+    "farba": "green"
   }
 }
