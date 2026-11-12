@@ -214,10 +214,10 @@
     "efektivna_cena": 630,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "PSČ: 811 05",
-    "lat": 48.15687,
-    "lng": 17.1137209,
-    "farba": "orange"
+    "lokalita": "NOVOSTAVBE",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
   },
   "bazos_197248932": {
     "id": "bazos_197248932",
@@ -391,7 +391,7 @@
     "efektivna_cena": 600,
     "datum_str": "07.11.2026",
     "datum_iso": "2026-11-07",
-    "lokalita": "nemá",
+    "lokalita": "JERUZALEMSKÁ",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "green",
@@ -832,9 +832,9 @@
     "efektivna_cena": 600,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "Školská (Staré Mesto)",
-    "lat": 48.152726922756,
-    "lng": 17.11624990985,
+    "lokalita": "ul. Michala Bučiča (Staré Mesto)",
+    "lat": 48.15039,
+    "lng": 17.09002,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -1299,9 +1299,9 @@
     "efektivna_cena": 550,
     "datum_str": "10.11.2026",
     "datum_iso": "2026-11-10",
-    "lokalita": "MAJERSKÁ",
-    "lat": 48.155052434845,
-    "lng": 17.20895623045,
+    "lokalita": "Hradská (Vrakuňa)",
+    "lat": 48.139538451937,
+    "lng": 17.202807212118,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -1512,10 +1512,10 @@
     "efektivna_cena": 320,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "PSČ: 821 04",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange"
+    "lokalita": "internetom. Okružná (Ružinov)",
+    "lat": 48.166866220946,
+    "lng": 17.162052810711,
+    "farba": "green"
   },
   "bazos_197439045": {
     "id": "bazos_197439045",
@@ -1545,6 +1545,21 @@
     "lokalita": "Rodinný dom",
     "lat": 48.23979289189,
     "lng": 17.037986911385,
+    "farba": "green"
+  },
+  "bazos_197457604": {
+    "id": "bazos_197457604",
+    "zdroj": "Bazoš",
+    "titulok": "NOVÝ MODERNÝ KLIMATIZOVANÝ  1i. BYT  / BRATISLAVA II.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197457604/novy-moderny-klimatizovany-1i-byt-bratislava-ii.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "12.11.2026",
+    "datum_iso": "2026-11-12",
+    "lokalita": "Varša (Nové Mesto)",
+    "lat": 48.174022044,
+    "lng": 17.135894731,
     "farba": "green"
   }
 }
