@@ -121,10 +121,10 @@
     "efektivna_cena": 400,
     "datum_str": "13.11.2026",
     "datum_iso": "2026-11-13",
-    "lokalita": "NOVOSTAVBE (Slnečnice)",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "green"
+    "lokalita": "PSČ: 851 04",
+    "lat": 48.1273452,
+    "lng": 17.1278204,
+    "farba": "orange"
   },
   "bazos_196018972": {
     "id": "bazos_196018972",
@@ -172,7 +172,7 @@
     "efektivna_cena": 630,
     "datum_str": "13.11.2026",
     "datum_iso": "2026-11-13",
-    "lokalita": "NOVOSTAVBE",
+    "lokalita": "NOVOSTAVBE (Slnečnice)",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "green"
@@ -229,10 +229,10 @@
     "efektivna_cena": 420,
     "datum_str": "13.11.2026",
     "datum_iso": "2026-11-13",
-    "lokalita": "NOVOSTAVBE (Petržalka)",
-    "lat": 48.118283215,
-    "lng": 17.11036176,
-    "farba": "green"
+    "lokalita": "PSČ: 851 04 (Petržalka)",
+    "lat": 48.1273452,
+    "lng": 17.1278204,
+    "farba": "orange"
   },
   "bazos_197303943": {
     "id": "bazos_197303943",
@@ -924,7 +924,7 @@
     "efektivna_cena": 700,
     "datum_str": "13.11.2026",
     "datum_iso": "2026-11-13",
-    "lokalita": "PSČ: 930 41",
+    "lokalita": "PSČ: 930 41 (Ružinov)",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange"
@@ -1116,10 +1116,10 @@
     "efektivna_cena": 550,
     "datum_str": "10.11.2026",
     "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange",
+    "lokalita": "NOVOSTAVBE",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -1155,7 +1155,13 @@
     "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197426279/prenajom-zrekonstruovany-2i-byt-loggia-klima-muskatova.php"
+      }
+    ]
   },
   "bazos_197423661": {
     "id": "bazos_197423661",
@@ -1347,9 +1353,9 @@
     "efektivna_cena": 320,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "internetom. Okružná (Ružinov)",
-    "lat": 48.166866220946,
-    "lng": 17.162052810711,
+    "lokalita": "ZÁHRADNÍCKA",
+    "lat": 48.152616542655,
+    "lng": 17.122519139902,
     "farba": "green"
   },
   "bazos_197439045": {
@@ -1456,5 +1462,35 @@
     "lat": 48.157624283,
     "lng": 17.151263798,
     "farba": "green"
+  },
+  "bazos_197489818": {
+    "id": "bazos_197489818",
+    "zdroj": "Bazoš",
+    "titulok": "MALÉ KRASŇANY štýlový 2i byt s garážou",
+    "odkaz": "https://reality.bazos.sk/inzerat/197489818/male-krasnany-stylovy-2i-byt-s-garazou.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "13.11.2026",
+    "datum_iso": "2026-11-13",
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_197481648": {
+    "id": "bazos_197481648",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197481648/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "599 €",
+    "spolu_cena": "599 €",
+    "efektivna_cena": 599,
+    "datum_str": "13.11.2026",
+    "datum_iso": "2026-11-13",
+    "lokalita": "PSČ: 821 04 (Petržalka)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   }
 }
