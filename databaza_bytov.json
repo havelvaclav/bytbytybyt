@@ -1230,10 +1230,10 @@
     "efektivna_cena": 700,
     "datum_str": "11.11.2026",
     "datum_iso": "2026-11-11",
-    "lokalita": "Radničné",
-    "lat": 48.149844950516,
-    "lng": 17.171143933744,
-    "farba": "green",
+    "lokalita": "PSČ: 929 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -1251,7 +1251,7 @@
     "efektivna_cena": 550,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "PSČ: 811 02 (Petržalka)",
+    "lokalita": "PSČ: 811 02 (Ružinov)",
     "lat": 48.1456082,
     "lng": 17.0825406,
     "farba": "orange"
@@ -1311,10 +1311,16 @@
     "efektivna_cena": 320,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "ZÁHRADNÍCKA",
-    "lat": 48.152616542655,
-    "lng": 17.122519139902,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04 (Ružinov)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197440513/prenajom-izby-pre-zenu-pri-oc-korzo-ikea-avion.php"
+      }
+    ]
   },
   "bazos_197439045": {
     "id": "bazos_197439045",
@@ -1341,10 +1347,16 @@
     "efektivna_cena": 700,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "Rodinný dom",
-    "lat": 48.23979289189,
-    "lng": 17.037986911385,
-    "farba": "green"
+    "lokalita": "PSČ: 821 01",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197434871/na-prenajom-priestranny-2-i-byt-v-ruzinove-s-vlastnym-parkov.php"
+      }
+    ]
   },
   "bazos_197457604": {
     "id": "bazos_197457604",
@@ -1450,5 +1462,41 @@
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange"
+  },
+  "bazos_197509528": {
+    "id": "bazos_197509528",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197509528/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "598 €",
+    "spolu_cena": "598 €",
+    "efektivna_cena": 598,
+    "datum_str": "14.11.2026",
+    "datum_iso": "2026-11-14",
+    "lokalita": "PSČ: 821 04 (Staré Mesto)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197507330/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
+  },
+  "bazos_197505878": {
+    "id": "bazos_197505878",
+    "zdroj": "Bazoš",
+    "titulok": "2-izb. podkrovný byt - Mierová ul.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197505878/2-izb-podkrovny-byt-mierova-ul.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "14.11.2026",
+    "datum_iso": "2026-11-14",
+    "lokalita": "29. augusta (Staré Mesto)",
+    "lat": 48.149661762562,
+    "lng": 17.1158370588,
+    "farba": "green"
   }
 }
