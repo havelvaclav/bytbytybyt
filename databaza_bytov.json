@@ -337,10 +337,10 @@
     "efektivna_cena": 680,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "PSČ: 821 08",
-    "lat": 48.1582055,
-    "lng": 17.1398196,
-    "farba": "orange",
+    "lokalita": "Miletičova (Ružinov)",
+    "lat": 48.156456161688,
+    "lng": 17.13215886068,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -478,10 +478,10 @@
     "efektivna_cena": 700,
     "datum_str": "09.11.2026",
     "datum_iso": "2026-11-09",
-    "lokalita": "PSČ: 831 02 (Nové Mesto)",
-    "lat": 48.1754087,
-    "lng": 17.1158206,
-    "farba": "orange",
+    "lokalita": "Sládkovičova (Nové Mesto)",
+    "lat": 48.149975393037,
+    "lng": 17.10614402178,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -734,15 +734,15 @@
     "zdroj": "Bazoš",
     "titulok": "Prenájom garsónky pri OC Nivy Ružinov",
     "odkaz": "https://reality.bazos.sk/inzerat/197388092/prenajom-garsonky-pri-oc-nivy-ruzinov.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
     "datum_str": "10.11.2026",
     "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 821 09 (Ružinov)",
-    "lat": 48.1398151,
-    "lng": 17.1441354,
-    "farba": "orange",
+    "lokalita": "pri OC Nivy - Dulovo (Ružinov)",
+    "lat": 48.14455,
+    "lng": 17.13703,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -853,10 +853,10 @@
     "efektivna_cena": 600,
     "datum_str": "11.11.2026",
     "datum_iso": "2026-11-11",
-    "lokalita": "PSČ: 831 53 (Rača)",
-    "lat": 48.1994269,
-    "lng": 17.1455462,
-    "farba": "orange",
+    "lokalita": "Sládkovičova (Rača)",
+    "lat": 48.149975393037,
+    "lng": 17.10614402178,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -916,10 +916,10 @@
     "efektivna_cena": 550,
     "datum_str": "10.11.2026",
     "datum_iso": "2026-11-10",
-    "lokalita": "NOVOSTAVBE",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "green",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -937,10 +937,10 @@
     "efektivna_cena": 630,
     "datum_str": "15.11.2026",
     "datum_iso": "2026-11-15",
-    "lokalita": "Malokrasňanská (Rača)",
-    "lat": 48.190905817852,
-    "lng": 17.135684907442,
-    "farba": "green"
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
   },
   "bazos_197426279": {
     "id": "bazos_197426279",
@@ -1231,7 +1231,13 @@
     "lokalita": "Varša (Nové Mesto)",
     "lat": 48.174022044,
     "lng": 17.135894731,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197457604/novy-moderny-klimatizovany-1i-byt-bratislava-ii.php"
+      }
+    ]
   },
   "bazos_197480217": {
     "id": "bazos_197480217",
@@ -1261,7 +1267,13 @@
     "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197476273/prenajom-zariadenej-izby-karlova-ves.php"
+      }
+    ]
   },
   "bazos_197475792": {
     "id": "bazos_197475792",
@@ -1276,7 +1288,13 @@
     "lokalita": "PSČ: 841 03 (Lamač)",
     "lat": 48.1941432,
     "lng": 17.0468593,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197475792/axis-real-1izbovy-byt-garaz-internet-ba-lamac-malokarp.php"
+      }
+    ]
   },
   "bazos_197474792": {
     "id": "bazos_197474792",
@@ -1291,7 +1309,13 @@
     "lokalita": "Hrobákova (Ružinov)",
     "lat": 48.157624283,
     "lng": 17.151263798,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197474792/prenajom-utulny-2-izbovy-byt-s-loggiou-svidnicka-ruzinov.php"
+      }
+    ]
   },
   "bazos_197489818": {
     "id": "bazos_197489818",
@@ -1303,7 +1327,7 @@
     "efektivna_cena": 680,
     "datum_str": "13.11.2026",
     "datum_iso": "2026-11-13",
-    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange"
@@ -1418,5 +1442,65 @@
     "lat": 48.107547297878,
     "lng": 17.109396252679,
     "farba": "green"
+  },
+  "bazos_197552697": {
+    "id": "bazos_197552697",
+    "zdroj": "Bazoš",
+    "titulok": "Prenajmem zariadený 1 izbový byt v Nových Zámkoch",
+    "odkaz": "https://reality.bazos.sk/inzerat/197552697/prenajmem-zariadeny-1-izbovy-byt-v-novych-zamkoch.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "15.11.2026",
+    "datum_iso": "2026-11-15",
+    "lokalita": "Garsónka",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "green"
+  },
+  "bazos_197551586": {
+    "id": "bazos_197551586",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 1i byt, loggia Rustaveliho Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/197551586/prenajom-1i-byt-loggia-rustaveliho-raca.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "15.11.2026",
+    "datum_iso": "2026-11-15",
+    "lokalita": "PSČ: 831 06 (Ružinov)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_197551055": {
+    "id": "bazos_197551055",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom garsónky Záhradnícka ul.93 pri Miletičke Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/197551055/prenajom-garsonky-zahradnicka-ul93-pri-mileticke-ruzinov.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "15.11.2026",
+    "datum_iso": "2026-11-15",
+    "lokalita": "93 pri Miletičke Ružinov (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
+  },
+  "bazos_197548004": {
+    "id": "bazos_197548004",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenajom zariadeny 2 izbovy byt v centre Dun. Strede",
+    "odkaz": "https://reality.bazos.sk/inzerat/197548004/na-prenajom-zariadeny-2-izbovy-byt-v-centre-dun-strede.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "15.11.2026",
+    "datum_iso": "2026-11-15",
+    "lokalita": "PSČ: 929 01",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
   }
 }
