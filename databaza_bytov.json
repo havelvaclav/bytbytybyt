@@ -1403,5 +1403,20 @@
     "lat": 48.1423729,
     "lng": 17.099143,
     "farba": "orange"
+  },
+  "bazos_197531088": {
+    "id": "bazos_197531088",
+    "zdroj": "Bazoš",
+    "titulok": "NOVOSTAVBA- ZARIADENÝ 2 IZB.BYT S LOGGIOU - TOPOĽČIANSKA UL.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197531088/novostavba-zariadeny-2-izbbyt-s-loggiou-topolcianska-ul.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "15.11.2026",
+    "datum_iso": "2026-11-15",
+    "lokalita": "LOGGIOU - TOPOĽČIANSKA",
+    "lat": 48.107547297878,
+    "lng": 17.109396252679,
+    "farba": "green"
   }
 }
