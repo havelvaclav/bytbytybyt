@@ -960,6 +960,10 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197507330/realitny-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197507330/realitny-kancelaria-realadr-sro.php"
       }
     ]
   },
@@ -976,7 +980,13 @@
     "lokalita": "29. augusta (Staré Mesto)",
     "lat": 48.149661762562,
     "lng": 17.1158370588,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197505878/2-izb-podkrovny-byt-mierova-ul.php"
+      }
+    ]
   },
   "bazos_197514252": {
     "id": "bazos_197514252",
@@ -1142,5 +1152,50 @@
     "lat": 48.1491475,
     "lng": 17.1349026,
     "farba": "green"
+  },
+  "bazos_196709664": {
+    "id": "bazos_196709664",
+    "zdroj": "Bazoš",
+    "titulok": "VYMEŇ SUSEDA - Prenájom 2 izb. bytu s balkónom NOVOSTAVBA C",
+    "odkaz": "https://reality.bazos.sk/inzerat/196709664/vymen-suseda-prenajom-2-izb-bytu-s-balkonom-novostavba-c.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "Čiližská (Vrakuňa)",
+    "lat": 48.143530341651,
+    "lng": 17.21254310295,
+    "farba": "green"
+  },
+  "bazos_197575063": {
+    "id": "bazos_197575063",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkame na prenájom priestranný 1-izbový byt v novostavbe n",
+    "odkaz": "https://reality.bazos.sk/inzerat/197575063/ponukame-na-prenajom-priestranny-1-izbovy-byt-v-novostavbe-n.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "Saratovská",
+    "lat": 48.200750539789,
+    "lng": 17.031817931395,
+    "farba": "green"
+  },
+  "bazos_197570499": {
+    "id": "bazos_197570499",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | 1-izbový byt s LODŽIOU a PIVNICOU, GUTHAUS, Rači",
+    "odkaz": "https://reality.bazos.sk/inzerat/197570499/axis-real-1-izbovy-byt-s-lodziou-a-pivnicou-guthaus-raci.php",
+    "cena_povodna": "520 €",
+    "spolu_cena": "520 €",
+    "efektivna_cena": 520,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
   }
 }
