@@ -12,7 +12,13 @@
     "lokalita": "PSČ: 851 05",
     "lat": 48.1060532,
     "lng": 17.1075321,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196900044/prenajom-izby-v-ubytovacom-zariadeni-pri-jazere.php"
+      }
+    ]
   },
   "bazos_196683256": {
     "id": "bazos_196683256",
@@ -115,10 +121,10 @@
     "efektivna_cena": 630,
     "datum_str": "16.11.2026",
     "datum_iso": "2026-11-16",
-    "lokalita": "PSČ: 811 05",
-    "lat": 48.15687,
-    "lng": 17.1137209,
-    "farba": "orange"
+    "lokalita": "NOVOSTAVBE AXTON (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
   },
   "bazos_197297396": {
     "id": "bazos_197297396",
@@ -754,10 +760,10 @@
     "efektivna_cena": 320,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "PSČ: 821 04 (Ružinov)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange",
+    "lokalita": "internetom. Okružná (Ružinov)",
+    "lat": 48.166866220946,
+    "lng": 17.162052810711,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -916,10 +922,10 @@
     "efektivna_cena": 680,
     "datum_str": "13.11.2026",
     "datum_iso": "2026-11-13",
-    "lokalita": "NOVOSTAVBE AXTON (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
-    "farba": "green",
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -1001,7 +1007,13 @@
     "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197514252/na-prenajom-zariadeny-2-izbovy-byt-v-pesej-zone-bratislava.php"
+      }
+    ]
   },
   "bazos_197513632": {
     "id": "bazos_197513632",
@@ -1031,7 +1043,13 @@
     "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197520570/rebsk-prenajom-garsonky-bratislava-i.php"
+      }
+    ]
   },
   "bazos_197531088": {
     "id": "bazos_197531088",
@@ -1043,10 +1061,16 @@
     "efektivna_cena": 650,
     "datum_str": "15.11.2026",
     "datum_iso": "2026-11-15",
-    "lokalita": "LOGGIOU - TOPOĽČIANSKA",
+    "lokalita": "LOGGIOU - TOPOĽČIANSKA (Nivy)",
     "lat": 48.107547297878,
     "lng": 17.109396252679,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197531088/novostavba-zariadeny-2-izbbyt-s-loggiou-topolcianska-ul.php"
+      }
+    ]
   },
   "bazos_197552697": {
     "id": "bazos_197552697",
@@ -1061,7 +1085,13 @@
     "lokalita": "PSČ: 940 02",
     "lat": 48.152388204809,
     "lng": 17.076725032113,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197552697/prenajmem-zariadeny-1-izbovy-byt-v-novych-zamkoch.php"
+      }
+    ]
   },
   "bazos_197551586": {
     "id": "bazos_197551586",
@@ -1076,7 +1106,13 @@
     "lokalita": "pri OC Nivy - Dulovo (Ružinov)",
     "lat": 48.14455,
     "lng": 17.13703,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197551586/prenajom-1i-byt-loggia-rustaveliho-raca.php"
+      }
+    ]
   },
   "bazos_197551055": {
     "id": "bazos_197551055",
@@ -1091,7 +1127,13 @@
     "lokalita": "93 pri Miletičke Ružinov (Ružinov)",
     "lat": 48.157624283,
     "lng": 17.151263798,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197551055/prenajom-garsonky-zahradnicka-ul93-pri-mileticke-ruzinov.php"
+      }
+    ]
   },
   "bazos_197548004": {
     "id": "bazos_197548004",
@@ -1106,7 +1148,13 @@
     "lokalita": "PSČ: 929 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197548004/na-prenajom-zariadeny-2-izbovy-byt-v-centre-dun-strede.php"
+      }
+    ]
   },
   "bazos_197554149": {
     "id": "bazos_197554149",
@@ -1136,7 +1184,13 @@
     "lokalita": "PSČ: 831 04",
     "lat": 48.1712321,
     "lng": 17.1499302,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197558015/prenajom-1-izb-byt-unitas-sancova-bratislava.php"
+      }
+    ]
   },
   "bazos_197554646": {
     "id": "bazos_197554646",
@@ -1151,7 +1205,13 @@
     "lokalita": "DULOVO",
     "lat": 48.1491475,
     "lng": 17.1349026,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197554646/dulovo-nam-garsonka.php"
+      }
+    ]
   },
   "bazos_196709664": {
     "id": "bazos_196709664",
@@ -1181,7 +1241,13 @@
     "lokalita": "Saratovská",
     "lat": 48.200750539789,
     "lng": 17.031817931395,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197575063/ponukame-na-prenajom-priestranny-1-izbovy-byt-v-novostavbe-n.php"
+      }
+    ]
   },
   "bazos_197570499": {
     "id": "bazos_197570499",
@@ -1196,6 +1262,204 @@
     "lokalita": "PSČ: 830 00",
     "lat": 48.1896401,
     "lng": 17.1228167,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197570499/axis-real-1-izbovy-byt-s-lodziou-a-pivnicou-guthaus-raci.php"
+      }
+    ]
+  },
+  "bazos_197595644": {
+    "id": "bazos_197595644",
+    "zdroj": "Bazoš",
+    "titulok": "RentHub I útulný 1izb. byt I lodžia I Karlova Ves",
+    "odkaz": "https://reality.bazos.sk/inzerat/197595644/renthub-i-utulny-1izb-byt-i-lodzia-i-karlova-ves.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
+  },
+  "bazos_197590815": {
+    "id": "bazos_197590815",
+    "zdroj": "Bazoš",
+    "titulok": "HALO reality - Prenájom, trojizbový byt Bratislava Rača, Sad",
+    "odkaz": "https://reality.bazos.sk/inzerat/197590815/halo-reality-prenajom-trojizbovy-byt-bratislava-raca-sad.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_197588330": {
+    "id": "bazos_197588330",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom pekný 1 izbový byt, Koceľova ulica, Bratislava II.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197588330/prenajom-pekny-1-izbovy-byt-kocelova-ulica-bratislava-ii.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "Koceľova (Ružinov)",
+    "lat": 48.153492582172,
+    "lng": 17.130476618811,
+    "farba": "green"
+  },
+  "bazos_197587449": {
+    "id": "bazos_197587449",
+    "zdroj": "Bazoš",
+    "titulok": "NA PRENÁJOM PRÍJEMNÝ 3-IZBOVÝ BYT, BRATISLAVA-VRÚTOCKÁ",
+    "odkaz": "https://reality.bazos.sk/inzerat/197587449/na-prenajom-prijemny-3-izbovy-byt-bratislava-vrutocka.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_197586533": {
+    "id": "bazos_197586533",
+    "zdroj": "Bazoš",
+    "titulok": "BABONY TRE  - 2-izbového bytu – Bratislava, Stavbárska",
+    "odkaz": "https://reality.bazos.sk/inzerat/197586533/babony-tre-2-izboveho-bytu-bratislava-stavbarska.php",
+    "cena_povodna": "450 €",
+    "spolu_cena": "450 €",
+    "efektivna_cena": 450,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 821 07 (Nové Mesto)",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
+  },
+  "bazos_197585810": {
+    "id": "bazos_197585810",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197585810/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 851 02 (Staré Mesto)",
+    "lat": 48.115408,
+    "lng": 17.1170814,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197579988/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
+  },
+  "bazos_197584730": {
+    "id": "bazos_197584730",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197584730/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 811 03 (Staré Mesto)",
+    "lat": 48.1464009,
+    "lng": 17.1068781,
+    "farba": "orange"
+  },
+  "bazos_197583493": {
+    "id": "bazos_197583493",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Zariadený 2 izb. byt v blízkosti prírody, ul. Kadnár",
+    "odkaz": "https://reality.bazos.sk/inzerat/197583493/bosen-zariadeny-2-izb-byt-v-blizkosti-prirody-ul-kadnar.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 831 06 (Nové Mesto)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_197582743": {
+    "id": "bazos_197582743",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 2-izbový byt s lodžiou, 58 m², novostavba Kopčia",
+    "odkaz": "https://reality.bazos.sk/inzerat/197582743/na-prenajom-2-izbovy-byt-s-lodziou-58-m-novostavba-kopcia.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "Brnianska (Staré Mesto)",
+    "lat": 48.163637238561,
+    "lng": 17.08823269405,
+    "farba": "green"
+  },
+  "bazos_197580966": {
+    "id": "bazos_197580966",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197580966/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 821 02 (Staré Mesto)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197579413/realitna-kancelaria-realadr-sro.php"
+      }
+    ]
+  },
+  "bazos_197579371": {
+    "id": "bazos_197579371",
+    "zdroj": "Bazoš",
+    "titulok": "GRAVITAS | Prenájom 2i bytu Račianska ulica, Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/197579371/gravitas-prenajom-2i-bytu-racianska-ulica-bratislava.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 830 00",
+    "lat": 48.1896401,
+    "lng": 17.1228167,
+    "farba": "orange"
+  },
+  "bazos_197579166": {
+    "id": "bazos_197579166",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197579166/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "549 €",
+    "spolu_cena": "549 €",
+    "efektivna_cena": 549,
+    "datum_str": "16.11.2026",
+    "datum_iso": "2026-11-16",
+    "lokalita": "PSČ: 811 03 (Staré Mesto)",
+    "lat": 48.1464009,
+    "lng": 17.1068781,
     "farba": "orange"
   }
 }
