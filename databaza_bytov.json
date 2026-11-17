@@ -20,31 +20,6 @@
       }
     ]
   },
-  "bazos_196683256": {
-    "id": "bazos_196683256",
-    "zdroj": "Bazoš",
-    "titulok": "Realitný kancelária REALADR s.r.o.",
-    "odkaz": "https://reality.bazos.sk/inzerat/196683256/realitny-kancelaria-realadr-sro.php",
-    "cena_povodna": "570 €",
-    "spolu_cena": "570 €",
-    "efektivna_cena": 570,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "ČAJAKOVA (Staré Mesto)",
-    "lat": 48.158274599468,
-    "lng": 17.115396048481,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197240200/realitna-kancelaria-realadr-sro.php"
-      },
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197240200/realitna-kancelaria-realadr-sro.php"
-      }
-    ]
-  },
   "bazos_197112514": {
     "id": "bazos_197112514",
     "zdroj": "Bazoš",
@@ -68,33 +43,12 @@
     "cena_povodna": "400 €",
     "spolu_cena": "400 €",
     "efektivna_cena": 400,
-    "datum_str": "16.11.2026",
-    "datum_iso": "2026-11-16",
+    "datum_str": "17.11.2026",
+    "datum_iso": "2026-11-17",
     "lokalita": "PSČ: 851 04",
     "lat": 48.1273452,
     "lng": 17.1278204,
     "farba": "orange"
-  },
-  "bazos_196018972": {
-    "id": "bazos_196018972",
-    "zdroj": "Bazoš",
-    "titulok": "2-izbový zariadený byt s balkónom v novostavbe",
-    "odkaz": "https://reality.bazos.sk/inzerat/196018972/2-izbovy-zariadeny-byt-s-balkonom-v-novostavbe.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 908 80",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/196018972/2-izbovy-zariadeny-byt-s-balkonom-v-novostavbe.php"
-      }
-    ]
   },
   "bazos_196402528": {
     "id": "bazos_196402528",
@@ -104,8 +58,8 @@
     "cena_povodna": "520 €",
     "spolu_cena": "520 €",
     "efektivna_cena": 520,
-    "datum_str": "16.11.2026",
-    "datum_iso": "2026-11-16",
+    "datum_str": "17.11.2026",
+    "datum_iso": "2026-11-17",
     "lokalita": "PSČ: 821 06",
     "lat": 48.1251898,
     "lng": 17.2111499,
@@ -162,147 +116,6 @@
       }
     ]
   },
-  "bazos_197360079": {
-    "id": "bazos_197360079",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
-    "odkaz": "https://reality.bazos.sk/inzerat/197360079/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
-    "cena_povodna": "450 €",
-    "spolu_cena": "450 €",
-    "efektivna_cena": 450,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "Saratovská",
-    "lat": 48.200750539789,
-    "lng": 17.031817931395,
-    "farba": "green"
-  },
-  "bazos_197377040": {
-    "id": "bazos_197377040",
-    "zdroj": "Bazoš",
-    "titulok": "Exkluzívne | Pekný 1-izbový byt, Osadná ulica – Nové Mesto",
-    "odkaz": "https://reality.bazos.sk/inzerat/197377040/exkluzivne-pekny-1-izbovy-byt-osadna-ulica-nove-mesto.php",
-    "cena_povodna": "680 €",
-    "spolu_cena": "680 €",
-    "efektivna_cena": 680,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "Osadná (Nové Mesto)",
-    "lat": 48.162947562359,
-    "lng": 17.130861479604,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197377040/exkluzivne-pekny-1-izbovy-byt-osadna-ulica-nove-mesto.php"
-      }
-    ]
-  },
-  "bazos_197374675": {
-    "id": "bazos_197374675",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM | ZREKONŠTRUOVANÝ 1-IZBOVÝ BYT S VEĽKOU LOGGIOU",
-    "odkaz": "https://reality.bazos.sk/inzerat/197374675/prenajom-zrekonstruovany-1-izbovy-byt-s-velkou-loggiou.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 841 04 (Petržalka)",
-    "lat": 48.1502245,
-    "lng": 17.0621226,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197374675/prenajom-zrekonstruovany-1-izbovy-byt-s-velkou-loggiou.php"
-      }
-    ]
-  },
-  "bazos_197374566": {
-    "id": "bazos_197374566",
-    "zdroj": "Bazoš",
-    "titulok": "PRENÁJOM | ZREKONŠTRUOVANÁ GARSÓNKA S VEĽKOU LOGGIOU | 28 m²",
-    "odkaz": "https://reality.bazos.sk/inzerat/197374566/prenajom-zrekonstruovana-garsonka-s-velkou-loggiou-28-m.php",
-    "cena_povodna": "530 €",
-    "spolu_cena": "530 €",
-    "efektivna_cena": 530,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 851 04",
-    "lat": 48.1273452,
-    "lng": 17.1278204,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197374566/prenajom-zrekonstruovana-garsonka-s-velkou-loggiou-28-m.php"
-      }
-    ]
-  },
-  "bazos_197372517": {
-    "id": "bazos_197372517",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom útulná garsónka v obci Rovinka na Hlavnej ulici",
-    "odkaz": "https://reality.bazos.sk/inzerat/197372517/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php",
-    "cena_povodna": "450 €",
-    "spolu_cena": "450 €",
-    "efektivna_cena": 450,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 900 41 (Petržalka)",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197372517/na-prenajom-utulna-garsonka-v-obci-rovinka-na-hlavnej-ulici.php"
-      }
-    ]
-  },
-  "bazos_197372455": {
-    "id": "bazos_197372455",
-    "zdroj": "Bazoš",
-    "titulok": "Hľadáte moderné bývanie v novostavbe v Bratislave? Tento 1-i",
-    "odkaz": "https://reality.bazos.sk/inzerat/197372455/hladate-moderne-byvanie-v-novostavbe-v-bratislave-tento-1-i.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "Saratovská",
-    "lat": 48.200750539789,
-    "lng": 17.031817931395,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197372455/hladate-moderne-byvanie-v-novostavbe-v-bratislave-tento-1-i.php"
-      }
-    ]
-  },
-  "bazos_197368447": {
-    "id": "bazos_197368447",
-    "zdroj": "Bazoš",
-    "titulok": "3-IZBOVÝ BYT NA PRENÁJOM V TRENČÍNE – LEGIONÁRSKA | 68 m² |",
-    "odkaz": "https://reality.bazos.sk/inzerat/197368447/3-izbovy-byt-na-prenajom-v-trencine-legionarska-68-m.php",
-    "cena_povodna": "500 €",
-    "spolu_cena": "500 €",
-    "efektivna_cena": 500,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 911 01",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197368447/3-izbovy-byt-na-prenajom-v-trencine-legionarska-68-m.php"
-      }
-    ]
-  },
   "bazos_197384192": {
     "id": "bazos_197384192",
     "zdroj": "Bazoš",
@@ -311,54 +124,12 @@
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
     "efektivna_cena": 700,
-    "datum_str": "16.11.2026",
-    "datum_iso": "2026-11-16",
+    "datum_str": "17.11.2026",
+    "datum_iso": "2026-11-17",
     "lokalita": "PSČ: 930 41 (Ružinov)",
     "lat": 48.154892047,
     "lng": 17.120700574,
     "farba": "orange"
-  },
-  "bazos_197388092": {
-    "id": "bazos_197388092",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom garsónky pri OC Nivy Ružinov",
-    "odkaz": "https://reality.bazos.sk/inzerat/197388092/prenajom-garsonky-pri-oc-nivy-ruzinov.php",
-    "cena_povodna": "580 €",
-    "spolu_cena": "580 €",
-    "efektivna_cena": 580,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "pri OC Nivy - Dulovo (Ružinov)",
-    "lat": 48.14455,
-    "lng": 17.13703,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197388092/prenajom-garsonky-pri-oc-nivy-ruzinov.php"
-      }
-    ]
-  },
-  "bazos_197391740": {
-    "id": "bazos_197391740",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom garsónky Záhradnícka ul.93 pri Miletičke Ružinov",
-    "odkaz": "https://reality.bazos.sk/inzerat/197391740/prenajom-garsonky-zahradnicka-ul93-pri-mileticke-ruzinov.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "93 pri Miletičke Ružinov (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197391740/prenajom-garsonky-zahradnicka-ul93-pri-mileticke-ruzinov.php"
-      }
-    ]
   },
   "bazos_197412103": {
     "id": "bazos_197412103",
@@ -492,27 +263,6 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197405883/axis-real-zrekonstruovany-priestor-na-byvanie-s-terasou-s.php"
-      }
-    ]
-  },
-  "bazos_197374997": {
-    "id": "bazos_197374997",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenájom pekný zariadený byt - garsonka",
-    "odkaz": "https://reality.bazos.sk/inzerat/197374997/na-prenajom-pekny-zariadeny-byt-garsonka.php",
-    "cena_povodna": "550 €",
-    "spolu_cena": "550 €",
-    "efektivna_cena": 550,
-    "datum_str": "10.11.2026",
-    "datum_iso": "2026-11-10",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197374997/na-prenajom-pekny-zariadeny-byt-garsonka.php"
       }
     ]
   },
@@ -1164,8 +914,8 @@
     "cena_povodna": "580 €",
     "spolu_cena": "580 €",
     "efektivna_cena": 580,
-    "datum_str": "16.11.2026",
-    "datum_iso": "2026-11-16",
+    "datum_str": "17.11.2026",
+    "datum_iso": "2026-11-17",
     "lokalita": "PSČ: 821 09 (Ružinov)",
     "lat": 48.1398151,
     "lng": 17.1441354,
@@ -1221,8 +971,8 @@
     "cena_povodna": "690 €",
     "spolu_cena": "690 €",
     "efektivna_cena": 690,
-    "datum_str": "16.11.2026",
-    "datum_iso": "2026-11-16",
+    "datum_str": "17.11.2026",
+    "datum_iso": "2026-11-17",
     "lokalita": "Čiližská (Vrakuňa)",
     "lat": 48.143530341651,
     "lng": 17.21254310295,
