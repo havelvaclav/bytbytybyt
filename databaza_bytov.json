@@ -225,10 +225,10 @@
     "efektivna_cena": 320,
     "datum_str": "12.11.2026",
     "datum_iso": "2026-11-12",
-    "lokalita": "internetom. Okružná (Ružinov)",
-    "lat": 48.166866220946,
-    "lng": 17.162052810711,
-    "farba": "green",
+    "lokalita": "PSČ: 821 04",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -387,10 +387,10 @@
     "efektivna_cena": 680,
     "datum_str": "13.11.2026",
     "datum_iso": "2026-11-13",
-    "lokalita": "NOVOSTAVBE AXTON (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
-    "farba": "green",
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -688,9 +688,9 @@
     "efektivna_cena": 690,
     "datum_str": "18.11.2026",
     "datum_iso": "2026-11-18",
-    "lokalita": "Medená (Staré Mesto)",
-    "lat": 48.141057874853,
-    "lng": 17.111925924629,
+    "lokalita": "Prievoz (Ružinov)",
+    "lat": 48.1448,
+    "lng": 17.17963,
     "farba": "green"
   },
   "bazos_197575063": {
@@ -748,7 +748,13 @@
     "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197595644/renthub-i-utulny-1izb-byt-i-lodzia-i-karlova-ves.php"
+      }
+    ]
   },
   "bazos_197590815": {
     "id": "bazos_197590815",
@@ -763,7 +769,13 @@
     "lokalita": "PSČ: 831 06 (Rača)",
     "lat": 48.2114337,
     "lng": 17.1541005,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197590815/halo-reality-prenajom-trojizbovy-byt-bratislava-raca-sad.php"
+      }
+    ]
   },
   "bazos_197588330": {
     "id": "bazos_197588330",
@@ -775,10 +787,16 @@
     "efektivna_cena": 600,
     "datum_str": "16.11.2026",
     "datum_iso": "2026-11-16",
-    "lokalita": "Koceľova (Ružinov)",
-    "lat": 48.153492582172,
-    "lng": 17.130476618811,
-    "farba": "green"
+    "lokalita": "Koceľova (Petržalka)",
+    "lat": 48.118283215,
+    "lng": 17.11036176,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197588330/prenajom-pekny-1-izbovy-byt-kocelova-ulica-bratislava-ii.php"
+      }
+    ]
   },
   "bazos_197587449": {
     "id": "bazos_197587449",
@@ -1134,5 +1152,50 @@
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
+  },
+  "bazos_197646676": {
+    "id": "bazos_197646676",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom 2-izbový byt, 57m2, balkón, Bratislava-Rača",
+    "odkaz": "https://reality.bazos.sk/inzerat/197646676/prenajom-2-izbovy-byt-57m2-balkon-bratislava-raca.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "18.11.2026",
+    "datum_iso": "2026-11-18",
+    "lokalita": "PSČ: 831 06 (Rača)",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_197646633": {
+    "id": "bazos_197646633",
+    "zdroj": "Bazoš",
+    "titulok": "1-izbový byt na prenájom,Novostavba,Slnečnice POP,Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/197646633/1-izbovy-byt-na-prenajomnovostavbaslnecnice-popbratislava.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "18.11.2026",
+    "datum_iso": "2026-11-18",
+    "lokalita": "PSČ: 851 01 (Podunajské Biskupice)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_197646345": {
+    "id": "bazos_197646345",
+    "zdroj": "Bazoš",
+    "titulok": "PRIPRAVUJEME - Moderný 1-izbový byt v obľúbenej lokalite Sln",
+    "odkaz": "https://reality.bazos.sk/inzerat/197646345/pripravujeme-moderny-1-izbovy-byt-v-oblubenej-lokalite-sln.php",
+    "cena_povodna": "600 €",
+    "spolu_cena": "600 €",
+    "efektivna_cena": 600,
+    "datum_str": "18.11.2026",
+    "datum_iso": "2026-11-18",
+    "lokalita": "Rybný trh",
+    "lat": 48.141424780521,
+    "lng": 17.104622482821,
+    "farba": "green"
   }
 }
