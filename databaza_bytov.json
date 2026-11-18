@@ -366,7 +366,7 @@
     "efektivna_cena": 650,
     "datum_str": "13.11.2026",
     "datum_iso": "2026-11-13",
-    "lokalita": "Hrobákova (Ružinov)",
+    "lokalita": "Kadnárova (Ružinov)",
     "lat": 48.157624283,
     "lng": 17.151263798,
     "farba": "green",
@@ -787,9 +787,9 @@
     "efektivna_cena": 600,
     "datum_str": "16.11.2026",
     "datum_iso": "2026-11-16",
-    "lokalita": "Koceľova (Petržalka)",
-    "lat": 48.118283215,
-    "lng": 17.11036176,
+    "lokalita": "Koceľova (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -1090,6 +1090,14 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197614278/realitna-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197614726/realitny-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197614278/realitna-kancelaria-realadr-sro.php"
       }
     ]
   },
@@ -1106,7 +1114,13 @@
     "lokalita": "MAJERSKÁ",
     "lat": 48.155052434845,
     "lng": 17.20895623045,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197613120/realitna-kancelaria-realadr-sro.php"
+      }
+    ]
   },
   "bazos_197612960": {
     "id": "bazos_197612960",
@@ -1121,7 +1135,13 @@
     "lokalita": "PSČ: 831 02",
     "lat": 48.1754087,
     "lng": 17.1158206,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197612960/ponukame-na-prenajom-priestranny-1-izbovy-byt-v-novostavbe-n.php"
+      }
+    ]
   },
   "bazos_197608608": {
     "id": "bazos_197608608",
@@ -1136,7 +1156,13 @@
     "lokalita": "Moyzesova",
     "lat": 48.150552143338,
     "lng": 17.104609562632,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197608608/prenajom-2-izb-zrekonstruovaneho-bytu-v-starom-meste-ul-z.php"
+      }
+    ]
   },
   "bazos_197633505": {
     "id": "bazos_197633505",
@@ -1178,7 +1204,7 @@
     "efektivna_cena": 630,
     "datum_str": "18.11.2026",
     "datum_iso": "2026-11-18",
-    "lokalita": "PSČ: 851 01 (Podunajské Biskupice)",
+    "lokalita": "PSČ: 851 01 (Nivy)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
@@ -1197,5 +1223,80 @@
     "lat": 48.141424780521,
     "lng": 17.104622482821,
     "farba": "green"
+  },
+  "bazos_196934002": {
+    "id": "bazos_196934002",
+    "zdroj": "Bazoš",
+    "titulok": "Na prenájom 1 izbový byt, 30 m2, Bratislava, Staré Mesto, Ša",
+    "odkaz": "https://reality.bazos.sk/inzerat/196934002/na-prenajom-garsonka-28m2-stare-mesto-sancova-ulica.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "18.11.2026",
+    "datum_iso": "2026-11-18",
+    "lokalita": "PSČ: 811 01 (Staré Mesto)",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
+  },
+  "bazos_197662810": {
+    "id": "bazos_197662810",
+    "zdroj": "Bazoš",
+    "titulok": "ATRAKTÍVNY - 2-izbový byt | 58 m² | Račianska | Bratislava",
+    "odkaz": "https://reality.bazos.sk/inzerat/197662810/atraktivny-2-izbovy-byt-58-m-racianska-bratislava.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "18.11.2026",
+    "datum_iso": "2026-11-18",
+    "lokalita": "PSČ: 831 02",
+    "lat": 48.1754087,
+    "lng": 17.1158206,
+    "farba": "orange"
+  },
+  "bazos_197659045": {
+    "id": "bazos_197659045",
+    "zdroj": "Bazoš",
+    "titulok": "1-Izbový byt na prenájom Slnečnice Viladomy-ihneď voľný",
+    "odkaz": "https://reality.bazos.sk/inzerat/197659045/1-izbovy-byt-na-prenajom-slnecnice-viladomy-ihned-volny.php",
+    "cena_povodna": "580 €",
+    "spolu_cena": "580 €",
+    "efektivna_cena": 580,
+    "datum_str": "18.11.2026",
+    "datum_iso": "2026-11-18",
+    "lokalita": "PSČ: 850 00 (Slnečnice)",
+    "lat": 48.123911,
+    "lng": 17.11186,
+    "farba": "orange"
+  },
+  "bazos_197652857": {
+    "id": "bazos_197652857",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka s loggiou na prenájom, Znievska, Petržalka",
+    "odkaz": "https://reality.bazos.sk/inzerat/197652857/garsonka-s-loggiou-na-prenajom-znievska-petrzalka.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "18.11.2026",
+    "datum_iso": "2026-11-18",
+    "lokalita": "PSČ: 851 06 (Petržalka)",
+    "lat": 48.1012697,
+    "lng": 17.1078028,
+    "farba": "orange"
+  },
+  "bazos_197651135": {
+    "id": "bazos_197651135",
+    "zdroj": "Bazoš",
+    "titulok": "V BLÍZKOSTI LÍŠČIEHO ÚDOLIA - 1,5i BYT S PIVNICOU",
+    "odkaz": "https://reality.bazos.sk/inzerat/197651135/v-blizkosti-liscieho-udolia-15i-byt-s-pivnicou.php",
+    "cena_povodna": "680 €",
+    "spolu_cena": "680 €",
+    "efektivna_cena": 680,
+    "datum_str": "18.11.2026",
+    "datum_iso": "2026-11-18",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   }
 }
