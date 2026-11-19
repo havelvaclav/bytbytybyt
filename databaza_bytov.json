@@ -60,10 +60,10 @@
     "efektivna_cena": 630,
     "datum_str": "16.11.2026",
     "datum_iso": "2026-11-16",
-    "lokalita": "PSČ: 811 05",
-    "lat": 48.15687,
-    "lng": 17.1137209,
-    "farba": "orange",
+    "lokalita": "NOVOSTAVBE AXTON (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -532,9 +532,9 @@
     "efektivna_cena": 690,
     "datum_str": "19.11.2026",
     "datum_iso": "2026-11-19",
-    "lokalita": "Prievoz (Ružinov)",
-    "lat": 48.1448,
-    "lng": 17.17963,
+    "lokalita": "Čiližská (Vrakuňa)",
+    "lat": 48.143530341651,
+    "lng": 17.21254310295,
     "farba": "green"
   },
   "bazos_197575063": {
@@ -652,7 +652,7 @@
     "efektivna_cena": 650,
     "datum_str": "16.11.2026",
     "datum_iso": "2026-11-16",
-    "lokalita": "PSČ: 821 04 (Nové Mesto)",
+    "lokalita": "PSČ: 821 04",
     "lat": 48.1880333,
     "lng": 17.1853566,
     "farba": "orange",
@@ -853,7 +853,13 @@
     "lokalita": "Jurigovo (Staré Mesto)",
     "lat": 48.15039,
     "lng": 17.09002,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197623416/na-prenajom-1-izbovy-byt-34-m-jurigovo-nam-karlova-ves.php"
+      }
+    ]
   },
   "bazos_197620092": {
     "id": "bazos_197620092",
@@ -873,6 +879,14 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197619975/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197620092/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197619975/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
       }
     ]
   },
@@ -889,7 +903,13 @@
     "lokalita": "PSČ: 811 01 (Karlova Ves)",
     "lat": 48.1423729,
     "lng": 17.099143,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197618303/prenajom-samostatnej-izby-pre-dievca-kramare.php"
+      }
+    ]
   },
   "bazos_197615092": {
     "id": "bazos_197615092",
@@ -1067,9 +1087,9 @@
     "efektivna_cena": 600,
     "datum_str": "18.11.2026",
     "datum_iso": "2026-11-18",
-    "lokalita": "Rybný trh",
-    "lat": 48.141424780521,
-    "lng": 17.104622482821,
+    "lokalita": "Heyrovského (Lamač)",
+    "lat": 48.195826118042,
+    "lng": 17.046510060492,
     "farba": "green"
   },
   "bazos_196934002": {
@@ -1142,7 +1162,7 @@
     "efektivna_cena": 680,
     "datum_str": "18.11.2026",
     "datum_iso": "2026-11-18",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lokalita": "PSČ: 841 04",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange"
@@ -1161,5 +1181,65 @@
     "lat": 48.163705960314,
     "lng": 17.083859461618,
     "farba": "green"
+  },
+  "bazos_197682645": {
+    "id": "bazos_197682645",
+    "zdroj": "Bazoš",
+    "titulok": "Pet-friendly. Priestranný zariadený 2-izbový byt, Jarabinky",
+    "odkaz": "https://reality.bazos.sk/inzerat/197682645/pet-friendly-priestranny-zariadeny-2-izbovy-byt-jarabinky.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "19.11.2026",
+    "datum_iso": "2026-11-19",
+    "lokalita": "Medená",
+    "lat": 48.141057874853,
+    "lng": 17.111925924629,
+    "farba": "green"
+  },
+  "bazos_197682602": {
+    "id": "bazos_197682602",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM od 1.2.2027 | 1,5-izbový byt | Slnečnice – Viladomy",
+    "odkaz": "https://reality.bazos.sk/inzerat/197682602/prenajom-od-122027-15-izbovy-byt-slnecnice-viladomy.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "01.02.2027",
+    "datum_iso": "2027-02-01",
+    "lokalita": "Zuzany Chalupovej (Petržalka)",
+    "lat": 48.093699612055,
+    "lng": 17.115446368023,
+    "farba": "green"
+  },
+  "bazos_197680129": {
+    "id": "bazos_197680129",
+    "zdroj": "Bazoš",
+    "titulok": "NOVOSTAVBA- ZARIADENÝ 2 IZB.BYT S LOGGIOU - TOPOĽČIANSKA UL.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197680129/novostavba-zariadeny-2-izbbyt-s-loggiou-topolcianska-ul.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "19.11.2026",
+    "datum_iso": "2026-11-19",
+    "lokalita": "LOGGIOU - TOPOĽČIANSKA",
+    "lat": 48.107547297878,
+    "lng": 17.109396252679,
+    "farba": "green"
+  },
+  "bazos_197677180": {
+    "id": "bazos_197677180",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | Slnečný 2-izb. byt, NOVOSTAVBA, BA V. Petržalka,",
+    "odkaz": "https://reality.bazos.sk/inzerat/197677180/axis-real-slnecny-2-izb-byt-novostavba-ba-v-petrzalka.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "19.11.2026",
+    "datum_iso": "2026-11-19",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
   }
 }
