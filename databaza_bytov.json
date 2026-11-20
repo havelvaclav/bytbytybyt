@@ -66,10 +66,10 @@
     "efektivna_cena": 630,
     "datum_str": "16.11.2026",
     "datum_iso": "2026-11-16",
-    "lokalita": "NOVOSTAVBE AXTON (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
-    "farba": "green",
+    "lokalita": "PSČ: 811 05",
+    "lat": 48.15687,
+    "lng": 17.1137209,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -601,10 +601,10 @@
     "efektivna_cena": 630,
     "datum_str": "16.11.2026",
     "datum_iso": "2026-11-16",
-    "lokalita": "PSČ: 811 03 (Ružinov)",
-    "lat": 48.1464009,
-    "lng": 17.1068781,
-    "farba": "orange",
+    "lokalita": "Bajkalská (Nové Mesto)",
+    "lat": 48.163396589759,
+    "lng": 17.138817952977,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -1135,7 +1135,13 @@
     "lokalita": "Medená",
     "lat": 48.141057874853,
     "lng": 17.111925924629,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197682645/pet-friendly-priestranny-zariadeny-2-izbovy-byt-jarabinky.php"
+      }
+    ]
   },
   "bazos_197682602": {
     "id": "bazos_197682602",
@@ -1150,7 +1156,13 @@
     "lokalita": "Zuzany Chalupovej (Petržalka)",
     "lat": 48.093699612055,
     "lng": 17.115446368023,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197682602/prenajom-od-122027-15-izbovy-byt-slnecnice-viladomy.php"
+      }
+    ]
   },
   "bazos_197680129": {
     "id": "bazos_197680129",
@@ -1307,7 +1319,13 @@
     "lokalita": "PSČ: 811 01",
     "lat": 48.1423729,
     "lng": 17.099143,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197684339/rebsk-prenajom-garsonky-bratislava-i.php"
+      }
+    ]
   },
   "bazos_197701656": {
     "id": "bazos_197701656",
@@ -1364,9 +1382,89 @@
     "efektivna_cena": 520,
     "datum_str": "20.11.2026",
     "datum_iso": "2026-11-20",
-    "lokalita": "HRANIČNÁ (Ružinov)",
-    "lat": 48.1434705,
-    "lng": 17.1604383,
+    "lokalita": "PSČ: 821 04 (Trnávka)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
+  },
+  "bazos_197724800": {
+    "id": "bazos_197724800",
+    "zdroj": "Bazoš",
+    "titulok": "Kompletne zariadený 1,5-izbový byt – Sklenárova ul. Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/197724800/kompletne-zariadeny-15-izbovy-byt-sklenarova-ul-ruzinov.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "20.11.2026",
+    "datum_iso": "2026-11-20",
+    "lokalita": "Sklenárova (Ružinov)",
+    "lat": 48.150535152594,
+    "lng": 17.146664326732,
     "farba": "green"
+  },
+  "bazos_197721220": {
+    "id": "bazos_197721220",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197721220/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "678 €",
+    "spolu_cena": "678 €",
+    "efektivna_cena": 678,
+    "datum_str": "20.11.2026",
+    "datum_iso": "2026-11-20",
+    "lokalita": "Bajkalská (Nové Mesto)",
+    "lat": 48.163396589759,
+    "lng": 17.138817952977,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197720769/realitna-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197720414/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
+  },
+  "bazos_197719192": {
+    "id": "bazos_197719192",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197719192/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "660 €",
+    "spolu_cena": "660 €",
+    "efektivna_cena": 660,
+    "datum_str": "20.11.2026",
+    "datum_iso": "2026-11-20",
+    "lokalita": "Bajkalská (Nové Mesto)",
+    "lat": 48.163396589759,
+    "lng": 17.138817952977,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197718878/realitny-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197685519/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
+  },
+  "bazos_197718705": {
+    "id": "bazos_197718705",
+    "zdroj": "Bazoš",
+    "titulok": "BOSEN | Zariadený 2-izbový byt v butikovom projekte Residenc",
+    "odkaz": "https://reality.bazos.sk/inzerat/197718705/bosen-zariadeny-2-izbovy-byt-v-butikovom-projekte-residenc.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "20.11.2026",
+    "datum_iso": "2026-11-20",
+    "lokalita": "PSČ: 821 07",
+    "lat": 48.1453315,
+    "lng": 17.2073352,
+    "farba": "orange"
   }
 }
