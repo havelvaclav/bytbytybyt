@@ -231,10 +231,10 @@
     "efektivna_cena": 600,
     "datum_str": "15.11.2026",
     "datum_iso": "2026-11-15",
-    "lokalita": "Ružinove",
-    "lat": 48.14783,
-    "lng": 17.17344,
-    "farba": "green",
+    "lokalita": "PSČ: 831 04 (Nové Mesto)",
+    "lat": 48.1712321,
+    "lng": 17.1499302,
+    "farba": "orange",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -613,11 +613,11 @@
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197620092/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197619975/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
       },
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197619975/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197620092/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
       },
       {
         "zdroj": "Bazoš",
@@ -939,7 +939,7 @@
     "efektivna_cena": 680,
     "datum_str": "18.11.2026",
     "datum_iso": "2026-11-18",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lokalita": "PSČ: 841 04",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange",
@@ -1083,13 +1083,7 @@
     "lokalita": "Pri Šajbách",
     "lat": 48.203431623676,
     "lng": 17.161763668431,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197693789/na-prenajom-1-izbovy-nezariadeny-byt-ulica-pri-sajbach-br.php"
-      }
-    ]
+    "farba": "green"
   },
   "bazos_197689151": {
     "id": "bazos_197689151",
@@ -1361,5 +1355,45 @@
     "lat": 48.163396589759,
     "lng": 17.138817952977,
     "farba": "green"
+  },
+  "bazos_197756050": {
+    "id": "bazos_197756050",
+    "zdroj": "Bazoš",
+    "titulok": "IZBA NA PRENÁJOM – BRATISLAVA",
+    "odkaz": "https://reality.bazos.sk/inzerat/197756050/izba-na-prenajom-bratislava.php",
+    "cena_povodna": "350 €",
+    "spolu_cena": "350 €",
+    "efektivna_cena": 350,
+    "datum_str": "21.11.2026",
+    "datum_iso": "2026-11-21",
+    "lokalita": "PSČ: 851 04",
+    "lat": 48.1273452,
+    "lng": 17.1278204,
+    "farba": "orange"
+  },
+  "bazos_197753312": {
+    "id": "bazos_197753312",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197753312/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "679 €",
+    "spolu_cena": "679 €",
+    "efektivna_cena": 679,
+    "datum_str": "21.11.2026",
+    "datum_iso": "2026-11-21",
+    "lokalita": "Bajkalská (Nové Mesto)",
+    "lat": 48.163396589759,
+    "lng": 17.138817952977,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197720769/realitna-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197720414/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
   }
 }
