@@ -472,11 +472,11 @@
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197620092/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197619975/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
       },
       {
         "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197619975/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
+        "odkaz": "https://reality.bazos.sk/inzerat/197620092/ponukam-na-prenajom-2-izbovy-byt-moderny.php"
       },
       {
         "zdroj": "Bazoš",
@@ -960,7 +960,7 @@
     "efektivna_cena": 600,
     "datum_str": "19.11.2026",
     "datum_iso": "2026-11-19",
-    "lokalita": "PSČ: 831 53 (Rača)",
+    "lokalita": "PSČ: 831 53 (Ružinov)",
     "lat": 48.1994269,
     "lng": 17.1455462,
     "farba": "orange",
@@ -1060,7 +1060,13 @@
     "lokalita": "PSČ: 821 01",
     "lat": 48.1536448,
     "lng": 17.1566781,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197701656/bosen-na-prenajom-novy-1-izbovy-byt-kocelova-bratislava.php"
+      }
+    ]
   },
   "bazos_197716035": {
     "id": "bazos_197716035",
@@ -1102,10 +1108,10 @@
     "efektivna_cena": 520,
     "datum_str": "20.11.2026",
     "datum_iso": "2026-11-20",
-    "lokalita": "OVOCNÉ SADY - IVÁNSKA CESTA (Trnávka)",
-    "lat": 48.174789591095,
-    "lng": 17.199328988826,
-    "farba": "green"
+    "lokalita": "PSČ: 821 04 (Ružinov)",
+    "lat": 48.1880333,
+    "lng": 17.1853566,
+    "farba": "orange"
   },
   "bazos_197724800": {
     "id": "bazos_197724800",
@@ -1274,6 +1280,21 @@
     "lokalita": "PSČ: 908 80",
     "lat": 48.154892047,
     "lng": 17.120700574,
+    "farba": "orange"
+  },
+  "bazos_197785480": {
+    "id": "bazos_197785480",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM | 1-IZBOVÝ BYT | TERASA 30 m², BRATISLAVA-PETRŽALKA",
+    "odkaz": "https://reality.bazos.sk/inzerat/197785480/prenajom-1-izbovy-byt-terasa-30-m-bratislava-petrzalka.php",
+    "cena_povodna": "630 €",
+    "spolu_cena": "630 €",
+    "efektivna_cena": 630,
+    "datum_str": "22.11.2026",
+    "datum_iso": "2026-11-22",
+    "lokalita": "PSČ: 851 07 (Petržalka)",
+    "lat": 48.0995306,
+    "lng": 17.1308633,
     "farba": "orange"
   }
 }
