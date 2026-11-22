@@ -56,21 +56,6 @@
       }
     ]
   },
-  "bazos_197297396": {
-    "id": "bazos_197297396",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom garsónky Bratislava Petržalka",
-    "odkaz": "https://reality.bazos.sk/inzerat/197297396/prenajom-garsonky-bratislava-petrzalka.php",
-    "cena_povodna": "420 €",
-    "spolu_cena": "420 €",
-    "efektivna_cena": 420,
-    "datum_str": "15.11.2026",
-    "datum_iso": "2026-11-15",
-    "lokalita": "PSČ: 851 04 (Petržalka)",
-    "lat": 48.1273452,
-    "lng": 17.1278204,
-    "farba": "orange"
-  },
   "bazos_197384192": {
     "id": "bazos_197384192",
     "zdroj": "Bazoš",
@@ -101,111 +86,6 @@
     "lng": 17.151263798,
     "farba": "green"
   },
-  "bazos_197531088": {
-    "id": "bazos_197531088",
-    "zdroj": "Bazoš",
-    "titulok": "NOVOSTAVBA- ZARIADENÝ 2 IZB.BYT S LOGGIOU - TOPOĽČIANSKA UL.",
-    "odkaz": "https://reality.bazos.sk/inzerat/197531088/novostavba-zariadeny-2-izbbyt-s-loggiou-topolcianska-ul.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "15.11.2026",
-    "datum_iso": "2026-11-15",
-    "lokalita": "LOGGIOU - TOPOĽČIANSKA (Nivy)",
-    "lat": 48.107547297878,
-    "lng": 17.109396252679,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197531088/novostavba-zariadeny-2-izbbyt-s-loggiou-topolcianska-ul.php"
-      }
-    ]
-  },
-  "bazos_197552697": {
-    "id": "bazos_197552697",
-    "zdroj": "Bazoš",
-    "titulok": "Prenajmem zariadený 1 izbový byt v Nových Zámkoch",
-    "odkaz": "https://reality.bazos.sk/inzerat/197552697/prenajmem-zariadeny-1-izbovy-byt-v-novych-zamkoch.php",
-    "cena_povodna": "450 €",
-    "spolu_cena": "450 €",
-    "efektivna_cena": 450,
-    "datum_str": "15.11.2026",
-    "datum_iso": "2026-11-15",
-    "lokalita": "PSČ: 940 02",
-    "lat": 48.152388204809,
-    "lng": 17.076725032113,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197552697/prenajmem-zariadeny-1-izbovy-byt-v-novych-zamkoch.php"
-      }
-    ]
-  },
-  "bazos_197551586": {
-    "id": "bazos_197551586",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 1i byt, loggia Rustaveliho Rača",
-    "odkaz": "https://reality.bazos.sk/inzerat/197551586/prenajom-1i-byt-loggia-rustaveliho-raca.php",
-    "cena_povodna": "700 €",
-    "spolu_cena": "700 €",
-    "efektivna_cena": 700,
-    "datum_str": "15.11.2026",
-    "datum_iso": "2026-11-15",
-    "lokalita": "pri OC Nivy - Dulovo (Ružinov)",
-    "lat": 48.14455,
-    "lng": 17.13703,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197551586/prenajom-1i-byt-loggia-rustaveliho-raca.php"
-      }
-    ]
-  },
-  "bazos_197551055": {
-    "id": "bazos_197551055",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom garsónky Záhradnícka ul.93 pri Miletičke Ružinov",
-    "odkaz": "https://reality.bazos.sk/inzerat/197551055/prenajom-garsonky-zahradnicka-ul93-pri-mileticke-ruzinov.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "15.11.2026",
-    "datum_iso": "2026-11-15",
-    "lokalita": "93 pri Miletičke Ružinov (Ružinov)",
-    "lat": 48.157624283,
-    "lng": 17.151263798,
-    "farba": "green",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197551055/prenajom-garsonky-zahradnicka-ul93-pri-mileticke-ruzinov.php"
-      }
-    ]
-  },
-  "bazos_197548004": {
-    "id": "bazos_197548004",
-    "zdroj": "Bazoš",
-    "titulok": "Na prenajom zariadeny 2 izbovy byt v centre Dun. Strede",
-    "odkaz": "https://reality.bazos.sk/inzerat/197548004/na-prenajom-zariadeny-2-izbovy-byt-v-centre-dun-strede.php",
-    "cena_povodna": "650 €",
-    "spolu_cena": "650 €",
-    "efektivna_cena": 650,
-    "datum_str": "15.11.2026",
-    "datum_iso": "2026-11-15",
-    "lokalita": "PSČ: 929 01",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197548004/na-prenajom-zariadeny-2-izbovy-byt-v-centre-dun-strede.php"
-      }
-    ]
-  },
   "bazos_197554149": {
     "id": "bazos_197554149",
     "zdroj": "Bazoš",
@@ -214,33 +94,12 @@
     "cena_povodna": "570 €",
     "spolu_cena": "570 €",
     "efektivna_cena": 570,
-    "datum_str": "21.11.2026",
-    "datum_iso": "2026-11-21",
+    "datum_str": "22.11.2026",
+    "datum_iso": "2026-11-22",
     "lokalita": "PSČ: 821 09 (Ružinov)",
     "lat": 48.1398151,
     "lng": 17.1441354,
     "farba": "orange"
-  },
-  "bazos_197558015": {
-    "id": "bazos_197558015",
-    "zdroj": "Bazoš",
-    "titulok": "Prenájom 1-izb. byt Unitas, Šancová, Bratislava",
-    "odkaz": "https://reality.bazos.sk/inzerat/197558015/prenajom-1-izb-byt-unitas-sancova-bratislava.php",
-    "cena_povodna": "600 €",
-    "spolu_cena": "600 €",
-    "efektivna_cena": 600,
-    "datum_str": "15.11.2026",
-    "datum_iso": "2026-11-15",
-    "lokalita": "PSČ: 831 04 (Nové Mesto)",
-    "lat": 48.1712321,
-    "lng": 17.1499302,
-    "farba": "orange",
-    "dalsie_odkazy": [
-      {
-        "zdroj": "Bazoš",
-        "odkaz": "https://reality.bazos.sk/inzerat/197558015/prenajom-1-izb-byt-unitas-sancova-bratislava.php"
-      }
-    ]
   },
   "bazos_197554646": {
     "id": "bazos_197554646",
@@ -250,8 +109,8 @@
     "cena_povodna": "570 €",
     "spolu_cena": "570 €",
     "efektivna_cena": 570,
-    "datum_str": "21.11.2026",
-    "datum_iso": "2026-11-21",
+    "datum_str": "22.11.2026",
+    "datum_iso": "2026-11-22",
     "lokalita": "DULOVO",
     "lat": 48.1491475,
     "lng": 17.1349026,
@@ -568,8 +427,8 @@
     "cena_povodna": "465 €",
     "spolu_cena": "465 €",
     "efektivna_cena": 465,
-    "datum_str": "21.11.2026",
-    "datum_iso": "2026-11-21",
+    "datum_str": "22.11.2026",
+    "datum_iso": "2026-11-22",
     "lokalita": "PSČ: 902 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
@@ -859,8 +718,8 @@
     "cena_povodna": "550 €",
     "spolu_cena": "550 €",
     "efektivna_cena": 550,
-    "datum_str": "21.11.2026",
-    "datum_iso": "2026-11-21",
+    "datum_str": "22.11.2026",
+    "datum_iso": "2026-11-22",
     "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
@@ -939,7 +798,7 @@
     "efektivna_cena": 680,
     "datum_str": "18.11.2026",
     "datum_iso": "2026-11-18",
-    "lokalita": "PSČ: 841 04",
+    "lokalita": "PSČ: 841 04 (Karlova Ves)",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange",
@@ -1063,8 +922,8 @@
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
     "efektivna_cena": 700,
-    "datum_str": "21.11.2026",
-    "datum_iso": "2026-11-21",
+    "datum_str": "22.11.2026",
+    "datum_iso": "2026-11-22",
     "lokalita": "PSČ: 930 41 (Dúbravka)",
     "lat": 48.154892047,
     "lng": 17.120700574,
