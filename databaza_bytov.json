@@ -73,8 +73,8 @@
     "cena_povodna": "570 €",
     "spolu_cena": "570 €",
     "efektivna_cena": 570,
-    "datum_str": "23.11.2026",
-    "datum_iso": "2026-11-23",
+    "datum_str": "24.11.2026",
+    "datum_iso": "2026-11-24",
     "lokalita": "DULOVO",
     "lat": 48.1491475,
     "lng": 17.1349026,
@@ -88,8 +88,8 @@
     "cena_povodna": "650 €",
     "spolu_cena": "650 €",
     "efektivna_cena": 650,
-    "datum_str": "23.11.2026",
-    "datum_iso": "2026-11-23",
+    "datum_str": "24.11.2026",
+    "datum_iso": "2026-11-24",
     "lokalita": "Čiližská (Ružinov)",
     "lat": 48.143530341651,
     "lng": 17.21254310295,
@@ -103,8 +103,8 @@
     "cena_povodna": "465 €",
     "spolu_cena": "465 €",
     "efektivna_cena": 465,
-    "datum_str": "23.11.2026",
-    "datum_iso": "2026-11-23",
+    "datum_str": "24.11.2026",
+    "datum_iso": "2026-11-24",
     "lokalita": "PSČ: 902 01",
     "lat": 48.154892047,
     "lng": 17.120700574,
@@ -354,7 +354,7 @@
     "efektivna_cena": 630,
     "datum_str": "18.11.2026",
     "datum_iso": "2026-11-18",
-    "lokalita": "PSČ: 851 01 (Nivy)",
+    "lokalita": "PSČ: 851 01 (Ružinov)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange",
@@ -394,8 +394,8 @@
     "cena_povodna": "550 €",
     "spolu_cena": "550 €",
     "efektivna_cena": 550,
-    "datum_str": "23.11.2026",
-    "datum_iso": "2026-11-23",
+    "datum_str": "24.11.2026",
+    "datum_iso": "2026-11-24",
     "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
@@ -474,7 +474,7 @@
     "efektivna_cena": 680,
     "datum_str": "18.11.2026",
     "datum_iso": "2026-11-18",
-    "lokalita": "PSČ: 841 04 (Karlova Ves)",
+    "lokalita": "PSČ: 841 04",
     "lat": 48.1502245,
     "lng": 17.0621226,
     "farba": "orange",
@@ -579,10 +579,10 @@
     "efektivna_cena": 650,
     "datum_str": "19.11.2026",
     "datum_iso": "2026-11-19",
-    "lokalita": "PSČ: 851 01 (Petržalka)",
-    "lat": 48.1181093,
-    "lng": 17.1069707,
-    "farba": "orange",
+    "lokalita": "FIALOVÁ (Petržalka)",
+    "lat": 48.089351342897,
+    "lng": 17.123227558208,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -598,8 +598,8 @@
     "cena_povodna": "700 €",
     "spolu_cena": "700 €",
     "efektivna_cena": 700,
-    "datum_str": "23.11.2026",
-    "datum_iso": "2026-11-23",
+    "datum_str": "24.11.2026",
+    "datum_iso": "2026-11-24",
     "lokalita": "PSČ: 930 41 (Dúbravka)",
     "lat": 48.154892047,
     "lng": 17.120700574,
@@ -796,10 +796,10 @@
     "efektivna_cena": 520,
     "datum_str": "20.11.2026",
     "datum_iso": "2026-11-20",
-    "lokalita": "PSČ: 821 04 (Ružinov)",
-    "lat": 48.1880333,
-    "lng": 17.1853566,
-    "farba": "orange",
+    "lokalita": "OVOCNÉ SADY - IVÁNSKA CESTA (Trnávka)",
+    "lat": 48.174789591095,
+    "lng": 17.199328988826,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -817,10 +817,16 @@
     "efektivna_cena": 690,
     "datum_str": "20.11.2026",
     "datum_iso": "2026-11-20",
-    "lokalita": "Sklenárova (Ružinov)",
+    "lokalita": "Sklenárova (Staré Mesto)",
     "lat": 48.150535152594,
     "lng": 17.146664326732,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197724800/kompletne-zariadeny-15-izbovy-byt-sklenarova-ul-ruzinov.php"
+      }
+    ]
   },
   "bazos_197721220": {
     "id": "bazos_197721220",
@@ -857,9 +863,9 @@
     "efektivna_cena": 660,
     "datum_str": "20.11.2026",
     "datum_iso": "2026-11-20",
-    "lokalita": "JASEŇOVÁ",
-    "lat": 48.163145273326,
-    "lng": 17.085424756975,
+    "lokalita": "FIALOVÁ (Petržalka)",
+    "lat": 48.089351342897,
+    "lng": 17.123227558208,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -894,10 +900,10 @@
     "efektivna_cena": 570,
     "datum_str": "20.11.2026",
     "datum_iso": "2026-11-20",
-    "lokalita": "PSČ: 821 07",
-    "lat": 48.1453315,
-    "lng": 17.2073352,
-    "farba": "orange",
+    "lokalita": "MAJERSKÁ",
+    "lat": 48.155052434845,
+    "lng": 17.20895623045,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -1002,8 +1008,8 @@
     "cena_povodna": "630 €",
     "spolu_cena": "630 €",
     "efektivna_cena": 630,
-    "datum_str": "23.11.2026",
-    "datum_iso": "2026-11-23",
+    "datum_str": "24.11.2026",
+    "datum_iso": "2026-11-24",
     "lokalita": "PSČ: 851 07 (Petržalka)",
     "lat": 48.0995306,
     "lng": 17.1308633,
@@ -1017,8 +1023,8 @@
     "cena_povodna": "620 €",
     "spolu_cena": "620 €",
     "efektivna_cena": 620,
-    "datum_str": "23.11.2026",
-    "datum_iso": "2026-11-23",
+    "datum_str": "24.11.2026",
+    "datum_iso": "2026-11-24",
     "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
@@ -1113,5 +1119,87 @@
     "lat": 48.141354249367,
     "lng": 17.207780840141,
     "farba": "green"
+  },
+  "bazos_197841565": {
+    "id": "bazos_197841565",
+    "zdroj": "Bazoš",
+    "titulok": "ÚPLNE NOVÝ, ZREKONŠTRUOVANÝ 1-IZBOVÝ BYT",
+    "odkaz": "https://reality.bazos.sk/inzerat/197841565/uplne-novy-zrekonstruovany-1-izbovy-byt.php",
+    "cena_povodna": "550 €",
+    "spolu_cena": "550 €",
+    "efektivna_cena": 550,
+    "datum_str": "23.11.2026",
+    "datum_iso": "2026-11-23",
+    "lokalita": "PSČ: 831 06",
+    "lat": 48.2114337,
+    "lng": 17.1541005,
+    "farba": "orange"
+  },
+  "bazos_197839744": {
+    "id": "bazos_197839744",
+    "zdroj": "Bazoš",
+    "titulok": "prenajmem 1 nepriechodnú izbu v Ružinove",
+    "odkaz": "https://reality.bazos.sk/inzerat/197839744/prenajmem-zene-nepriechodnu-izbu-v-ruzinove.php",
+    "cena_povodna": "250 €",
+    "spolu_cena": "250 €",
+    "efektivna_cena": 250,
+    "datum_str": "23.11.2026",
+    "datum_iso": "2026-11-23",
+    "lokalita": "PSČ: 821 01 (Ružinov)",
+    "lat": 48.1536448,
+    "lng": 17.1566781,
+    "farba": "orange"
+  },
+  "bazos_197832304": {
+    "id": "bazos_197832304",
+    "zdroj": "Bazoš",
+    "titulok": "Realitná kancelária Realadr s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197832304/realitna-kancelaria-realadr-sro.php",
+    "cena_povodna": "689 €",
+    "spolu_cena": "689 €",
+    "efektivna_cena": 689,
+    "datum_str": "23.11.2026",
+    "datum_iso": "2026-11-23",
+    "lokalita": "MAJERSKÁ",
+    "lat": 48.155052434845,
+    "lng": 17.20895623045,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197753312/realitna-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197720769/realitna-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197720414/realitny-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197720769/realitna-kancelaria-realadr-sro.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197720414/realitny-kancelaria-realadr-sro.php"
+      }
+    ]
+  },
+  "bazos_197824704": {
+    "id": "bazos_197824704",
+    "zdroj": "Bazoš",
+    "titulok": "Svetlý 1-izb. byt v novostavbe na ul. Pri Hrubej lúke v Dúbr",
+    "odkaz": "https://reality.bazos.sk/inzerat/197824704/svetly-1-izb-byt-v-novostavbe-na-ul-pri-hrubej-luke-v-dubr.php",
+    "cena_povodna": "620 €",
+    "spolu_cena": "620 €",
+    "efektivna_cena": 620,
+    "datum_str": "23.11.2026",
+    "datum_iso": "2026-11-23",
+    "lokalita": "PSČ: 841 01",
+    "lat": 48.1845444,
+    "lng": 17.0151322,
+    "farba": "orange"
   }
 }
