@@ -54,9 +54,9 @@
     "efektivna_cena": 650,
     "datum_str": "26.11.2026",
     "datum_iso": "2026-11-26",
-    "lokalita": "Košická (Staré Mesto)",
-    "lat": 48.143070837772,
-    "lng": 17.130534006421,
+    "lokalita": "Heidegasse",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "green"
   },
   "bazos_197626848": {
@@ -815,10 +815,10 @@
     "efektivna_cena": 600,
     "datum_str": "25.11.2026",
     "datum_iso": "2026-11-25",
-    "lokalita": "PSČ: 821 01",
-    "lat": 48.1536448,
-    "lng": 17.1566781,
-    "farba": "orange"
+    "lokalita": "Jedľová (Vrakuňa)",
+    "lat": 48.141354249367,
+    "lng": 17.207780840141,
+    "farba": "green"
   },
   "bazos_197897958": {
     "id": "bazos_197897958",
@@ -845,9 +845,9 @@
     "efektivna_cena": 680,
     "datum_str": "25.11.2026",
     "datum_iso": "2026-11-25",
-    "lokalita": "Košická (Staré Mesto)",
-    "lat": 48.143070837772,
-    "lng": 17.130534006421,
+    "lokalita": "Heidegasse",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "green"
   },
   "bazos_197894935": {
@@ -860,9 +860,9 @@
     "efektivna_cena": 620,
     "datum_str": "25.11.2026",
     "datum_iso": "2026-11-25",
-    "lokalita": "Košická (Staré Mesto)",
-    "lat": 48.143070837772,
-    "lng": 17.130534006421,
+    "lokalita": "Heidegasse",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
     "farba": "green"
   },
   "bazos_197894168": {
@@ -875,9 +875,9 @@
     "efektivna_cena": 660,
     "datum_str": "25.11.2026",
     "datum_iso": "2026-11-25",
-    "lokalita": "DULOVO (Staré Mesto)",
-    "lat": 48.15039,
-    "lng": 17.09002,
+    "lokalita": "DULOVO",
+    "lat": 48.1491475,
+    "lng": 17.1349026,
     "farba": "green"
   },
   "bazos_197893799": {
@@ -938,7 +938,13 @@
     "lokalita": "PSČ: 811 07 (Petržalka)",
     "lat": 48.1533318,
     "lng": 17.1195813,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197892212/renthub-moderny-15i-byt-v-novostavbe-blumental-radlin.php"
+      }
+    ]
   },
   "bazos_197891992": {
     "id": "bazos_197891992",
@@ -1030,5 +1036,45 @@
     "lat": 48.1949026,
     "lng": 17.0334999,
     "farba": "orange"
+  },
+  "bazos_197925039": {
+    "id": "bazos_197925039",
+    "zdroj": "Bazoš",
+    "titulok": "BABONY TRE  - 3-izbový byt s veľkou loggiou  Bratislava – Ka",
+    "odkaz": "https://reality.bazos.sk/inzerat/197925039/babony-tre-3-izbovy-byt-s-velkou-loggiou-bratislava-ka.php",
+    "cena_povodna": "670 €",
+    "spolu_cena": "670 €",
+    "efektivna_cena": 670,
+    "datum_str": "26.11.2026",
+    "datum_iso": "2026-11-26",
+    "lokalita": "KAZANSKÁ (Podunajské Biskupice)",
+    "lat": 48.130773087354,
+    "lng": 17.194544467034,
+    "farba": "green"
+  },
+  "bazos_197918012": {
+    "id": "bazos_197918012",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom novostavba 2 izbový byt, Trnavská ul., Bratislava I",
+    "odkaz": "https://reality.bazos.sk/inzerat/197918012/prenajom-novostavba-2-izbovy-byt-trnavska-ul-bratislava-i.php",
+    "cena_povodna": "690 €",
+    "spolu_cena": "690 €",
+    "efektivna_cena": 690,
+    "datum_str": "26.11.2026",
+    "datum_iso": "2026-11-26",
+    "lokalita": "Trnavská (Vrakuňa)",
+    "lat": 48.146214642,
+    "lng": 17.207109944,
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197855572/prenajom-novostavba-2-izbovy-byt-udernicka-ul-bratislava-v.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197855572/prenajom-novostavba-2-izbovy-byt-udernicka-ul-bratislava-v.php"
+      }
+    ]
   }
 }
