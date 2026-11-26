@@ -645,7 +645,7 @@
     "efektivna_cena": 620,
     "datum_str": "23.11.2026",
     "datum_iso": "2026-11-23",
-    "lokalita": "PSČ: 841 01",
+    "lokalita": "PSČ: 841 01 (Ružinov)",
     "lat": 48.1845444,
     "lng": 17.0151322,
     "farba": "orange",
@@ -1074,6 +1074,31 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197855572/prenajom-novostavba-2-izbovy-byt-udernicka-ul-bratislava-v.php"
+      }
+    ]
+  },
+  "bazos_197933477": {
+    "id": "bazos_197933477",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom garsónky Trenčianska ul., OC Nivy Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/197933477/prenajom-garsonky-trencianska-ul-oc-nivy-ruzinov.php",
+    "cena_povodna": "570 €",
+    "spolu_cena": "570 €",
+    "efektivna_cena": 570,
+    "datum_str": "26.11.2026",
+    "datum_iso": "2026-11-26",
+    "lokalita": "PSČ: 821 09 (Ružinov)",
+    "lat": 48.1398151,
+    "lng": 17.1441354,
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197554149/prenajom-garsonky-dulovo-nam-oc-nivy-ruzinov.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197554149/prenajom-garsonky-dulovo-nam-oc-nivy-ruzinov.php"
       }
     ]
   }
