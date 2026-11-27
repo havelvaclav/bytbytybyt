@@ -93,7 +93,13 @@
     "lokalita": "PSČ: 811 01 (Staré Mesto)",
     "lat": 48.1423729,
     "lng": 17.099143,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196934002/na-prenajom-garsonka-28m2-stare-mesto-sancova-ulica.php"
+      }
+    ]
   },
   "bazos_197682602": {
     "id": "bazos_197682602",
@@ -299,7 +305,7 @@
     "efektivna_cena": 550,
     "datum_str": "23.11.2026",
     "datum_iso": "2026-11-23",
-    "lokalita": "Pri Šajbách",
+    "lokalita": "Pri Šajbách (Nové Mesto)",
     "lat": 48.203431623676,
     "lng": 17.161763668431,
     "farba": "green",
@@ -365,10 +371,10 @@
     "efektivna_cena": 550,
     "datum_str": "23.11.2026",
     "datum_iso": "2026-11-23",
-    "lokalita": "PSČ: 831 06",
-    "lat": 48.2114337,
-    "lng": 17.1541005,
-    "farba": "orange",
+    "lokalita": "ŠANCOVÁ pri Račianskom mýte",
+    "lat": 48.155196228503,
+    "lng": 17.106109956113,
+    "farba": "green",
     "dalsie_odkazy": [
       {
         "zdroj": "Bazoš",
@@ -611,8 +617,8 @@
     "cena_povodna": "55 €",
     "spolu_cena": null,
     "efektivna_cena": null,
-    "datum_str": "25.11.2026",
-    "datum_iso": "2026-11-25",
+    "datum_str": "27.11.2026",
+    "datum_iso": "2026-11-27",
     "lokalita": "Závodu 22 (Petržalka)",
     "lat": 48.118283215,
     "lng": 17.11036176,
@@ -691,7 +697,13 @@
     "lokalita": "Garážou Kramáre (Kramáre)",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197893281/novostavba-2-izbovy-byt-s-garazou-kramare-ul-vlarska.php"
+      }
+    ]
   },
   "bazos_197892537": {
     "id": "bazos_197892537",
@@ -706,7 +718,13 @@
     "lokalita": "PSČ: 831 06 (Ružinov)",
     "lat": 48.2114337,
     "lng": 17.1541005,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197892537/na-prenajom-utulny-plne-zariadeny-15-izbovy-byt-na-racians.php"
+      }
+    ]
   },
   "bazos_197892212": {
     "id": "bazos_197892212",
@@ -828,12 +846,12 @@
     "cena_povodna": "670 €",
     "spolu_cena": "670 €",
     "efektivna_cena": 670,
-    "datum_str": "26.11.2026",
-    "datum_iso": "2026-11-26",
-    "lokalita": "KAZANSKÁ (Podunajské Biskupice)",
-    "lat": 48.130773087354,
-    "lng": 17.194544467034,
-    "farba": "green"
+    "datum_str": "27.11.2026",
+    "datum_iso": "2026-11-27",
+    "lokalita": "PSČ: 841 04 (Ružinov)",
+    "lat": 48.1502245,
+    "lng": 17.0621226,
+    "farba": "orange"
   },
   "bazos_197918012": {
     "id": "bazos_197918012",
@@ -884,5 +902,50 @@
         "odkaz": "https://reality.bazos.sk/inzerat/197554149/prenajom-garsonky-dulovo-nam-oc-nivy-ruzinov.php"
       }
     ]
+  },
+  "bazos_197962182": {
+    "id": "bazos_197962182",
+    "zdroj": "Bazoš",
+    "titulok": "AXIS REAL | Priestor vhodný na bývanie s terasou 15 m², Star",
+    "odkaz": "https://reality.bazos.sk/inzerat/197962182/axis-real-priestor-vhodny-na-byvanie-s-terasou-15-m-star.php",
+    "cena_povodna": "340 €",
+    "spolu_cena": "340 €",
+    "efektivna_cena": 340,
+    "datum_str": "27.11.2026",
+    "datum_iso": "2026-11-27",
+    "lokalita": "PSČ: 811 01",
+    "lat": 48.1423729,
+    "lng": 17.099143,
+    "farba": "orange"
+  },
+  "bazos_197960509": {
+    "id": "bazos_197960509",
+    "zdroj": "Bazoš",
+    "titulok": "PRENÁJOM útulný 2-izbový byt s loggiou, Svidnícka, Ružinov",
+    "odkaz": "https://reality.bazos.sk/inzerat/197960509/prenajom-utulny-2-izbovy-byt-s-loggiou-svidnicka-ruzinov.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "27.11.2026",
+    "datum_iso": "2026-11-27",
+    "lokalita": "Hrobákova (Ružinov)",
+    "lat": 48.157624283,
+    "lng": 17.151263798,
+    "farba": "green"
+  },
+  "bazos_197957919": {
+    "id": "bazos_197957919",
+    "zdroj": "Bazoš",
+    "titulok": "Novostavba - 2-izbový tehlový byt s balkónom v rezidenčnom p",
+    "odkaz": "https://reality.bazos.sk/inzerat/197957919/novostavba-2-izbovy-tehlovy-byt-s-balkonom-v-rezidencnom-p.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "27.11.2026",
+    "datum_iso": "2026-11-27",
+    "lokalita": "PSČ: 930 41",
+    "lat": 48.154892047,
+    "lng": 17.120700574,
+    "farba": "orange"
   }
 }
