@@ -39,9 +39,9 @@
     "efektivna_cena": 650,
     "datum_str": "26.11.2026",
     "datum_iso": "2026-11-26",
-    "lokalita": "Heidegasse",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
+    "lokalita": "Sládkovičova",
+    "lat": 48.149975393037,
+    "lng": 17.10614402178,
     "farba": "green"
   },
   "bazos_197626848": {
@@ -560,9 +560,9 @@
     "efektivna_cena": 680,
     "datum_str": "25.11.2026",
     "datum_iso": "2026-11-25",
-    "lokalita": "Heidegasse",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
+    "lokalita": "Sládkovičova",
+    "lat": 48.149975393037,
+    "lng": 17.10614402178,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -581,9 +581,9 @@
     "efektivna_cena": 620,
     "datum_str": "25.11.2026",
     "datum_iso": "2026-11-25",
-    "lokalita": "Heidegasse",
-    "lat": 48.154892047,
-    "lng": 17.120700574,
+    "lokalita": "Sládkovičova",
+    "lat": 48.149975393037,
+    "lng": 17.10614402178,
     "farba": "green",
     "dalsie_odkazy": [
       {
@@ -665,7 +665,7 @@
     "efektivna_cena": 600,
     "datum_str": "25.11.2026",
     "datum_iso": "2026-11-25",
-    "lokalita": "PSČ: 831 06 (Ružinov)",
+    "lokalita": "PSČ: 831 06 (Lamač)",
     "lat": 48.2114337,
     "lng": 17.1541005,
     "farba": "orange",
@@ -786,7 +786,13 @@
     "lokalita": "PSČ: 841 02 (Dúbravka)",
     "lat": 48.1949026,
     "lng": 17.0334999,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197903132/prijemny-zariadeny-1-izbybyt-bratislava-dubravka.php"
+      }
+    ]
   },
   "bazos_197925039": {
     "id": "bazos_197925039",
@@ -971,6 +977,36 @@
     "lokalita": "PSČ: 821 06 (Staré Mesto)",
     "lat": 48.1251898,
     "lng": 17.2111499,
+    "farba": "orange"
+  },
+  "bazos_197985664": {
+    "id": "bazos_197985664",
+    "zdroj": "Bazoš",
+    "titulok": "Prenájom bytu bez depozitu Bratislava staré mesto",
+    "odkaz": "https://reality.bazos.sk/inzerat/197985664/prenajom-bytu-bez-depozitu-bratislava-stare-mesto.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "28.11.2026",
+    "datum_iso": "2026-11-28",
+    "lokalita": "PSČ: 811 06 (Staré Mesto)",
+    "lat": 48.1486616,
+    "lng": 17.108133,
+    "farba": "orange"
+  },
+  "bazos_197982536": {
+    "id": "bazos_197982536",
+    "zdroj": "Bazoš",
+    "titulok": "Garsónka s lodžiou a samostatnou toaletou, Vilová",
+    "odkaz": "https://reality.bazos.sk/inzerat/197982536/garsonka-s-lodziou-a-samostatnou-toaletou-vilova.php",
+    "cena_povodna": "500 €",
+    "spolu_cena": "500 €",
+    "efektivna_cena": 500,
+    "datum_str": "28.11.2026",
+    "datum_iso": "2026-11-28",
+    "lokalita": "PSČ: 851 01 (Bory)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
     "farba": "orange"
   }
 }
