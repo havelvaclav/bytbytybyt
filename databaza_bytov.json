@@ -42,7 +42,13 @@
     "lokalita": "Sládkovičova",
     "lat": 48.149975393037,
     "lng": 17.10614402178,
-    "farba": "green"
+    "farba": "green",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/196709664/vymen-suseda-prenajom-2-izb-bytu-s-balkonom-novostavba-c.php"
+      }
+    ]
   },
   "bazos_197626848": {
     "id": "bazos_197626848",
@@ -120,7 +126,13 @@
     "lokalita": "PSČ: 930 41 (Dúbravka)",
     "lat": 48.154892047,
     "lng": 17.120700574,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197694214/prenajom-2i-byt-s-loggiou-v-obci-hviezdoslavov.php"
+      }
+    ]
   },
   "bazos_197772984": {
     "id": "bazos_197772984",
@@ -333,7 +345,7 @@
     "efektivna_cena": 689,
     "datum_str": "23.11.2026",
     "datum_iso": "2026-11-23",
-    "lokalita": "PSČ: 851 01 (Ružinov)",
+    "lokalita": "PSČ: 851 01 (Petržalka)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange",
@@ -505,8 +517,8 @@
     "titulok": "Prenájum (Rent)",
     "odkaz": "https://reality.bazos.sk/inzerat/197877535/prenajum-rent.php",
     "cena_povodna": "260 €",
-    "spolu_cena": "260 €",
-    "efektivna_cena": 260,
+    "spolu_cena": "320 €",
+    "efektivna_cena": 320,
     "datum_str": "28.11.2026",
     "datum_iso": "2026-11-28",
     "lokalita": "PSČ: 831 06",
@@ -746,7 +758,13 @@
     "lokalita": "PSČ: 851 10 (Rusovce)",
     "lat": 48.05608,
     "lng": 17.1450468,
-    "farba": "orange"
+    "farba": "orange",
+    "dalsie_odkazy": [
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197908638/prenajom-izby-s-vlastnou-kupelnou-lacne-byvanie-rusovce.php"
+      }
+    ]
   },
   "bazos_197905926": {
     "id": "bazos_197905926",
@@ -827,6 +845,10 @@
       {
         "zdroj": "Bazoš",
         "odkaz": "https://reality.bazos.sk/inzerat/197855572/prenajom-novostavba-2-izbovy-byt-udernicka-ul-bratislava-v.php"
+      },
+      {
+        "zdroj": "Bazoš",
+        "odkaz": "https://reality.bazos.sk/inzerat/197918012/prenajom-novostavba-2-izbovy-byt-trnavska-ul-bratislava-i.php"
       },
       {
         "zdroj": "Bazoš",
@@ -1005,6 +1027,66 @@
     "datum_str": "28.11.2026",
     "datum_iso": "2026-11-28",
     "lokalita": "PSČ: 851 01 (Bory)",
+    "lat": 48.1181093,
+    "lng": 17.1069707,
+    "farba": "orange"
+  },
+  "bazos_198001838": {
+    "id": "bazos_198001838",
+    "zdroj": "Bazoš",
+    "titulok": "Ponúkam luxusný 2-izbový byt s balkónom",
+    "odkaz": "https://reality.bazos.sk/inzerat/198001838/ponukam-luxusny-2-izbovy-byt-s-balkonom.php",
+    "cena_povodna": "700 €",
+    "spolu_cena": "700 €",
+    "efektivna_cena": 700,
+    "datum_str": "28.11.2026",
+    "datum_iso": "2026-11-28",
+    "lokalita": "Košická",
+    "lat": 48.143070837772,
+    "lng": 17.130534006421,
+    "farba": "green"
+  },
+  "bazos_198001444": {
+    "id": "bazos_198001444",
+    "zdroj": "Bazoš",
+    "titulok": "Svetlý 1,5-izbový byt na Súmračnej (Ružinov) na prenájom",
+    "odkaz": "https://reality.bazos.sk/inzerat/198001444/svetly-15-izbovy-byt-na-sumracnej-ruzinov-na-prenajom.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "28.11.2026",
+    "datum_iso": "2026-11-28",
+    "lokalita": "PSČ: 821 02 (Ružinov)",
+    "lat": 48.1582936,
+    "lng": 17.1633484,
+    "farba": "orange"
+  },
+  "bazos_198000437": {
+    "id": "bazos_198000437",
+    "zdroj": "Bazoš",
+    "titulok": "IZBA NA PRENÁJOM – BRATISLAVA",
+    "odkaz": "https://reality.bazos.sk/inzerat/198000437/izba-na-prenajom-bratislava.php",
+    "cena_povodna": "350 €",
+    "spolu_cena": "350 €",
+    "efektivna_cena": 350,
+    "datum_str": "28.11.2026",
+    "datum_iso": "2026-11-28",
+    "lokalita": "PSČ: 851 04",
+    "lat": 48.1273452,
+    "lng": 17.1278204,
+    "farba": "orange"
+  },
+  "bazos_197991970": {
+    "id": "bazos_197991970",
+    "zdroj": "Bazoš",
+    "titulok": "Realitný kancelária REALADR s.r.o.",
+    "odkaz": "https://reality.bazos.sk/inzerat/197991970/realitny-kancelaria-realadr-sro.php",
+    "cena_povodna": "650 €",
+    "spolu_cena": "650 €",
+    "efektivna_cena": 650,
+    "datum_str": "28.11.2026",
+    "datum_iso": "2026-11-28",
+    "lokalita": "PSČ: 851 01 (Nové Mesto)",
     "lat": 48.1181093,
     "lng": 17.1069707,
     "farba": "orange"
